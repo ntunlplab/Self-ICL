@@ -1,5 +1,8 @@
 # Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations
 
+[BBH data](https://github.com/suzgunmirac/BIG-Bench-Hard/tree/main/bbh)
+[BBH task description]()
+
 ## Experiment
 
 ### Main Table 1
