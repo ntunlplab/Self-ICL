@@ -1,9 +1,16 @@
 # Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations
 
-[BBH data](https://github.com/suzgunmirac/BIG-Bench-Hard/tree/main/bbh)
-[BBH task description]()
+## Data
+### BIG-Bench Hard 
+- [BBH data](https://github.com/suzgunmirac/BIG-Bench-Hard/tree/main/bbh)
+- [BBH task description](https://github.com/nlplab-best-team/Self-ICL/tree/main/bbh)
 
 ## Experiment
+
+### Hyper-parameter
+- ```max_tokens``` = 1024
+- ```temperature``` = 0.0
+- ```top_p``` = 1.0 or 0.0(?)
 
 ### Main Table 1
 - Self-ICL w/ different demos (input, label)
