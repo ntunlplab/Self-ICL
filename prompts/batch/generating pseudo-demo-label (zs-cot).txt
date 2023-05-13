@@ -1,0 +1,7 @@
+Task description: [task description]. Please answer the following questions one-by-one.
+
+Q1: [pseudo-demo-input 1]
+...
+Qn: [pseudo-demo-input n]
+
+A1: Let's think step-by-step.
