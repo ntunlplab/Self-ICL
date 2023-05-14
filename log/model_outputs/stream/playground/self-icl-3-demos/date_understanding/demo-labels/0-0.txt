@@ -1,0 +1,2 @@
+Q: Today is the Fourth of July in 2020. What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 07/04/2020\n(B) 07/05/2020\n(C) 07/06/2020\n(D) 07/07/2020\n(E) 07/08/2020\n(F) 07/09/2020
+A: B) 07/05/2020

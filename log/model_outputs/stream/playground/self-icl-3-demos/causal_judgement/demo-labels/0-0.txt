@@ -1,0 +1,5 @@
+Q: A car is driving down a highway when a tire suddenly blows out. Did the tire cause the car to stop?
+Options:
+- Yes
+- No
+A: Yes
