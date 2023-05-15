@@ -6,6 +6,7 @@ from colorama import Fore, Style
 from argparse import Namespace
 
 class Model(object):
+    api_interval = 1.0 # seconds
     cost_per_1000tokens = 0.02
 
     def __init__(self, config: Namespace):
@@ -14,7 +15,7 @@ class Model(object):
         
     def retry_with_exponential_backoff(
         func,
-        initial_delay: float = 10,
+        initial_delay: float = 5,
         exponential_base: float = 2,
         max_retries: int = 5,
         errors: tuple = (openai.error.RateLimitError,),
@@ -51,6 +52,7 @@ class Model(object):
 
     @retry_with_exponential_backoff
     def complete(self, prompt: str) -> dict:
+        time.sleep(Model.api_interval)
         return openai.Completion.create(prompt=prompt, **vars(self._config))
     
     def set_api_key(self, key: str) -> None:
