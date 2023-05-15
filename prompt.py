@@ -15,6 +15,9 @@ class Shot(object):
     @property
     def label(self) -> str:
         return self._label
+    
+    def __repr__(self) -> str:
+        return f"Q: {self._input}\nA: {self._label}"
 
 # Currently only implement "stream" prompts
 class Prompt(metaclass=abc.ABCMeta):
@@ -36,7 +39,7 @@ class Prompt(metaclass=abc.ABCMeta):
         return NotImplemented
 
     @abc.abstractmethod
-    def gen_demo_inputs(self) -> str:
+    def gen_demo_inputs(self, diversity: bool = False) -> str:
         return NotImplemented
     
 class StreamPrompt(Prompt):
@@ -77,16 +80,17 @@ class StreamPrompt(Prompt):
         prompt.append(f"A:")
         return "".join(prompt)
     
-    def gen_demo_inputs(self) -> str:
+    def gen_demo_inputs(self, diversity: bool = False) -> str:
         """
         ### Prompting format:
-        Following is an example instance for the task: [task description]. Please come up with [num_shot] new instances for the task.
+        Following is an example instance for the task: [task description]. Please come up with [num_shot] new[diverse_prompt] instances for the task.
         Example instance:
         [test input]
 
         New instance 1:
         """
-        return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new instances for the task.\nExample instance:\n{self._inputs}\n\nNew instance 1:"
+        diverse_prompt = " and diverse" if diversity else ""
+        return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\n{self._inputs}\n\nNew instance 1:"
 
 class BatchPrompt(Prompt):
     
