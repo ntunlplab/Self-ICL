@@ -1,0 +1,20 @@
+exp_name: "self-icl-no-cot-diverse"
+# data paths
+bbh_input_path: "./bbh/BIG-Bench-Hard/bbh"
+bbh_task_desc_path: "./bbh/bbh_task_description.json"
+log_path: "./log/model_outputs"
+# experiment settings
+inference_mode: "stream"
+exemplars_mode: "self-icl"
+num_demos: 3
+use_cot: False
+diverse_exemplars: True
+label_method: "self"
+# sizes
+batch_size: 1
+test_sample_size: 1
+# model hparams
+model: "text-davinci-003"
+max_tokens: 1024
+temperature: 0.0
+top_p: 1.0
