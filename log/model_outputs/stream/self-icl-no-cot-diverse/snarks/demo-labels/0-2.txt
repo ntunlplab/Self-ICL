@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She's a great listener, always paying attention to what others have to say
+(B) She's a terrible listener, always paying attention to what others have to say
+A: (B) She's a terrible listener, always paying attention to what others have to say

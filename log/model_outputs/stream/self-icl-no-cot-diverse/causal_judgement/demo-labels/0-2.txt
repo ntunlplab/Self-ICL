@@ -1,0 +1,5 @@
+Q: A person is diagnosed with a serious illness. The person had recently been exposed to a virus. Did the virus cause the illness?
+Options:
+- Yes
+- No
+A: It depends. It is possible that the virus caused the illness, but it is also possible that the illness was caused by something else.

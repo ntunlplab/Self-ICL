@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Batman, The Mask, The Fugitive, Pretty Woman:
+Options:
+(A) The Front Page
+(B) Maelstrom
+(C) The Lion King
+(D) Lamerica
+A: B) Maelstrom

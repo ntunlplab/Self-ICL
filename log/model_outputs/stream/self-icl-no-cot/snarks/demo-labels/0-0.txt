@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She's a great student, always getting top marks in her classes
+(B) She's a terrible student, always getting top marks in her classes
+A: (B) She's a terrible student, always getting top marks in her classes

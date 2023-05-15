@@ -1,0 +1,20 @@
+Q: On the shelf, there is one white mug, two black mugs, three orange mugs, two white plates, three orange plates, three pink mugs, and one black plate. If I remove all the plates from the shelf, how many orange objects remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (D) three

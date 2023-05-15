@@ -1,0 +1,11 @@
+Q: Hannah, Isaac, Jacob, Joseph, Joshua, Noah, and Rebecca are on the same team in a volleyball match. At the start of the match, they are each assigned to a position: Hannah is playing setter, Isaac is playing outside hitter, Jacob is playing middle blocker, Joseph is playing libero, Joshua is playing opposite hitter, Noah is playing defensive specialist, and Rebecca is playing benchwarmer.
+As the game progresses, pairs of players occasionally swap positions. First, Joseph and Isaac trade positions. Then, Rebecca and Hannah trade positions. Then, Jacob and Joshua trade positions. Then, Noah and Jacob trade positions. Then, Joshua and Isaac trade positions. Then, Hannah and Joseph trade positions. Finally, Jacob and Joshua trade positions. At the end of the match, Rebecca is playing
+Options:
+(A) setter
+(B) outside hitter
+(C) middle blocker
+(D) libero
+(E) opposite hitter
+(F) defensive specialist
+(G) benchwarmer
+A: Rebecca is playing (D) libero.

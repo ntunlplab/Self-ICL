@@ -1,0 +1,11 @@
+Q: John, Mark, Paul, Peter, Luke, Matthew, and Andrew are on the same team in a basketball match. At the start of the match, they are each assigned to a position: John is playing point guard, Mark is playing shooting guard, Paul is playing small forward, Peter is playing power forward, Luke is playing center, Matthew is playing benchwarmer, and Andrew is playing coach.
+As the game progresses, pairs of players occasionally swap positions. First, Luke and Paul trade positions. Then, Andrew and John trade positions. Then, Peter and Mark trade positions. Then, Matthew and Peter trade positions. Then, Mark and Luke trade positions. Then, Paul and John trade positions. Finally, Peter and Mark trade positions. At the end of the match, Andrew is playing
+Options:
+(A) point guard
+(B) shooting guard
+(C) small forward
+(D) power forward
+(E) center
+(F) benchwarmer
+(G) coach
+A: John: (C) small forward; Mark: (E) center; Paul: (B) shooting guard; Peter: (D) power forward; Luke: (A) point guard; Matthew: (F) benchwarmer; Andrew: (G) coach

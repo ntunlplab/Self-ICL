@@ -1,0 +1,18 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg)
+Mandy, 4, 40, 8
+Ralph, 6, 45, 9
+Sally, 8, 50, 10
+Toby, 10, 55, 11
+
+For example: the age of Mandy is 4, the weight of Toby is 11 kg, the height of Ralph is 45 cm. We now add a penguin to the table:
+
+Linda, 12, 60, 12
+
+Which penguin is the tallest?
+Options:
+(A) Mandy
+(B) Ralph
+(C) Sally
+(D) Toby
+(E) Linda
+A: E) Linda

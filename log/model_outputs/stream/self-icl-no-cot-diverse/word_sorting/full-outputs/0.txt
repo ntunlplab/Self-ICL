@@ -1,0 +1,15 @@
+Task description: Sort a list of words.
+
+Q: Sort the following words numerically: List: twenty-five seventy-two nine
+A: Nine, twenty-five, seventy-two
+
+Q: Sort the following words by length: List: elephant giraffe zebra
+A: Zebra, Giraffe, Elephant
+
+Q: Sort the following words by first letter: List: orange apple banana
+A: Apple
+Banana
+Orange
+
+Q: Sort the following words alphabetically: List: syndrome therefrom
+A: Syndrome, Therefrom

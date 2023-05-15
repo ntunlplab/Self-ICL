@@ -1,0 +1,69 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, John went to the movie theater. Between what times could they have gone?
+We know that:
+John woke up at 8am.
+Samantha saw John playing basketball from 8am to 10am.
+Linda saw John eating breakfast at the diner from 10am to 11am.
+Jessica saw John shopping at the mall from 11am to 12pm.
+Steven saw John taking a walk in the park from 12pm to 2pm.
+Thomas saw John visiting the museum from 2pm to 4pm.
+The movie theater was closed after 10pm.
+Between what times could John have gone to the movie theater?
+Options:
+(A) 4pm to 10pm
+(B) 8am to 10am
+(C) 10am to 11am
+(D) 2pm to 4pm
+A: (A) 4pm to 10pm
+
+Q: Today, Jessica went to the grocery store. Between what times could they have gone?
+We know that:
+Jessica woke up at 6am.
+Samantha saw Jessica jogging from 6am to 8am.
+Linda saw Jessica eating lunch at the cafe from 8am to 10am.
+John saw Jessica taking a yoga class from 10am to 11am.
+Steven saw Jessica visiting the library from 11am to 1pm.
+Thomas saw Jessica playing tennis from 1pm to 3pm.
+The grocery store was closed after 9pm.
+Between what times could Jessica have gone to the grocery store?
+Options:
+(A) 3pm to 9pm
+(B) 6am to 8am
+(C) 8am to 10am
+(D) 11am to 1pm
+A: (A) 3pm to 9pm
+
+Q: Today, Thomas went to the park. Between what times could they have gone?
+We know that:
+Thomas woke up at 5am.
+Samantha saw Thomas studying at the library from 5am to 7am.
+Linda saw Thomas eating breakfast at the diner from 7am to 8am.
+John saw Thomas shopping at the mall from 8am to 10am.
+Jessica saw Thomas taking a walk in the park from 10am to 12pm.
+Steven saw Thomas visiting the museum from 12pm to 2pm.
+The park was closed after 10pm.
+Between what times could Thomas have gone to the park?
+Options:
+(A) 2pm to 10pm
+(B) 5am to 7am
+(C) 7am to 8am
+(D) 10am to 12pm
+A: (D) 10am to 12pm
+
+Q: Today, Susan went to the coffee shop. Between what times could they have gone?
+We know that:
+Susan woke up at 7am.
+Linda saw Susan driving to the water park from 7am to 11am.
+John saw Susan buying clothes at the mall from 11am to 12pm.
+Jessica saw Susan taking photos near the Eiffel Tower from 12pm to 1pm.
+Steven saw Susan buying lunch at the deli from 1pm to 2pm.
+Thomas saw Susan reading at the library from 2pm to 6pm.
+The coffee shop was closed after 9pm.
+Between what times could Susan have gone to the coffee shop?
+Options:
+(A) 6pm to 9pm
+(B) 7am to 11am
+(C) 1pm to 2pm
+(D) 2pm to 6pm
+A: (A) 6pm to 9pm

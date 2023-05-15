@@ -1,0 +1,48 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new instances for the task.
+Example instance:
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing left winger, Dave is playing benchwarmer, Eve is playing goalkeeper, Fred is playing center midfielder, and Gertrude is playing cheerleader.
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the match, Gertrude is playing
+Options:
+(A) striker
+(B) right winger
+(C) left winger
+(D) benchwarmer
+(E) goalkeeper
+(F) center midfielder
+(G) cheerleader
+
+New instance 1:
+John, Mark, Paul, Peter, Luke, Matthew, and Andrew are on the same team in a basketball match. At the start of the match, they are each assigned to a position: John is playing point guard, Mark is playing shooting guard, Paul is playing small forward, Peter is playing power forward, Luke is playing center, Matthew is playing benchwarmer, and Andrew is playing coach.
+As the game progresses, pairs of players occasionally swap positions. First, Luke and Paul trade positions. Then, Andrew and John trade positions. Then, Peter and Mark trade positions. Then, Matthew and Peter trade positions. Then, Mark and Luke trade positions. Then, Paul and John trade positions. Finally, Peter and Mark trade positions. At the end of the match, Andrew is playing
+Options:
+(A) point guard
+(B) shooting guard
+(C) small forward
+(D) power forward
+(E) center
+(F) benchwarmer
+(G) coach
+
+New instance 2:
+Hannah, Isaac, Jacob, Joseph, Joshua, Noah, and Rebecca are on the same team in a volleyball match. At the start of the match, they are each assigned to a position: Hannah is playing setter, Isaac is playing outside hitter, Jacob is playing middle blocker, Joseph is playing libero, Joshua is playing opposite hitter, Noah is playing defensive specialist, and Rebecca is playing benchwarmer.
+As the game progresses, pairs of players occasionally swap positions. First, Joseph and Isaac trade positions. Then, Rebecca and Hannah trade positions. Then, Jacob and Joshua trade positions. Then, Noah and Jacob trade positions. Then, Joshua and Isaac trade positions. Then, Hannah and Joseph trade positions. Finally, Jacob and Joshua trade positions. At the end of the match, Rebecca is playing
+Options:
+(A) setter
+(B) outside hitter
+(C) middle blocker
+(D) libero
+(E) opposite hitter
+(F) defensive specialist
+(G) benchwarmer
+
+New instance 3:
+David, Samuel, Jonathan, Saul, Elijah, Elisha, and Isaiah are on the same team in a hockey match. At the start of the match, they are each assigned to a position: David is playing center, Samuel is playing left wing, Jonathan is playing right wing, Saul is playing defense, Elijah is playing goalie, Elisha is playing penalty box, and Isaiah is playing benchwarmer.
+As the game progresses, pairs of players occasionally swap positions. First, Elijah and Samuel trade positions. Then, Isaiah and David trade positions. Then, Saul and Jonathan trade positions. Then, Elisha and Saul trade positions. Then, Jonathan and Samuel trade positions. Then, David and Elijah trade positions. Finally, Saul and Jonathan trade positions. At the end of the match, Isaiah is playing
+Options:
+(A) center
+(B) left wing
+(C) right wing
+(D) defense
+(E) goalie
+(F) penalty box
+(G) benchwarmer

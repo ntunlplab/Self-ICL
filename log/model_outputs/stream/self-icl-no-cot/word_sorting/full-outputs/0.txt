@@ -1,0 +1,16 @@
+Task description: Sort a list of words.
+
+Q: Sort the following words alphabetically: List: apple banana
+A: Apple
+Banana
+
+Q: Sort the following words alphabetically: List: Monday Tuesday
+A: Monday, Tuesday
+
+Q: Sort the following words alphabetically: List: zebra yamaha
+A: Yamaha
+Zebra
+
+Q: Sort the following words alphabetically: List: syndrome therefrom
+A: Syndrome
+Therefrom

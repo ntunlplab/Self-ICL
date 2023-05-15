@@ -1,0 +1,6 @@
+Q: In a row of four cars, there is a black car, a white car, and a red car. The red car is to the right of the black car. The black car is to the right of the white car.
+Options:
+(A) The white car is the third from the left
+(B) The black car is the third from the left
+(C) The red car is the third from the left
+A: (C) The red car is the third from the left

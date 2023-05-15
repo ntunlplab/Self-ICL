@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: In a cooking competition, there were seven contestants: Sarah, John, Tom, Mary, Jane, Mark, and Joe. Mary finished third. Sarah finished above Tom. Jane finished last. Mary finished below Mark. John finished below Tom. Mark finished below Joe.
+Options:
+(A) Sarah finished third
+(B) John finished third
+(C) Tom finished third
+(D) Mary finished third
+(E) Mark finished third
+(F) Jane finished third
+(G) Joe finished third
+A: D) Mary finished third
+
+Q: In a spelling bee, there were seven contestants: Alex, Jack, Ryan, Emma, Sam, David, and Joe. Ryan finished third. Alex finished above Jack. Sam finished last. Ryan finished below David. Emma finished below Jack. David finished below Joe.
+Options:
+(A) Alex finished third
+(B) Jack finished third
+(C) Ryan finished third
+(D) Emma finished third
+(E) David finished third
+(F) Sam finished third
+(G) Joe finished third
+A: C) Ryan finished third
+
+Q: In a robotics competition, there were seven robots: Alpha, Beta, Gamma, Delta, Epsilon, Zeta, and Omega. Gamma finished third. Alpha finished above Beta. Zeta finished last. Gamma finished below Epsilon. Beta finished below Delta. Epsilon finished below Omega.
+Options:
+(A) Alpha finished third
+(B) Beta finished third
+(C) Gamma finished third
+(D) Delta finished third
+(E) Epsilon finished third
+(F) Zeta finished third
+(G) Omega finished third
+A: C) Gamma finished third
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Ana, Eve, Ada, Dan, Rob, Amy, and Joe. Dan finished third. Ana finished above Ada. Amy finished last. Dan finished below Rob. Eve finished below Ada. Rob finished below Joe.
+Options:
+(A) Ana finished third
+(B) Eve finished third
+(C) Ada finished third
+(D) Dan finished third
+(E) Rob finished third
+(F) Amy finished third
+(G) Joe finished third
+A: D) Dan finished third

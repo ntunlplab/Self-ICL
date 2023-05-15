@@ -1,0 +1,2 @@
+Q: Is the following sentence plausible? "The Boston Celtics won the NBA championship this year."
+A: Yes, this sentence is plausible.

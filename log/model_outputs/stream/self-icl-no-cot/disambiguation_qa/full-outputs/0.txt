@@ -1,0 +1,30 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: Sentence: She was so excited to get the job that she couldn't sleep.
+Options:
+(A) She was excited to get the job
+(B) Someone else was excited to get the job
+(C) Ambiguous
+A: (A) She was excited to get the job
+
+Q: Sentence: The teacher gave the student an A on the test because he worked hard.
+Options:
+(A) The student worked hard
+(B) The teacher worked hard
+(C) Ambiguous
+A: (A) The student worked hard
+
+Q: Sentence: The dog barked at the mailman because he was scared.
+Options:
+(A) The dog was scared
+(B) The mailman was scared
+(C) Ambiguous
+A: (B) The mailman was scared
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The patient was referred to the specialist because he had a rare skin condition.
+Options:
+(A) The patient had a skin condition
+(B) The specialist had a skin condition
+(C) Ambiguous
+A: (A) The patient had a skin condition

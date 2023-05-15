@@ -1,0 +1,7 @@
+Q: Which of the following is a humorous edit of this artist or movie name: 'The Lion King'?
+Options:
+(A) The Lyin King
+(B) The Lyin Kings
+(C) The Lion Kings
+(D) The Lyin Kingz
+A: A) The Lyin King

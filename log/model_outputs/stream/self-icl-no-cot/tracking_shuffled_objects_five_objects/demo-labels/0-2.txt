@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of tag. At the start of the game, each person has a partner: Alex is chasing Ben, Charlie is chasing David, and Emily is chasing Frank.
+Throughout the game, the players often switch partners. First, Alex and Charlie switch partners. Then, Alex and David switch partners. Then, Ben and Charlie switch partners. Then, Emily and Frank switch partners. Finally, Alex and Charlie switch partners. At the end of the game, Alex is chasing
+Options:
+(A) Ben
+(B) Charlie
+(C) David
+(D) Emily
+(E) Frank
+A: (A) Ben

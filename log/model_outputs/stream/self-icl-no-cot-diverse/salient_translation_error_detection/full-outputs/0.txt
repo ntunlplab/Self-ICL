@@ -1,0 +1,49 @@
+Task description: Detect the type of error in an English translation of a German source sentence.
+
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Der König von Preußen war Friedrich II.
+Translation: The King of Prussia was Frederick III.
+
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+A: B - Numerical Values
+
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Der Eiffelturm ist 324 Meter hoch.
+Translation: The Eiffel Tower is 300 feet tall.
+
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+A: B - Numerical Values
+
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Der Rhein ist ein Fluss.
+Translation: The Rhine is a mountain.
+
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+A: D - Named Entities
+
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Karl Borromäus Joseph Fürst von Liechtenstein war ein kaiserlicher Feldmarschall.
+Translation: Charles Borromeo Joseph Prince of Liechtenstein was an judicial field marshal.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+A: A - Modifiers or Adjectives

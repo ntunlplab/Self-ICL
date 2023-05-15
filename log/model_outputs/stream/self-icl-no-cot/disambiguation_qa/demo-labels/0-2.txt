@@ -1,0 +1,6 @@
+Q: Sentence: The dog barked at the mailman because he was scared.
+Options:
+(A) The dog was scared
+(B) The mailman was scared
+(C) Ambiguous
+A: (B) The mailman was scared

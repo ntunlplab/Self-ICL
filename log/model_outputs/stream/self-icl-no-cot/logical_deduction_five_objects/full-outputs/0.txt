@@ -1,0 +1,37 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: On a shelf, there are five books: a novel, a biography, a cookbook, a dictionary, and a textbook. The novel is the leftmost. The cookbook is to the left of the dictionary. The biography is the rightmost. The textbook is the third from the left.
+Options:
+(A) The novel is the rightmost
+(B) The biography is the rightmost
+(C) The cookbook is the rightmost
+(D) The dictionary is the rightmost
+(E) The textbook is the rightmost
+A: B) The biography is the rightmost
+
+Q: On a table, there are five cups: a mug, a teacup, a glass, a tumbler, and a goblet. The mug is the leftmost. The tumbler is to the left of the goblet. The teacup is the rightmost. The glass is the third from the left.
+Options:
+(A) The mug is the rightmost
+(B) The teacup is the rightmost
+(C) The glass is the rightmost
+(D) The tumbler is the rightmost
+(E) The goblet is the rightmost
+A: (E) The goblet is the rightmost
+
+Q: On a wall, there are five pictures: a landscape, a portrait, an abstract, a still life, and a seascape. The landscape is the leftmost. The still life is to the left of the seascape. The portrait is the rightmost. The abstract is the third from the left.
+Options:
+(A) The landscape is the rightmost
+(B) The portrait is the rightmost
+(C) The abstract is the rightmost
+(D) The still life is the rightmost
+(E) The seascape is the rightmost
+A: B) The portrait is the rightmost
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a quail, an owl, a raven, a falcon, and a robin. The owl is the leftmost. The robin is to the left of the raven. The quail is the rightmost. The raven is the third from the left.
+Options:
+(A) The quail is the rightmost
+(B) The owl is the rightmost
+(C) The raven is the rightmost
+(D) The falcon is the rightmost
+(E) The robin is the rightmost
+A: (E) The robin is the rightmost

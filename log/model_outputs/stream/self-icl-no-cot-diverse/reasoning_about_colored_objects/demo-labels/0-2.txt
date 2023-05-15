@@ -1,0 +1,2 @@
+Q: On the floor, there is one brown cat toy, two beige cat toys, three silver cat toys, two brown notebooks, three silver notebooks, three gold cat toys, and one beige notebook. If I remove all the notebooks from the floor, how many silver objects remain on it?
+A: Five silver objects remain on the floor.

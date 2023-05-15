@@ -1,0 +1,2 @@
+Q: I have a cat, a dog, three horses, four cows, two goats, and five chickens. How many animals do I have?
+A: You have fifteen animals.

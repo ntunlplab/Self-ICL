@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Here comes a perfectly valid argument: All cats are animals. Therefore, all animals are cats."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "Here comes a perfectly valid argument: All dogs are mammals. Therefore, all mammals are dogs."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "Here comes a perfectly valid argument: All birds can fly. Therefore, all animals can fly."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "Here comes a perfectly valid argument: First of all, whoever is a schoolmate of Sondra is not a stepsister of Pricilla. In consequence, whoever is not a stepsister of Pricilla is a schoolmate of Sondra."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

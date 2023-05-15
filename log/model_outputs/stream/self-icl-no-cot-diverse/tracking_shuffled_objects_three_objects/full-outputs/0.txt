@@ -1,0 +1,30 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: John, Sarah, and David are friends and avid board game players. At the start of the semester, they each buy one new board game: John gets Monopoly, Sarah gets Scrabble, and David gets Risk. As the semester proceeds, they start trading around the new board games. First, Sarah and David swap games. Then, David and John swap games. Finally, Sarah and David swap games. At the end of the semester, David has 
+Options:
+(A) Monopoly
+(B) Scrabble
+(C) Risk
+A: (A) Monopoly
+
+Q: Tom, Jerry, and Mary are friends and avid movie watchers. At the start of the semester, they each buy one new movie: Tom gets The Godfather, Jerry gets The Shawshank Redemption, and Mary gets The Dark Knight. As the semester proceeds, they start trading around the new movies. First, Mary and Jerry swap movies. Then, Jerry and Tom swap movies. Finally, Mary and Jerry swap movies. At the end of the semester, Jerry has 
+Options:
+(A) The Godfather
+(B) The Shawshank Redemption
+(C) The Dark Knight
+A: (A) The Godfather
+
+Q: Jack, Jill, and Peter are friends and avid video game players. At the start of the semester, they each buy one new video game: Jack gets Grand Theft Auto, Jill gets Call of Duty, and Peter gets Mario Kart. As the semester proceeds, they start trading around the new video games. First, Jill and Peter swap games. Then, Peter and Jack swap games. Finally, Jill and Peter swap games. At the end of the semester, Peter has 
+Options:
+(A) Grand Theft Auto
+(B) Call of Duty
+(C) Mario Kart
+A: (A) Grand Theft Auto
+
+Q: Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Frankenstein, and Claire gets Lolita.
+As the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Bob and Alice swap books. Finally, Claire and Bob swap books. At the end of the semester, Bob has
+Options:
+(A) Ulysses
+(B) Frankenstein
+(C) Lolita
+A: (C) Lolita

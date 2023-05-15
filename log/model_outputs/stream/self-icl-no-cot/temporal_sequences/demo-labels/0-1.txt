@@ -1,0 +1,16 @@
+Q: Today, Jessica went to the grocery store. Between what times could they have gone?
+We know that:
+Jessica woke up at 6am.
+Samantha saw Jessica jogging from 6am to 8am.
+Linda saw Jessica eating lunch at the cafe from 8am to 10am.
+John saw Jessica taking a yoga class from 10am to 11am.
+Steven saw Jessica visiting the library from 11am to 1pm.
+Thomas saw Jessica playing tennis from 1pm to 3pm.
+The grocery store was closed after 9pm.
+Between what times could Jessica have gone to the grocery store?
+Options:
+(A) 3pm to 9pm
+(B) 6am to 8am
+(C) 8am to 10am
+(D) 11am to 1pm
+A: (A) 3pm to 9pm

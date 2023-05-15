@@ -1,0 +1,2 @@
+Q: Question: John says he always tells the truth. Sarah says John lies. Mark says Sarah tells the truth. Jane says Mark lies. Does Jane tell the truth?
+A: No, Jane does not tell the truth.

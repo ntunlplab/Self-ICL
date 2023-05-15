@@ -1,0 +1,8 @@
+Q: On a shelf, there are five books: a novel, a biography, a cookbook, a dictionary, and a textbook. The novel is the leftmost. The cookbook is to the left of the dictionary. The biography is the rightmost. The textbook is the third from the left.
+Options:
+(A) The novel is the rightmost
+(B) The biography is the rightmost
+(C) The cookbook is the rightmost
+(D) The dictionary is the rightmost
+(E) The textbook is the rightmost
+A: B) The biography is the rightmost
