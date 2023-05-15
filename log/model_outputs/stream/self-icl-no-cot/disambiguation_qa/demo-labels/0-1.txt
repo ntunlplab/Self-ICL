@@ -1,0 +1,6 @@
+Q: Sentence: The teacher gave the student an A on the test because he worked hard.
+Options:
+(A) The student worked hard
+(B) The teacher worked hard
+(C) Ambiguous
+A: (A) The student worked hard

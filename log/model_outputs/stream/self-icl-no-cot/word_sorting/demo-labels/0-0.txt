@@ -1,0 +1,3 @@
+Q: Sort the following words alphabetically: List: apple banana
+A: Apple
+Banana

@@ -1,0 +1,4 @@
+Q: Sort the following words by first letter: List: orange apple banana
+A: Apple
+Banana
+Orange

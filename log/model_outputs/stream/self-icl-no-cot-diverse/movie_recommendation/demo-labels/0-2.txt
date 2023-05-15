@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Lord of the Rings, The Hobbit, The Chronicles of Narnia, Harry Potter:
+Options:
+(A) The Hunger Games
+(B) Stardust
+(C) The Princess Bride
+(D) The NeverEnding Story
+A: (A) The Hunger Games

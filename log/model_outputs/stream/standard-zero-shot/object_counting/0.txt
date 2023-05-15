@@ -1,0 +1,4 @@
+Task description: Questions that involve enumerating objects and asking the model to count them.
+
+Q: I have a flute, a piano, a trombone, four stoves, a violin, an accordion, a clarinet, a drum, two lamps, and a trumpet. How many musical instruments do I have?
+A: Nine musical instruments.

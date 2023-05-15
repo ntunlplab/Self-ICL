@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new and diverse instances for the task.
+Example instance:
+Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Sam, Claire is dancing with Jamie, Dave is dancing with Lola, and Eve is dancing with Melissa.
+Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Dave and Alice switch partners. Then, Eve and Alice switch partners. Then, Claire and Bob switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Alice is dancing with
+Options:
+(A) Patrick
+(B) Sam
+(C) Jamie
+(D) Lola
+(E) Melissa
+
+New instance 1:
+Five students are playing a game of musical chairs. At the start of the game, they are each sitting in a chair: Alex is sitting in chair 1, Ben is sitting in chair 2, Charlie is sitting in chair 3, David is sitting in chair 4, and Emily is sitting in chair 5.
+Throughout the game, the students often switch chairs. First, Alex and Ben switch chairs. Then, Alex and Charlie switch chairs. Then, Ben and Charlie switch chairs. Then, David and Emily switch chairs. Finally, Alex and Ben switch chairs. At the end of the game, Alex is sitting in
+Options:
+(A) Chair 1
+(B) Chair 2
+(C) Chair 3
+(D) Chair 4
+(E) Chair 5
+
+New instance 2:
+Five friends are playing a game of rock-paper-scissors. At the start of the game, each person has a partner: Fred is playing against Gail, Harry is playing against Irene, Jack is playing against Karen, Larry is playing against Mary, and Nate is playing against Olivia.
+Throughout the game, the players often switch partners. First, Fred and Harry switch partners. Then, Fred and Jack switch partners. Then, Harry and Jack switch partners. Then, Larry and Nate switch partners. Finally, Fred and Harry switch partners. At the end of the game, Fred is playing against
+Options:
+(A) Gail
+(B) Irene
+(C) Karen
+(D) Mary
+(E) Olivia
+
+New instance 3:
+Five teams are playing a game of tug-of-war. At the start of the game, each team is facing off against another team: Team A is facing off against Team B, Team C is facing off against Team D, Team E is facing off against Team F, Team G is facing off against Team H, and Team I is facing off against Team J.
+Throughout the game, the teams often switch opponents. First, Team A and Team C switch opponents. Then, Team A and Team E switch opponents. Then, Team C and Team E switch opponents. Then, Team G and Team I switch opponents. Finally, Team A and Team C switch opponents. At the end of the game, Team A is facing off against
+Options:
+(A) Team B
+(B) Team D
+(C) Team F
+(D) Team H
+(E) Team J

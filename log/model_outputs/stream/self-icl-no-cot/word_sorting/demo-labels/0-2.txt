@@ -1,0 +1,3 @@
+Q: Sort the following words alphabetically: List: zebra yamaha
+A: Yamaha
+Zebra

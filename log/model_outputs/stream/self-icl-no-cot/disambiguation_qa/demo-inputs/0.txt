@@ -1,0 +1,29 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new instances for the task.
+Example instance:
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The patient was referred to the specialist because he had a rare skin condition.
+Options:
+(A) The patient had a skin condition
+(B) The specialist had a skin condition
+(C) Ambiguous
+
+New instance 1:
+Sentence: She was so excited to get the job that she couldn't sleep.
+Options:
+(A) She was excited to get the job
+(B) Someone else was excited to get the job
+(C) Ambiguous
+
+New instance 2:
+Sentence: The teacher gave the student an A on the test because he worked hard.
+Options:
+(A) The student worked hard
+(B) The teacher worked hard
+(C) Ambiguous
+
+New instance 3:
+Sentence: The dog barked at the mailman because he was scared.
+Options:
+(A) The dog was scared
+(B) The mailman was scared
+(C) Ambiguous

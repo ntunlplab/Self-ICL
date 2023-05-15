@@ -1,0 +1,39 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new and diverse instances for the task.
+Example instance:
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing left winger, Dave is playing benchwarmer, Eve is playing goalkeeper, Fred is playing center midfielder, and Gertrude is playing cheerleader.
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the match, Gertrude is playing
+Options:
+(A) striker
+(B) right winger
+(C) left winger
+(D) benchwarmer
+(E) goalkeeper
+(F) center midfielder
+(G) cheerleader
+
+New instance 1:
+John, Paul, George, Ringo, and Yoko are in a band. At the start of the performance, they are each assigned to a position: John is playing lead guitar, Paul is playing bass guitar, George is playing rhythm guitar, Ringo is playing drums, and Yoko is playing keyboard. As the performance progresses, pairs of players occasionally swap positions. First, John and Paul trade positions. Then, Ringo and Yoko trade positions. Then, George and Paul trade positions. Then, John and Ringo trade positions. Then, Paul and Yoko trade positions. Finally, George and John trade positions. At the end of the performance, Ringo is playing:
+Options:
+(A) lead guitar
+(B) bass guitar
+(C) rhythm guitar
+(D) drums
+(E) keyboard
+
+New instance 2:
+A group of friends are playing a game of charades. At the start of the game, they are each assigned to a role: Alex is acting out a movie, Bob is acting out a book, Charlie is acting out a song, Dave is acting out a TV show, and Emily is acting out a play. As the game progresses, pairs of players occasionally swap roles. First, Alex and Bob trade roles. Then, Charlie and Dave trade roles. Then, Emily and Alex trade roles. Then, Bob and Charlie trade roles. Then, Dave and Emily trade roles. Finally, Alex and Bob trade roles. At the end of the game, Charlie is acting out:
+Options:
+(A) a movie
+(B) a book
+(C) a song
+(D) a TV show
+(E) a play
+
+New instance 3:
+A group of students are taking a test. At the start of the test, they are each assigned to a section: Anna is taking the math section, Ben is taking the science section, Charlie is taking the English section, Dave is taking the history section, and Emily is taking the geography section. As the test progresses, pairs of students occasionally swap sections. First, Anna and Ben trade sections. Then, Charlie and Dave trade sections. Then, Emily and Anna trade sections. Then, Ben and Charlie trade sections. Then, Dave and Emily trade sections. Finally, Anna and Ben trade sections. At the end of the test, Charlie is taking:
+Options:
+(A) math
+(B) science
+(C) English
+(D) history
+(E) geography

@@ -1,0 +1,2 @@
+Q: I have a red apple, a green apple, two oranges, three bananas, four pears, and five strawberries. How many pieces of fruit do I have?
+A: Fifteen pieces of fruit.

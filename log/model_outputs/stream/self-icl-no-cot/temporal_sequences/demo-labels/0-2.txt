@@ -1,0 +1,16 @@
+Q: Today, Thomas went to the park. Between what times could they have gone?
+We know that:
+Thomas woke up at 5am.
+Samantha saw Thomas studying at the library from 5am to 7am.
+Linda saw Thomas eating breakfast at the diner from 7am to 8am.
+John saw Thomas shopping at the mall from 8am to 10am.
+Jessica saw Thomas taking a walk in the park from 10am to 12pm.
+Steven saw Thomas visiting the museum from 12pm to 2pm.
+The park was closed after 10pm.
+Between what times could Thomas have gone to the park?
+Options:
+(A) 2pm to 10pm
+(B) 5am to 7am
+(C) 7am to 8am
+(D) 10am to 12pm
+A: (D) 10am to 12pm

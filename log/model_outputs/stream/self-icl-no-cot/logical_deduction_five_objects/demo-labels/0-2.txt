@@ -1,0 +1,8 @@
+Q: On a wall, there are five pictures: a landscape, a portrait, an abstract, a still life, and a seascape. The landscape is the leftmost. The still life is to the left of the seascape. The portrait is the rightmost. The abstract is the third from the left.
+Options:
+(A) The landscape is the rightmost
+(B) The portrait is the rightmost
+(C) The abstract is the rightmost
+(D) The still life is the rightmost
+(E) The seascape is the rightmost
+A: B) The portrait is the rightmost

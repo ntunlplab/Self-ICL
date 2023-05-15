@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She's a great friend, always there to lend a helping hand
+(B) She's a terrible friend, always there to lend a helping hand
+A: (B) She's a terrible friend, always there to lend a helping hand

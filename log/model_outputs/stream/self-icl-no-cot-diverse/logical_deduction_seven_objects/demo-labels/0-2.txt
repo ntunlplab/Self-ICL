@@ -1,0 +1,10 @@
+Q: In a robotics competition, there were seven robots: Alpha, Beta, Gamma, Delta, Epsilon, Zeta, and Omega. Gamma finished third. Alpha finished above Beta. Zeta finished last. Gamma finished below Epsilon. Beta finished below Delta. Epsilon finished below Omega.
+Options:
+(A) Alpha finished third
+(B) Beta finished third
+(C) Gamma finished third
+(D) Delta finished third
+(E) Epsilon finished third
+(F) Zeta finished third
+(G) Omega finished third
+A: C) Gamma finished third

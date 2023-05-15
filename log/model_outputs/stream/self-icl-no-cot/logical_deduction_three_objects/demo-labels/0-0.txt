@@ -1,0 +1,6 @@
+Q: In a row of five chairs, there is a red chair, a blue chair, and a green chair. The green chair is to the left of the blue chair. The blue chair is to the left of the red chair.
+Options:
+(A) The red chair is the third from the left
+(B) The blue chair is the third from the left
+(C) The green chair is the third from the left
+A: B) The blue chair is the third from the left

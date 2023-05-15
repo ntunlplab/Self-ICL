@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) She's a great student, always getting top marks in her classes
+(B) She's a terrible student, always getting top marks in her classes
+A: (B) She's a terrible student, always getting top marks in her classes
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's a great cook, always making delicious meals
+(B) He's a terrible cook, always making delicious meals
+A: (B) He's a terrible cook, always making delicious meals
+
+Q: Which statement is sarcastic?
+Options:
+(A) She's a great listener, always paying attention to what others have to say
+(B) She's a terrible listener, always paying attention to what others have to say
+A: (B) She's a terrible listener, always paying attention to what others have to say
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's a generous person, trying to promote a charity stream that has raised millions to help kids in need
+(B) He's a terrible person, trying to promote a charity stream that has raised millions to help kids in need
+A: (B) He's a terrible person, trying to promote a charity stream that has raised millions to help kids in need

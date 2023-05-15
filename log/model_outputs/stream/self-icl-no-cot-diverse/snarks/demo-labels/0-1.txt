@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) He's a great cook, always making delicious meals
+(B) He's a terrible cook, always making delicious meals
+A: (B) He's a terrible cook, always making delicious meals

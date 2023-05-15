@@ -1,0 +1,15 @@
+batch_size: 1
+bbh_input_path: ./bbh/BIG-Bench-Hard/bbh
+bbh_task_desc_path: ./bbh/bbh_task_description.json
+exemplars_mode: self-icl
+exp_name: self-icl-no-cot
+inference_mode: stream
+label_method: self
+log_path: ./log/model_outputs
+max_tokens: 1024
+model: text-davinci-003
+num_demos: 3
+temperature: 0.0
+test_sample_size: 1
+top_p: 1.0
+use_cot: false

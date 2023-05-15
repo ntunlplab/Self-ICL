@@ -1,0 +1,2 @@
+Q: Sort the following words by length: List: elephant giraffe zebra
+A: Zebra, Giraffe, Elephant

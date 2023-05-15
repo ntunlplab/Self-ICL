@@ -1,0 +1,9 @@
+Q: It is the first day of the year 2020. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 01/02/2020
+(B) 01/01/2020
+(C) 12/31/2020
+(D) 01/03/2020
+(E) 12/25/2020
+(F) 07/25/2020
+A: (D) 01/03/2020

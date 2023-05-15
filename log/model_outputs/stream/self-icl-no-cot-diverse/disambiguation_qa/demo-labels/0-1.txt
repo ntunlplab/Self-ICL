@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was excited to win the game because they had worked hard.
+Options:
+(A) The team had worked hard
+(B) Other teams had worked hard
+(C) Ambiguous
+A: (A) The team had worked hard

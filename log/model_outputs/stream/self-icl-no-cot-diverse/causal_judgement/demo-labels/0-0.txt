@@ -1,0 +1,5 @@
+Q: A car is driving down a highway when a tire suddenly blows out. The driver had recently purchased the tires and had not noticed any signs of wear or damage. Did the tire cause the blowout?
+Options:
+- Yes
+- No
+A: Yes

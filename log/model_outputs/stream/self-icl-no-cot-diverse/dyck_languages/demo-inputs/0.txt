@@ -1,0 +1,12 @@
+Following is an example instance for the task: Correctly close a Dyck-n word. Please come up with 3 new and diverse instances for the task.
+Example instance:
+Complete the rest of the sequence, making sure that the parentheses are closed properly. Input: [ [
+
+New instance 1:
+Complete the rest of the sequence, making sure that the parentheses are closed properly. Input: [ ( (
+
+New instance 2:
+Complete the rest of the sequence, making sure that the parentheses are closed properly. Input: [ ) )
+
+New instance 3:
+Complete the rest of the sequence, making sure that the parentheses are closed properly. Input: ( [ [

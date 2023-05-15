@@ -1,0 +1,6 @@
+Q: John, Sarah, and David are friends and avid board game players. At the start of the semester, they each buy one new board game: John gets Monopoly, Sarah gets Scrabble, and David gets Risk. As the semester proceeds, they start trading around the new board games. First, Sarah and David swap games. Then, David and John swap games. Finally, Sarah and David swap games. At the end of the semester, David has 
+Options:
+(A) Monopoly
+(B) Scrabble
+(C) Risk
+A: (A) Monopoly

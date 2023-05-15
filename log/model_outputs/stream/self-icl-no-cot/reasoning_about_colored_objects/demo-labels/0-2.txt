@@ -1,0 +1,20 @@
+Q: On the counter, there is one beige bowl, two brown bowls, three silver bowls, two beige spoons, three silver spoons, three gold bowls, and one brown spoon. If I remove all the spoons from the counter, how many silver objects remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (D) three

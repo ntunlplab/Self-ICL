@@ -1,0 +1,6 @@
+Q: In a row of five books, there is a novel, a dictionary, and a cookbook. The cookbook is to the right of the novel. The novel is to the right of the dictionary.
+Options:
+(A) The dictionary is the second from the left
+(B) The novel is the second from the left
+(C) The cookbook is the second from the left
+A: B) The novel is the second from the left

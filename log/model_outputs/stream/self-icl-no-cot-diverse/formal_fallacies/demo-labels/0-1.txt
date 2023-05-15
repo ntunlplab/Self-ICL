@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: All dogs are mammals. Therefore, all mammals are dogs."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

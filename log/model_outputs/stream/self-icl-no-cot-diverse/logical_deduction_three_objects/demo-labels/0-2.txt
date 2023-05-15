@@ -1,0 +1,6 @@
+Q: In a row of four cars, there is a sedan, a hatchback, and a coupe. The coupe is to the right of the sedan. The sedan is to the right of the hatchback.
+Options:
+(A) The hatchback is the second from the left
+(B) The sedan is the second from the left
+(C) The coupe is the second from the left
+A: B) The sedan is the second from the left

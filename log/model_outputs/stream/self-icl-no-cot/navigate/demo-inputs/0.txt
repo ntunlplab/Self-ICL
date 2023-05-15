@@ -1,0 +1,24 @@
+Following is an example instance for the task: Given a series of navigation instructions, determine whether one would end up back at the starting point. Please come up with 3 new instances for the task.
+Example instance:
+If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 9 steps left. Take 2 steps backward. Take 6 steps forward. Take 4 steps forward. Take 4 steps backward. Take 3 steps right.
+Options:
+- Yes
+- No
+
+New instance 1:
+If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps right. Take 5 steps forward. Take 3 steps left. Take 4 steps backward. Take 6 steps right. Take 2 steps forward. Take 4 steps left.
+Options:
+- Yes
+- No
+
+New instance 2:
+If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps left. Take 4 steps forward. Take 2 steps right. Take 5 steps backward. Take 7 steps left. Take 3 steps forward. Take 4 steps right.
+Options:
+- Yes
+- No
+
+New instance 3:
+If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps right. Take 6 steps backward. Take 3 steps left. Take 2 steps forward. Take 5 steps right. Take 4 steps backward. Take 3 steps forward.
+Options:
+- Yes
+- No

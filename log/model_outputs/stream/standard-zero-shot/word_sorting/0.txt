@@ -1,0 +1,4 @@
+Task description: Sort a list of words.
+
+Q: Sort the following words alphabetically: List: syndrome therefrom
+A: syndrome, therefrom
