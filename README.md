@@ -7,6 +7,9 @@
 
 ## Experiment
 
+### Model
+- text-davinci-003
+
 ### Hyper-parameter
 - ```max_tokens``` = 1024
 - ```temperature``` = 0.0
@@ -17,7 +20,7 @@
   - (Self-ICL, Standard Zero-Shot)
   - (Self-ICL, Zero-Shot CoT)
   - (Self-ICL, Random)
-- Zer-Shot Baseline
+- Zero-Shot Baseline
   - Zero-Shot
   - Zero-Shot CoT
 - Other Baseline
