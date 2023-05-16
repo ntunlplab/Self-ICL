@@ -1,5 +1,6 @@
 Following is an example instance for the task: [task description]. Please come up with [num_shot] new instances for the task.
 Example instance:
-[test input]
+Q: [test input]
 
 New instance 1:
+Q:
