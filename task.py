@@ -40,6 +40,9 @@ class Task(object):
                 inputs.append(self._samples[self._counter]["input"])
                 self._counter += 1
         return inputs if self._batch_size > 1 else inputs[0]
+    
+    def set_counter(self, counter: int) -> None:
+        self._counter = counter
 
 class TaskGenerator(object):
     task2label_type = {

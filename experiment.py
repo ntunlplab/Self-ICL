@@ -35,10 +35,9 @@ class Config(object):
 class Experiment(object):
     self_icl_subdirs = ["demo-inputs", "demo-labels", "full-outputs"]
     
-    def __init__(self, config: Config, continue_from: str) -> None:
+    def __init__(self, config: Config) -> None:
         print(f"Initializing experiment {config.exp_name}...")
         self._config = config
-        self._continue_from = continue_from
         self._model = Model(
             Namespace(
                 model=self._config.model,
@@ -69,7 +68,11 @@ class Experiment(object):
         for k, v in vars(self._config).items():
             print(f"\t{k}: {v}")
             
-    def run(self) -> None:
+    def run(
+        self,
+        task_continue_from: str = None,
+        sample_start_from: int = 0
+    ) -> None:
         self.print_configs()
         """
         Pseudocode:
@@ -80,9 +83,9 @@ class Experiment(object):
             batch_size=self._config.batch_size,
             verbose=True
         )
-        continue_flag = True if self._continue_from else False
+        continue_flag = True if task_continue_from else False
         for task_name in TaskGenerator.task2label_type.keys():
-            if continue_flag and (task_name != self._continue_from):
+            if continue_flag and (task_name != task_continue_from):
                 continue
             continue_flag = False
             # make task log dir
@@ -94,8 +97,12 @@ class Experiment(object):
                     (task_log_path / subdir).mkdir(parents=True, exist_ok=True)
             # start running task
             task = task_generator.get_task(task_name)
+            task.set_counter(sample_start_from)
             num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
             for i in range(num_runs):
+                if i < sample_start_from:
+                    print(f"Skipping sample #{i}...")
+                    continue
                 print(f"Running sample #{i}:")
                 task_inputs = task.get_new_inputs()
                 shots = []
@@ -176,10 +183,14 @@ class Experiment(object):
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument("--config_path", type=Path, required=True)
-    parser.add_argument("--continue_from", type=str, default=None)
+    parser.add_argument("--task_continue_from", type=str, default=None)
+    parser.add_argument("--sample_start_from", type=int, default=0)
     return parser.parse_args()
 
 if __name__ == "__main__":
     args = parse_args()
     config = Config(**yaml.safe_load(args.config_path.read_text()))
-    Experiment(config, args.continue_from).run()
+    Experiment(config).run(
+        task_continue_from=args.task_continue_from,
+        sample_start_from=args.sample_start_from
+    )
