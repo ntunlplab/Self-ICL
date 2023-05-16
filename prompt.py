@@ -90,7 +90,7 @@ class StreamPrompt(Prompt):
         New instance 1:
         """
         diverse_prompt = " and diverse" if diversity else ""
-        return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\n{self._inputs}\n\nNew instance 1:"
+        return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
 
 class BatchPrompt(Prompt):
     
@@ -132,14 +132,26 @@ class TestStreamPrompt(unittest.TestCase):
     def test_gen_demo_inputs(self):
         self.assertEqual(
             self.zs_prompt.gen_demo_inputs(),
-            "Following is an example instance for the task: Evaluate the result of a random Boolean expression. Please come up with 3 new instances for the task.\nExample instance:\nnot ( True ) and ( True ) is\n\nNew instance 1:"
+            "Following is an example instance for the task: Evaluate the result of a random Boolean expression. Please come up with 3 new instances for the task.\nExample instance:\nQ: not ( True ) and ( True ) is\n\nNew instance 1:\nQ:"
         )
         self.assertEqual(
             self.fs_prompt.gen_demo_inputs(),
-            "Following is an example instance for the task: Evaluate the result of a random Boolean expression. Please come up with 3 new instances for the task.\nExample instance:\nnot ( True ) and ( True ) is\n\nNew instance 1:"
+            "Following is an example instance for the task: Evaluate the result of a random Boolean expression. Please come up with 3 new instances for the task.\nExample instance:\nQ: not ( True ) and ( True ) is\n\nNew instance 1:\nQ:"
         )
 
 
 # for running unit tests
 if __name__ == "__main__":
+    # print out the prompt
+    task_desc = "Clarify the meaning of sentences with ambiguous pronouns."
+    inputs = "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The patient was referred to the specialist because he had a rare skin condition.\nOptions:\n(A) The patient had a skin condition\n(B) The specialist had a skin condition\n(C) Ambiguous"
+    num_demos = 3
+    
+    prompt = StreamPrompt(task_desc, inputs, num_demos)
+    print(prompt.gen_prediction())
+    print(prompt.gen_demo_inputs(diversity=True))
+    
+    # unittest
+    print("\nRunning unit tests...")
     unittest.main()
+    
