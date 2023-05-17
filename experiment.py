@@ -71,8 +71,12 @@ class Experiment(object):
     def run(
         self,
         task_continue_from: str = None,
-        sample_start_from: int = 0
+        sample_start_from: int = 0,
+        label_type: str = None
     ) -> None:
+        if label_type and (label_type not in set(TaskGenerator.task2label_type.values())):
+            raise ValueError(f"Invalid label_type: {label_type}")
+        
         self.print_configs()
         """
         Pseudocode:
@@ -88,6 +92,7 @@ class Experiment(object):
             if continue_flag and (task_name != task_continue_from):
                 continue
             continue_flag = False
+            
             # make task log dir
             task_log_path = self._log_path / task_name
             task_log_path.mkdir(parents=True, exist_ok=True)
@@ -96,7 +101,16 @@ class Experiment(object):
                 for subdir in self.self_icl_subdirs:
                     (task_log_path / subdir).mkdir(parents=True, exist_ok=True)
             # start running task
+            if label_type and (TaskGenerator.task2label_type[task_name] != label_type):
+                print(f"Skipping task {task_name} with label_type {task.label_type}...")
+                continue
+            
             task = task_generator.get_task(task_name)
+            if task.label_type == "class":
+                label_set = task.label_set
+            else:
+                label_set = None
+            
             task.set_counter(sample_start_from)
             num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
             for i in range(num_runs):
@@ -129,7 +143,7 @@ class Experiment(object):
                     # generate pseudo-demos
                     # inputs
                     demo_prompt = prompt.gen_demo_inputs(diversity=self._config.diverse_exemplars)
-                    demo_inputs = self._model.complete(demo_prompt)["choices"][0]["text"]
+                    demo_prompt, demo_inputs = self._model.complete(demo_prompt)
                     full_demo_inputs = demo_prompt + demo_inputs
                     (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
                     # parse demo inputs to separate instances
@@ -145,7 +159,9 @@ class Experiment(object):
                                 shots=[]
                             ).gen_prediction()
                             print(f"Predicting demo #{j} ->", end='')
-                            sep_demo_label = self._model.complete(sep_demo_prompt)["choices"][0]["text"]
+                            sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set)
+                            if sep_demo_prompt[-1] == '(':
+                                sep_demo_label = '(' + sep_demo_label
                             shot = Shot(_input=sep_demo_input, _label=sep_demo_label.strip())
                             shots.append(shot)
                             # logging
@@ -171,7 +187,7 @@ class Experiment(object):
                 # run inference
                 print(f"Predicting sample #{i} ->", end='')
                 pred_prompt = prompt.gen_prediction()
-                res_text = self._model.complete(pred_prompt)["choices"][0]["text"]
+                pred_prompt, res_text = self._model.complete(pred_prompt, label_set)
                 print(res_text)
                 # save results
                 full_text = pred_prompt + res_text
@@ -185,6 +201,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--config_path", type=Path, required=True)
     parser.add_argument("--task_continue_from", type=str, default=None)
     parser.add_argument("--sample_start_from", type=int, default=0)
+    parser.add_argument("--label_type", type=str, default=None)
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -192,5 +209,6 @@ if __name__ == "__main__":
     config = Config(**yaml.safe_load(args.config_path.read_text()))
     Experiment(config).run(
         task_continue_from=args.task_continue_from,
-        sample_start_from=args.sample_start_from
+        sample_start_from=args.sample_start_from,
+        label_type=args.label_type
     )
