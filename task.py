@@ -14,6 +14,10 @@ class Task(object):
         self._task_desc = task_desc
         self._samples = samples
         self._label_type = label_type # has to do with label sampling
+        if label_type == "class":
+            self._label_set = set([sample["target"] for sample in samples])
+        else: # TODO
+            raise NotImplementedError
         self._batch_size = batch_size
         self._counter = 0
     
@@ -28,6 +32,14 @@ class Task(object):
     @property
     def label_type(self) -> str:
         return self._label_type
+    
+    @property
+    def label_size(self) -> int:
+        return len(self._label_set)
+    
+    @property
+    def label_set(self) -> set:
+        return self._label_set
     
     @property
     def counter(self) -> int:
@@ -98,3 +110,18 @@ class TaskGenerator(object):
             label_type=self.task2label_type[task_name],
             batch_size=self._batch_size
         )
+
+# unit tests
+if __name__ == "__main__":
+    task_input_path = "./bbh/BIG-Bench-Hard/bbh/"
+    task_desc_path = "./bbh/bbh_task_description.json"
+    batch_size = 1
+    
+    task_gen = TaskGenerator(task_input_path, task_desc_path, batch_size)
+    for task_name, label_type in TaskGenerator.task2label_type.items():
+        if label_type == "class":
+            task = task_gen.get_task(task_name)
+            print("Label: ", end="")
+            for label in task.label_set:
+                print(label, end=" ")
+            print(end="\n\n")
