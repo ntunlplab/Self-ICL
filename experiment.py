@@ -1,8 +1,10 @@
 import math
 import yaml
+import pandas as pd
 from typing import List
 from pathlib import Path
 from argparse import ArgumentParser, Namespace
+from colorama import Fore, Style
 from dataclasses import dataclass
 from task import TaskGenerator
 from model import Model
@@ -78,9 +80,7 @@ class Experiment(object):
             raise ValueError(f"Invalid label_type: {label_type}")
         
         self.print_configs()
-        """
-        Pseudocode:
-        """
+
         task_generator = TaskGenerator(
             task_input_path=self._config.bbh_input_path,
             task_desc_path=self._config.bbh_task_desc_path,
@@ -195,20 +195,80 @@ class Experiment(object):
                     (task_log_path / f"{i}.txt").write_text(full_text)
                 else: # self-icl
                     (task_log_path / "full-outputs" / f"{i}.txt").write_text(full_text)
-    
+                    
+    def evaluate(
+        self,
+        label_type: str = None
+    ) -> None:
+        # for generating task labels
+        task_gen = TaskGenerator(
+            task_input_path=self._config.bbh_input_path,
+            task_desc_path=self._config.bbh_task_desc_path,
+            batch_size=1, # evaluate one by one during evaluation
+            verbose=True
+        )
+        # start evaluation
+        total_correct = 0
+        total_predict = 0
+        eval_results = dict()
+        for task_name in TaskGenerator.task2label_type.keys():
+            if label_type and (TaskGenerator.task2label_type[task_name] != label_type):
+                print(f"Skipping task {task_name} with label_type {task.label_type}...")
+                continue
+            task = task_gen.get_task(task_name)
+            task_log_path = self._log_path / task_name
+            
+            ncorrect = 0
+            for i in range(self._config.test_sample_size):
+                # read inference result
+                if self._config.exemplars_mode == "standard":
+                    full_res = (task_log_path / f"{i}.txt").read_text()
+                else: # self-icl
+                    full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
+                # parse inference result
+                label = task.get_new_labels().strip("()").upper()
+                pred = self._prompt_parser.extract_pred(full_res).upper()
+                print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
+                if label == pred:
+                    print(Fore.GREEN + "✔")
+                    ncorrect += 1
+                else:
+                    print(Fore.RED + "✘")
+                print(Style.RESET_ALL, end='')
+            
+            eval_results[task_name] = {
+                "ncorrect": ncorrect,
+                "total": self._config.test_sample_size,
+                "accuracy": ncorrect / self._config.test_sample_size
+            }
+            print(f"Correct count: {Fore.BLUE}{ncorrect}/{self._config.test_sample_size}{Style.RESET_ALL}")
+            total_correct += ncorrect
+            total_predict += self._config.test_sample_size
+        
+        print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{total_correct / total_predict * 100:.2f}%{Style.RESET_ALL}")
+        # save evaluation results
+        df = pd.DataFrame(eval_results)
+        df.to_csv(self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.csv", index_label="Item")
+
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument("--config_path", type=Path, required=True)
     parser.add_argument("--task_continue_from", type=str, default=None)
     parser.add_argument("--sample_start_from", type=int, default=0)
     parser.add_argument("--label_type", type=str, default=None)
+    parser.add_argument("--eval", action="store_true")
     return parser.parse_args()
 
 if __name__ == "__main__":
     args = parse_args()
     config = Config(**yaml.safe_load(args.config_path.read_text()))
-    Experiment(config).run(
-        task_continue_from=args.task_continue_from,
-        sample_start_from=args.sample_start_from,
-        label_type=args.label_type
-    )
+    experiment = Experiment(config)
+    
+    if args.eval:
+        experiment.evaluate(label_type=args.label_type)
+    else:
+        experiment.run(
+            task_continue_from=args.task_continue_from,
+            sample_start_from=args.sample_start_from,
+            label_type=args.label_type
+        )
