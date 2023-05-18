@@ -1,4 +1,5 @@
 import math
+import json
 import yaml
 import pandas as pd
 from typing import List
@@ -89,6 +90,7 @@ class Experiment(object):
             verbose=True
         )
         continue_flag = True if task_continue_from else False
+        failed_cases = [] # list of (task_name, sample_idx)
         for task_name in TaskGenerator.task2label_type.keys():
             if continue_flag and (task_name != task_continue_from):
                 continue
@@ -148,7 +150,12 @@ class Experiment(object):
                     full_demo_inputs = demo_prompt + demo_inputs
                     (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
                     # parse demo inputs to separate instances
-                    sep_demo_inputs = self._prompt_parser.split_demo_inputs(full_demo_inputs)
+                    try:
+                        sep_demo_inputs = self._prompt_parser.split_demo_inputs(full_demo_inputs)
+                    except ValueError:
+                        print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to parse demo inputs" + Style.RESET_ALL)
+                        failed_cases.append([task_name, i])
+                        continue
                     # labels
                     shots = []
                     if self._config.inference_mode == "stream":
@@ -196,6 +203,11 @@ class Experiment(object):
                     (task_log_path / f"{i}.txt").write_text(full_text)
                 else: # self-icl
                     (task_log_path / "full-outputs" / f"{i}.txt").write_text(full_text)
+        
+        # save failed cases
+        if len(failed_cases) > 0:
+            print(f"Saving {len(failed_cases)} failed cases...")
+            (self._log_path / "failed_cases.json").write_text(json.dumps(failed_cases, indent=4))
                     
     def evaluate(
         self,
