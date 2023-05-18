@@ -1,4 +1,4 @@
-exp_name: "self-icl-no-cot-diverse"
+exp_name: "self-icl-no-cot-diverse-class"
 # data paths
 bbh_input_path: "./bbh/BIG-Bench-Hard/bbh"
 bbh_task_desc_path: "./bbh/bbh_task_description.json"
@@ -12,7 +12,7 @@ diverse_exemplars: True
 label_method: "self"
 # sizes
 batch_size: 1
-test_sample_size: 1
+test_sample_size: 50
 # model hparams
 model: "text-davinci-003"
 max_tokens: 1024
