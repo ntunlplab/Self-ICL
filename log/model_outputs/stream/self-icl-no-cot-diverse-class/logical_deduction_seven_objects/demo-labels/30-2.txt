@@ -1,0 +1,10 @@
+Q: In a toy store, there are seven toys: a doll, a stuffed animal, a car, a board game, a puzzle, a train set, and a robot. The puzzle is older than the stuffed animal. The car is older than the train set. The doll is older than the puzzle. The robot is the second-newest. The board game is the oldest. The stuffed animal is older than the doll.
+Options:
+(A) The doll is the newest
+(B) The puzzle is the newest
+(C) The stuffed animal is the newest
+(D) The car is the newest
+(E) The train set is the newest
+(F) The board game is the newest
+(G) The robot is the newest
+A: (G)

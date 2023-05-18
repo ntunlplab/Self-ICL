@@ -1,0 +1,15 @@
+Q: Today, David went to the library. Between what times could they have gone?
+We know that:
+David woke up at 6am.
+Alice saw David playing tennis at the court from 8am to 10am.
+Bob saw David getting a massage at the spa from 10am to 12pm.
+Carol saw David buying a new laptop at the computer store from 12pm to 2pm.
+Dave saw David eating lunch at the cafe from 2pm to 4pm.
+The library was closed after 5pm.
+Between what times could David have gone to the library?
+Options:
+(A) 8am to 10am
+(B) 10am to 12pm
+(C) 12pm to 2pm
+(D) 2pm to 4pm
+A: (D)

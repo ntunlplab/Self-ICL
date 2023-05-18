@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Moby Dick, Claire gets The Pearl, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
+As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Eve and Claire swap books. Then, Claire and Bob swap books. Then, Dave and Claire swap books. Finally, Bob and Dave swap books. At the end of the semester, Dave has
+Options:
+(A) Ulysses
+(B) Moby Dick
+(C) The Pearl
+(D) The Odyssey
+(E) The Fellowship of the Ring
+
+New instance 1:
+Q: Five friends, Alex, Ben, Charlie, David, and Emma, are all avid board game players. At the start of the summer, they each buy one new game: Alex gets Catan, Ben gets Monopoly, Charlie gets Risk, David gets Clue, and Emma gets Scrabble.
+As the summer progresses, they start trading around the new games. First, Alex and Ben swap games. Then, Charlie and Ben swap games. Then, David and Charlie swap games. Then, Emma and David swap games. Finally, Ben and Emma swap games. At the end of the summer, Emma has
+Options:
+(A) Catan
+(B) Monopoly
+(C) Risk
+(D) Clue
+(E) Scrabble
+
+New instance 2:
+Q: Five friends, Fiona, George, Harry, Ian, and Jane, are all passionate cooks. At the start of the year, they each buy one new cookbook: Fiona gets The Joy of Cooking, George gets The Flavor Bible, Harry gets The Professional Chef, Ian gets The Art of French Cooking, and Jane gets The Silver Spoon.
+As the year progresses, they start trading around the new cookbooks. First, Fiona and George swap books. Then, Harry and George swap books. Then, Ian and Harry swap books. Then, Jane and Ian swap books. Finally, George and Jane swap books. At the end of the year, Jane has
+Options:
+(A) The Joy of Cooking
+(B) The Flavor Bible
+(C) The Professional Chef
+(D) The Art of French Cooking
+(E) The Silver Spoon
+
+New instance 3:
+Q: Five friends, Kevin, Larry, Mike, Nick, and Olivia, are all passionate musicians. At the start of the month, they each buy one new instrument: Kevin gets a guitar, Larry gets a saxophone, Mike gets a trumpet, Nick gets a drum set, and Olivia gets a keyboard.
+As the month progresses, they start trading around the new instruments. First, Kevin and Larry swap instruments. Then, Mike and Larry swap instruments. Then, Nick and Mike swap instruments. Then, Olivia and Nick swap instruments. Finally, Larry and Olivia swap instruments. At the end of the month, Olivia has
+Options:
+(A) Guitar
+(B) Saxophone
+(C) Trumpet
+(D) Drum set
+(E) Keyboard

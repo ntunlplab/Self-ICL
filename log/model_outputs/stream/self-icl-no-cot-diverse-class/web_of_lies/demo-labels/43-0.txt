@@ -1,0 +1,2 @@
+Q: Question: John says he is an only child. His sister says he has a brother. His mother says his sister is telling the truth. His father says his mother is lying. Does John have a brother?
+A: Yes,

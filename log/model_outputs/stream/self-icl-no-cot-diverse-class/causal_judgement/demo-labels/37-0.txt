@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John is a farmer who grows corn on his farm. He has been using the same fertilizer for years, but this year he decided to try something new. He bought a new fertilizer called X-Fert, which was supposed to be more effective than his old fertilizer. He applied the X-Fert to his entire corn field, but he noticed that some of the corn plants were not growing as well as the others. He wondered if the X-Fert was the cause of the poor growth.
+Options:
+- Yes
+- No
+A: No,

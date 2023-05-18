@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) She's such a great driver
+(B) She's such a terrible driver
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's such a great listener
+(B) He's such a terrible listener
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) She's such a great cook
+(B) She's such a terrible cook
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's such terrible relationship material when he's drunk
+(B) He's such great relationship material when he's drunk
+A: (A)

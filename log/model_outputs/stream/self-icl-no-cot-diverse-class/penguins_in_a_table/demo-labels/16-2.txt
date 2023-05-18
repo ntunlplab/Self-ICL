@@ -1,0 +1,21 @@
+Q: Here is a table where the first line is a header and each subsequent line is a mammal:  name, age, height (cm), weight (kg)
+Tim, 3, 50, 10
+Harry, 5, 60, 12
+Sally, 7, 70, 14
+Gina, 9, 80, 16
+We now add a mammal to the table:
+Jill, 12, 90, 18
+And here is a similar table, but listing elephants:
+name, age, height (cm), weight (kg)
+Olivia, 5, 300, 2000
+Lily, 10, 350, 2500
+Mia, 2, 250, 1500
+Nina, 9, 320, 2200
+How many elephants are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (B)

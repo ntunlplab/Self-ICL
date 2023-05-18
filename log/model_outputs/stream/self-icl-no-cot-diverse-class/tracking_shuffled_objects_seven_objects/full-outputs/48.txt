@@ -1,0 +1,49 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Seven students are in a debate tournament. At the start of the tournament, they are each assigned to a position: Alice is the opening speaker, Bob is the second speaker, Claire is the third speaker, Dave is the fourth speaker, Eve is the fifth speaker, Fred is the sixth speaker, and Gertrude is the seventh speaker.
+As the tournament progresses, pairs of students occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the tournament, Dave is speaking
+Options:
+(A) opening speaker
+(B) second speaker
+(C) third speaker
+(D) fourth speaker
+(E) fifth speaker
+(F) sixth speaker
+(G) seventh speaker
+A: (A)
+
+Q: Seven astronauts are on a mission to explore a distant planet. At the start of the mission, they are each assigned to a position: Alice is the pilot, Bob is the navigator, Claire is the engineer, Dave is the medic, Eve is the communications officer, Fred is the science officer, and Gertrude is the mission specialist.
+As the mission progresses, pairs of astronauts occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the mission, Dave is the
+Options:
+(A) pilot
+(B) navigator
+(C) engineer
+(D) medic
+(E) communications officer
+(F) science officer
+(G) mission specialist
+A: (D)
+
+Q: Seven chefs are competing in a cooking competition. At the start of the competition, they are each assigned to a position: Alice is the sous chef, Bob is the pastry chef, Claire is the head chef, Dave is the line cook, Eve is the prep chef, Fred is the saucier, and Gertrude is the dishwasher.
+As the competition progresses, pairs of chefs occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the competition, Dave is the
+Options:
+(A) sous chef
+(B) pastry chef
+(C) head chef
+(D) line cook
+(E) prep chef
+(F) saucier
+(G) dishwasher
+A: (D)
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing left winger, Dave is playing benchwarmer, Eve is playing goalkeeper, Fred is playing center midfielder, and Gertrude is playing cheerleader.
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the match, Dave is playing
+Options:
+(A) striker
+(B) right winger
+(C) left winger
+(D) benchwarmer
+(E) goalkeeper
+(F) center midfielder
+(G) cheerleader
+A: (F)

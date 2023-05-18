@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A student is studying for an exam and decides to stay up late to finish studying. The next day, the student falls asleep during the exam and fails it. Did staying up late to study cause the student to fail the exam?
+Options:
+- Yes
+- No
+A: No

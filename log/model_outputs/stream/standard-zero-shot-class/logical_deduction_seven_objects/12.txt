@@ -1,0 +1,12 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Joe, Dan, Ana, Mel, Ada, Eve, and Amy. Eve finished above Amy. Dan finished second. Ada finished below Ana. Ana finished third-to-last. Mel finished last. Amy finished third.
+Options:
+(A) Joe finished last
+(B) Dan finished last
+(C) Ana finished last
+(D) Mel finished last
+(E) Ada finished last
+(F) Eve finished last
+(G) Amy finished last
+A: (A)

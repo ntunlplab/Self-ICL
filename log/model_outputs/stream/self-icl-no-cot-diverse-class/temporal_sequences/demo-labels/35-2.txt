@@ -1,0 +1,14 @@
+Q: Today, Lisa went to the aquarium. Between what times could they have gone?
+We know that:
+Lisa woke up at 8am.
+David saw Lisa playing frisbee at the park from 8am to 11am.
+Emily saw Lisa walking towards the zoo from 11am to 2pm.
+Frank saw Lisa taking photos near the river from 3pm to 8pm.
+The aquarium was closed after 9pm.
+Between what times could Lisa have gone to the aquarium?
+Options:
+(A) 3pm to 8pm
+(B) 2pm to 3pm
+(C) 8am to 11am
+(D) 11am to 2pm
+A: (A)

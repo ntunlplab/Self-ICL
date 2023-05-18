@@ -1,0 +1,9 @@
+Q: Mark graduated from college on Apr 10, 2019. 730 days have passed since then. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 04/11/2020
+(B) 04/12/2020
+(C) 04/13/2020
+(D) 04/14/2020
+(E) 04/15/2020
+(F) 04/16/2020
+A: (B)

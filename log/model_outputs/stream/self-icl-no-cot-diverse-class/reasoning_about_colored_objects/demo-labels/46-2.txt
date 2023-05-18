@@ -1,0 +1,5 @@
+Q: On the bed, there is a red pillow, a gray blanket, and a brown teddy bear. Is the teddy bear brown?
+Options:
+(A) yes
+(B) no
+A: (A)

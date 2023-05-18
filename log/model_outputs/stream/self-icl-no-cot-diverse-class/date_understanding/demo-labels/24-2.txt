@@ -1,0 +1,9 @@
+Q: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one year ago in MM/DD/YYYY?
+Options:
+(A) 01/01/1986
+(B) 10/19/1985
+(C) 01/08/1986
+(D) 01/01/2014
+(E) 01/01/1933
+(F) 12/29/1985
+A: (F)

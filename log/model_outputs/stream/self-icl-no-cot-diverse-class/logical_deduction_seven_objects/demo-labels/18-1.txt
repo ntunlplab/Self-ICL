@@ -1,0 +1,10 @@
+Q: At a music festival, there are seven performers: a rapper, a singer, a violinist, a cellist, a pianist, a guitarist, and a drummer. The cellist is the fourth-newest. The violinist is the third-newest. The pianist is the second-oldest. The guitarist is older than the singer. The rapper is newer than the drummer. The singer is older than the cellist.
+Options:
+(A) The rapper is the third-oldest
+(B) The singer is the third-oldest
+(C) The violinist is the third-oldest
+(D) The cellist is the third-oldest
+(E) The pianist is the third-oldest
+(F) The guitarist is the third-oldest
+(G) The drummer is the third-oldest
+A: (C)

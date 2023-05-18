@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) People never foment wars to relinquish territory
+(B) People never foment wars to conquer territory
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) People always make rational decisions
+(B) People always make irrational decisions
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) Politicians always act in the best interest of their constituents
+(B) Politicians always act in their own best interest
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) The world is a peaceful place
+(B) The world is a chaotic place

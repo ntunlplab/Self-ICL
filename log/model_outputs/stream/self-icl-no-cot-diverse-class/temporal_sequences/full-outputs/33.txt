@@ -1,0 +1,69 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, John went to the beach. Between what times could they have gone?
+We know that:
+John woke up at 6am.
+Samantha saw John driving to the beach from 6am to 7am.
+David saw John buying snacks at the store from 7am to 8am.
+Haley saw John playing volleyball from 8am to 11am.
+Karen saw John swimming in the ocean from 11am to 2pm.
+James saw John getting an ice cream from 2pm to 4pm.
+The beach was closed after 6pm.
+Between what times could John have gone to the beach?
+Options:
+(A) 6am to 7am
+(B) 7am to 8am
+(C) 4pm to 6pm
+(D) 6pm to 6pm
+A: (A)
+
+Q: Today, Sarah went to the zoo. Between what times could they have gone?
+We know that:
+Sarah woke up at 8am.
+Jacob saw Sarah driving to the zoo from 8am to 9am.
+Emily saw Sarah buying souvenirs at the gift shop from 9am to 10am.
+Olivia saw Sarah feeding the animals from 10am to 12pm.
+Noah saw Sarah taking pictures near the aviary from 12pm to 2pm.
+Mia saw Sarah getting a snack at the cafe from 2pm to 4pm.
+The zoo was closed after 5pm.
+Between what times could Sarah have gone to the zoo?
+Options:
+(A) 8am to 9am
+(B) 9am to 10am
+(C) 2pm to 4pm
+(D) 4pm to 5pm
+A: (A)
+
+Q: Today, Ryan went to the museum. Between what times could they have gone?
+We know that:
+Ryan woke up at 9am.
+Ava saw Ryan driving to the museum from 9am to 10am.
+Liam saw Ryan buying tickets at the entrance from 10am to 11am.
+Isabella saw Ryan looking at the exhibits from 11am to 1pm.
+Benjamin saw Ryan taking a break at the cafe from 1pm to 3pm.
+Owen saw Ryan getting a souvenir at the gift shop from 3pm to 5pm.
+The museum was closed after 7pm.
+Between what times could Ryan have gone to the museum?
+Options:
+(A) 9am to 10am
+(B) 10am to 11am
+(C) 3pm to 5pm
+(D) 5pm to 7pm
+A: (A)
+
+Q: Today, Ashley went to the amusement park. Between what times could they have gone?
+We know that:
+Ashley woke up at 7am.
+Kimberly saw Ashley driving to the water park from 7am to 8am.
+Lisa saw Ashley buying clothes at the mall from 8am to 10am.
+Hannah saw Ashley taking photos near the Eiffel Tower from 10am to 3pm.
+Jessica saw Ashley walking in the garden from 3pm to 4pm.
+William saw Ashley getting a coffee at the cafe from 4pm to 7pm.
+The amusement park was closed after 9pm.
+Between what times could Ashley have gone to the amusement park?
+Options:
+(A) 7am to 8am
+(B) 8am to 10am
+(C) 4pm to 7pm
+(D) 7pm to 9pm
+A: (D)

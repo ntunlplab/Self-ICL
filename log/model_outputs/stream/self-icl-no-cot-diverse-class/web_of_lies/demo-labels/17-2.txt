@@ -1,0 +1,2 @@
+Q: Question: Sam says that Tom is lying. Rachel says that Sam is telling the truth. Paul says that Rachel is lying. Sarah says that Paul is telling the truth. Does Sarah tell the truth?
+A: Yes,

@@ -1,0 +1,9 @@
+Q: Five friends, Frank, George, Henry, Ian, and Jack, are playing a board game. At the start of the game, they are each assigned to a piece: Frank is playing the knight, George is playing the rook, Henry is playing the bishop, Ian is playing the king, and Jack is playing the queen.
+As the game progresses, pairs of players occasionally swap pieces. First, Henry and Jack trade pieces. Then, Henry and Frank trade pieces. Then, Frank and Ian trade pieces. Then, George and Jack trade pieces. Finally, Frank and Henry trade pieces. At the end of the game, Henry is playing
+Options:
+(A) knight
+(B) rook
+(C) bishop
+(D) king
+(E) queen
+A: (A)

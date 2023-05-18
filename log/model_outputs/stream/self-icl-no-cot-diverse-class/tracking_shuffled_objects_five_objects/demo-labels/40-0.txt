@@ -1,0 +1,9 @@
+Q: Five friends, Fred, George, Harry, Ian, and John, are playing a game. At the start of the game, they are each holding a card: Fred has a spade card, George has a heart card, Harry has a club card, Ian has a diamond card, and John has a joker card.
+As the game progresses, pairs of players trade cards. First, Fred and Harry swap cards. Then, George and Ian swap cards. Then, Ian and Harry swap cards. Then, Harry and George swap cards. Finally, Fred and John swap cards. At the end of the game, John has the
+Options:
+(A) spade card
+(B) heart card
+(C) club card
+(D) diamond card
+(E) joker card
+A: (E)

@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) ridiculous grey cardboard whittling motorcycle
+(B) cardboard ridiculous whittling grey motorcycle
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe mango
+(B) ripe juicy delicious mango
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful tall slender tree
+(B) slender tall beautiful tree
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft fluffy cuddly teddy bear
+(B) cuddly fluffy soft teddy bear

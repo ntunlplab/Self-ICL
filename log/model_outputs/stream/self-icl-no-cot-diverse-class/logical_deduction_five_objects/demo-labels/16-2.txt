@@ -1,0 +1,8 @@
+Q: At a restaurant, there are five dishes: a soup, a salad, a steak, a burger, and a sandwich. The steak is newer than the soup. The sandwich is the second-newest. The burger is older than the soup. The salad is the second-oldest.
+Options:
+(A) The soup is the second-oldest
+(B) The salad is the second-oldest
+(C) The steak is the second-oldest
+(D) The burger is the second-oldest
+(E) The sandwich is the second-oldest
+A: (B)

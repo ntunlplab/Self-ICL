@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) You mean Knuth up arrow notation isn't unfamiliar for you?
+(B) You mean Knuth up arrow notation isn't normal for you?
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't like the new iPhone?
+(B) You mean you love the new iPhone?
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't want to go to the beach?
+(B) You mean you can't wait to go to the beach?
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't want to try the new restaurant?
+(B) You mean you can't wait to try the new restaurant?

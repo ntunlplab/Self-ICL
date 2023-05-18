@@ -1,0 +1,20 @@
+Q: On the table, there are four yellow pencils, three green markers, and two blue erasers. If I remove all the green items from the table, how many pencils remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (E)

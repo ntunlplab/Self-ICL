@@ -1,0 +1,10 @@
+Q: At a game of chess, 8 pieces are arranged on a board. At the start of the game, the pieces are arranged in the following order: Pawn 1 is next to Pawn 2, Pawn 2 is next to Knight 1, Knight 1 is next to Bishop 1, Bishop 1 is next to Rook 1, Rook 1 is next to Queen, Queen is next to King, and King is next to Pawn 8. Throughout the game, the pieces often switch positions. First, Pawn 1 and Pawn 3 switch positions. Then, Knight 1 and Bishop 2 switch positions. Then, Pawn 2 and Pawn 4 switch positions. Then, Bishop 1 and Rook 2 switch positions. Then, Rook 1 and Queen switch positions. Finally, King and Pawn 8 switch positions. At the end of the game, King is next to
+Options:
+(A) Pawn 1
+(B) Pawn 2
+(C) Knight 1
+(D) Bishop 1
+(E) Rook 1
+(F) Queen
+(G) Pawn 8
+A: (A)

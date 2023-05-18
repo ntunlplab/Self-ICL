@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Forrest Gump, The Silence of the Lambs, Seven, Fargo:
+Options:
+(A) Gandhi
+(B) Schindler's List
+(C) Dogfight
+(D) Repo Man
+A: (B)

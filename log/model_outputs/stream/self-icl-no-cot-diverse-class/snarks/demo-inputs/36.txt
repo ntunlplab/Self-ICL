@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Hey genocide is clearly the most rational decision
+(B) Hey compromise is clearly the most rational decision
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) Let's just ignore the homeless people
+(B) Let's help the homeless people
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) We should definitely trust the government
+(B) We should definitely not trust the government
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) We should definitely invest in fossil fuels
+(B) We should definitely invest in renewable energy

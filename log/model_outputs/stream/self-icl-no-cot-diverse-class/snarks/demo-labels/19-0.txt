@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) Money can't buy happiness
+(B) Money can buy happiness
+A: (A)

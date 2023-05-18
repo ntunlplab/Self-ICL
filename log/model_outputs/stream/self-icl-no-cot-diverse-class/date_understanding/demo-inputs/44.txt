@@ -1,0 +1,36 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Today, 8/3/1997, is a day that we will never forget. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 10/07/1996
+(B) 08/03/2035
+(C) 05/03/1997
+(D) 08/03/1996
+(E) 08/04/1996
+
+New instance 1:
+Q: On April 15th, 2019, the world was shocked by the news of a devastating fire. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 04/15/2018
+(B) 04/14/2018
+(C) 04/16/2018
+(D) 04/15/2017
+(E) 04/14/2017
+
+New instance 2:
+Q: On December 25th, 2020, the world celebrated the birth of Jesus Christ. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 12/25/2019
+(B) 12/24/2019
+(C) 12/26/2019
+(D) 12/25/2018
+(E) 12/24/2018
+
+New instance 3:
+Q: On July 4th, 2021, the United States celebrated its independence. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 07/04/2020
+(B) 07/03/2020
+(C) 07/05/2020
+(D) 07/04/2019
+(E) 07/03/2019

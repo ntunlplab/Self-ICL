@@ -1,0 +1,11 @@
+Q: Seven friends, Rachel, Sam, Tom, Ursula, Victor, Wendy, and Xavier, are all passionate about cars. At the start of the semester, they each buy one new model: Rachel gets a Ford Mustang, Sam gets a Chevrolet Camaro, Tom gets a Dodge Challenger, Ursula gets a Nissan GT-R, Victor gets a Toyota Supra, Wendy gets a Honda Civic Type R, and Xavier gets a Subaru WRX STI.
+As the semester proceeds, they start trading around the new cars. First, Victor and Rachel swap cars. Then, Xavier and Sam swap cars. Then, Rachel and Sam swap cars. Then, Ursula and Xavier swap cars. Then, Xavier and Tom swap cars. Then, Rachel and Tom swap cars. Finally, Ursula and Wendy swap cars. At the end of the semester, Ursula has
+Options:
+(A) Ford Mustang
+(B) Chevrolet Camaro
+(C) Dodge Challenger
+(D) Nissan GT-R
+(E) Toyota Supra
+(F) Honda Civic Type R
+(G) Subaru WRX STI
+A: (D)

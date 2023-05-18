@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: They told me that I should wait.
+Options:
+(A) They told me to wait
+(B) I should wait
+(C) Ambiguous
+A: (B)

@@ -1,0 +1,9 @@
+Q: John's birthday is on August 15th, 2020. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 09/15/2020
+(B) 10/15/2020
+(C) 07/15/2020
+(D) 09/14/2020
+(E) 09/16/2020
+(F) 10/14/2020
+A: (B)

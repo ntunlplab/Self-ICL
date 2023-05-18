@@ -1,0 +1,6 @@
+Q: On a shelf, there are three vases: a blue vase, a green vase, and a red vase. The blue vase is to the left of the green vase. The green vase is to the left of the red vase.
+Options:
+(A) The blue vase is the second from the left
+(B) The green vase is the second from the left
+(C) The red vase is the second from the left
+A: (B)

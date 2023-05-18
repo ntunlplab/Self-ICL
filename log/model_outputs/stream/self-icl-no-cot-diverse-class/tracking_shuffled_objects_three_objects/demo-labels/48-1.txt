@@ -1,0 +1,6 @@
+Q: Three students, Alex, Emma, and Ryan, are taking a test. At the start of the test, Alex is sitting in the front row, Emma is sitting in the middle row, and Ryan is sitting in the back row. As the test progresses, pairs of students occasionally swap seats. First, Alex and Emma trade seats. Then, Emma and Ryan trade seats. Finally, Alex and Emma trade seats. At the end of the test, Ryan is sitting
+Options:
+(A) in the front row
+(B) in the middle row
+(C) in the back row
+A: (C)

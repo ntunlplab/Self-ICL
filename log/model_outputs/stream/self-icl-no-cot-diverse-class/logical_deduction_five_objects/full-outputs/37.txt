@@ -1,0 +1,37 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: On a shelf, there are five toys: a blue toy, a green toy, a yellow toy, a pink toy, and a white toy. The green toy is the leftmost. The yellow toy is to the right of the pink toy. The blue toy is to the left of the white toy. The pink toy is the second from the right.
+Options:
+(A) The blue toy is the second from the right
+(B) The green toy is the second from the right
+(C) The yellow toy is the second from the right
+(D) The pink toy is the second from the right
+(E) The white toy is the second from the right
+A: (D)
+
+Q: On a shelf, there are five cups: a black cup, a silver cup, a gold cup, a bronze cup, and a copper cup. The silver cup is the rightmost. The black cup is to the left of the bronze cup. The gold cup is to the left of the copper cup. The bronze cup is the second from the left.
+Options:
+(A) The black cup is the second from the right
+(B) The silver cup is the second from the right
+(C) The gold cup is the second from the right
+(D) The bronze cup is the second from the right
+(E) The copper cup is the second from the right
+A: (B)
+
+Q: On a shelf, there are five stones: a red stone, a blue stone, a white stone, a green stone, and a yellow stone. The white stone is the rightmost. The red stone is to the left of the green stone. The blue stone is to the left of the yellow stone. The green stone is the second from the left.
+Options:
+(A) The red stone is the second from the right
+(B) The blue stone is the second from the right
+(C) The white stone is the second from the right
+(D) The green stone is the second from the right
+(E) The yellow stone is the second from the right
+A: (E)
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are five books: a black book, a purple book, a yellow book, an orange book, and a red book. The yellow book is the rightmost. The black book is to the left of the orange book. The orange book is to the left of the purple book. The black book is the second from the left.
+Options:
+(A) The black book is the second from the right
+(B) The purple book is the second from the right
+(C) The yellow book is the second from the right
+(D) The orange book is the second from the right
+(E) The red book is the second from the right
+A: (D)

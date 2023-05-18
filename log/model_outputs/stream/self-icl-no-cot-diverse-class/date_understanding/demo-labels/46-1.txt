@@ -1,0 +1,9 @@
+Q: Sarah was born on the last day of October in 2002. Today is her 15-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 11/01/2017
+(B) 10/31/2017
+(C) 11/02/2017
+(D) 10/30/2017
+(E) 11/30/2017
+(F) 10/29/2017
+A: (C)

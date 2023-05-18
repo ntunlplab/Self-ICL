@@ -1,0 +1,16 @@
+Q: Today, Tom went to the amusement park. Between what times could they have gone?
+We know that:
+Tom woke up at 8am.
+Sally saw Tom playing basketball at the court from 8am to 10am.
+David saw Tom eating dinner at the restaurant from 10am to 12pm.
+Sarah saw Tom attending a concert at the stadium from 12pm to 3pm.
+William saw Tom taking a bike ride around the lake from 3pm to 5pm.
+Richard saw Tom watching a movie at the theater from 5pm to 7pm.
+The amusement park was closed after 9pm.
+Between what times could Tom have gone to the amusement park?
+Options:
+(A) 10am to 12pm
+(B) 5pm to 7pm
+(C) 12pm to 3pm
+(D) 3pm to 5pm
+A: (D)

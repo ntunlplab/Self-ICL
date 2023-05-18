@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: First premise: Every item in the store is either a book or a toy. So, necessarily, whatever is none of this: a book or a toy, is not an item in the store."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

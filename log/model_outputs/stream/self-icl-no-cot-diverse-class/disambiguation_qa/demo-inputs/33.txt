@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The scientist will collaborate with the artist, and she will share a story.
+Options:
+(A) The scientist will share a story
+(B) The artist will share a story
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The student was excited to receive the award, and it was a great honor.
+Options:
+(A) The student was a great honor
+(B) The award was a great honor
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was determined to win the game, and they worked hard.
+Options:
+(A) The team worked hard
+(B) The game worked hard
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher gave the students a difficult assignment, and it was a challenge.
+Options:
+(A) The teacher was a challenge
+(B) The assignment was a challenge
+(C) Ambiguous

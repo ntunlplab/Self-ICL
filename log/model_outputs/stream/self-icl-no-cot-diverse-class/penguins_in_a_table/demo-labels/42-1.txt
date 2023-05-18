@@ -1,0 +1,19 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, diving depth (m), swimming speed (km/h) 
+
+Nina, 7, 20, 8
+Ralph, 9, 25, 10
+Sally, 11, 30, 12
+
+We now add a penguin to the table:
+
+Harry, 10, 28, 11
+
+Which penguin can dive the deepest?
+
+Options:
+(A) Nina
+(B) Ralph
+(C) Sally
+(D) Harry
+(E) None of them
+A: (C)

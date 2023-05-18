@@ -1,0 +1,5 @@
+Q: A family was on vacation when a storm hit the area. The family had to evacuate their hotel and find a new place to stay. The family was unable to find a new place to stay and had to cut their vacation short. Did the storm cause the problem?
+Options:
+- Yes
+- No
+A: Yes,

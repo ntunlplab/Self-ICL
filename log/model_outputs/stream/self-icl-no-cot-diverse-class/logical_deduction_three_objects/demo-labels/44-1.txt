@@ -1,0 +1,6 @@
+Q: A pet store sells three types of animals: cats, dogs, and birds. The birds are the least expensive. The cats are more expensive than the dogs.
+Options:
+(A) The cats are the second-most expensive
+(B) The dogs are the second-most expensive
+(C) The birds are the second-most expensive
+A: (B)

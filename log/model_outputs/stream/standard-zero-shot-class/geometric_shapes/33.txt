@@ -1,0 +1,16 @@
+Task description: Name geometric shapes from their SVG paths.
+
+Q: This SVG path element <path d="M 12.89,87.25 A 28.33,28.33 124.93 1,0 45.33,40.79 A 28.33,28.33 124.93 1,0 12.89,87.25"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+(K) ellipse
+A: (K)

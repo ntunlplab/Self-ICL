@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First, Cecil is a schoolmate of Tyler. Second, nobody is neither a schoolmate of Tyler nor a nephew of Owen. So, necessarily, Cecil is not a nephew of Owen."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Is John a brother of Mary? Is Sarah related to Mark? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First, John is a cousin of Sarah. Second, nobody is neither a cousin of Sarah nor a brother of Mark. So, necessarily, John is not a brother of Mark."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Is Tom a father of Jane? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First, Tom is an uncle of Joe. Second, nobody is neither an uncle of Joe nor a father of Bob. So, necessarily, Tom is not a father of Bob."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Is Sam a grandfather of Alex? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First, Sam is a great-uncle of Joe. Second, nobody is neither a great-uncle of Joe nor a grandfather of Bob. So, necessarily, Sam is not a grandfather of Bob."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

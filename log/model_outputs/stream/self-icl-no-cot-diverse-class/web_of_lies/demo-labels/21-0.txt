@@ -1,0 +1,2 @@
+Q: Question: John says the sky is blue. Mary says John says the sky is blue. Paul says Mary says the sky is blue. Sarah says Paul says the sky is blue. Tom says Sarah says the sky is blue. Does Tom say the sky is blue?
+A: Yes,

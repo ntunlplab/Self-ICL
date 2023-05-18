@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) walking black medium-size rectangular wonderful car
+(B) wonderful medium-size rectangular black walking car
+A: (B)

@@ -1,0 +1,28 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+Wayne has a new high-tech watch that tracks his heart rate while he exercises. He must charge the device before he uses it this evening. The device will fully charge in one hour if it is both plugged in and on the charging pad. At 2:00 PM, the device is plugged in, and the device is on the charging pad. At that time, Wayne checks to see if the device is on the charging pad, and he sees that it is. So, he does not change the position of the device, and he leaves it on the charging pad. Because the device will fully charge in one hour if it is either plugged in or on the charging pad, the device is fully charged at 3:00 PM. Is the device fully charged because Wayne did not change the position of the device?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: How would a typical person answer each of the following questions about causation?
+John is driving his car on a sunny day. He notices that the temperature gauge is rising and decides to turn on the air conditioning. After a few minutes, the temperature gauge returns to normal. Was the temperature gauge returning to normal because John turned on the air conditioning?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: How would a typical person answer each of the following questions about causation?
+Sally is studying for a test and decides to take a break to watch a movie. After the movie, she finds that she is more focused and better able to recall the material she was studying. Was Sally's improved focus and recall due to watching the movie?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: How would a typical person answer each of the following questions about causation?
+Tom is playing a video game and notices that his reflexes are improving. He decides to take a break and go for a run. After the run, he finds that his reflexes are even better. Was Tom's improved reflexes due to going for a run?
+Options:
+- Yes
+- No

@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be a successful businessperson without having any formal education: First, having formal education is necessary for being a successful businessperson. Second, not having any formal education is sufficient for not being a successful businessperson. We may conclude that it is not possible to be a successful businessperson without having any formal education."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

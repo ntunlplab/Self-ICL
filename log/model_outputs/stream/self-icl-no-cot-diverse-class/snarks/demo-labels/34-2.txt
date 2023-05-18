@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She was so thrilled to get a promotion
+(B) She was so thrilled to get a demotion
+A: (B)

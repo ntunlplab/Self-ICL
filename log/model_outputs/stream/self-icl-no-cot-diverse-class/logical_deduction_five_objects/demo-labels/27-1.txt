@@ -1,0 +1,8 @@
+Q: In a spelling bee, there were five participants: Alex, Sam, Emma, Nick, and Kate. Alex finished below Kate. Sam finished first. Kate finished below Nick. Emma finished above Nick.
+Options:
+(A) Alex finished second-to-last
+(B) Emma finished second-to-last
+(C) Sam finished second-to-last
+(D) Nick finished second-to-last
+(E) Kate finished second-to-last
+A: (B)

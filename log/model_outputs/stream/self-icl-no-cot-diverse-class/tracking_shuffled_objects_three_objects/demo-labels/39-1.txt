@@ -1,0 +1,6 @@
+Q: Three students, Sarah, Tom, and Tyler, are playing a game of tag. At the start of the game, Sarah is "it", Tom is running, and Tyler is hiding. Throughout the game, the players often switch roles. First, Sarah and Tom switch roles. Then, Sarah and Tyler switch roles. Finally, Tom and Tyler switch roles. At the end of the game, who is "it"?
+Options:
+(A) Sarah
+(B) Tom
+(C) Tyler
+A: (A)

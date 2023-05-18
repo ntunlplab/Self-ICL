@@ -1,0 +1,8 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The company was able to launch the product with the help of their investors.
+Options:
+(A) They were the company's investors
+(B) They were the investors' investors
+(C) They were the product's investors
+(D) Ambiguous
+A: (A)

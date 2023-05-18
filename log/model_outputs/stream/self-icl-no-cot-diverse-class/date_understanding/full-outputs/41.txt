@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: It is currently August 15th, 2019. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 08/22/2019
+(B) 08/29/2019
+(C) 09/05/2019
+(D) 08/16/2019
+(E) 08/23/2019
+(F) 08/30/2019
+A: (A)
+
+Q: It is currently October 3rd, 2019. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 10/10/2019
+(B) 10/17/2019
+(C) 11/07/2019
+(D) 10/04/2019
+(E) 10/11/2019
+(F) 10/18/2019
+A: (B)
+
+Q: It is currently December 12th, 2019. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 12/19/2019
+(B) 12/26/2019
+(C) 01/02/2020
+(D) 12/13/2019
+(E) 12/20/2019
+(F) 12/27/2019
+A: (F)
+
+Q: Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 06/19/2019
+(B) 06/24/2019
+(C) 08/26/2019
+(D) 06/25/2019
+(E) 06/26/2019
+(F) 07/03/2019
+A: (D)

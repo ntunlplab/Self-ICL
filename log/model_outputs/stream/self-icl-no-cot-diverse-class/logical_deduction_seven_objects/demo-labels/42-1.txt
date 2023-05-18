@@ -1,0 +1,10 @@
+Q: A restaurant serves seven different types of soup: minestrone, tomato, lentil, split pea, vegetable, cream of mushroom, and chicken noodle. The cream of mushroom is the least expensive. The lentil is the third-most expensive. The split pea is more expensive than the vegetable. The tomato is more expensive than the minestrone. The chicken noodle is more expensive than the lentil. The cream of mushroom is more expensive than the split pea.
+Options:
+(A) The minestrone is the cheapest
+(B) The tomato is the cheapest
+(C) The lentil is the cheapest
+(D) The split pea is the cheapest
+(E) The vegetable is the cheapest
+(F) The cream of mushroom is the cheapest
+(G) The chicken noodle is the cheapest
+A: (F)

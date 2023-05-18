@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's such terrible relationship material when he's drunk
+(B) He's such great relationship material when he's drunk
+A: (A)

@@ -1,0 +1,7 @@
+Q: Three siblings, Jack, Jill, and Sam, are playing a game of hide-and-seek. At the start of the game, each sibling has a different colored marker: Jack has a red marker, Jill has a blue marker, and Sam has a green marker.
+As the game progresses, pairs of siblings swap markers. First, Jack and Jill swap their markers. Then, Jill and Sam swap their markers. Finally, Sam and Jack swap their markers. At the end of the game, Sam has the
+Options:
+(A) red marker
+(B) blue marker
+(C) green marker
+A: (A)

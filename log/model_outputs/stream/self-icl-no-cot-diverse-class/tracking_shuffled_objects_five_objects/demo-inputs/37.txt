@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Pearl, Claire gets Hound of the Baskervilles, Dave gets Ulysses, and Eve gets The Great Gatsby.
+As the semester proceeds, they start trading around the new books. First, Dave and Claire swap books. Then, Bob and Claire swap books. Then, Claire and Eve swap books. Then, Bob and Claire swap books. Finally, Alice and Claire swap books. At the end of the semester, Dave has
+Options:
+(A) Frankenstein
+(B) The Pearl
+(C) Hound of the Baskervilles
+(D) Ulysses
+(E) The Great Gatsby
+
+New instance 1:
+Q: Five friends, Alex, Ben, Charlie, David, and Emma, are all avid board game players. At the start of the summer, they each buy one new game: Alex gets Monopoly, Ben gets Scrabble, Charlie gets Risk, David gets Clue, and Emma gets Catan.
+As the summer progresses, they start trading around the new games. First, David and Charlie swap games. Then, Ben and Charlie swap games. Then, Charlie and Emma swap games. Then, Ben and Charlie swap games. Finally, Alex and Charlie swap games. At the end of the summer, David has
+Options:
+(A) Monopoly
+(B) Scrabble
+(C) Risk
+(D) Clue
+(E) Catan
+
+New instance 2:
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all passionate cooks. At the start of the year, they each buy one new cookbook: Fiona gets The Joy of Cooking, George gets The Flavor Bible, Harry gets The Art of French Cooking, Isabel gets The Professional Chef, and Jack gets The Vegetarian Cookbook.
+As the year progresses, they start trading around the new cookbooks. First, Harry and Isabel swap books. Then, George and Isabel swap books. Then, Isabel and Jack swap books. Then, George and Isabel swap books. Finally, Fiona and Isabel swap books. At the end of the year, Harry has
+Options:
+(A) The Joy of Cooking
+(B) The Flavor Bible
+(C) The Art of French Cooking
+(D) The Professional Chef
+(E) The Vegetarian Cookbook
+
+New instance 3:
+Q: Five friends, Karen, Larry, Mary, Nick, and Olivia, are all avid movie watchers. At the start of the month, they each buy one new movie: Karen gets The Godfather, Larry gets The Shawshank Redemption, Mary gets The Dark Knight, Nick gets The Lord of the Rings, and Olivia gets The Matrix.
+As the month progresses, they start trading around the new movies. First, Nick and Mary swap movies. Then, Larry and Mary swap movies. Then, Mary and Olivia swap movies. Then, Larry and Mary swap movies. Finally, Karen and Mary swap movies. At the end of the month, Nick has
+Options:
+(A) The Godfather
+(B) The Shawshank Redemption
+(C) The Dark Knight
+(D) The Lord of the Rings
+(E) The Matrix

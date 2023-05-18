@@ -1,0 +1,84 @@
+Following is an example instance for the task: Answer extremely simple questions about the colors of objects on a surface. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: On the desk, I see two brown mugs, one brown sheet of paper, one fuchsia sheet of paper, one brown pen, three grey mugs, one grey pen, two fuchsia paperclips, one fuchsia mug, and three grey sheets of paper. If I remove all the grey items from the desk, how many mugs remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+
+New instance 1:
+Q: On the kitchen counter, I see one yellow bowl, one yellow plate, one blue bowl, one blue plate, one green bowl, one green plate, one red bowl, one red plate, and one purple bowl. If I remove all the blue items from the counter, how many bowls remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+
+New instance 2:
+Q: On the bookshelf, I see two white books, one white vase, one black book, one black vase, one orange book, one orange vase, one pink book, one pink vase, and one purple book. If I remove all the white items from the bookshelf, how many books remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+
+New instance 3:
+Q: On the coffee table, I see one yellow mug, one yellow coaster, one blue mug, one blue coaster, one green mug, one green coaster, one red mug, one red coaster, and one purple mug. If I remove all the yellow items from the coffee table, how many mugs remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen

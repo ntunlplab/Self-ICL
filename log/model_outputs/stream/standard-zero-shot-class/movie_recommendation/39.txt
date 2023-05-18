@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Aladdin, Terminator 2 Judgment Day, Batman, The Mask:
+Options:
+(A) WarGames
+(B) King Kong
+(C) Foreign Correspondent
+(D) Pretty Woman
+A: (A)

@@ -1,0 +1,40 @@
+Following is an example instance for the task: Answer questions about a table of penguins and their attributes. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
+Which is the younest penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+
+New instance 1:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), speed (km/h) John, 4, 80, 20 Mary, 6, 90, 25 Paul, 8, 70, 15 Sarah, 7, 75, 18  For example: the age of John is 4, the speed of Sarah is 18 km/h, the wingspan of Mary is 90 cm.  We then delete the penguin named Paul from the table.
+Which is the fastest penguin?
+Options:
+(A) John
+(B) Mary
+(C) Paul
+(D) Sarah
+(E) James
+
+New instance 2:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, dive depth (m), swim speed (km/h) Alex, 5, 30, 10 Ben, 7, 40, 15 Charlie, 9, 50, 20 David, 8, 35, 18  For example: the age of Alex is 5, the swim speed of David is 18 km/h, the dive depth of Ben is 40 m.  We then delete the penguin named Charlie from the table.
+Which is the deepest diving penguin?
+Options:
+(A) Alex
+(B) Ben
+(C) Charlie
+(D) David
+(E) James
+
+New instance 3:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, flipper length (cm), tuxedo color (shade) George, 4, 20, black Henry, 6, 25, white Jack, 8, 30, gray Olivia, 7, 35, white  For example: the age of George is 4, the tuxedo color of Olivia is white, the flipper length of Henry is 25 cm.  We then delete the penguin named Jack from the table.
+Which is the longest flippered penguin?
+Options:
+(A) George
+(B) Henry
+(C) Jack
+(D) Olivia
+(E) James

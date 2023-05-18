@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The referee called for a timeout to review the play."
+A: Yes,
+
+Q: Is the following sentence plausible? "The coach called for a double team on the opposing team's star player."
+A: Yes,
+
+Q: Is the following sentence plausible? "The crowd cheered as the player dunked the ball from the free throw line."
+A: Yes,
+
+Q: Is the following sentence plausible? "Michael Porter Jr. called for the screen."
+A: Yes.

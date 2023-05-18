@@ -1,0 +1,6 @@
+Q: At a pet store, there are three animals: a parrot, a hamster, and a goldfish. The hamster is older than the goldfish. The parrot is the second-oldest.
+Options:
+(A) The parrot is the oldest
+(B) The hamster is the oldest
+(C) The goldfish is the oldest
+A: (B)

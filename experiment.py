@@ -32,6 +32,7 @@ class Config(object):
     model: str # e.g., text-davinci-003
     max_tokens: int
     temperature: float
+    demo_temperature: float # temperature when generating pseudo-demos (only used when exemplars_mode == "self-icl")
     top_p: float
 
 class Experiment(object):
@@ -143,7 +144,7 @@ class Experiment(object):
                     # generate pseudo-demos
                     # inputs
                     demo_prompt = prompt.gen_demo_inputs(diversity=self._config.diverse_exemplars)
-                    demo_prompt, demo_inputs = self._model.complete(demo_prompt)
+                    demo_prompt, demo_inputs = self._model.complete(demo_prompt, label_set=None, temperature=self._config.demo_temperature)
                     full_demo_inputs = demo_prompt + demo_inputs
                     (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
                     # parse demo inputs to separate instances
@@ -159,7 +160,7 @@ class Experiment(object):
                                 shots=[]
                             ).gen_prediction()
                             print(f"Predicting demo #{j} ->", end='')
-                            sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set)
+                            sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
                             if sep_demo_prompt[-1] == '(':
                                 sep_demo_label = '(' + sep_demo_label
                             shot = Shot(_input=sep_demo_input, _label=sep_demo_label.strip())
@@ -187,7 +188,7 @@ class Experiment(object):
                 # run inference
                 print(f"Predicting sample #{i} ->", end='')
                 pred_prompt = prompt.gen_prediction()
-                pred_prompt, res_text = self._model.complete(pred_prompt, label_set)
+                pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
                 print(res_text)
                 # save results
                 full_text = pred_prompt + res_text

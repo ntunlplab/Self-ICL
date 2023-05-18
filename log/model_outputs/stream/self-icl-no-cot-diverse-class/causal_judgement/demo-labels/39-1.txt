@@ -1,0 +1,5 @@
+Q: A person, Joe, is playing a game of chance where he rolls a die. He wins a dollar if and only if the die lands on a six. Joe rolls the die and it lands on a six. Did Joe's roll of the die cause him to win a dollar?
+Options:
+- Yes
+- No
+A: Yes

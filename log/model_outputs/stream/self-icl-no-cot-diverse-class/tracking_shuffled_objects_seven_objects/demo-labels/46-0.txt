@@ -1,0 +1,11 @@
+Q: Seven students are playing a game. At the start of the game, they are each holding a card: Alex has a spade card, Ben has a heart card, Charlie has a club card, David has a diamond card, Emma has a joker card, Frank has a ace card, and George has a king card.
+As the game progresses, pairs of students trade cards. First, Emma and David swap cards. Then, Charlie and Emma swap cards. Then, David and Charlie swap cards. Then, Ben and Frank swap cards. Then, Frank and David swap cards. Then, Emma and Alex swap cards. Finally, David and George swap cards. At the end of the game, David has the
+Options:
+(A) spade card
+(B) heart card
+(C) club card
+(D) diamond card
+(E) joker card
+(F) ace card
+(G) king card
+A: (D)

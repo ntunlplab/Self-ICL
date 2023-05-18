@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should all be thankful for the wonderful education system we have!
+(B) We should all be thankful for the terrible education system we have!
+A: (B)

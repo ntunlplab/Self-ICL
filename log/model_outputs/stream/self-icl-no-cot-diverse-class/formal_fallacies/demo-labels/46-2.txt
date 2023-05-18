@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To start with, no employee of the company is a resident of the same state as their manager. Now, it is false that Mark is a resident of the same state as their manager. Moreover, it is false that Mark is an employee of the company. We may conclude: It is not the case that Mark is a resident of the same state as their manager."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

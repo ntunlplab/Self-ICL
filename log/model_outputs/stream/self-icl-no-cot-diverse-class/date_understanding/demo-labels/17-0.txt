@@ -1,0 +1,9 @@
+Q: John started his new job on June 15, 2019. 437 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 05/30/2020
+(B) 06/29/2020
+(C) 05/30/2057
+(D) 04/13/2020
+(E) 07/14/2020
+(F) 05/30/2084
+A: (A)

@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) That's a great plan, let's just ignore the facts
+(B) That's a great plan, let's just consider the facts
+A: (A)

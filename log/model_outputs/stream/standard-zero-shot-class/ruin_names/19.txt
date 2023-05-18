@@ -1,0 +1,9 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'bon iver'?
+Options:
+(A) bon liver
+(B) bion iver
+(C) ban iver
+(D) bon ivee
+A: (A)

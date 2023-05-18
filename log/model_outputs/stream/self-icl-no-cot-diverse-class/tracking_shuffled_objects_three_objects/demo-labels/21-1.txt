@@ -1,0 +1,6 @@
+Q: Three students, Sarah, Tom, and Jake, are taking a test. At the start of the test, Sarah is sitting in the front row, Tom is sitting in the middle row, and Jake is sitting in the back row. As the test progresses, pairs of students occasionally swap seats. First, Sarah and Tom trade seats. Then, Sarah and Jake trade seats. Finally, Tom and Jake trade seats. At the end of the test, Jake is sitting
+Options:
+(A) in the front row
+(B) in the middle row
+(C) in the back row
+A: (A)

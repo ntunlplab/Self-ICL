@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lyon king
+(B) the lioon king
+(C) the liong king
+(D) the liion king
+A: (B)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'titanic'?
+Options:
+(A) tiatanic
+(B) titanicc
+(C) tittanic
+(D) titannic
+A: (C)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the matrix'?
+Options:
+(A) the matric
+(B) the matrrix
+(C) the matrixx
+(D) the matrixxx
+A: (B)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'free willy'?
+Options:
+(A) frre willy
+(B) freeh willy
+(C) tree willy
+(D) frees willy
+A: (C)

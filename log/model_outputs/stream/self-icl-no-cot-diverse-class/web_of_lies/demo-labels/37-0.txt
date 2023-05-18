@@ -1,0 +1,2 @@
+Q: Question: John says that Mary tells the truth. Sarah says that John tells the truth. David says that Sarah tells the truth. Rachel says that David tells the truth. Does Rachel tell the truth?
+A: Yes,

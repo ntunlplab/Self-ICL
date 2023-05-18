@@ -1,0 +1,9 @@
+Q: Today is December 31, 2019. What is the date 6 months ago in MM/DD/YYYY?
+Options:
+(A) 06/30/2019
+(B) 06/23/2019
+(C) 06/16/2019
+(D) 06/09/2019
+(E) 05/26/2019
+(F) 05/19/2019
+A: (A)

@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "The following argument seeks to clarify the relationship between the number of hours of sleep and academic performance: To begin with, no student who gets less than 6 hours of sleep per night has an A average. Moreover, no student who gets more than 8 hours of sleep per night has an A average. Finally, every student who gets between 6 and 8 hours of sleep per night has an A average. We may conclude: Getting between 6 and 8 hours of sleep per night is necessary for having an A average."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "The following argument seeks to clarify the relationship between the number of hours of exercise and physical health: To begin with, no person who exercises less than 3 hours per week is in good physical health. Moreover, no person who exercises more than 5 hours per week is in good physical health. Finally, every person who exercises between 3 and 5 hours per week is in good physical health. We may conclude: Exercising between 3 and 5 hours per week is necessary for being in good physical health."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "The following argument seeks to clarify the relationship between the number of hours of studying and academic performance: To begin with, no student who studies less than 10 hours per week has an A average. Moreover, no student who studies more than 15 hours per week has an A average. Finally, every student who studies between 10 and 15 hours per week has an A average. We may conclude: Studying between 10 and 15 hours per week is necessary for having an A average."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To begin with, nobody is neither a frequent consumer of Bath & Body Works soap nor an occasional purchaser of Clearly Natural soap. Moreover, nobody is neither a rare consumer of Nioxin shampoo nor an occasional purchaser of Clearly Natural soap. Finally, every occasional purchaser of Kirk's soap is a frequent consumer of Bath & Body Works soap or a rare consumer of Nioxin shampoo. We may conclude: Being an occasional purchaser of Clearly Natural soap is necessary for being an occasional purchaser of Kirk's soap."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

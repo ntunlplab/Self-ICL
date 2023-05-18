@@ -1,0 +1,36 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were five golfers: Amy, Mel, Rob, Joe, and Ada. Joe finished second. Joe finished below Amy. Mel finished second-to-last. Ada finished last.
+Options:
+(A) Amy finished first
+(B) Mel finished first
+(C) Rob finished first
+(D) Joe finished first
+(E) Ada finished first
+
+New instance 1:
+Q: In a cooking competition, there were five contestants: Sarah, Tom, John, Jane, and Alex. Jane finished third. Jane finished below Sarah. Tom finished second-to-last. Alex finished last.
+Options:
+(A) Sarah finished first
+(B) Tom finished first
+(C) John finished first
+(D) Jane finished first
+(E) Alex finished first
+
+New instance 2:
+Q: In a spelling bee, there were five participants: David, Ryan, Emma, Mark, and Lily. Mark finished second. Mark finished below David. Ryan finished second-to-last. Lily finished last.
+Options:
+(A) David finished first
+(B) Ryan finished first
+(C) Emma finished first
+(D) Mark finished first
+(E) Lily finished first
+
+New instance 3:
+Q: In a math competition, there were five competitors: Jack, Sam, Mia, Ben, and Zoe. Ben finished third. Ben finished below Jack. Sam finished second-to-last. Zoe finished last.
+Options:
+(A) Jack finished first
+(B) Sam finished first
+(C) Mia finished first
+(D) Ben finished first
+(E) Zoe finished first

@@ -1,0 +1,8 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, swimming speed (km/h), egg count (per year) Alfred, 2, 5, 1 Barry, 4, 10, 2 Charles, 6, 15, 3 Charlotte, 8, 20, 4  For example: the age of Alfred is 2, the egg count of Charlotte is 4 per year, the swimming speed of Barry is 10 km/h.  Which penguin has a French name?
+Options:
+(A) Alfred
+(B) Barry
+(C) Charles
+(D) Charlotte
+(E) Pierre
+A: (E)

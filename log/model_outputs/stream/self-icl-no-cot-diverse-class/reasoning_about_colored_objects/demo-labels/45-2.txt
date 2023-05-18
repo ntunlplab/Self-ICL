@@ -1,0 +1,5 @@
+Q: On the living room coffee table, there is a brown vase, an orange candle, a gold coaster, and a white remote control. Is the vase brown?
+Options:
+(A) yes
+(B) no
+A: (A)

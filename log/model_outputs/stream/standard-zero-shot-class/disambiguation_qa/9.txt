@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The customer and the chef discuss his culinary training.
+Options:
+(A) It is the customer's culinary training
+(B) It is the chef's culinary training
+(C) Ambiguous
+A: (B)

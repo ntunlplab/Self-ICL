@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: To begin with, being an ingredient of Aquablush is sufficient for being an ingredient of NARS Duo Eyeshadow. Moreover, whatever is neither an ingredient of Stop and Stare nor an ingredient of A.D LIPSTICK CHIC is an ingredient of Lash Tinsel Mascara or an ingredient of Aquablush.finally, everything that is an ingredient of Lash Tinsel Mascara is an ingredient of NARS Duo Eyeshadow, too. Therefore, whatever is not an ingredient of NARS Duo Eyeshadow is however an ingredient of Stop and Stare or an ingredient of A.D LIPSTICK CHIC."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "The following argument pertains to the question of whether or not it is possible to predict the weather: If the temperature is below freezing, then it will snow. Moreover, if the temperature is above freezing, then it will rain. Finally, the temperature is above freezing. Therefore, it will rain."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "The following argument pertains to the question of whether or not it is possible to predict the stock market: If the Dow Jones Industrial Average is above 25,000, then the stock market will go up. Moreover, if the Dow Jones Industrial Average is below 25,000, then the stock market will go down. Finally, the Dow Jones Industrial Average is below 25,000. Therefore, the stock market will go down."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "The following argument pertains to the question of whether or not it is possible to predict the outcome of a football game: If the home team has a better record than the away team, then the home team will win. Moreover, if the away team has a better record than the home team, then the away team will win. Finally, the away team has a better record than the home team. Therefore, the away team will win."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

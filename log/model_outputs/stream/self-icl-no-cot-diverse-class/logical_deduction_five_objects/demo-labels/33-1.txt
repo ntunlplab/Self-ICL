@@ -1,0 +1,8 @@
+Q: In a row of five cars, there is a red car, a blue car, a yellow car, a green car, and a black car. The red car is to the left of the blue car. The yellow car is to the left of the green car. The black car is the leftmost. The red car is to the right of the yellow car.
+Options:
+(A) The red car is the second from the left
+(B) The blue car is the second from the left
+(C) The yellow car is the second from the left
+(D) The green car is the second from the left
+(E) The black car is the second from the left
+A: (E)

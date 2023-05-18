@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven books: a red book, a yellow book, a purple book, a black book, a white book, a silver book, and a blue book. The red book is the rightmost. The yellow book is to the left of the purple book. The black book is the fourth from the left. The silver book is to the left of the white book. The white book is to the right of the blue book. The blue book is the third from the right.
+Options:
+(A) The red book is the second from the left
+(B) The yellow book is the second from the left
+(C) The purple book is the second from the left
+(D) The black book is the second from the left
+(E) The white book is the second from the left
+(F) The silver book is the second from the left
+(G) The blue book is the second from the left
+A: (B)

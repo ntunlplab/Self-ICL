@@ -1,0 +1,20 @@
+Q: On the bookshelf, there are three red books, two blue books, one red pen, two blue pens, one red pencil, and two blue pencils. If I remove all the red items from the bookshelf, how many blue items remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (G)

@@ -1,0 +1,7 @@
+Q: Three students, John, Sarah, and David, are taking a test. At the start of the test, they are each assigned to a seat: John is in seat 1, Sarah is in seat 2, and David is in seat 3.
+As the test progresses, pairs of students occasionally swap seats. First, Sarah and David trade seats. Then, John and Sarah trade seats. Finally, John and David trade seats. At the end of the test, Sarah is in
+Options:
+(A) seat 1
+(B) seat 2
+(C) seat 3
+A: (B)

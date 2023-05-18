@@ -1,0 +1,37 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Departed:
+Options:
+(A) The Prestige
+(B) The Green Mile
+(C) The Usual Suspects
+(D) Inception
+(E) The Wolf of Wall Street
+A: (A)
+
+Q: Find a movie similar to The Lion King, Beauty and the Beast, Aladdin, The Little Mermaid:
+Options:
+(A) Mulan
+(B) Tangled
+(C) The Princess and the Frog
+(D) Pocahontas
+(E) Moana
+A: (A)
+
+Q: Find a movie similar to The Hangover, Superbad, Knocked Up, Bridesmaids:
+Options:
+(A) The 40-Year-Old Virgin
+(B) Neighbors
+(C) This Is the End
+(D) 21 Jump Street
+(E) We're the Millers
+A: (A)
+
+Q: Find a movie similar to Goodfellas, Raiders of the Lost Ark, Star Wars Episode IV - A New Hope, The Silence of the Lambs:
+Options:
+(A) Monty Python and the Holy Grail
+(B) Weekend at Bernie's
+(C) American in Paris
+(D) An
+(E) Let It Snow
+A: (A)

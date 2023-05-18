@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The visitor told the teacher that he liked the cake.
+Options:
+(A) The visitor liked the cake
+(B) The teacher liked the cake
+(C) Ambiguous
+A: (A)

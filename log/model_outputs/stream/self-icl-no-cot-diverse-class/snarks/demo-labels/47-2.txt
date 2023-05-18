@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should be thankful for the police's protection
+(B) We should be thankful for the police's lack of protection
+A: (B)

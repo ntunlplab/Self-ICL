@@ -1,0 +1,32 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a black ball, and Claire has a purple present.
+As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Alice and Claire swap their gifts. Finally, Claire and Bob swap their gifts. At the end of the event, Claire has the
+Options:
+(A) pink ball
+(B) black ball
+(C) purple present
+
+New instance 1:
+Q: Three friends, John, Sarah, and David, are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: John has a red token, Sarah has a blue token, and David has a green token.
+As the game progresses, pairs of players swap tokens. First, John and Sarah swap their tokens. Then, Sarah and David swap their tokens. Finally, David and John swap their tokens. At the end of the game, David has the
+Options:
+(A) red token
+(B) blue token
+(C) green token
+
+New instance 2:
+Q: Three students, Alex, Emma, and Ryan, are playing a game of musical chairs. At the start of the game, each student has a different colored chair: Alex has a yellow chair, Emma has an orange chair, and Ryan has a white chair.
+As the game progresses, pairs of students swap chairs. First, Alex and Emma swap their chairs. Then, Emma and Ryan swap their chairs. Finally, Ryan and Alex swap their chairs. At the end of the game, Ryan has the
+Options:
+(A) yellow chair
+(B) orange chair
+(C) white chair
+
+New instance 3:
+Q: Three siblings, Jack, Jill, and Sam, are playing a game of hide-and-seek. At the start of the game, each sibling has a different colored marker: Jack has a red marker, Jill has a blue marker, and Sam has a green marker.
+As the game progresses, pairs of siblings swap markers. First, Jack and Jill swap their markers. Then, Jill and Sam swap their markers. Finally, Sam and Jack swap their markers. At the end of the game, Sam has the
+Options:
+(A) red marker
+(B) blue marker
+(C) green marker

@@ -1,0 +1,49 @@
+Task description: Answer questions about a table of penguins and their attributes.
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Sarah, 6, 45, 10 Mark, 4, 75, 12 John, 8, 55, 10 Rachel, 7, 65, 14  For example: the age of Sarah is 6, the weight of Rachel is 14 kg, the height of Mark is 75 cm.  We now add a penguin to the table:
+Lily, 11, 85, 11
+We then delete the penguin named Mark from the table.
+Which is the tallest penguin?
+Options:
+(A) Sarah
+(B) Mark
+(C) John
+(D) Rachel
+(E) Lily
+A: (E)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) David, 5, 40, 9 Alex, 3, 70, 11 Paul, 7, 50, 10 Emma, 6, 60, 13  For example: the age of David is 5, the weight of Emma is 13 kg, the height of Alex is 70 cm.  We now add a penguin to the table:
+Olivia, 10, 80, 12
+We then delete the penguin named Alex from the table.
+Which is the lightest penguin?
+Options:
+(A) David
+(B) Alex
+(C) Paul
+(D) Emma
+(E) Olivia
+A: (A)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Thomas, 4, 35, 8 George, 2, 65, 10 Peter, 6, 45, 9 Lucy, 5, 55, 12  For example: the age of Thomas is 4, the weight of Lucy is 12 kg, the height of George is 65 cm.  We now add a penguin to the table:
+Nina, 9, 75, 11
+We then delete the penguin named George from the table.
+Which is the youngest penguin?
+Options:
+(A) Thomas
+(B) George
+(C) Peter
+(D) Lucy
+(E) Nina
+A: (A)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
+James, 12, 90, 12
+We then delete the penguin named Bernard from the table.
+Which is the oldest penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (E)

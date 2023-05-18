@@ -1,0 +1,9 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the deer hunter'?
+Options:
+(A) the deer hunhter
+(B) the beer hunter
+(C) the kdeer hunter
+(D) the deer huntaer
+A: (B)

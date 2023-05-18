@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A factory is located near a residential area. The factory has been emitting toxic fumes for years, and the residents of the area have been complaining about the air quality. Recently, the factory has been fined for violating environmental regulations. Did the factory's emissions cause the air quality in the area to be poor?
+Options:
+- Yes
+- No
+A: Yes

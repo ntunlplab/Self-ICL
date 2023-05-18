@@ -1,0 +1,14 @@
+Q: Today, Mark went to the museum. Between what times could they have gone?
+We know that:
+Mark left his house at 6am.
+He stopped for coffee at a cafe from 9am to 11am.
+He went to the bank from 11am to 1pm.
+He went to the park from 1pm to 3pm.
+The museum closed at 8pm.
+Between what times could Mark have gone to the museum?
+Options:
+(A) 6am to 9am
+(B) 9am to 11am
+(C) 11am to 1pm
+(D) 1pm to 8pm
+A: (D)

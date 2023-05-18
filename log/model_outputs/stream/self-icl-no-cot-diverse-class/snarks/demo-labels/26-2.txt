@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) You look so nice today.
+(B) You look so nice today. Sure, if you like that kind of thing.
+A: (B)

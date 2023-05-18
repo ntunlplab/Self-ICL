@@ -1,0 +1,2 @@
+Q: Question: Alex says the sun is yellow. Beth says the sun is orange. Carl says Beth is wrong. Dave says Carl is wrong. Does Alex tell the truth?
+A: Yes,

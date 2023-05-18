@@ -1,0 +1,48 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a green ball, Bob has a brown ball, Claire has a purple ball, Dave has a pink ball, Eve has a white ball, Fred has a red ball, and Gertrude has a orange ball.
+As the game progresses, pairs of players trade balls. First, Eve and Dave swap balls. Then, Claire and Eve swap balls. Then, Dave and Claire swap balls. Then, Bob and Fred swap balls. Then, Fred and Dave swap balls. Then, Eve and Alice swap balls. Finally, Dave and Gertrude swap balls. At the end of the game, Dave has the
+Options:
+(A) green ball
+(B) brown ball
+(C) purple ball
+(D) pink ball
+(E) white ball
+(F) red ball
+(G) orange ball
+
+New instance 1:
+Q: Seven students are playing a game. At the start of the game, they are each holding a card: Alex has a spade card, Ben has a heart card, Charlie has a club card, David has a diamond card, Emma has a joker card, Frank has a ace card, and George has a king card.
+As the game progresses, pairs of students trade cards. First, Emma and David swap cards. Then, Charlie and Emma swap cards. Then, David and Charlie swap cards. Then, Ben and Frank swap cards. Then, Frank and David swap cards. Then, Emma and Alex swap cards. Finally, David and George swap cards. At the end of the game, David has the
+Options:
+(A) spade card
+(B) heart card
+(C) club card
+(D) diamond card
+(E) joker card
+(F) ace card
+(G) king card
+
+New instance 2:
+Q: Seven friends are playing a game. At the start of the game, they are each holding a toy: Amy has a teddy bear, Brian has a car, Chris has a doll, Daniel has a truck, Emily has a train, Fred has a plane, and Grace has a boat.
+As the game progresses, pairs of friends trade toys. First, Emily and Daniel swap toys. Then, Chris and Emily swap toys. Then, Daniel and Chris swap toys. Then, Brian and Fred swap toys. Then, Fred and Daniel swap toys. Then, Emily and Amy swap toys. Finally, Daniel and Grace swap toys. At the end of the game, Daniel has the
+Options:
+(A) teddy bear
+(B) car
+(C) doll
+(D) truck
+(E) train
+(F) plane
+(G) boat
+
+New instance 3:
+Q: Seven siblings are playing a game. At the start of the game, they are each holding a snack: Anna has a cookie, Ben has a pretzel, Charlie has a cracker, David has a popcorn, Emma has a candy, Frank has a chips, and George has a ice cream.
+As the game progresses, pairs of siblings trade snacks. First, Emma and David swap snacks. Then, Charlie and Emma swap snacks. Then, David and Charlie swap snacks. Then, Ben and Frank swap snacks. Then, Frank and David swap snacks. Then, Emma and Anna swap snacks. Finally, David and George swap snacks. At the end of the game, David has the
+Options:
+(A) cookie
+(B) pretzel
+(C) cracker
+(D) popcorn
+(E) candy
+(F) chips
+(G) ice cream

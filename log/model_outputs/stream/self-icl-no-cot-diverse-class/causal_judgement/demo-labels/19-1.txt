@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A factory worker was operating a machine when a malfunction occurred, causing a fire to break out. The fire spread quickly and caused significant damage to the factory. Did the factory worker intentionally cause the fire?
+Options:
+- Yes
+- No
+A: No

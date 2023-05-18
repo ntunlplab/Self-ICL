@@ -1,0 +1,6 @@
+Q: A bakery sells three types of bread: rye, wheat, and sourdough. The rye is the most expensive. The wheat is less expensive than the sourdough.
+Options:
+(A) The rye is the cheapest
+(B) The wheat is the cheapest
+(C) The sourdough is the cheapest
+A: (B)

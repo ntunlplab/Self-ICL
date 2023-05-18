@@ -1,0 +1,2 @@
+Q: Question: Bob says the sun is hot. Jane says the sun is cold. Joe says Jane is wrong. Sam says Joe is wrong. Tim says Sam is right. Is Tim right?
+A: No,

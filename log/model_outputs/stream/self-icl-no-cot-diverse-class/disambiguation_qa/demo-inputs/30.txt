@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The salesperson tried to fool the writer and sold them some garbage.
+Options:
+(A) Sold the salesperson some garbage
+(B) Sold the writer some garbage
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the students to bring their books to class.
+Options:
+(A) Bring the teacher's books to class
+(B) Bring the students' books to class
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor gave the patient a prescription and told them to take it twice a day.
+Options:
+(A) The doctor took the prescription twice a day
+(B) The patient took the prescription twice a day
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach told the team to practice their drills every day.
+Options:
+(A) Practice the coach's drills every day
+(B) Practice the team's drills every day
+(C) Ambiguous

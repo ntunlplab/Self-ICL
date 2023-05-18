@@ -1,0 +1,9 @@
+Q: Five friends, Karen, Larry, Mike, Nancy, and Olivia, are all avid movie watchers. At the start of the semester, they each buy one new movie: Karen gets The Godfather, Larry gets The Shawshank Redemption, Mike gets The Dark Knight, Nancy gets Inception, and Olivia gets The Matrix.
+As the semester proceeds, they start trading around the new movies. First, Karen and Larry swap movies. Then, Mike and Larry swap movies. Then, Nancy and Larry swap movies. Then, Olivia and Larry swap movies. Finally, Karen and Nancy swap movies. At the end of the semester, Olivia has
+Options:
+(A) The Godfather
+(B) The Shawshank Redemption
+(C) The Dark Knight
+(D) Inception
+(E) The Matrix
+A: (E)

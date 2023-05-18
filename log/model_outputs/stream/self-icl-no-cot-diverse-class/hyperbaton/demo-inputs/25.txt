@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) rectangular silver ancient green ridiculous big knife
+(B) ridiculous big ancient rectangular green silver knife
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful soft furry white small teddy bear
+(B) small white furry soft beautiful teddy bear
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red sweet apple
+(B) sweet red juicy ripe delicious apple
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny colorful plastic toy car
+(B) colorful plastic shiny bright toy car

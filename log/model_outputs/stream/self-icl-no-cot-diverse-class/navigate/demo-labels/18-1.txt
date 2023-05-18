@@ -1,0 +1,5 @@
+Q: If you follow these instructions, do you return to the starting point? Take a bus to the next stop. Take a train to the next station. Take a taxi to the previous stop.
+Options:
+- Yes
+- No
+A: No

@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lion kong
+(B) the lion kang
+(C) the lion kung
+(D) the lion kingg
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the dark knight'?
+Options:
+(A) the dark knighty
+(B) the dark knighht
+(C) the dark kniggt
+(D) the dark knighhtz
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the sound of music'?
+Options:
+(A) the sound of muzik
+(B) the sound of musik
+(C) the sound of musick
+(D) the sound of musix
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the italian job'?
+Options:
+(A) the ytalian job
+(B) the italiay job
+(C) the italian hob
+(D) the italians job
+A: (C)

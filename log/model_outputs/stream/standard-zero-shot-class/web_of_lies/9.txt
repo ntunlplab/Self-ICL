@@ -1,0 +1,4 @@
+Task description: Evaluate a random boolean function expressed as a word problem.
+
+Q: Question: Rashida tells the truth. Jim says Rashida lies. Alejandro says Jim lies. Tamika says Alejandro tells the truth. Fidel says Tamika lies. Does Fidel tell the truth?
+A: No,

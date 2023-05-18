@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a purple ball, Claire has a green ball, Dave has a brown ball, and Eve has a orange ball.
+As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Bob swap balls. Then, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Eve and Bob swap balls. At the end of the game, Bob has the
+Options:
+(A) blue ball
+(B) purple ball
+(C) green ball
+(D) brown ball
+(E) orange ball
+
+New instance 1:
+Q: Five friends, Fred, George, Harry, Ian, and Jack, are playing a game. At the start of the game, they are each holding a card: Fred has a red card, George has a blue card, Harry has a yellow card, Ian has a green card, and Jack has a purple card.
+As the game progresses, pairs of players trade cards. First, Fred and George swap cards. Then, Harry and Fred swap cards. Then, George and Fred swap cards. Then, Fred and Ian swap cards. Finally, Jack and Fred swap cards. At the end of the game, Fred has the
+Options:
+(A) red card
+(B) blue card
+(C) yellow card
+(D) green card
+(E) purple card
+
+New instance 2:
+Q: Five students, Karen, Larry, Mike, Nancy, and Olivia, are playing a game. At the start of the game, they are each holding a coin: Karen has a penny, Larry has a nickel, Mike has a dime, Nancy has a quarter, and Olivia has a half-dollar.
+As the game progresses, pairs of players trade coins. First, Larry and Mike swap coins. Then, Nancy and Larry swap coins. Then, Mike and Larry swap coins. Then, Larry and Karen swap coins. Finally, Olivia and Larry swap coins. At the end of the game, Larry has the
+Options:
+(A) penny
+(B) nickel
+(C) dime
+(D) quarter
+(E) half-dollar
+
+New instance 3:
+Q: Five siblings, Paul, Rachel, Sarah, Tom, and Ursula, are playing a game. At the start of the game, they are each holding a toy: Paul has a car, Rachel has a doll, Sarah has a truck, Tom has a train, and Ursula has a plane.
+As the game progresses, pairs of players trade toys. First, Rachel and Sarah swap toys. Then, Tom and Rachel swap toys. Then, Sarah and Rachel swap toys. Then, Rachel and Paul swap toys. Finally, Ursula and Rachel swap toys. At the end of the game, Rachel has the
+Options:
+(A) car
+(B) doll
+(C) truck
+(D) train
+(E) plane

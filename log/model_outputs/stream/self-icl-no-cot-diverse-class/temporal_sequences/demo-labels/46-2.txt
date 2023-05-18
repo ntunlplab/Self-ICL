@@ -1,0 +1,15 @@
+Q: Today, Lisa went to the museum. Between what times could they have gone?
+We know that:
+Lisa woke up at 8am.
+Paul saw Lisa swimming at the pool from 8am to 10am.
+Emily saw Lisa attending a seminar at the conference center from 10am to 1pm.
+Olivia saw Lisa eating lunch at the cafe from 1pm to 3pm.
+David saw Lisa walking in the park from 3pm to 6pm.
+The museum was closed after 7pm.
+Between what times could Lisa have gone to the museum?
+Options:
+(A) 6pm to 7pm
+(B) 3pm to 6pm
+(C) 1pm to 3pm
+(D) 10am to 1pm
+A: (A)

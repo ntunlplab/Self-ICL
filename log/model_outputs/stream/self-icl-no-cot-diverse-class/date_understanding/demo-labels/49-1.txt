@@ -1,0 +1,8 @@
+Q: The first day of the new year was January 1st, 2021. What is the date two months prior in MM/DD/YYYY?
+Options:
+(A) 11/30/2020
+(B) 12/01/2020
+(C) 11/01/2020
+(D) 12/31/2020
+(E) 10/31/2020
+A: (E)

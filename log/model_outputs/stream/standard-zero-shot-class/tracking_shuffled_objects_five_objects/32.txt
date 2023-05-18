@@ -1,0 +1,11 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a black ball, Claire has a green present, Dave has a purple present, and Eve has a yellow present.
+As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Bob has the
+Options:
+(A) brown present
+(B) black ball
+(C) green present
+(D) purple present
+(E) yellow present
+A: (D)

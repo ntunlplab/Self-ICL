@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To begin with, whatever is both an ingredient of Supernova Eyeliner and an ingredient of Glittery Lipstick is an ingredient of Radiant Blush or an ingredient of Glittery Lip Gloss. Moreover, being an ingredient of Glittery Lip Gloss is necessary for being an ingredient of Radiant Blush. Finally, everything that is an ingredient of Glittery Lipstick is an ingredient of Glittery Lip Gloss, too. Therefore, whatever is an ingredient of Supernova Eyeliner and an ingredient of Glittery Lipstick is also an ingredient of Radiant Blush."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The dog barked at the mailman because they were on their daily route.
+Options:
+(A) The dog
+(B) The mailman
+(C) Ambiguous
+A: (B)

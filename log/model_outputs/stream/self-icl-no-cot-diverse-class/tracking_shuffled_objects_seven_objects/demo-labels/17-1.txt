@@ -1,0 +1,11 @@
+Q: The members of the soccer team are playing a game of hot potato. At the start of the game, there are 7 players: Adam, Brad, Carl, Dan, Eric, Frank, and Greg. Throughout the game, the players often pass the potato to each other. First, Adam and Brad pass the potato. Then, Brad and Carl pass the potato. Then, Carl and Dan pass the potato. Then, Dan and Eric pass the potato. Then, Eric and Frank pass the potato. Then, Frank and Greg pass the potato. Finally, Greg and Adam pass the potato. At the end of the game, who is holding the potato?
+
+Options:
+(A) Adam
+(B) Brad
+(C) Carl
+(D) Dan
+(E) Eric
+(F) Frank
+(G) Greg
+A: (A)

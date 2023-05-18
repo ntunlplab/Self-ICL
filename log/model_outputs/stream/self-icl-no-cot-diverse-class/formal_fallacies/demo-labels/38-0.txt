@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be a good person without having any religious beliefs: First, having religious beliefs is necessary for being a good person. Second, not having any religious beliefs is sufficient for not being a good person. We may conclude that it is not possible to be a good person without having any religious beliefs."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Heat, The Fugitive, Forrest Gump, The Silence of the Lambs:
+Options:
+(A) Death Race 2
+(B) Cannonball Run II
+(C) Independence Day
+(D) Slumber Party Massacre II
+A: (A)

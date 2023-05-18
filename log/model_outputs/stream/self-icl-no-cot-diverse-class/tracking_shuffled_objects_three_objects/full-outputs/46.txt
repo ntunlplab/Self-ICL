@@ -1,0 +1,30 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Three friends, John, Sarah, and David, are playing a game of rock-paper-scissors. At the start of the game, each player has a different score: John has 3 points, Sarah has 5 points, and David has 7 points. As the game progresses, pairs of players swap scores. First, John and Sarah swap their scores. Then, Sarah and David swap their scores. Finally, David and John swap their scores. At the end of the game, John has the
+Options:
+(A) 3 points
+(B) 5 points
+(C) 7 points
+A: (C)
+
+Q: Three students, Mark, Lisa, and Alex, are taking a test. At the start of the test, each student has a different score: Mark has 70%, Lisa has 80%, and Alex has 90%. As the test progresses, pairs of students swap scores. First, Mark and Lisa swap their scores. Then, Lisa and Alex swap their scores. Finally, Alex and Mark swap their scores. At the end of the test, Mark has the
+Options:
+(A) 70%
+(B) 80%
+(C) 90%
+A: (C)
+
+Q: Three siblings, Jake, Emma, and Sam, are playing a game of hide-and-seek. At the start of the game, each sibling has a different hiding spot: Jake is hiding behind the couch, Emma is hiding in the closet, and Sam is hiding under the bed. As the game progresses, pairs of siblings swap hiding spots. First, Jake and Emma swap their hiding spots. Then, Emma and Sam swap their hiding spots. Finally, Sam and Jake swap their hiding spots. At the end of the game, Jake is hiding
+Options:
+(A) behind the couch
+(B) in the closet
+(C) under the bed
+A: (A)
+
+Q: Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a white present, Bob has a blue present, and Claire has a pink ball.
+As the event progresses, pairs of people swap gifts. First, Alice and Claire swap their gifts. Then, Claire and Bob swap their gifts. Finally, Bob and Alice swap their gifts. At the end of the event, Bob has the
+Options:
+(A) white present
+(B) blue present
+(C) pink ball
+A: (A)

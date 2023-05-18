@@ -1,0 +1,9 @@
+Q: It's been exactly one year since the start of the new decade. What is the date in MM/DD/YYYY?
+Options:
+(A) 01/01/2021
+(B) 12/31/2020
+(C) 01/01/2020
+(D) 12/30/2020
+(E) 01/02/2020
+(F) 12/31/2021
+A: (B)

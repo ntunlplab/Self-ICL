@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be both an optimist and a pessimist: First premise: Believing in the best possible outcome is incompatible with expecting the worst possible outcome. All this entails that it is impossible to be both an optimist and a pessimist."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

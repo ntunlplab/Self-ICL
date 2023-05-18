@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: John started his new job on June 15, 2019. 437 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 05/30/2020
+(B) 06/29/2020
+(C) 05/30/2057
+(D) 04/13/2020
+(E) 07/14/2020
+(F) 05/30/2084
+A: (A)
+
+Q: Sarah graduated from college on April 10, 2018. 990 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 01/02/2021
+(B) 12/31/2020
+(C) 01/02/2058
+(D) 11/13/2020
+(E) 02/22/2021
+(F) 01/02/2085
+A: (A)
+
+Q: Mark moved to a new city on October 5, 2017. 1245 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 07/18/2021
+(B) 07/17/2020
+(C) 07/18/2058
+(D) 06/01/2020
+(E) 08/27/2021
+(F) 07/18/2085
+A: (A)
+
+Q: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 09/13/2020
+(B) 08/14/2020
+(C) 09/13/2057
+(D) 07/26/2020
+(E) 10/04/2020
+(F) 09/13/2084
+A: (A)

@@ -1,0 +1,28 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells three fruits: oranges, mangoes, and plums. The plums are less expensive than the mangoes. The oranges are less expensive than the plums.
+Options:
+(A) The oranges are the second-most expensive
+(B) The mangoes are the second-most expensive
+(C) The plums are the second-most expensive
+
+New instance 1:
+Q: A bakery sells three types of cakes: chocolate, vanilla, and strawberry. The strawberry cake is the most expensive. The vanilla cake is less expensive than the chocolate cake.
+Options:
+(A) The chocolate cake is the second-most expensive
+(B) The vanilla cake is the second-most expensive
+(C) The strawberry cake is the second-most expensive
+
+New instance 2:
+Q: A pet store sells three types of animals: cats, dogs, and birds. The birds are the least expensive. The cats are more expensive than the dogs.
+Options:
+(A) The cats are the second-most expensive
+(B) The dogs are the second-most expensive
+(C) The birds are the second-most expensive
+
+New instance 3:
+Q: A toy store sells three types of toys: dolls, cars, and puzzles. The puzzles are the most expensive. The cars are less expensive than the dolls.
+Options:
+(A) The dolls are the second-most expensive
+(B) The cars are the second-most expensive
+(C) The puzzles are the second-most expensive

@@ -1,0 +1,89 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the kitchen counter, you see the following things arranged in a row: a navy blue mug, a lavender spoon, a white plate, and a maroon napkin. What is the color of the right-most thing?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) navy blue
+(N) lavender
+(O) white
+(P) maroon
+(Q) purple
+(R) grey
+A: (P)
+
+Q: On the desk, you see the following things arranged in a row: a beige eraser, a coral pen, a tan folder, and a lime green paperclip. What is the color of the right-most thing?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) beige
+(N) coral
+(O) tan
+(P) lime green
+(Q) purple
+(R) grey
+A: (P)
+
+Q: On the dresser, you see the following things arranged in a row: a bronze watch, a peach scarf, a khaki hat, and a periwinkle comb. What is the color of the right-most thing?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) bronze
+(N) peach
+(O) khaki
+(P) periwinkle
+(Q) purple
+(R) grey
+A: (P)
+
+Q: On the nightstand, you see the following things arranged in a row: a silver dog leash, a mauve bracelet, a pink textbook, and a fuchsia pencil. What is the color of the right-most thing?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+A: (H)

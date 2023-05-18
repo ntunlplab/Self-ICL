@@ -1,0 +1,8 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First premise: Being an expert of Aberdeen FC is sufficient for not being a follower of Club Atlético de Madrid. Second premise: Every expert of Aberdeen FC is not a fan of AZ Alkmaar or not a follower of Club Atlético de Madrid. Therefore, whoever is an expert of Aberdeen FC is not a fan of AZ Alkmaar."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

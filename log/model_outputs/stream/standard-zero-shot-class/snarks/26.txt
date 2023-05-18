@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) You're welcome my dear friend. Always glad to feed the elephants, that woefully endangered species
+(B) You're welcome my dear friend. Always glad to feed the trolls, that woefully endangered species
+A: (A)

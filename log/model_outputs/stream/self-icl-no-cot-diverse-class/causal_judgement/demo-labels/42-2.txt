@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Tom and his cousin Joe are playing a game of pool. Tom is a skilled player and Joe is not. Joe is determined to win the game and has been practicing for weeks. As the game progresses, Tom is in the lead. With only one shot left, Joe takes a difficult shot that requires precision. The ball goes into the pocket and Joe wins the game. Did Joe make the shot intentionally?
+Options:
+- Yes
+- No
+A: Yes

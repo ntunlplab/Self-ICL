@@ -1,0 +1,9 @@
+Q: Five students, Karen, Larry, Mike, Nancy, and Olivia, are playing a game. At the start of the game, they are each holding a coin: Karen has a silver coin, Larry has a gold coin, Mike has a copper coin, Nancy has a bronze coin, and Olivia has a nickel coin.
+As the game progresses, pairs of players trade coins. First, Karen and Nancy swap coins. Then, Larry and Nancy swap coins. Then, Larry and Mike swap coins. Then, Karen and Olivia swap coins. Finally, Mike and Olivia swap coins. At the end of the game, Karen has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) copper coin
+(D) bronze coin
+(E) nickel coin
+A: (B)

@@ -1,0 +1,9 @@
+Q: It has been exactly two years since the day that John graduated from college. What is the date today in MM/DD/YYYY?
+Options:
+(A) 05/06/2022
+(B) 05/06/2018
+(C) 05/06/2024
+(D) 08/06/2020
+(E) 05/06/2020
+(F) 05/06/2026
+A: (E)

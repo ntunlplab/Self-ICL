@@ -1,0 +1,9 @@
+Q: Five students are taking a test in a classroom. At the start of the test, they are each assigned to a seat: John is sitting in seat 1, Sarah is sitting in seat 2, Mark is sitting in seat 3, Lisa is sitting in seat 4, and David is sitting in seat 5.
+As the test progresses, pairs of students occasionally swap seats. First, John and Sarah trade seats. Then, Mark and Lisa trade seats. Then, Sarah and David trade seats. Then, John and Mark trade seats. Finally, Lisa and David trade seats. At the end of the test, Sarah is sitting in
+Options:
+(A) seat 1
+(B) seat 2
+(C) seat 3
+(D) seat 4
+(E) seat 5
+A: (B)

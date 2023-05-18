@@ -1,6 +1,7 @@
 batch_size: 1
 bbh_input_path: ./bbh/BIG-Bench-Hard/bbh
 bbh_task_desc_path: ./bbh/bbh_task_description.json
+demo_temperature: 0.0
 diverse_exemplars: true
 exemplars_mode: self-icl
 exp_name: self-icl-no-cot-diverse-class

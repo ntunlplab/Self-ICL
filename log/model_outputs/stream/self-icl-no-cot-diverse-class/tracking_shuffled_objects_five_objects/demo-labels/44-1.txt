@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a partner: Alex is playing against Ben, Charlie is playing against David, and Emily is playing against Fred.
+Throughout the game, the players often switch partners. First, Emily and Ben switch partners. Then, Alex and Ben switch partners. Then, David and Emily switch partners. Then, Emily and Charlie switch partners. Finally, Alex and Charlie switch partners. At the end of the game, Emily is playing against
+Options:
+(A) Alex
+(B) Ben
+(C) Charlie
+(D) David
+(E) Fred
+A: (E)

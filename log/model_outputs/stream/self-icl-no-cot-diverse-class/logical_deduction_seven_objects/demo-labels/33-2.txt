@@ -1,0 +1,10 @@
+Q: In a spelling bee, there were seven contestants: Tim, Rachel, Steve, Lucy, Ben, Kevin, and Jane. Jane finished below Lucy. Tim finished third. Lucy finished below Steve. Ben finished last. Steve finished second. Rachel finished fourth.
+Options:
+(A) Tim finished third
+(B) Rachel finished third
+(C) Steve finished third
+(D) Lucy finished third
+(E) Ben finished third
+(F) Kevin finished third
+(G) Jane finished third
+A: (A)

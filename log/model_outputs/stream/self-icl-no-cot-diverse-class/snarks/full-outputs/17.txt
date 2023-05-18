@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to have to stay up all night studying for this test
+(B) I'm so excited to have to stay up all night partying for this test
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to have to work on this project all weekend
+(B) I'm so excited to have to sleep all weekend
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to have to wake up early for work tomorrow
+(B) I'm so excited to have to stay up late for work tomorrow
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to return it
+(B) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to dumpster it
+A: (A)

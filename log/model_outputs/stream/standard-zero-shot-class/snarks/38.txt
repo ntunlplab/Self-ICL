@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, he's clearly apathetic to earning minutes based on his lackluster play and the fact that he's grabbing hot dogs at half time..
+(B) Yeah, he's clearly dedicated to earning minutes based on his lackluster play and the fact that he's grabbing hot dogs at half time..
+A: (A)

@@ -1,0 +1,10 @@
+Q: In a cooking competition, there were seven contestants: Sam, Joe, Tom, Sue, Mia, Amy, and Max. Sue finished last. Max finished above Joe. Tom finished above Max. Joe finished fourth. Sam finished second. Mia finished above Amy.
+Options:
+(A) Sam finished first
+(B) Joe finished first
+(C) Tom finished first
+(D) Sue finished first
+(E) Mia finished first
+(F) Amy finished first
+(G) Max finished first
+A: (C)

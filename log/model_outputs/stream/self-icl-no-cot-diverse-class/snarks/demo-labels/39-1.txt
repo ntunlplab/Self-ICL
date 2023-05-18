@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I have to stay late at work
+(B) I'm so glad I have to stay late at work...not
+A: (B)

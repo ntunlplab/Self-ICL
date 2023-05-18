@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) wonderful tiny old tan iron driving motorcycle
+(B) driving tiny wonderful iron old tan motorcycle
+A: (B)

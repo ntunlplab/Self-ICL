@@ -1,0 +1,8 @@
+Q: A bakery sells five types of bread: sourdough, rye, wheat, pumpernickel, and focaccia. The rye is the second-cheapest. The wheat is more expensive than the rye. The pumpernickel is the second-most expensive. The sourdough is the most expensive.
+Options:
+(A) The sourdough is the third-most expensive
+(B) The rye is the third-most expensive
+(C) The wheat is the third-most expensive
+(D) The pumpernickel is the third-most expensive
+(E) The focaccia is the third-most expensive
+A: (E)

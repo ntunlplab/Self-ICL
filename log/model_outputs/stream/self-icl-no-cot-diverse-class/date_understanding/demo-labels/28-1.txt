@@ -1,0 +1,9 @@
+Q: Today is June 1, 2021. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 06/01/2020
+(B) 05/01/2020
+(C) 07/01/2020
+(D) 06/15/2020
+(E) 05/15/2020
+(F) 07/15/2020
+A: (A)

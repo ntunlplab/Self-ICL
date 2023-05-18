@@ -1,0 +1,6 @@
+Q: Three friends, John, Sarah, and David, are playing a game of chess. At the start of the game, John is playing white, Sarah is playing black, and David is playing green. As the game progresses, pairs of players occasionally swap colors. First, John and Sarah trade colors. Then, Sarah and David trade colors. Finally, John and Sarah trade colors. At the end of the game, David is playing
+Options:
+(A) white
+(B) black
+(C) green
+A: (C)

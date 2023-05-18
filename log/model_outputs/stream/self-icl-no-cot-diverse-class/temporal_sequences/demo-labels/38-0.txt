@@ -1,0 +1,15 @@
+Q: Today, Sarah went to the movie theater. Between what times could they have gone?
+We know that:
+Sarah woke up at 7am.
+John saw Sarah waiting at the bus stop from 9am to 11am.
+Jessica saw Sarah shopping at the mall from 11am to 1pm.
+David saw Sarah eating lunch at the cafe from 1pm to 2pm.
+Susan saw Sarah walking in the park from 2pm to 4pm.
+The movie theater was closed after 6pm.
+Between what times could Sarah have gone to the movie theater?
+Options:
+(A) 11am to 1pm
+(B) 2pm to 4pm
+(C) 7am to 9am
+(D) 4pm to 6pm
+A: (D)

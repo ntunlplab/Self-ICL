@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) green new chair
+(B) new green chair
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small red car
+(B) red small car
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall wooden table
+(B) wooden tall table
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful white dress
+(B) white beautiful dress

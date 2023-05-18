@@ -1,0 +1,6 @@
+Q: In a race, there were three runners: Tom, Jack, and Harry. Tom finished below Jack. Jack finished above Harry.
+Options:
+(A) Tom finished first
+(B) Jack finished first
+(C) Harry finished first
+A: (C)

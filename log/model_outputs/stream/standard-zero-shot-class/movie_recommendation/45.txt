@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Fugitive, The Shawshank Redemption, Beauty and the Beast, Schindler's List:
+Options:
+(A) The Lion King
+(B) Urban Cowboy
+(C) Space Truckers
+(D) Universal Soldier Day of Reckoning
+A: (A)

@@ -1,0 +1,22 @@
+Q: Here is a table where the first line is a header and each subsequent line is a mammal:  name, age, speed (km/h), weight (kg)
+Bruno, 4, 40, 10
+Fido, 6, 50, 12
+Max, 8, 60, 14
+Lola, 10, 70, 16
+
+For example: the age of Bruno is 4, the weight of Lola is 16 kg, the speed of Fido is 50 km/h. 
+And here is a similar table, but listing rabbits:
+name, age, speed (km/h), weight (kg)
+Thumper, 3, 30, 2
+Flopsy, 5, 35, 3
+Mopsy, 7, 40, 4
+Cottontail, 9, 45, 5
+
+How many rabbits are there in the tables?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (D)

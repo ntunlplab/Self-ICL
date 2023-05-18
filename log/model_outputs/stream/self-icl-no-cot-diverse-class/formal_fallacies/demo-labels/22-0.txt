@@ -1,0 +1,6 @@
+Q: "Is John a brother of Mary? Is Jane related to Mark? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First of all, some aunt of John is a neighbor of Mark. Next, everyone who is both an aunt of Mary and an aunt of Jane is not a neighbor of Mark. All this entails that some aunt of John is not an aunt of Mary or not an aunt of Jane."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

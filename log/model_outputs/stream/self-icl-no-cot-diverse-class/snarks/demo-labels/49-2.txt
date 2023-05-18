@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) He's so reliable, he never misses a deadline
+(B) He's so reliable, he always misses a deadline
+A: (B)

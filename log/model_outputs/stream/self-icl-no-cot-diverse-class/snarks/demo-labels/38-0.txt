@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, she's clearly excited to be stuck in traffic for hours on end.
+(B) Yeah, she's clearly thrilled to be stuck in traffic for hours on end.
+A: (A)

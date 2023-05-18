@@ -1,0 +1,6 @@
+Q: "Is Alex a colleague of Sarah? Is Alex related to John? In large organizations, it is sometimes difficult to keep track of all one's coworkers. The following argument seeks to clarify some such relations: First premise: Nobody is neither a neighbor of David nor a classmate of Emma. We may conclude: Being a neighbor of David is necessary for not being a classmate of Emma."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

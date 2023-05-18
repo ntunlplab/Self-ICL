@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Godfather Part II, The Departed, Goodfellas:
+Options:
+(A) The Irishman
+(B) Scarface
+(C) The Untouchables
+(D) The Wolf of Wall Street
+A: (A)
+
+Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King:
+Options:
+(A) The Hobbit: An Unexpected Journey
+(B) The Hobbit: The Desolation of Smaug
+(C) The Hobbit: The Battle of the Five Armies
+(D) The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+A: (A)
+
+Q: Find a movie similar to The Matrix, The Matrix Reloaded, The Matrix Revolutions:
+Options:
+(A) Inception
+(B) The Terminator
+(C) Blade Runner
+(D) Avatar
+A: (A)
+
+Q: Find a movie similar to The Shawshank Redemption, Forrest Gump, Dances with Wolves, Mr Holland's Opus:
+Options:
+(A) PK
+(B) The Great Gatsby
+(C) Philadelphia
+(D) Casper Meets Wendy
+A: (C)

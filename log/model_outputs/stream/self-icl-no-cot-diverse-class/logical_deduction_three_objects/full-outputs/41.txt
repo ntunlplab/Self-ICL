@@ -1,0 +1,29 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: A restaurant serves three types of soup: tomato, vegetable, and chicken. The tomato soup is the most expensive. The vegetable soup is more expensive than the chicken soup.
+Options:
+(A) The tomato soup is the cheapest
+(B) The vegetable soup is the cheapest
+(C) The chicken soup is the cheapest
+A: (C)
+
+Q: A store sells three types of shoes: sandals, sneakers, and boots. The boots are the most expensive. The sandals are more expensive than the sneakers.
+Options:
+(A) The sandals are the cheapest
+(B) The sneakers are the cheapest
+(C) The boots are the cheapest
+A: (B)
+
+Q: A bakery sells three types of cakes: chocolate, vanilla, and strawberry. The strawberry cake is the most expensive. The chocolate cake is more expensive than the vanilla cake.
+Options:
+(A) The chocolate cake is the cheapest
+(B) The vanilla cake is the cheapest
+(C) The strawberry cake is the cheapest
+A: (B)
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells three fruits: cantaloupes, oranges, and watermelons. The oranges are the most expensive. The cantaloupes are more expensive than the watermelons.
+Options:
+(A) The cantaloupes are the cheapest
+(B) The oranges are the cheapest
+(C) The watermelons are the cheapest
+A: (C)

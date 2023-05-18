@@ -1,0 +1,6 @@
+Q: In a spelling bee, there were three contestants: Lisa, David, and Paul. Lisa finished below David. David finished above Paul.
+Options:
+(A) Lisa finished first
+(B) David finished first
+(C) Paul finished first
+A: (B)

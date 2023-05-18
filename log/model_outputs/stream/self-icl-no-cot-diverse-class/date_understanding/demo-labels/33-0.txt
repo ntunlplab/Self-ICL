@@ -1,0 +1,9 @@
+Q: Today is the twenty-third day of the seventh month of 2020. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 07/16/2020
+(B) 07/09/2020
+(C) 06/30/2020
+(D) 07/02/2020
+(E) 07/23/2022
+(F) 07/23/2020
+A: (A)

@@ -1,0 +1,48 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a purple present, Claire has a white present, Dave has a brown present, Eve has a green present, Fred has a blue present, and Gertrude has a yellow present.
+As the event progresses, pairs of people swap gifts. First, Dave and Bob swap their gifts. Then, Alice and Bob swap their gifts. Then, Gertrude and Alice swap their gifts. Then, Claire and Alice swap their gifts. Then, Bob and Dave swap their gifts. Then, Fred and Alice swap their gifts. Finally, Fred and Eve swap their gifts. At the end of the event, Gertrude has the
+Options:
+(A) red present
+(B) purple present
+(C) white present
+(D) brown present
+(E) green present
+(F) blue present
+(G) yellow present
+
+New instance 1:
+Q: Seven students are playing a game of musical chairs. At the start of the game, each student is sitting in a chair of a different color: Student 1 is sitting in a red chair, Student 2 is sitting in a purple chair, Student 3 is sitting in a white chair, Student 4 is sitting in a brown chair, Student 5 is sitting in a green chair, Student 6 is sitting in a blue chair, and Student 7 is sitting in a yellow chair.
+As the game progresses, pairs of students swap chairs. First, Student 4 and Student 2 swap chairs. Then, Student 1 and Student 2 swap chairs. Then, Student 7 and Student 1 swap chairs. Then, Student 3 and Student 1 swap chairs. Then, Student 2 and Student 4 swap chairs. Then, Student 6 and Student 1 swap chairs. Finally, Student 6 and Student 5 swap chairs. At the end of the game, Student 7 is sitting in a 
+Options:
+(A) red chair
+(B) purple chair
+(C) white chair
+(D) brown chair
+(E) green chair
+(F) blue chair
+(G) yellow chair
+
+New instance 2:
+Q: Seven friends are playing a game of rock-paper-scissors. At the start of the game, each friend is holding a hand of a different color: Friend 1 is holding a red hand, Friend 2 is holding a purple hand, Friend 3 is holding a white hand, Friend 4 is holding a brown hand, Friend 5 is holding a green hand, Friend 6 is holding a blue hand, and Friend 7 is holding a yellow hand.
+As the game progresses, pairs of friends swap hands. First, Friend 4 and Friend 2 swap hands. Then, Friend 1 and Friend 2 swap hands. Then, Friend 7 and Friend 1 swap hands. Then, Friend 3 and Friend 1 swap hands. Then, Friend 2 and Friend 4 swap hands. Then, Friend 6 and Friend 1 swap hands. Finally, Friend 6 and Friend 5 swap hands. At the end of the game, Friend 7 is holding a 
+Options:
+(A) red hand
+(B) purple hand
+(C) white hand
+(D) brown hand
+(E) green hand
+(F) blue hand
+(G) yellow hand
+
+New instance 3:
+Q: Seven chefs are competing in a cooking competition. At the start of the competition, each chef is assigned a dish of a different color: Chef 1 is assigned a red dish, Chef 2 is assigned a purple dish, Chef 3 is assigned a white dish, Chef 4 is assigned a brown dish, Chef 5 is assigned a green dish, Chef 6 is assigned a blue dish, and Chef 7 is assigned a yellow dish.
+As the competition progresses, pairs of chefs swap dishes. First, Chef 4 and Chef 2 swap dishes. Then, Chef 1 and Chef 2 swap dishes. Then, Chef 7 and Chef 1 swap dishes. Then, Chef 3 and Chef 1 swap dishes. Then, Chef 2 and Chef 4 swap dishes. Then, Chef 6 and Chef 1 swap dishes. Finally, Chef 6 and Chef 5 swap dishes. At the end of the competition, Chef 7 is assigned a 
+Options:
+(A) red dish
+(B) purple dish
+(C) white dish
+(D) brown dish
+(E) green dish
+(F) blue dish
+(G) yellow dish

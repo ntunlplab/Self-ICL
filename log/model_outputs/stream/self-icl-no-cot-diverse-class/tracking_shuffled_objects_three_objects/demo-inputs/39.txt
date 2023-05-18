@@ -1,0 +1,29 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Patrick, and Claire is dancing with Melissa.
+Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Bob and Claire switch partners. Finally, Claire and Alice switch partners. At the end of the dance, Bob is dancing with
+Options:
+(A) Lola
+(B) Patrick
+(C) Melissa
+
+New instance 1:
+Q: Three friends, Jack, Jill, and John, are playing a game of rock-paper-scissors. At the start of the game, Jack has rock, Jill has paper, and John has scissors. Throughout the game, the players often switch hands. First, Jack and Jill switch hands. Then, Jack and John switch hands. Finally, Jill and John switch hands. At the end of the game, who has rock?
+Options:
+(A) Jack
+(B) Jill
+(C) John
+
+New instance 2:
+Q: Three students, Sarah, Tom, and Tyler, are playing a game of tag. At the start of the game, Sarah is "it", Tom is running, and Tyler is hiding. Throughout the game, the players often switch roles. First, Sarah and Tom switch roles. Then, Sarah and Tyler switch roles. Finally, Tom and Tyler switch roles. At the end of the game, who is "it"?
+Options:
+(A) Sarah
+(B) Tom
+(C) Tyler
+
+New instance 3:
+Q: Three chefs, Alex, Ben, and Charlie, are competing in a cooking competition. At the start of the competition, Alex is making a cake, Ben is making a pie, and Charlie is making a tart. Throughout the competition, the chefs often switch dishes. First, Alex and Ben switch dishes. Then, Alex and Charlie switch dishes. Finally, Ben and Charlie switch dishes. At the end of the competition, who is making a tart?
+Options:
+(A) Alex
+(B) Ben
+(C) Charlie

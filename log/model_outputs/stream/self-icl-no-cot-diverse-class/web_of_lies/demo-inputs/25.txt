@@ -1,0 +1,12 @@
+Following is an example instance for the task: Evaluate a random boolean function expressed as a word problem. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Question: Amberly tells the truth. Jamey says Amberly tells the truth. Shalonda says Jamey lies. Antwan says Shalonda tells the truth. Alejandro says Antwan lies. Does Alejandro tell the truth?
+
+New instance 1:
+Q: Question: John says he always tells the truth. Sarah says John lies. Mark says Sarah tells the truth. Lisa says Mark lies. Does Lisa tell the truth?
+
+New instance 2:
+Q: Question: David says he always tells the truth. Rachel says David lies. Tom says Rachel tells the truth. Mary says Tom lies. Does Mary tell the truth?
+
+New instance 3:
+Q: Question: Paul says he always tells the truth. Emma says Paul lies. Jake says Emma tells the truth. Karen says Jake lies. Does Karen tell the truth?

@@ -1,0 +1,11 @@
+Q: Seven members of a robotics team are assigned to different roles for a robotics competition. At the start of the competition, they are each assigned to a position: Alice is playing the programmer, Bob is playing the engineer, Claire is playing the builder, Dave is playing the tester, Eve is playing the troubleshooter, Fred is playing the strategist, and Gertrude is playing the analyst.
+As the competition progresses, pairs of members occasionally swap positions. First, Dave and Bob trade positions. Then, Alice and Eve trade positions. Then, Claire and Gertrude trade positions. Then, Fred and Alice trade positions. Then, Bob and Claire trade positions. Then, Dave and Eve trade positions. Finally, Bob and Alice trade positions. At the end of the competition, Fred is playing
+Options:
+(A) programmer
+(B) engineer
+(C) builder
+(D) tester
+(E) troubleshooter
+(F) strategist
+(G) analyst
+A: (A)

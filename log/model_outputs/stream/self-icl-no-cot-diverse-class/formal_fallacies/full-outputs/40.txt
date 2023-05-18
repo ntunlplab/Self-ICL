@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "The following argument pertains to the question of whether or not it is possible to be a fan of two teams at the same time: All supporters of FC Barcelona are fans of Real Madrid. Now, all supporters of FC Barcelona are fans of Real Madrid or supporters of Manchester United. Therefore, all supporters of FC Barcelona are supporters of Manchester United."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "The following argument pertains to the question of whether or not it is possible to be a fan of two teams at the same time: All supporters of Manchester City are fans of Liverpool. Now, all supporters of Manchester City are fans of Liverpool or supporters of Chelsea. Therefore, all supporters of Manchester City are supporters of Chelsea."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "The following argument pertains to the question of whether or not it is possible to be a fan of two teams at the same time: All supporters of Juventus are fans of AC Milan. Now, all supporters of Juventus are fans of AC Milan or supporters of Inter Milan. Therefore, all supporters of Juventus are supporters of Inter Milan."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To start with, every critic of FC Ufa is a supporter of İstanbul Başakşehir. Now, every critic of FC Ufa is a supporter of İstanbul Başakşehir or a critic of PFC CSKA Moskva or an expert of Randers FC. Therefore, every critic of FC Ufa is a critic of PFC CSKA Moskva or an expert of Randers FC."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

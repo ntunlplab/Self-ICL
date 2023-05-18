@@ -1,0 +1,9 @@
+Q: The first day of school is September 8th, 2021. What is the date one year from today in MM/DD/YYYY?
+Options:
+(A) 09/08/2022
+(B) 09/07/2022
+(C) 09/09/2022
+(D) 09/08/2021
+(E) 09/07/2021
+(F) 09/09/2021
+A: (A)

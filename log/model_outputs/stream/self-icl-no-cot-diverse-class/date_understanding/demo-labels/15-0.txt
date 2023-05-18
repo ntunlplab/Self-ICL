@@ -1,0 +1,9 @@
+Q: The school year starts on Monday, August 12th, 2019. What is the date the following day in MM/DD/YYYY?
+Options:
+(A) 08/12/2019
+(B) 08/13/2019
+(C) 08/14/2019
+(D) 08/15/2019
+(E) 08/16/2019
+(F) 08/17/2019
+A: (B)

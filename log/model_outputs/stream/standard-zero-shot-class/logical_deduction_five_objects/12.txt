@@ -1,0 +1,10 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are five books: a brown book, a yellow book, an orange book, a green book, and a gray book. The green book is to the left of the gray book. The brown book is the third from the left. The gray book is the second from the right. The yellow book is to the left of the green book.
+Options:
+(A) The brown book is the third from the left
+(B) The yellow book is the third from the left
+(C) The orange book is the third from the left
+(D) The green book is the third from the left
+(E) The gray book is the third from the left
+A: (C)

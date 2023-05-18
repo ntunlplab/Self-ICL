@@ -1,0 +1,9 @@
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all avid movie watchers. At the start of the semester, they each buy one new movie: Fiona gets The Godfather, George gets The Shawshank Redemption, Harry gets The Dark Knight, Isabel gets The Lord of the Rings, and Jack gets The Matrix.
+As the semester proceeds, they start trading around the new movies. First, Fiona and George swap movies. Then, Harry and Isabel swap movies. Then, Isabel and Fiona swap movies. Then, Harry and Isabel swap movies. Finally, Jack and Harry swap movies. At the end of the semester, Isabel has
+Options:
+(A) The Godfather
+(B) The Shawshank Redemption
+(C) The Dark Knight
+(D) The Lord of the Rings
+(E) The Matrix
+A: (D)

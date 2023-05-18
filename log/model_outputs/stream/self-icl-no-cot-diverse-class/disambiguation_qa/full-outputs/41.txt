@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher gave the students their assignments.
+Options:
+(A) Gave the teacher
+(B) Gave the students
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient to take their medicine.
+Options:
+(A) Told the doctor
+(B) Told the patient
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The parents asked their children to do their homework.
+Options:
+(A) Asked the parents
+(B) Asked the children
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The cleaner called the guard and asked them to open the door.
+Options:
+(A) Asked the cleaner
+(B) Asked the guard
+(C) Ambiguous
+A: (B)

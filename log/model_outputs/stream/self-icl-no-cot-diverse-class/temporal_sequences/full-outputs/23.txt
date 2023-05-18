@@ -1,0 +1,65 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, Sarah went to the library. Between what times could they have gone?
+We know that:
+Sarah woke up at 7am.
+Sarah saw Sarah eating breakfast at the cafe from 7am to 8am.
+Sean saw Sarah playing basketball at the park from 9am to 11am.
+Susan saw Sarah shopping at the mall from 11am to 2pm.
+Nancy saw Sarah attending a concert from 2pm to 5pm.
+The library was closed after 6pm.
+Between what times could Sarah have gone to the library?
+Options:
+(A) 5pm to 6pm
+(B) 2pm to 5pm
+(C) 8am to 9am
+(D) 11am to 2pm
+A: (A)
+
+Q: Today, John went to the movie theater. Between what times could they have gone?
+We know that:
+John woke up at 8am.
+John saw John studying at the library from 8am to 10am.
+Sean saw John playing tennis at the court from 10am to 12pm.
+Susan saw John eating lunch at the restaurant from 12pm to 2pm.
+Nancy saw John visiting the museum from 2pm to 5pm.
+The movie theater was closed after 8pm.
+Between what times could John have gone to the movie theater?
+Options:
+(A) 5pm to 8pm
+(B) 2pm to 5pm
+(C) 10am to 12pm
+(D) 8am to 10am
+A: (A)
+
+Q: Today, Jane went to the park. Between what times could they have gone?
+We know that:
+Jane woke up at 9am.
+Jane saw Jane attending a lecture at the university from 9am to 11am.
+Sean saw Jane grocery shopping at the store from 11am to 1pm.
+Susan saw Jane taking a nap at home from 1pm to 3pm.
+Nancy saw Jane attending a yoga class from 3pm to 6pm.
+The park was closed after 7pm.
+Between what times could Jane have gone to the park?
+Options:
+(A) 6pm to 7pm
+(B) 3pm to 6pm
+(C) 11am to 1pm
+(D) 1pm to 3pm
+A: (A)
+
+Q: Today, William went to the art studio. Between what times could they have gone?
+We know that:
+William woke up at 6am.
+William saw William working out at the gym from 6am to 7am.
+Sean saw William taking photos near the Eiffel Tower from 9am to 12pm.
+Susan saw William working at the office from 12pm to 8pm.
+Nancy saw William buying a bike at the bike shop from 8pm to 10pm.
+The art studio was closed after 10pm.
+Between what times could William have gone to the art studio?
+Options:
+(A) 8pm to 10pm
+(B) 9am to 12pm
+(C) 6am to 7am
+(D) 7am to 9am
+A: (A)

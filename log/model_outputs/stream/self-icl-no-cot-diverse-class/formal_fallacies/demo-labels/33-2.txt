@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: All birds can fly, and all penguins are birds. Therefore, all penguins can fly."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

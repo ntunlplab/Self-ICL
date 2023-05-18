@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: First, no one who is a student at Harvard University is a student at Yale University. Second, everyone who is a resident of Massachusetts is a student at Harvard University. Therefore, everyone who is not a resident of Massachusetts is not a student at Yale University."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be a successful athlete without having any natural talent: First, having natural talent is necessary for being a successful athlete. Second, not having any natural talent is sufficient for not being a successful athlete. We may conclude that it is not possible to be a successful athlete without having any natural talent."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

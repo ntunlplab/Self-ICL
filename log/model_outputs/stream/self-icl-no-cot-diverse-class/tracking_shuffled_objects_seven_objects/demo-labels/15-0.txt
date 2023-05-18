@@ -1,0 +1,11 @@
+Q: Seven students are playing a game. At the start of the game, they are each holding a card: Alex has an Ace of Hearts, Ben has a King of Clubs, Charlie has a Queen of Diamonds, David has a Jack of Spades, Emma has a 10 of Hearts, Frank has a 9 of Clubs, and Grace has an 8 of Diamonds.
+As the game progresses, pairs of students trade cards. First, Alex and Ben swap cards. Then, Charlie and David swap cards. Then, Emma and Frank swap cards. Then, Grace and Alex swap cards. Then, Charlie and Ben swap cards. Then, David and Emma swap cards. Finally, Charlie and Ben swap cards. At the end of the game, Alex has the
+Options:
+(A) Ace of Hearts
+(B) King of Clubs
+(C) Queen of Diamonds
+(D) Jack of Spades
+(E) 10 of Hearts
+(F) 9 of Clubs
+(G) 8 of Diamonds
+A: (B)

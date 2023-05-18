@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "T.Y. Hilton threw a touchdown in the AFC divisional round."
+
+New instance 1:
+Q: Is the following sentence plausible? "The New England Patriots won the Super Bowl with a last-minute field goal."
+
+New instance 2:
+Q: Is the following sentence plausible? "The Los Angeles Lakers won the NBA championship with a buzzer-beating three-pointer."
+
+New instance 3:
+Q: Is the following sentence plausible? "The Chicago Cubs won the World Series in extra innings with a walk-off home run."

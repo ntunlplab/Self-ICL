@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John is a student at a university. He is taking a course in physics and has been studying for the final exam. On the day of the exam, he overslept and was late to the exam. His professor had given him a warning the week before that if he was late to the exam, he would not be allowed to take it. If the professor had not given John the warning, would he have been able to take the exam on time?
+Options:
+- Yes
+- No
+A: No

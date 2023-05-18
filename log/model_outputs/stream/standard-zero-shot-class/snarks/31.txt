@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I earn money for winning? Sign me up!
+(B) I lose money for winning? Sign me up!
+A: (B)

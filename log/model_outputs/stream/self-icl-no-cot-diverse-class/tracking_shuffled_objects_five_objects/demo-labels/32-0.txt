@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: Alice has a red token, Bob has a blue token, Claire has a yellow token, Dave has a green token, and Eve has a purple token.
+As the game progresses, pairs of players swap tokens. First, Bob and Dave swap their tokens. Then, Bob and Eve swap their tokens. Then, Dave and Claire swap their tokens. Then, Dave and Bob swap their tokens. Finally, Alice and Dave swap their tokens. At the end of the game, Bob has the
+Options:
+(A) red token
+(B) blue token
+(C) yellow token
+(D) green token
+(E) purple token
+A: (B)

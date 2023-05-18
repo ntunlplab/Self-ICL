@@ -1,0 +1,8 @@
+Q: In a row of five books, the first book is a novel, the second book is a biography, the third book is a cookbook, the fourth book is a history book, and the fifth book is a children's book. The biography is to the left of the cookbook. The history book is to the left of the children's book. The novel is to the left of the biography. The cookbook is to the left of the history book.
+Options:
+(A) The novel is the second from the left
+(B) The biography is the second from the left
+(C) The cookbook is the second from the left
+(D) The history book is the second from the left
+(E) The children's book is the second from the left
+A: (B)

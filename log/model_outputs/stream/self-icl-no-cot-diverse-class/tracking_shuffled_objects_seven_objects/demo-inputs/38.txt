@@ -1,0 +1,51 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Lola, Claire is dancing with Patrick, Dave is dancing with Sam, Eve is dancing with Izzi, Fred is dancing with Helga, and Gertrude is dancing with Rodrigo.
+Throughout the song, the dancers often trade partners. First, Fred and Gertrude switch partners. Then, Claire and Fred switch partners. Then, Dave and Alice switch partners. Then, Alice and Bob switch partners. Then, Gertrude and Eve switch partners. Then, Dave and Gertrude switch partners. Finally, Alice and Dave switch partners. At the end of the dance, Eve is dancing with
+Options:
+(A) Melissa
+(B) Lola
+(C) Patrick
+(D) Sam
+(E) Izzi
+(F) Helga
+(G) Rodrigo
+
+New instance 1:
+Q: At a game of musical chairs, 8 players are competing. At the start of the game, they are each sitting in a chair: Alex is sitting in chair 1, Ben is sitting in chair 2, Charlie is sitting in chair 3, Danielle is sitting in chair 4, Eric is sitting in chair 5, Fiona is sitting in chair 6, George is sitting in chair 7, and Harry is sitting in chair 8.
+Throughout the game, the players often switch chairs. First, Alex and Ben switch chairs. Then, Charlie and Danielle switch chairs. Then, Eric and Fiona switch chairs. Then, George and Harry switch chairs. Then, Alex and Charlie switch chairs. Then, Ben and Danielle switch chairs. Finally, Eric and George switch chairs. At the end of the game, Harry is sitting in
+Options:
+(A) Chair 1
+(B) Chair 2
+(C) Chair 3
+(D) Chair 4
+(E) Chair 5
+(F) Chair 6
+(G) Chair 7
+(H) Chair 8
+
+New instance 2:
+Q: At a game of tag, 8 players are competing. At the start of the game, they are each in a different corner of the room: Alex is in corner 1, Ben is in corner 2, Charlie is in corner 3, Danielle is in corner 4, Eric is in corner 5, Fiona is in corner 6, George is in corner 7, and Harry is in corner 8.
+Throughout the game, the players often switch corners. First, Alex and Ben switch corners. Then, Charlie and Danielle switch corners. Then, Eric and Fiona switch corners. Then, George and Harry switch corners. Then, Alex and Charlie switch corners. Then, Ben and Danielle switch corners. Finally, Eric and George switch corners. At the end of the game, Harry is in
+Options:
+(A) Corner 1
+(B) Corner 2
+(C) Corner 3
+(D) Corner 4
+(E) Corner 5
+(F) Corner 6
+(G) Corner 7
+(H) Corner 8
+
+New instance 3:
+Q: At a game of hide and seek, 8 players are competing. At the start of the game, they are each hiding in a different room: Alex is in room 1, Ben is in room 2, Charlie is in room 3, Danielle is in room 4, Eric is in room 5, Fiona is in room 6, George is in room 7, and Harry is in room 8.
+Throughout the game, the players often switch rooms. First, Alex and Ben switch rooms. Then, Charlie and Danielle switch rooms. Then, Eric and Fiona switch rooms. Then, George and Harry switch rooms. Then, Alex and Charlie switch rooms. Then, Ben and Danielle switch rooms. Finally, Eric and George switch rooms. At the end of the game, Harry is in
+Options:
+(A) Room 1
+(B) Room 2
+(C) Room 3
+(D) Room 4
+(E) Room 5
+(F) Room 6
+(G) Room 7
+(H) Room 8

@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She was so excited to get a new car
+(B) She was so excited to get a new bicycle
+A: (B)

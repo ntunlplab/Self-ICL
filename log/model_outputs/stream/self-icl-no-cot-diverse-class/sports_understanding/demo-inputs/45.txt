@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "Edinson Cavani caught the screen pass."
+
+New instance 1:
+Q: Is the following sentence plausible? "The referee called a penalty for a high tackle on the quarterback."
+
+New instance 2:
+Q: Is the following sentence plausible? "The soccer team scored a goal from a corner kick."
+
+New instance 3:
+Q: Is the following sentence plausible? "The basketball player made a three-pointer from half court."

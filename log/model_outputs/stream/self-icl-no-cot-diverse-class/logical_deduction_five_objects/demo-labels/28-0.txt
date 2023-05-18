@@ -1,0 +1,8 @@
+Q: In a cooking competition, there were five contestants: Sarah, Tom, John, Jane, and Alex. Jane finished third. Jane finished below Sarah. Tom finished second-to-last. Alex finished last.
+Options:
+(A) Sarah finished first
+(B) Tom finished first
+(C) John finished first
+(D) Jane finished first
+(E) Alex finished first
+A: (A)

@@ -1,0 +1,9 @@
+Q: Today is the twenty-ninth day of the fourth month of 2021. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 04/22/2021
+(B) 04/15/2021
+(C) 04/08/2021
+(D) 03/25/2021
+(E) 04/29/2023
+(F) 04/29/2021
+A: (B)

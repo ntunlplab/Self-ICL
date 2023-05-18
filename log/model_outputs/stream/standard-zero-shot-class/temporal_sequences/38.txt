@@ -1,0 +1,18 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, David went to the coffee shop. Between what times could they have gone?
+We know that:
+David woke up at 8am.
+Elizabeth saw David waiting at the airport from 10am to 1pm.
+David saw David playing tennis at the tennis court from 1pm to 2pm.
+Jessica saw David working out at the gym from 2pm to 3pm.
+Susan saw David waiting at the train station from 3pm to 4pm.
+Sean saw David sitting on a rooftop from 4pm to 6pm.
+The coffee shop was closed after 6pm.
+Between what times could David have gone to the coffee shop?
+Options:
+(A) 3pm to 4pm
+(B) 10am to 1pm
+(C) 8am to 10am
+(D) 1pm to 2pm
+A: (C)

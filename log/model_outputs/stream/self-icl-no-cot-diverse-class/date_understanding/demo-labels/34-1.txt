@@ -1,0 +1,9 @@
+Q: The first day of 2021 is a Thursday, and today is the first Wednesday of 2021. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 01/08/1960
+(B) 01/01/2021
+(C) 02/08/2020
+(D) 01/08/2021
+(E) 10/22/2020
+(F) 01/08/2045
+A: (D)

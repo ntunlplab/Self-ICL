@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to fly a plane: First, if someone has a pilot's license, then they can fly a plane. Second, no one has a pilot's license. In consequence, no one can fly a plane."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

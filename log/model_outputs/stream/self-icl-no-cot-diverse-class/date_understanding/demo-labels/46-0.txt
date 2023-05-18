@@ -1,0 +1,9 @@
+Q: John was born on the first day of August in 1999. Today is his 18-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 08/02/2017
+(B) 08/03/2017
+(C) 07/31/2017
+(D) 07/01/2017
+(E) 08/01/2017
+(F) 09/01/2017
+A: (B)

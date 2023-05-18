@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) You're welcome my dear friend. Always glad to feed the elephants, that woefully endangered species
+(B) You're welcome my dear friend. Always glad to feed the trolls, that woefully endangered species
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad you could make it to the party.
+(B) I'm so glad you could make it to the party. Not.
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm sure you'll do great on the test.
+(B) I'm sure you'll do great on the test. Yeah, right.
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) You look so nice today.
+(B) You look so nice today. Sure, if you like that kind of thing.

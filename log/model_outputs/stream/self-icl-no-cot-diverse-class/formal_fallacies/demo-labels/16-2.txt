@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To start with, whoever is a resident of California is not a resident of Texas. Now, whoever is a resident of Arizona is not a resident of California. Hence, no resident of Arizona is a resident of Texas."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,5 @@
+Q: If you follow these instructions, do you return to the starting point? Always face up. Take 4 steps forward. Take 4 steps backward. Take 9 steps to the left. Take 9 steps to the right.
+Options:
+- Yes
+- No
+A: Yes

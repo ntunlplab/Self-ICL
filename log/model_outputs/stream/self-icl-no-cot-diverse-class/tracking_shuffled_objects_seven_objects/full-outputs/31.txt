@@ -1,0 +1,46 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: At a game of musical chairs, 8 players are seated in a circle. At the start of the game, the players are seated in the following order: Player 1 is seated next to Player 2, Player 2 is seated next to Player 3, Player 3 is seated next to Player 4, Player 4 is seated next to Player 5, Player 5 is seated next to Player 6, Player 6 is seated next to Player 7, and Player 7 is seated next to Player 8. Throughout the game, the players often switch seats. First, Player 1 and Player 4 switch seats. Then, Player 4 and Player 6 switch seats. Then, Player 6 and Player 8 switch seats. Then, Player 8 and Player 2 switch seats. Then, Player 2 and Player 5 switch seats. Then, Player 5 and Player 7 switch seats. Finally, Player 7 and Player 3 switch seats. At the end of the game, Player 1 is seated next to
+Options:
+(A) Player 2
+(B) Player 3
+(C) Player 4
+(D) Player 5
+(E) Player 6
+(F) Player 7
+(G) Player 8
+A: (G)
+
+Q: At a game of tag, 8 children are running around a playground. At the start of the game, the children are running in the following order: Child 1 is running next to Child 2, Child 2 is running next to Child 3, Child 3 is running next to Child 4, Child 4 is running next to Child 5, Child 5 is running next to Child 6, Child 6 is running next to Child 7, and Child 7 is running next to Child 8. Throughout the game, the children often switch positions. First, Child 1 and Child 4 switch positions. Then, Child 4 and Child 6 switch positions. Then, Child 6 and Child 8 switch positions. Then, Child 8 and Child 2 switch positions. Then, Child 2 and Child 5 switch positions. Then, Child 5 and Child 7 switch positions. Finally, Child 7 and Child 3 switch positions. At the end of the game, Child 1 is running next to
+Options:
+(A) Child 2
+(B) Child 3
+(C) Child 4
+(D) Child 5
+(E) Child 6
+(F) Child 7
+(G) Child 8
+A: (G)
+
+Q: At a game of hide-and-seek, 8 players are hiding in a house. At the start of the game, the players are hiding in the following order: Player 1 is hiding next to Player 2, Player 2 is hiding next to Player 3, Player 3 is hiding next to Player 4, Player 4 is hiding next to Player 5, Player 5 is hiding next to Player 6, Player 6 is hiding next to Player 7, and Player 7 is hiding next to Player 8. Throughout the game, the players often switch hiding spots. First, Player 1 and Player 4 switch hiding spots. Then, Player 4 and Player 6 switch hiding spots. Then, Player 6 and Player 8 switch hiding spots. Then, Player 8 and Player 2 switch hiding spots. Then, Player 2 and Player 5 switch hiding spots. Then, Player 5 and Player 7 switch hiding spots. Finally, Player 7 and Player 3 switch hiding spots. At the end of the game, Player 1 is hiding next to
+Options:
+(A) Player 2
+(B) Player 3
+(C) Player 4
+(D) Player 5
+(E) Player 6
+(F) Player 7
+(G) Player 8
+A: (G)
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Lola, Claire is dancing with Izzi, Dave is dancing with Rodrigo, Eve is dancing with Helga, Fred is dancing with Sam, and Gertrude is dancing with Melissa.
+Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Eve and Dave switch partners. Then, Fred and Gertrude switch partners. Then, Gertrude and Alice switch partners. Then, Alice and Dave switch partners. Then, Claire and Alice switch partners. Finally, Alice and Dave switch partners. At the end of the dance, Eve is dancing with
+Options:
+(A) Patrick
+(B) Lola
+(C) Izzi
+(D) Rodrigo
+(E) Helga
+(F) Sam
+(G) Melissa
+A: (D)

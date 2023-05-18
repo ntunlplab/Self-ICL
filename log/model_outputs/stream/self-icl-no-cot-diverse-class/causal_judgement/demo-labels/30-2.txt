@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Bob is a carpenter who builds furniture. He has been using the same type of wood for years, but this year he decided to try something new. He bought a new type of wood called A X200R, which he used to make his furniture. After a few weeks, Bob noticed that the furniture made with A X200R was not as strong and durable as the furniture made with his usual wood. He was confused and wondered if the new wood had caused the furniture to not turn out as well. Did Bob cause the furniture to not turn out as well?
+Options:
+- Yes
+- No
+A: No

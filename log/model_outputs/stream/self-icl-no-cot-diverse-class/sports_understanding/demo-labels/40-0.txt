@@ -1,0 +1,2 @@
+Q: Is the following sentence plausible? "The Boston Red Sox won the World Series in 2020."
+A: No,

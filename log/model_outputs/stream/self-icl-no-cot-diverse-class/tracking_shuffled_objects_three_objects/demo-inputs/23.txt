@@ -1,0 +1,32 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a purple ball, Bob has a yellow ball, and Claire has a orange ball.
+As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the
+Options:
+(A) purple ball
+(B) yellow ball
+(C) orange ball
+
+New instance 1:
+Q: Jack, Jill, and John are playing a game. At the start of the game, they are each holding a card: Jack has a red card, Jill has a blue card, and John has a green card.
+As the game progresses, pairs of players trade cards. First, John and Jill swap cards. Then, Jill and Jack swap cards. Finally, John and Jill swap cards. At the end of the game, John has the
+Options:
+(A) red card
+(B) blue card
+(C) green card
+
+New instance 2:
+Q: Sarah, Tom, and Tyler are playing a game. At the start of the game, they are each holding a coin: Sarah has a silver coin, Tom has a gold coin, and Tyler has a bronze coin.
+As the game progresses, pairs of players trade coins. First, Tyler and Tom swap coins. Then, Tom and Sarah swap coins. Finally, Tyler and Tom swap coins. At the end of the game, Tyler has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) bronze coin
+
+New instance 3:
+Q: Alex, Beth, and Charlie are playing a game. At the start of the game, they are each holding a stone: Alex has a white stone, Beth has a black stone, and Charlie has a grey stone.
+As the game progresses, pairs of players trade stones. First, Charlie and Beth swap stones. Then, Beth and Alex swap stones. Finally, Charlie and Beth swap stones. At the end of the game, Charlie has the
+Options:
+(A) white stone
+(B) black stone
+(C) grey stone

@@ -1,0 +1,6 @@
+Q: A pet store sells three types of pet food: kibble, canned, and raw. The raw food is the most expensive. The kibble is less expensive than the canned food.
+Options:
+(A) The kibble is the cheapest
+(B) The canned food is the cheapest
+(C) The raw food is the cheapest
+A: (C)

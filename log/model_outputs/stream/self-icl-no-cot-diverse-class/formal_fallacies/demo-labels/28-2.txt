@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to predict the outcome of a football game: If the home team has a better record than the away team, then the home team will win. Moreover, if the away team has a better record than the home team, then the away team will win. Finally, the away team has a better record than the home team. Therefore, the away team will win."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) The world is a peaceful place
+(B) The world is a chaotic place
+A: (A)

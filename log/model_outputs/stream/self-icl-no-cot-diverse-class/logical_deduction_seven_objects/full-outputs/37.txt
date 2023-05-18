@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: A toy store sells seven stuffed animals: bears, cats, dogs, elephants, giraffes, hippos, and monkeys. The cats are the second-cheapest. The elephants are less expensive than the hippos. The monkeys are more expensive than the bears. The monkeys are the third-cheapest. The dogs are the second-most expensive. The giraffes are the third-most expensive. The bears are the fourth-most expensive.
+Options:
+(A) The bears are the second-most expensive
+(B) The cats are the second-most expensive
+(C) The dogs are the second-most expensive
+(D) The elephants are the second-most expensive
+(E) The giraffes are the second-most expensive
+(F) The hippos are the second-most expensive
+(G) The monkeys are the second-most expensive
+A: (D)
+
+Q: A pet store sells seven types of fish: guppies, tetras, goldfish, angelfish, cichlids, barbs, and mollies. The tetras are the second-cheapest. The guppies are less expensive than the cichlids. The mollies are more expensive than the goldfish. The mollies are the third-cheapest. The angelfish are the second-most expensive. The barbs are the third-most expensive. The goldfish are the fourth-most expensive.
+Options:
+(A) The guppies are the second-most expensive
+(B) The tetras are the second-most expensive
+(C) The goldfish are the second-most expensive
+(D) The angelfish are the second-most expensive
+(E) The cichlids are the second-most expensive
+(F) The barbs are the second-most expensive
+(G) The mollies are the second-most expensive
+A: (B)
+
+Q: A flower shop sells seven types of flowers: roses, daisies, lilies, tulips, carnations, orchids, and sunflowers. The daisies are the second-cheapest. The roses are less expensive than the orchids. The sunflowers are more expensive than the carnations. The sunflowers are the third-cheapest. The lilies are the second-most expensive. The tulips are the third-most expensive. The carnations are the fourth-most expensive.
+Options:
+(A) The roses are the second-most expensive
+(B) The daisies are the second-most expensive
+(C) The lilies are the second-most expensive
+(D) The tulips are the second-most expensive
+(E) The carnations are the second-most expensive
+(F) The orchids are the second-most expensive
+(G) The sunflowers are the second-most expensive
+A: (C)
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells seven fruits: loquats, cantaloupes, watermelons, apples, oranges, pears, and mangoes. The oranges are the second-cheapest. The apples are less expensive than the pears. The mangoes are more expensive than the cantaloupes. The mangoes are the third-cheapest. The watermelons are the second-most expensive. The loquats are the third-most expensive.
+Options:
+(A) The loquats are the second-most expensive
+(B) The cantaloupes are the second-most expensive
+(C) The watermelons are the second-most expensive
+(D) The apples are the second-most expensive
+(E) The oranges are the second-most expensive
+(F) The pears are the second-most expensive
+(G) The mangoes are the second-most expensive
+A: (E)

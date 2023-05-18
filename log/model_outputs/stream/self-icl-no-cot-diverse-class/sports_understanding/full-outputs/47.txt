@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The soccer team scored a touchdown in the last minute of the game."
+A: No,
+
+Q: Is the following sentence plausible? "The basketball team won the match by bowling a strike."
+A: No,
+
+Q: Is the following sentence plausible? "The hockey team scored a goal by hitting a home run."
+A: No,
+
+Q: Is the following sentence plausible? "Petr Cech bricked the three pointer."
+A: No.

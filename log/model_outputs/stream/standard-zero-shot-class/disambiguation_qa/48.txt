@@ -1,0 +1,10 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: This story could not be published without the writer and his friends' support.
+Options:
+(A) They were the writer's friends
+(B) They were the friends' friends
+(C) They were the story's friends
+(D) Ambiguous
+A: (A)

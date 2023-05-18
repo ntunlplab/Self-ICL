@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm sure the government will be able to solve all of the world's problems
+(B) I'm sure the government won't be able to solve all of the world's problems
+A: (A)

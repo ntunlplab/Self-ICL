@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient that they should take the medicine twice a day.
+Options:
+(A) The doctor should take the medicine twice a day
+(B) The patient should take the medicine twice a day
+(C) Ambiguous
+A: (B)

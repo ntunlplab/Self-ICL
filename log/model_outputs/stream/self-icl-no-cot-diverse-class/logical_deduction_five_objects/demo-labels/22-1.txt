@@ -1,0 +1,8 @@
+Q: In a race, there were five runners: Alex, Ryan, Mark, Sam, and Paul. Ryan finished below Mark. Paul finished below Alex. Paul finished above Sam. Mark finished below Sam.
+Options:
+(A) Alex finished last
+(B) Ryan finished last
+(C) Mark finished last
+(D) Sam finished last
+(E) Paul finished last
+A: (E)

@@ -1,0 +1,13 @@
+Task description: Evaluate a random boolean function expressed as a word problem.
+
+Q: Question: John says the sky is green. Sarah says the sky is blue. Mark says Sarah is wrong. Lisa says Mark is wrong. Paul says Lisa is right. Is Paul correct?
+A: Yes,
+
+Q: Question: Jack says the sun is hot. Jill says the sun is cold. Tom says Jack is wrong. Mary says Tom is wrong. Steve says Mary is right. Is Steve correct?
+A: Yes,
+
+Q: Question: Alex says the moon is round. Beth says the moon is square. Carl says Beth is wrong. Dave says Carl is wrong. Emily says Dave is right. Is Emily correct?
+A: No,
+
+Q: Question: Audrie tells the truth. Yoland says Audrie lies. Shaunda says Yoland tells the truth. Raymond says Shaunda lies. Maybelle says Raymond lies. Does Maybelle tell the truth?
+A: No,

@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Here comes a perfectly valid argument: To begin with, whatever is an ingredient of Vertica Rush and an ingredient of Liqua Versa Gel is not an ingredient of Eyeshadow Quad. It follows that every ingredient of Eyeshadow Quad is not an ingredient of Liqua Versa Gel or not an ingredient of Vertica Rush."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Here comes a perfectly valid argument: All cats are animals, and all animals have four legs. Therefore, all cats have four legs."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Here comes a perfectly valid argument: All dogs are mammals, and all mammals have fur. Therefore, all dogs have fur."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Here comes a perfectly valid argument: All birds can fly, and all penguins are birds. Therefore, all penguins can fly."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

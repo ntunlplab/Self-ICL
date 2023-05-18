@@ -1,0 +1,7 @@
+Q: Who is responsible for the destruction of a building that was damaged by a tornado?
+A tornado swept through a small town and caused extensive damage to a building. The building had been built to withstand a Category 5 hurricane, but the tornado was much stronger than expected. The building was completely destroyed. Who is responsible for the destruction of the building?
+Options:
+- The builders of the building
+- The people who failed to predict the strength of the tornado
+- The tornado itself
+A: The people

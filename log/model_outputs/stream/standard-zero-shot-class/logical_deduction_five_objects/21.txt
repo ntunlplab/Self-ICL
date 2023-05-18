@@ -1,0 +1,10 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are five vehicles: a truck, a station wagon, a motorcyle, a convertible, and a hatchback. The convertible is newer than the truck. The station wagon is newer than the hatchback. The convertible is older than the hatchback. The station wagon is the second-newest.
+Options:
+(A) The truck is the newest
+(B) The station wagon is the newest
+(C) The motorcyle is the newest
+(D) The convertible is the newest
+(E) The hatchback is the newest
+A: (D)

@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Dark Knight, The Silence of the Lambs, The Matrix:
+Options:
+(A) The Departed
+(B) Inception
+(C) The Prestige
+(D) Fight Club
+A: (A)
+
+Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Hobbit: An Unexpected Journey, The Chronicles of Narnia: The Lion, The Witch and the Wardrobe, Harry Potter and the Sorcerer's Stone:
+Options:
+(A) The Chronicles of Narnia: Prince Caspian
+(B) The Hobbit: The Desolation of Smaug
+(C) Harry Potter and the Chamber of Secrets
+(D) The Lord of the Rings: The Two Towers
+A: (B)
+
+Q: Find a movie similar to The Hangover, Bridesmaids, Superbad, Knocked Up:
+Options:
+(A) The 40-Year-Old Virgin
+(B) We're the Millers
+(C) Ted
+(D) This Is the End
+A: (A)
+
+Q: Find a movie similar to The Fugitive, The Shawshank Redemption, Beauty and the Beast, Schindler's List:
+Options:
+(A) The Lion King
+(B) Urban Cowboy
+(C) Space Truckers
+(D) Universal Soldier Day of Reckoning
+A: (B)

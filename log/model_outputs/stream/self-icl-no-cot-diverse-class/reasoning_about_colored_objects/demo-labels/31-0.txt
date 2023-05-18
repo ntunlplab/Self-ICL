@@ -1,0 +1,5 @@
+Q: On the kitchen counter, I see a yellow bowl, a navy blue plate, a teal spoon, a pink cup, and an orange napkin. Is the plate beige?
+Options:
+(A) yes
+(B) no
+A: (B)

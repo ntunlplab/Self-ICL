@@ -1,0 +1,11 @@
+Q: Seven astronauts are on a mission to explore a distant planet. At the start of the mission, they are each assigned to a position: Alex is piloting the ship, Ben is operating the communications system, Charlie is managing the navigation system, Dave is monitoring the environmental systems, Eve is managing the propulsion systems, Fred is operating the life support systems, and Gertrude is managing the security systems.
+As the mission progresses, pairs of astronauts occasionally swap positions. First, Fred and Charlie trade positions. Then, Gertrude and Alex trade positions. Then, Fred and Dave trade positions. Then, Fred and Charlie trade positions. Then, Alex and Ben trade positions. Then, Dave and Ben trade positions. Finally, Fred and Eve trade positions. At the end of the mission, Ben is operating
+Options:
+(A) the ship
+(B) the communications system
+(C) the navigation system
+(D) the environmental systems
+(E) the propulsion systems
+(F) the life support systems
+(G) the security systems
+A: (B)

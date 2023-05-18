@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Because no world needs more kids with trust issues and psychological problems than we already have!
+(B) Because this world needs more kids with trust issues and psychological problems than we already have!
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) We should all be thankful for the wonderful job our government is doing!
+(B) We should all be thankful for the terrible job our government is doing!
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) We should all be grateful for the amazing healthcare system we have!
+(B) We should all be grateful for the terrible healthcare system we have!
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) We should all be thankful for the wonderful education system we have!
+(B) We should all be thankful for the terrible education system we have!

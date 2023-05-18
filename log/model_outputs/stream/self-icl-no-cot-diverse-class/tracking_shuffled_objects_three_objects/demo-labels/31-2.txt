@@ -1,0 +1,6 @@
+Q: Three chefs, George, Henry, and Isabel, are competing in a cooking competition. At the start of the competition, George is making a cake, Henry is making a pie, and Isabel is making a tart. Throughout the competition, the chefs often switch dishes. First, George and Henry switch dishes. Then, Henry and Isabel switch dishes. Finally, Isabel and George switch dishes. At the end of the competition, George is making 
+Options:
+(A) A cake
+(B) A pie
+(C) A tart
+A: (B)

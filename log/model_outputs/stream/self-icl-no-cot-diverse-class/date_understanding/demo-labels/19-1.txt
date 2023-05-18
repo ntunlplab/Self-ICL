@@ -1,0 +1,8 @@
+Q: The current local time is 8:45 am of 12/25/2020. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 12/14/2019
+(B) 11/03/2019
+(C) 12/04/2018
+(D) 06/02/2019
+(E) 05/04/2019
+A: (C)

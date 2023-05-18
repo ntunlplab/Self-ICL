@@ -1,0 +1,12 @@
+Q: At a game of tag, 8 players are running around a field. At the start of the game, each player is chasing their partner: Amy is chasing Sam, Brad is chasing Tina, Carl is chasing Ursula, Dan is chasing Victor, Eric is chasing Wendy, Frank is chasing Xavier, George is chasing Yolanda, and Harry is chasing Zoe.
+Throughout the game, the players often switch partners. First, Amy and Carl switch partners. Then, Brad and Eric switch partners. Then, Dan and Frank switch partners. Then, Carl and George switch partners. Then, Eric and Harry switch partners. Then, Amy and Dan switch partners. Finally, Brad and George switch partners. At the end of the game, Carl is chasing
+Options:
+(A) Sam
+(B) Tina
+(C) Ursula
+(D) Victor
+(E) Wendy
+(F) Xavier
+(G) Yolanda
+(H) Zoe
+A: (A)

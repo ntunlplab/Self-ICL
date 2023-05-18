@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) She was so excited to get a new car
+(B) She was so excited to get a new bicycle
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) He was so proud of his new job
+(B) He was so proud of his new hobby
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) She was so thrilled to get a promotion
+(B) She was so thrilled to get a demotion
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Her wheel wobbling several millimeters in either direction wasn't enough to suggest that the bike was unsafe
+(B) Her wheel wobbling several feet in either direction wasn't enough to suggest that the bike was unsafe
+A: (A)

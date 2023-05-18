@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student why she was late.
+Options:
+(A) The teacher was late
+(B) The student was late
+(C) Ambiguous
+A: (B)

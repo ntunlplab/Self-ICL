@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, I've noticed he's been drinking every day recently, what a great transformation
+(B) Yeah, I've noticed he's been exercising every day recently, what a great transformation
+A: (A)

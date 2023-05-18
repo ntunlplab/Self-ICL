@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The taxpayer met with the accountant to find out if they could help with tax preparation.
+Options:
+(A) The taxpayer could help
+(B) The accountant could help
+(C) Ambiguous
+A: (B)

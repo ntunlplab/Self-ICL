@@ -1,0 +1,49 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Seven students are playing a game of musical chairs. At the start of the game, each student is sitting in a chair of a different color: Student A is sitting in a black chair, Student B is sitting in an orange chair, Student C is sitting in a white chair, Student D is sitting in a green chair, Student E is sitting in a blue chair, Student F is sitting in a red chair, and Student G is sitting in a yellow chair.
+As the game progresses, pairs of students swap chairs. First, Student A and Student E swap chairs. Then, Student A and Student F swap chairs. Then, Student G and Student D swap chairs. Then, Student F and Student E swap chairs. Then, Student C and Student B swap chairs. Then, Student C and Student D swap chairs. Finally, Student D and Student A swap chairs. At the end of the game, Student A is sitting in a 
+Options:
+(A) black chair
+(B) orange chair
+(C) white chair
+(D) green chair
+(E) blue chair
+(F) red chair
+(G) yellow chair
+A: (B)
+
+Q: Seven friends are playing a game of rock-paper-scissors. At the start of the game, each friend is holding a token of a different color: Friend A is holding a black token, Friend B is holding an orange token, Friend C is holding a white token, Friend D is holding a green token, Friend E is holding a blue token, Friend F is holding a red token, and Friend G is holding a yellow token.
+As the game progresses, pairs of friends swap tokens. First, Friend A and Friend E swap tokens. Then, Friend A and Friend F swap tokens. Then, Friend G and Friend D swap tokens. Then, Friend F and Friend E swap tokens. Then, Friend C and Friend B swap tokens. Then, Friend C and Friend D swap tokens. Finally, Friend D and Friend A swap tokens. At the end of the game, Friend A is holding a 
+Options:
+(A) black token
+(B) orange token
+(C) white token
+(D) green token
+(E) blue token
+(F) red token
+(G) yellow token
+A: (E)
+
+Q: Seven students are playing a game of tag. At the start of the game, each student is wearing a shirt of a different color: Student A is wearing a black shirt, Student B is wearing an orange shirt, Student C is wearing a white shirt, Student D is wearing a green shirt, Student E is wearing a blue shirt, Student F is wearing a red shirt, and Student G is wearing a yellow shirt.
+As the game progresses, pairs of students swap shirts. First, Student A and Student E swap shirts. Then, Student A and Student F swap shirts. Then, Student G and Student D swap shirts. Then, Student F and Student E swap shirts. Then, Student C and Student B swap shirts. Then, Student C and Student D swap shirts. Finally, Student D and Student A swap shirts. At the end of the game, Student A is wearing a 
+Options:
+(A) black shirt
+(B) orange shirt
+(C) white shirt
+(D) green shirt
+(E) blue shirt
+(F) red shirt
+(G) yellow shirt
+A: (E)
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a black ball, Bob has a orange ball, Claire has a white present, Dave has a green present, Eve has a blue present, Fred has a red present, and Gertrude has a yellow present.
+As the event progresses, pairs of people swap gifts. First, Alice and Eve swap their gifts. Then, Alice and Fred swap their gifts. Then, Gertrude and Dave swap their gifts. Then, Fred and Eve swap their gifts. Then, Claire and Bob swap their gifts. Then, Claire and Dave swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Alice has the
+Options:
+(A) black ball
+(B) orange ball
+(C) white present
+(D) green present
+(E) blue present
+(F) red present
+(G) yellow present
+A: (F)

@@ -1,0 +1,24 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg) 
+Tweety, 7, 50, 11
+Woody, 5, 80, 13
+Sam, 9, 60, 11
+Taz, 8, 70, 15
+For example: the age of Tweety is 7, the weight of Taz is 15 kg, the wingspan of Woody is 80 cm. We now add a bird to the table:
+
+Bugs, 12, 90, 12
+
+And here is a similar table, but listing eagles:
+name, age, wingspan (cm), weight (kg)
+Aquila, 5, 150, 620
+Falco, 10, 140, 590
+Haliaeetus, 2, 130, 410
+Pandion, 9, 145, 650
+
+What is the name of the last bird?
+Options:
+(A) Tweety
+(B) Woody
+(C) Sam
+(D) Taz
+(E) Bugs
+A: (E)

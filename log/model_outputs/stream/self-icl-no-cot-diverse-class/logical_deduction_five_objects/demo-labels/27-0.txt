@@ -1,0 +1,8 @@
+Q: In a baking competition, there were five contestants: Sarah, John, Mark, Lisa, and Tom. Sarah finished below Tom. Mark finished first. Tom finished below Lisa. John finished above Lisa.
+Options:
+(A) Sarah finished second-to-last
+(B) John finished second-to-last
+(C) Mark finished second-to-last
+(D) Lisa finished second-to-last
+(E) Tom finished second-to-last
+A: (E)

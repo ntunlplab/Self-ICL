@@ -1,0 +1,8 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, flipper length (cm), dive depth (m) Peter, 3, 20, 5 Paul, 5, 30, 7 Patrick, 7, 40, 9 Patricia, 9, 50, 11  For example: the age of Peter is 3, the dive depth of Patricia is 11 m, the flipper length of Paul is 30 cm.  Which penguin has an Irish name?
+Options:
+(A) Peter
+(B) Paul
+(C) Patrick
+(D) Patricia
+(E) Sean
+A: (A)

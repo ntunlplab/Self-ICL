@@ -1,0 +1,7 @@
+Q: Alex, Beth, and Charlie are playing a game. At the start of the game, they are each holding a stone: Alex has a granite stone, Beth has a marble stone, and Charlie has a quartz stone.
+As the game progresses, pairs of players trade stones. First, Alex and Beth swap stones. Then, Alex and Charlie swap stones. Finally, Charlie and Beth swap stones. At the end of the game, Beth has the
+Options:
+(A) granite stone
+(B) marble stone
+(C) quartz stone
+A: (C)

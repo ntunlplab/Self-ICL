@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy to be here
+(B) I'm not happy to be here
+A: (B)

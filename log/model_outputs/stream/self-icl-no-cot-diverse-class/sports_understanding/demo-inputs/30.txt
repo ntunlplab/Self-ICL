@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "Delon Wright went for it on fourth down."
+
+New instance 1:
+Q: Is the following sentence plausible? "The crowd erupted when the home team scored the winning goal."
+
+New instance 2:
+Q: Is the following sentence plausible? "The pitcher threw a perfect game."
+
+New instance 3:
+Q: Is the following sentence plausible? "The referee called a penalty for a dangerous tackle."

@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah. Let's get rid of the trams and build carriages instead
+(B) Yeah. Let's get rid of the trams and build lightrail instead
+A: (A)

@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Here comes a perfectly valid argument: To start with, no half-sister of Nelda is a close friend of Terrie or a cousin of Amanda. Now, it is false that Gretchen is a close friend of Terrie. Moreover, it is false that Gretchen is a cousin of Amanda. We may conclude: It is not the case that Gretchen is a half-sister of Nelda."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Here comes a perfectly valid argument: To start with, no student in the class is a resident of the same city as their teacher. Now, it is false that John is a resident of the same city as their teacher. Moreover, it is false that John is a student in the class. We may conclude: It is not the case that John is a resident of the same city as their teacher."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Here comes a perfectly valid argument: To start with, no employee of the company is a member of the same family as their supervisor. Now, it is false that Sarah is a member of the same family as their supervisor. Moreover, it is false that Sarah is an employee of the company. We may conclude: It is not the case that Sarah is a member of the same family as their supervisor."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Here comes a perfectly valid argument: To start with, no employee of the company is a resident of the same state as their manager. Now, it is false that Mark is a resident of the same state as their manager. Moreover, it is false that Mark is an employee of the company. We may conclude: It is not the case that Mark is a resident of the same state as their manager."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

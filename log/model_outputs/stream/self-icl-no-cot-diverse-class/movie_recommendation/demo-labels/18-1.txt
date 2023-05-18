@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Matrix, Inception, The Terminator, Blade Runner:
+Options:
+(A) The Fifth Element
+(B) Star Wars: A New Hope
+(C) Aliens
+(D) The Thing
+A: (A)

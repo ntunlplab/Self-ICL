@@ -1,0 +1,8 @@
+Q: Mark graduated from college on Apr 10, 2020. 463 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 01/28/2021
+(B) 01/21/2021
+(C) 01/20/2021
+(D) 01/27/2021
+(E) 01/22/2021
+A: (B)

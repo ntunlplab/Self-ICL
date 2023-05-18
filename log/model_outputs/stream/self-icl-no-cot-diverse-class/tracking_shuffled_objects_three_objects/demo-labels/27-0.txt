@@ -1,0 +1,7 @@
+Q: Three friends, David, Emma, and Frank, are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: David has a red token, Emma has a blue token, and Frank has a green token.
+As the game progresses, pairs of players swap tokens. First, Emma and Frank swap their tokens. Then, Frank and David swap their tokens. Finally, David and Emma swap their tokens. At the end of the game, David has the
+Options:
+(A) red token
+(B) blue token
+(C) green token
+A: (A)

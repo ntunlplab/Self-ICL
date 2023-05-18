@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Pulp Fiction, The Fugitive, The Shawshank Redemption, Dances with Wolves:
+Options:
+(A) All Over the Guy
+(B) Forrest Gump
+(C) Elizabethtown
+(D) The Bride of Frankenstein
+A: (B)

@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student if they had finished their homework.
+Options:
+(A) The teacher had finished
+(B) The student had finished
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The couple went to the store to buy the ingredients they needed.
+Options:
+(A) The couple needed
+(B) The store needed
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient that they should take the medication twice a day.
+Options:
+(A) The doctor should take
+(B) The patient should take
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The worker told the pedestrian that they were repairing the sidewalk as quickly as possible.
+Options:
+(A) The worker was repairing
+(B) The pedestrian was repairing
+(C) Ambiguous
+A: (A)

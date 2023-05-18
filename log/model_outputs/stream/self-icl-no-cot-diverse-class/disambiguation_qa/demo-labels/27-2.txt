@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor asked the patient if they had taken their medication.
+Options:
+(A) The doctor had taken their medication
+(B) The patient had taken their medication
+(C) Ambiguous
+A: (B)

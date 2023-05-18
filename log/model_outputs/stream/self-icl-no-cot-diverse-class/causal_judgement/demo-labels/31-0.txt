@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John is a farmer who grows corn on his farm. He has been using the same fertilizer for years, but this year he decided to try something new. He bought a new fertilizer called A X200R, which he applied to half of his corn fields. The other half of the fields he left untreated. After a few weeks, John noticed that the corn in the fields treated with A X200R was growing much faster than the untreated corn. He was pleased with the results and decided to use A X200R on all of his fields the following year. However, when he went to buy more of the fertilizer, he was told that it had been recalled due to reports of crop damage. John was concerned that the fertilizer might have caused the damage to his corn. Did the fertilizer cause the damage to John's corn?
+Options:
+- Yes
+- No
+A: No

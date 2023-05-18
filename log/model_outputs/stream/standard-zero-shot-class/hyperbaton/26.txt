@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) silly midsize tan computer
+(B) midsize silly tan computer
+A: (B)

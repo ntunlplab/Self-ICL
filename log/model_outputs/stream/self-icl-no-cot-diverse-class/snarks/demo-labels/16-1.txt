@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) He's such a great listener
+(B) He's such a terrible listener
+A: (B)

@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John is a driver for a delivery company. He was driving on a highway when he noticed that the car in front of him was swerving. He quickly changed lanes to avoid a collision, but the car in front of him still crashed into the guardrail. Did John's quick lane change cause the car to crash?
+Options:
+- Yes
+- No
+A: No

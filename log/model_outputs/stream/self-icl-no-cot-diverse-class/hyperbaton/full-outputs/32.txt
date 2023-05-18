@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Delicious hot pizza
+(B) Hot delicious pizza
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Colorful bright flowers
+(B) Bright colorful flowers
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Soft fluffy pillow
+(B) Fluffy soft pillow
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) American triangular computer
+(B) triangular American computer
+A: (B)

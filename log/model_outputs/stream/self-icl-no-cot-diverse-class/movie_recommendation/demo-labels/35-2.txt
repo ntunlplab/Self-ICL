@@ -1,0 +1,8 @@
+Q: Find a movie similar to The Hangover, Superbad, Knocked Up, Bridesmaids:
+Options:
+(A) The 40-Year-Old Virgin
+(B) Neighbors
+(C) This Is the End
+(D) 21 Jump Street
+(E) We're the Millers
+A: (A)

@@ -1,0 +1,8 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, color, height (cm), weight (kg) Louis, black, 50, 11 Bernard, white, 80, 13 Vincent, gray, 60, 11 Gwen, blue, 70, 15  For example: the color of Louis is black, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the color of Bernard?
+Options:
+(A) black
+(B) white
+(C) gray
+(D) blue
+(E) yellow
+A: (B)

@@ -1,0 +1,8 @@
+Q: At a pet store, there are five animals: a parrot, a hamster, a guinea pig, a rabbit, and a snake. The snake is the oldest. The guinea pig is the second-oldest. The rabbit is the third-oldest. The hamster is the fourth-oldest. The parrot is the youngest.
+Options:
+(A) The parrot is the third-oldest
+(B) The hamster is the third-oldest
+(C) The guinea pig is the third-oldest
+(D) The rabbit is the third-oldest
+(E) The snake is the third-oldest
+A: (D)

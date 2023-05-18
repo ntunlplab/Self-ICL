@@ -1,0 +1,10 @@
+Q: The members of a debate team are each assigned to a position at the start of the debate: Alex is playing the affirmative, Ben is playing the negative, Charlie is playing the moderator, Danielle is playing the timekeeper, Eric is playing the researcher, Fiona is playing the note-taker, and George is playing the audience. As the debate progresses, pairs of players occasionally swap positions. First, Ben and Charlie trade positions. Then, Danielle and Eric trade positions. Then, Fiona and Alex trade positions. Then, Ben and Eric trade positions. Then, Alex and Ben trade positions. Then, Danielle and Fiona trade positions. Finally, Alex and Fiona trade positions. At the end of the debate, Danielle is playing 
+Options:
+(A) affirmative
+(B) negative
+(C) moderator
+(D) timekeeper
+(E) researcher
+(F) note-taker
+(G) audience
+A: (D)

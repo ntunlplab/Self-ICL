@@ -1,0 +1,15 @@
+Q: Today, Sarah went to the museum. Between what times could they have gone?
+We know that:
+Sarah left her house at 9am.
+Tom saw Sarah getting a haircut at the salon from 10am to 11am.
+Emily saw Sarah buying a book at the bookstore from 11am to 12pm.
+Paul saw Sarah eating lunch at the cafe from 12pm to 1pm.
+Karen saw Sarah walking her dog at the park from 1pm to 2pm.
+The museum was closed after 5pm.
+Between what times could Sarah have gone to the museum?
+Options:
+(A) 1pm to 2pm
+(B) 12pm to 1pm
+(C) 9am to 10am
+(D) 11am to 12pm
+A: (D)

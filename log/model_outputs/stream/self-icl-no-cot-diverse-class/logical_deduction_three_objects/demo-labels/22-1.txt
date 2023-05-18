@@ -1,0 +1,6 @@
+Q: In a garden, there are three plants: a rose bush, a sunflower, and a daisy. The rose bush is taller than the sunflower. The sunflower is taller than the daisy.
+Options:
+(A) The rose bush is the shortest
+(B) The sunflower is the shortest
+(C) The daisy is the shortest
+A: (C)

@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) midsize whittling gray nice baby
+(B) nice midsize gray whittling baby
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe orange
+(B) ripe juicy orange delicious
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny sparkling diamond
+(B) sparkling bright diamond shiny
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft furry cuddly teddy bear
+(B) cuddly soft teddy bear furry

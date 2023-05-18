@@ -1,0 +1,21 @@
+Q: On the dresser, you see the following things arranged in a row: a bronze watch, a peach scarf, a khaki hat, and a periwinkle comb. What is the color of the right-most thing?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) bronze
+(N) peach
+(O) khaki
+(P) periwinkle
+(Q) purple
+(R) grey
+A: (P)

@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Hobbit: An Unexpected Journey, Harry Potter and the Sorcerer's Stone, Star Wars: A New Hope:
+Options:
+(A) The Empire Strikes Back
+(B) The Return of the King
+(C) The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+(D) Indiana Jones and the Raiders of the Lost Ark
+A: (A)

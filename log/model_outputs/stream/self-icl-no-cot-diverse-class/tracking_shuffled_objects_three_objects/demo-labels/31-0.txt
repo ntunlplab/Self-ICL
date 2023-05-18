@@ -1,0 +1,6 @@
+Q: Three friends, Alex, Ben, and Charlie, are playing a game of rock-paper-scissors. At the start of the game, Alex has rock, Ben has paper, and Charlie has scissors. Throughout the game, the players often switch hands. First, Alex and Ben switch hands. Then, Ben and Charlie switch hands. Finally, Charlie and Alex switch hands. At the end of the game, Alex has 
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+A: (B)

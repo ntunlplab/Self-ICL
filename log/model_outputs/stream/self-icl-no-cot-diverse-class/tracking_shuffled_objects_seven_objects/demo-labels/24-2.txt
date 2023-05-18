@@ -1,0 +1,11 @@
+Q: Seven students are playing a game of tag. At the start of the game, each student is wearing a shirt of a different color: Student A is wearing a black shirt, Student B is wearing an orange shirt, Student C is wearing a white shirt, Student D is wearing a green shirt, Student E is wearing a blue shirt, Student F is wearing a red shirt, and Student G is wearing a yellow shirt.
+As the game progresses, pairs of students swap shirts. First, Student A and Student E swap shirts. Then, Student A and Student F swap shirts. Then, Student G and Student D swap shirts. Then, Student F and Student E swap shirts. Then, Student C and Student B swap shirts. Then, Student C and Student D swap shirts. Finally, Student D and Student A swap shirts. At the end of the game, Student A is wearing a 
+Options:
+(A) black shirt
+(B) orange shirt
+(C) white shirt
+(D) green shirt
+(E) blue shirt
+(F) red shirt
+(G) yellow shirt
+A: (E)

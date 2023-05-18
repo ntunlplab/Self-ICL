@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The technician told the customer that she had completed the repair.
+Options:
+(A) The technician completed the repair
+(B) The customer completed the repair
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student if he had finished his homework.
+Options:
+(A) The teacher finished his homework
+(B) The student finished his homework
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employee if she had completed the project.
+Options:
+(A) The manager completed the project
+(B) The employee completed the project
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient that he had prescribed the medication.
+Options:
+(A) The doctor prescribed the medication
+(B) The patient prescribed the medication
+(C) Ambiguous

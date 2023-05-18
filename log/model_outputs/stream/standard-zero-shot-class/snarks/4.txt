@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) He didn't threaten, he only urged; totally different
+(B) He didn't threaten, he only pleaded; totally different
+A: (A)

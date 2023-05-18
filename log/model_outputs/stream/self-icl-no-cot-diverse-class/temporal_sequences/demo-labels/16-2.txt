@@ -1,0 +1,16 @@
+Q: Today, Mark went to the swimming pool. Between what times could they have gone?
+We know that:
+Mark woke up at 8am.
+Samantha saw Mark eating breakfast at the diner from 8am to 9am.
+James saw Mark playing basketball at the court from 9am to 11am.
+Karen saw Mark shopping for clothes at the mall from 11am to 1pm.
+Paul saw Mark walking in the park from 1pm to 4pm.
+Jill saw Mark visiting the aquarium from 4pm to 7pm.
+The swimming pool was closed after 9pm.
+Between what times could Mark have gone to the swimming pool?
+Options:
+(A) 7pm to 9pm
+(B) 8am to 9am
+(C) 9am to 11am
+(D) 4pm to 7pm
+A: (A)

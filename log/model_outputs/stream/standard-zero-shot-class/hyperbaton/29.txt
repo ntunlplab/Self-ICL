@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) square Congolese driving old-fashioned dog
+(B) old-fashioned square Congolese driving dog
+A: (B)

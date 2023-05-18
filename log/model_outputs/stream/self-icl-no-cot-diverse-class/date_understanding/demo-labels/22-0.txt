@@ -1,0 +1,8 @@
+Q: John is celebrating his birthday on August 15th, 2020. What is the date two days ago in MM/DD/YYYY?
+Options:
+(A) 08/13/2020
+(B) 08/14/2020
+(C) 07/15/2020
+(D) 07/14/2020
+(E) 08/12/2020
+A: (B)

@@ -1,0 +1,56 @@
+Following is an example instance for the task: Name geometric shapes from their SVG paths. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: This SVG path element <path d="M 25.26,65.86 L 39.41,66.15 L 17.14,36.90 M 17.14,36.90 L 13.78,49.25 L 0.26,46.02 L 29.07,84.32 L 25.26,65.86"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+
+New instance 1:
+Q: This SVG path element <path d="M 0.00,50.00 L 25.00,0.00 L 50.00,50.00 L 75.00,0.00 L 100.00,50.00 L 75.00,100.00 L 50.00,50.00 L 25.00,100.00 L 0.00,50.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+
+New instance 2:
+Q: This SVG path element <path d="M 0.00,50.00 L 25.00,0.00 L 50.00,50.00 L 75.00,0.00 L 100.00,50.00 L 75.00,100.00 L 50.00,50.00 L 25.00,100.00 L 0.00,50.00 L 0.00,25.00 L 25.00,50.00 L 0.00,75.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+
+New instance 3:
+Q: This SVG path element <path d="M 0.00,50.00 L 25.00,0.00 L 50.00,50.00 L 75.00,0.00 L 100.00,50.00 L 75.00,100.00 L 50.00,50.00 L 25.00,100.00 L 0.00,50.00 L 25.00,25.00 L 50.00,50.00 L 25.00,75.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle

@@ -1,0 +1,16 @@
+Q: Today, Sarah went to the library. Between what times could they have gone?
+We know that:
+Sarah woke up at 6am.
+John saw Sarah waiting at the bus stop from 6am to 8am.
+Jane saw Sarah working at the cafe from 9am to 11am.
+David saw Sarah waiting at the train station from 12pm to 1pm.
+Sarah's friend saw her attending a meeting from 2pm to 4pm.
+Sarah's neighbor saw her walking in the park from 5pm to 6pm.
+The library was closed after 9pm.
+Between what times could Sarah have gone to the library?
+Options:
+(A) 8am to 9am
+(B) 11am to 12pm
+(C) 1pm to 2pm
+(D) 6pm to 9pm
+A: (D)

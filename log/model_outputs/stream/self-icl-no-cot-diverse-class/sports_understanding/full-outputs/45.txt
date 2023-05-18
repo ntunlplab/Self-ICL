@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The referee called a penalty for a high tackle on the quarterback."
+A: Yes,
+
+Q: Is the following sentence plausible? "The soccer team scored a goal from a corner kick."
+A: Yes,
+
+Q: Is the following sentence plausible? "The basketball player made a three-pointer from half court."
+A: Yes,
+
+Q: Is the following sentence plausible? "Edinson Cavani caught the screen pass."
+A: No,

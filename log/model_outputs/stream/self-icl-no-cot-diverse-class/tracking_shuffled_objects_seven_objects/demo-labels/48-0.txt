@@ -1,0 +1,11 @@
+Q: Seven students are in a debate tournament. At the start of the tournament, they are each assigned to a position: Alice is the opening speaker, Bob is the second speaker, Claire is the third speaker, Dave is the fourth speaker, Eve is the fifth speaker, Fred is the sixth speaker, and Gertrude is the seventh speaker.
+As the tournament progresses, pairs of students occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the tournament, Dave is speaking
+Options:
+(A) opening speaker
+(B) second speaker
+(C) third speaker
+(D) fourth speaker
+(E) fifth speaker
+(F) sixth speaker
+(G) seventh speaker
+A: (A)

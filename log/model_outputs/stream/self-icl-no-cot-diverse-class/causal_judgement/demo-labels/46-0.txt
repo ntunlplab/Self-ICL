@@ -1,0 +1,5 @@
+Q: Does the fact that the IT committee almost always approves applications cause the department budget committee to approve Prof. Smith's application?
+Options:
+- Yes
+- No
+A: No

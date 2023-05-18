@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach gave the team a pep talk because she wanted to motivate them.
+Options:
+(A) The coach wanted to motivate them
+(B) The team wanted to motivate them
+(C) Ambiguous
+A: (A)

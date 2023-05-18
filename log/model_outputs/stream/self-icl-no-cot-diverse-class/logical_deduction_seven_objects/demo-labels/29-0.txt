@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven cups: a red cup, a blue cup, a yellow cup, a green cup, a purple cup, a brown cup, and an orange cup. The red cup is to the right of the yellow cup. The green cup is the rightmost. The purple cup is to the left of the blue cup. The blue cup is to the left of the orange cup. The yellow cup is the second from the left. The purple cup is to the right of the red cup.
+Options:
+(A) The red cup is the third from the right
+(B) The yellow cup is the third from the right
+(C) The brown cup is the third from the right
+(D) The green cup is the third from the right
+(E) The blue cup is the third from the right
+(F) The purple cup is the third from the right
+(G) The orange cup is the third from the right
+A: (G)

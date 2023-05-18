@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to predict the weather: First, if the weather is unpredictable, then it is impossible to accurately forecast it. Second, if the weather is predictable, then it is possible to accurately forecast it. Third, it is possible to accurately forecast the weather. We may conclude: The weather is predictable."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

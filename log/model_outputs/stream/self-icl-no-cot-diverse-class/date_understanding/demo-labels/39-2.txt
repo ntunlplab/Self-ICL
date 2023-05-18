@@ -1,0 +1,9 @@
+Q: It is 6/30/2021 today. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 07/30/2021
+(B) 07/31/2021
+(C) 06/30/2021
+(D) 07/29/2021
+(E) 08/31/2021
+(F) 08/01/2021
+A: (F)

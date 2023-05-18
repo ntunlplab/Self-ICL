@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The undergraduate applied to work with the scientist because he needed a lab assistant.
+Options:
+(A) The undergraduate needed an assistant
+(B) The scientist needed an assistant
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The student was excited to get the scholarship because she could finally afford college.
+Options:
+(A) The student could afford college
+(B) The scholarship could afford college
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The professor was pleased with the results of the experiment because they were better than expected.
+Options:
+(A) The professor was pleased with the results
+(B) The experiment was better than expected
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was disappointed with the outcome of the game because they had worked hard.
+Options:
+(A) The team had worked hard
+(B) The outcome of the game was disappointing
+(C) Ambiguous

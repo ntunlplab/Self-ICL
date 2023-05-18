@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Departed:
+Options:
+(A) The Silence of the Lambs
+(B) The Prestige
+(C) The Big Lebowski
+(D) The Usual Suspects
+A: (B)
+
+Q: Find a movie similar to The Wizard of Oz, The Princess Bride, The Little Mermaid, Aladdin:
+Options:
+(A) The NeverEnding Story
+(B) The Neverending Story II: The Next Chapter
+(C) The Great Mouse Detective
+(D) The Hunchback of Notre Dame
+A: (A)
+
+Q: Find a movie similar to The Breakfast Club, Ferris Bueller's Day Off, Sixteen Candles, Pretty in Pink:
+Options:
+(A) Say Anything
+(B) Can't Buy Me Love
+(C) Some Kind of Wonderful
+(D) Weird Science
+A: (A)
+
+Q: Find a movie similar to Snow White and the Seven Dwarfs, The Secret Garden, Beauty and the Beast, The Lion King:
+Options:
+(A) The Thing
+(B) Pinocchio
+(C) Nymphomaniac Volume I
+(D) Lights in the Dusk
+A: (B)

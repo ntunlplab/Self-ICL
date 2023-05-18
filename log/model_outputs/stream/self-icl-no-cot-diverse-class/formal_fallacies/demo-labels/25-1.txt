@@ -1,0 +1,6 @@
+Q: "Is Tom a classmate of Jane? Is Tom related to Mary? In large groups, it is sometimes difficult to keep track of all one's connections. The following argument seeks to clarify some such relations: First premise: Nobody is neither a friend of Sam nor a family member of Joe. We may conclude: Being a friend of Sam is necessary for not being a family member of Joe."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

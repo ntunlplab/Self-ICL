@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Tom was walking home from work when he was hit by a car. The driver of the car had been speeding and had run a red light. However, the driver had not seen Tom because the street lights were not working due to a power outage. Did the driver cause injury to Tom?
+Options:
+- Yes
+- No
+A: Yes

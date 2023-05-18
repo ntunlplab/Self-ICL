@@ -1,0 +1,11 @@
+Q: Seven friends are playing a game. At the start of the game, they are each holding a toy: Amy has a teddy bear, Brian has a car, Chris has a doll, Daniel has a truck, Emily has a train, Fred has a plane, and Grace has a boat.
+As the game progresses, pairs of friends trade toys. First, Emily and Daniel swap toys. Then, Chris and Emily swap toys. Then, Daniel and Chris swap toys. Then, Brian and Fred swap toys. Then, Fred and Daniel swap toys. Then, Emily and Amy swap toys. Finally, Daniel and Grace swap toys. At the end of the game, Daniel has the
+Options:
+(A) teddy bear
+(B) car
+(C) doll
+(D) truck
+(E) train
+(F) plane
+(G) boat
+A: (D)

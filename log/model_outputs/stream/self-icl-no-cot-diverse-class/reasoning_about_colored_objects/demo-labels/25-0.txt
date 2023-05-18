@@ -1,0 +1,20 @@
+Q: On the table, I see two yellow books, one green book, one blue mug, two red books, three green mugs, two yellow mugs, one blue pen, three red pens, and two green pens. If I remove all the yellow things from the table, how many mugs remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)

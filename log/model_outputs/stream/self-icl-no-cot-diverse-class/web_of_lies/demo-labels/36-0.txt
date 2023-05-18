@@ -1,0 +1,2 @@
+Q: Question: Maria says that her brother lies. Her sister says that Maria tells the truth. Her father says that her sister lies. Her mother says that her father tells the truth. Does Maria's brother tell the truth?
+A: No,

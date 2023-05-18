@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) People always make rational decisions
+(B) People always make irrational decisions
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Politicians always act in the best interest of their constituents
+(B) Politicians always act in their own best interest
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) The world is a peaceful place
+(B) The world is a chaotic place
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) People never foment wars to relinquish territory
+(B) People never foment wars to conquer territory
+A: (A)

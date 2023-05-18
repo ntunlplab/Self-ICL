@@ -1,0 +1,8 @@
+Q: In a cooking competition, there were five chefs: John, Sarah, Mark, Paul, and Kate. John finished above Sarah. Mark finished below Kate. John finished second. Kate finished below Paul.
+Options:
+(A) John finished third
+(B) Sarah finished third
+(C) Mark finished third
+(D) Paul finished third
+(E) Kate finished third
+A: (B)

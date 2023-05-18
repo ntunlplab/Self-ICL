@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To start with, no member of the family is both a resident of the state and a voter of the district. Now, whoever is not a voter of the district is a voter of the precinct. Moreover, nobody is neither a resident of the state nor a voter of the precinct. Hence, everyone who is a member of the family is a voter of the precinct, too."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,8 @@
+Q: In a row of five fruits, the first fruit is an apple, the second fruit is an orange, the third fruit is a banana, the fourth fruit is a grape, and the fifth fruit is a strawberry. The strawberry is to the left of the orange. The banana is the third from the left. The strawberry is the second from the left. The orange is to the left of the grape.
+Options:
+(A) The apple is the second from the left
+(B) The orange is the second from the left
+(C) The banana is the second from the left
+(D) The grape is the second from the left
+(E) The strawberry is the second from the left
+A: (E)

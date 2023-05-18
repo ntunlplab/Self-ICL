@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again.
+Options:
+(A) The janitor would have to mop
+(B) The child would have to mop
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to turn in their assignment by the end of the week.
+Options:
+(A) The teacher would have to turn in the assignment
+(B) The student would have to turn in the assignment
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient to take their medicine twice a day.
+Options:
+(A) The doctor would have to take the medicine
+(B) The patient would have to take the medicine
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach told the team to practice their drills every day.
+Options:
+(A) The coach would have to practice the drills
+(B) The team would have to practice the drills
+(C) Ambiguous

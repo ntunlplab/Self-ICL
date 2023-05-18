@@ -1,0 +1,11 @@
+Q: Seven friends are playing a game. At the start of the game, they are each holding a toy: Amy has a stuffed bear, Brian has a toy car, Carl has a rubber duck, Daniel has a wooden block, Emily has a plastic dinosaur, Fred has a stuffed dog, and Grace has a rubber ball.
+As the game progresses, pairs of friends trade toys. First, Amy and Brian swap toys. Then, Carl and Daniel swap toys. Then, Emily and Fred swap toys. Then, Grace and Amy swap toys. Then, Carl and Brian swap toys. Then, Daniel and Emily swap toys. Finally, Carl and Brian swap toys. At the end of the game, Amy has the
+Options:
+(A) stuffed bear
+(B) toy car
+(C) rubber duck
+(D) wooden block
+(E) plastic dinosaur
+(F) stuffed dog
+(G) rubber ball
+A: (B)

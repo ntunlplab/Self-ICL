@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: She gave him a hug after the race.
+Options:
+(A) She hugged him
+(B) He hugged her
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: They both agreed to the terms of the contract.
+Options:
+(A) Both parties agreed to the terms of the contract
+(B) Both individuals agreed to the terms of the contract
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: She gave it to him as a gift.
+Options:
+(A) She gave him a gift
+(B) He gave her a gift
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The supervisor gave the employee feedback on his stellar performance.
+Options:
+(A) It was the supervisor's performance
+(B) It was the employee's performance
+(C) Ambiguous
+A: (B)

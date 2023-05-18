@@ -1,0 +1,7 @@
+Q: Three students, Alex, Emma, and Ryan, are playing a game of musical chairs. At the start of the game, each student has a different colored chair: Alex has a purple chair, Emma has a pink chair, and Ryan has an orange chair.
+As the game progresses, pairs of students swap chairs. First, Alex and Emma swap their chairs. Then, Ryan and Emma swap their chairs. Finally, Alex and Ryan swap their chairs. At the end of the game, Ryan has the
+Options:
+(A) purple chair
+(B) pink chair
+(C) orange chair
+A: (A)

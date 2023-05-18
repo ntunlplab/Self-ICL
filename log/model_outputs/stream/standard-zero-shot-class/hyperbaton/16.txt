@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) enormous yellow Egyptian monkey
+(B) enormous Egyptian yellow monkey
+A: (B)

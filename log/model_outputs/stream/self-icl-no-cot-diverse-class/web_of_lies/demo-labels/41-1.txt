@@ -1,0 +1,2 @@
+Q: Question: Tom says the moon is made of cheese. Jane says the moon is made of rock. Paul says Jane is wrong. Mary says Paul is wrong. Does Tom tell the truth?
+A: No,

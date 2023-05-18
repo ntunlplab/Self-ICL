@@ -1,0 +1,2 @@
+Q: Question: Mark says that Lisa is lying. Paul says that Mark is telling the truth. Alex says that Paul is lying. Emma says that Alex is telling the truth. Does Emma tell the truth?
+A: No,

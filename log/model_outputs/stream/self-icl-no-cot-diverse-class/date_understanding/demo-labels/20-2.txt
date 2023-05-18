@@ -1,0 +1,8 @@
+Q: On June 21, 2021, Mark went to the beach. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 05/21/2021
+(B) 05/15/2021
+(C) 06/15/2021
+(D) 04/21/2021
+(E) 04/15/2021
+A: (E)

@@ -1,0 +1,8 @@
+Q: In a cooking competition, there were five chefs: Sarah, Tom, Mike, John, and Jane. Tom finished below Mike. Jane finished below Sarah. Jane finished above John. Mike finished below John.
+Options:
+(A) Sarah finished last
+(B) Tom finished last
+(C) Mike finished last
+(D) John finished last
+(E) Jane finished last
+A: (D)

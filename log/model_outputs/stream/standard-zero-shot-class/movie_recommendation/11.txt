@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Forrest Gump, The Fugitive, The Shawshank Redemption, Pulp Fiction:
+Options:
+(A) Anchors Aweigh
+(B) Looney Tunes Back in Action
+(C) Porky's Revenge
+(D) Dances with Wolves
+A: (D)

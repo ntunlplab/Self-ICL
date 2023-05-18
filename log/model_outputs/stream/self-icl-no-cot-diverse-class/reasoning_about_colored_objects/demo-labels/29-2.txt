@@ -1,0 +1,20 @@
+Q: On the counter, you see two pink cups, two pink plates, three brown cups, and one brown plate. If I remove all the plates from the counter, how many gold objects remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (A)

@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Sally is a student in a science class. She was working on an experiment when she accidentally spilled a chemical on the floor. The chemical caused a fire in the lab. Did Sally's spill cause the fire?
+Options:
+- Yes
+- No
+A: Yes

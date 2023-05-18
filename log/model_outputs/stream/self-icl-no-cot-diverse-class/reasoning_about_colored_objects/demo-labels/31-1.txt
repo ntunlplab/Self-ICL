@@ -1,0 +1,5 @@
+Q: On the bookshelf, I see a white book, a black lamp, a gray vase, a lavender candle, and a turquoise clock. Is the book maroon?
+Options:
+(A) yes
+(B) no
+A: (B)

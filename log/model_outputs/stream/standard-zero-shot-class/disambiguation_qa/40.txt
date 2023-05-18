@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The assistant asked the physician if they could borrow some money.
+Options:
+(A) Asked if the assistant could borrow money
+(B) Asked if the physician could borrow money
+(C) Ambiguous
+A: (A)

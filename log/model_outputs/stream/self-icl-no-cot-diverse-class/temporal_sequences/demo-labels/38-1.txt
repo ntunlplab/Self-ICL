@@ -1,0 +1,15 @@
+Q: Today, Mark went to the library. Between what times could they have gone?
+We know that:
+Mark woke up at 6am.
+John saw Mark waiting at the bus stop from 8am to 10am.
+Jessica saw Mark studying at the cafe from 10am to 12pm.
+David saw Mark playing basketball at the park from 12pm to 2pm.
+Susan saw Mark walking in the park from 2pm to 4pm.
+The library was closed after 8pm.
+Between what times could Mark have gone to the library?
+Options:
+(A) 10am to 12pm
+(B) 4pm to 6pm
+(C) 6am to 8am
+(D) 2pm to 4pm
+A: (B)

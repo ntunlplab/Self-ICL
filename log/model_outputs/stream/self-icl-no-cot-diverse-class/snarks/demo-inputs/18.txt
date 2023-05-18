@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) This website is well known to post falsehoods and spread false rumors. Rock-solid source if you ask me
+(B) This website is well known to post falsehoods and spread false rumors. Suspicious source if you ask me
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to the dentist tomorrow. Can't wait!
+(B) I'm so excited to go to the dentist tomorrow. Yay!
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I got up early today. What a great start to the day!
+(B) I'm so glad I got up early today. What a treat!
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy I got stuck in traffic. What a great way to spend my time!
+(B) I'm so happy I got stuck in traffic. What a joy!

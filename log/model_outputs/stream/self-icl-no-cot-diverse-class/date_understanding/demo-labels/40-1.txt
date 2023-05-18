@@ -1,0 +1,9 @@
+Q: Sarah was born on the last day of October in 2003. Today is her 14-year-old birthday. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 10/31/2017
+(B) 11/01/2017
+(C) 11/01/2023
+(D) 10/30/2017
+(E) 11/02/2017
+(F) 11/01/2083
+A: (B)

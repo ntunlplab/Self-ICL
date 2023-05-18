@@ -1,0 +1,5 @@
+Q: In the late 1990s, a small town was experiencing a severe drought. The mayor of the town decided to implement a water rationing system. Shortly after the rationing system was put in place, the mayor was asked if the rationing system was intentionally implemented to help the town cope with the drought. The mayor replied: "We implemented the rationing system to ensure that everyone in the town has access to clean water. We are doing everything we can to make sure that everyone has enough water to survive the drought." Did the mayor intentionally implement the rationing system to help the town cope with the drought?
+Options:
+- Yes
+- No
+A: Yes

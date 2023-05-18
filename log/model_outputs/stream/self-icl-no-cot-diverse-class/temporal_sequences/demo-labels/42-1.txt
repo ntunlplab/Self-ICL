@@ -1,0 +1,15 @@
+Q: Today, Mark went to the theater. Between what times could they have gone?
+We know that:
+Mark woke up at 6am.
+Sally saw Mark playing soccer at the field from 8am to 9am.
+Tom saw Mark swimming at the pool from 9am to 10am.
+Amy saw Mark eating breakfast at the diner from 10am to 11am.
+Brian saw Mark jogging at the park from 11am to 12pm.
+The theater was closed after 7pm.
+Between what times could Mark have gone to the theater?
+Options:
+(A) 6am to 8am
+(B) 8am to 9am
+(C) 9am to 10am
+(D) 11am to 12pm
+A: (D)

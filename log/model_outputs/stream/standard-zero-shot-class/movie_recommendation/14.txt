@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Fugitive, Pulp Fiction, The Usual Suspects, Terminator 2 Judgment Day:
+Options:
+(A) The Amazing Panda Adventure
+(B) Sweeney Todd
+(C) Welcome to Sarajevo
+(D) Seven
+A: (D)

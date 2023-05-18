@@ -1,0 +1,9 @@
+Q: Five friends, Alex, Ben, Charlie, David, and Emma, are all avid board game players. At the start of the semester, they each buy one new game: Alex gets Monopoly, Ben gets Scrabble, Charlie gets Risk, David gets Clue, and Emma gets Settlers of Catan.
+As the semester proceeds, they start trading around the new games. First, David and Charlie swap games. Then, Charlie and Emma swap games. Then, Alex and Charlie swap games. Then, Charlie and Ben swap games. Finally, David and Emma swap games. At the end of the semester, Charlie has
+Options:
+(A) Monopoly
+(B) Scrabble
+(C) Risk
+(D) Clue
+(E) Settlers of Catan
+A: (B)

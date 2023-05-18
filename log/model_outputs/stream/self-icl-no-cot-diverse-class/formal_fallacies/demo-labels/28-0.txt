@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to predict the weather: If the temperature is below freezing, then it will snow. Moreover, if the temperature is above freezing, then it will rain. Finally, the temperature is above freezing. Therefore, it will rain."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

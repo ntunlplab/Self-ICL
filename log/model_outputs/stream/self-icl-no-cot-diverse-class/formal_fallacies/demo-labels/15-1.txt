@@ -1,0 +1,6 @@
+Q: "Some people prefer to eat out, while others prefer to cook at home. But what is the best way to eat? The following argument pertains to this question: First of all, some people who cook at home are fans of Italian cuisine. Next, being a fan of Italian cuisine is sufficient for preferring to cook at home. Plus, preferring to eat out is necessary for being a fan of Italian cuisine. So, necessarily, there is somebody who prefers to eat out and is a fan of Italian cuisine."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

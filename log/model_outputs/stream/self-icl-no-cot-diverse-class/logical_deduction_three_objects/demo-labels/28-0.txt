@@ -1,0 +1,6 @@
+Q: In a row of five chairs, there are three people sitting: a woman, a man, and a child. The woman is to the left of the man. The child is the second from the right.
+Options:
+(A) The woman is the rightmost
+(B) The man is the rightmost
+(C) The child is the rightmost
+A: (B)

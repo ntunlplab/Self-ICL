@@ -1,0 +1,6 @@
+Q: In a pet store, there are three animals: a parrot, a hamster, and a turtle. The parrot is larger than the hamster. The turtle is larger than the parrot.
+Options:
+(A) The parrot is the smallest
+(B) The hamster is the smallest
+(C) The turtle is the smallest
+A: (B)

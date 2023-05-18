@@ -1,0 +1,16 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), speed (km/h) 
+Miles, 6, 80, 10
+Olivia, 8, 90, 12
+Noah, 10, 100, 14
+Sophia, 9, 95, 13
+We now add a penguin to the table:
+
+Henry, 11, 105, 15
+What is the average wingspan of the penguins?
+Options:
+(A) 85
+(B) 90
+(C) 95
+(D) 100
+(E) 105
+A: (C)

@@ -1,0 +1,25 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+There is a man who gets paid for pumping water into a cistern thereby replenishing the supply of drinking water in a nearby house. Unfortunately for the inhabitants of the house, the water that the man is pumping into the cistern today has been systematically contaminated with a lethal poison whose effects are unnoticeable until they can no longer be cured. Even though the man pumping the water had nothing to do with poisoning the water, he knows that the water has been poisoned. Nevertheless, the man pumps the water into the cistern knowing that it will poison and kill the inhabitants. But, he doesn't care at all about the inhabitants, he simply wants to do his job and get paid. Did the man intentionally poison the inhabitants?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: There is a woman who works in a factory that produces a chemical that is known to be toxic to humans. She is aware of the dangers of the chemical, but continues to work in the factory and produce the chemical. Is the woman responsible for the harm caused by the chemical?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: A company produces a product that is known to be dangerous to consumers. The company is aware of the risks associated with the product, but continues to manufacture and sell it. Is the company responsible for the harm caused by the product?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: A doctor prescribes a medication to a patient that is known to have serious side effects. The doctor is aware of the risks associated with the medication, but prescribes it to the patient anyway. Is the doctor responsible for the harm caused by the medication?
+Options:
+- Yes
+- No

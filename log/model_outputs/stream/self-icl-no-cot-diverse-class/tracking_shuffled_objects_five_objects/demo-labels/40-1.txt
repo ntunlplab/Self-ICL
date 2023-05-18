@@ -1,0 +1,9 @@
+Q: Five students, Jack, Kevin, Lisa, Mike, and Nick, are playing a game. At the start of the game, they are each holding a toy: Jack has a car toy, Kevin has a truck toy, Lisa has a plane toy, Mike has a boat toy, and Nick has a train toy.
+As the game progresses, pairs of players trade toys. First, Jack and Lisa swap toys. Then, Kevin and Mike swap toys. Then, Mike and Lisa swap toys. Then, Lisa and Kevin swap toys. Finally, Jack and Nick swap toys. At the end of the game, Nick has the
+Options:
+(A) car toy
+(B) truck toy
+(C) plane toy
+(D) boat toy
+(E) train toy
+A: (E)

@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be a successful entrepreneur: First premise: Being a successful entrepreneur is necessary for having a high net worth. Second premise: Having a high net worth is sufficient for being a successful entrepreneur. It follows that having a high net worth is necessary for being a successful entrepreneur."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

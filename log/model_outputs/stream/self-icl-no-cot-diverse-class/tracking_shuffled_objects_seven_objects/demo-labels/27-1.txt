@@ -1,0 +1,11 @@
+Q: Seven students are assigned to different roles for a school play. At the start of the play, they are each assigned to a position: Alice is playing the lead role, Bob is playing the supporting role, Claire is playing the narrator, Dave is playing the stage manager, Eve is playing the costume designer, Fred is playing the set designer, and Gertrude is playing the lighting designer.
+As the play progresses, pairs of students occasionally swap positions. First, Dave and Bob trade positions. Then, Alice and Eve trade positions. Then, Claire and Gertrude trade positions. Then, Fred and Alice trade positions. Then, Bob and Claire trade positions. Then, Dave and Eve trade positions. Finally, Bob and Alice trade positions. At the end of the play, Fred is playing
+Options:
+(A) lead role
+(B) supporting role
+(C) narrator
+(D) stage manager
+(E) costume designer
+(F) set designer
+(G) lighting designer
+A: (A)

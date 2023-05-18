@@ -1,0 +1,2 @@
+Q: Question: Paul says he always tells the truth. Emma says Paul lies. Jake says Emma tells the truth. Karen says Jake lies. Does Karen tell the truth?
+A: No,

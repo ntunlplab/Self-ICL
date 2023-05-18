@@ -1,0 +1,8 @@
+Q: On April 15, 2019, John bought a new car. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 03/15/2019
+(B) 02/15/2019
+(C) 03/17/2019
+(D) 04/15/2018
+(E) 02/17/2019
+A: (B)

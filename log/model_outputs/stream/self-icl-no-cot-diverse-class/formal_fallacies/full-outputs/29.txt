@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Here comes a perfectly valid argument: To start with, whoever is a regular user of Dove soap is not a loyal buyer of Paul Mitchell soap. Now, whoever is an owner of a Lush soap and an infrequent user of Proactiv soap is not a regular user of Dove soap. We may conclude: Every owner of a Lush soap who is an infrequent user of Proactiv soap is also a loyal buyer of Paul Mitchell soap."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: To start with, whoever is a loyal buyer of Neutrogena soap is not a regular user of Paul Mitchell soap. Now, whoever is an owner of a Lush soap and an infrequent user of Proactiv soap is not a loyal buyer of Neutrogena soap. We may conclude: Every owner of a Lush soap who is an infrequent user of Proactiv soap is also a regular user of Paul Mitchell soap."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: To start with, whoever is a regular user of Dove soap is not a loyal buyer of Neutrogena soap. Now, whoever is an owner of a Lush soap and an infrequent user of Proactiv soap is not a regular user of Dove soap. We may conclude: Every owner of a Lush soap who is an infrequent user of Proactiv soap is also a loyal buyer of Neutrogena soap."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: To start with, whoever is a loyal buyer of Bentley Organic soap is not a regular user of Paul Mitchell soap. Now, whoever is an owner of a Lush soap and an infrequent user of Proactiv soap is not a loyal buyer of Bentley Organic soap. We may conclude: Every owner of a Lush soap who is an infrequent user of Proactiv soap is also a regular user of Paul Mitchell soap."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

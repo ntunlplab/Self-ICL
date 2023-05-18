@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't want to go to the beach?
+(B) You mean you can't wait to go to the beach?
+A: (A)

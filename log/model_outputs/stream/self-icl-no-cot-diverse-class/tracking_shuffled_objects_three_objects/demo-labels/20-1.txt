@@ -1,0 +1,6 @@
+Q: Three students, Sarah, Sam, and Steve, are playing a game of tag. At the start of the game, Sarah is "it", Sam is running away, and Steve is standing still. Throughout the game, the players often switch roles. First, Sarah and Sam switch roles. Then, Sam and Steve switch roles. Finally, Steve and Sarah switch roles. At the end of the game, Sarah is:
+Options:
+(A) "It"
+(B) Running away
+(C) Standing still
+A: (A)

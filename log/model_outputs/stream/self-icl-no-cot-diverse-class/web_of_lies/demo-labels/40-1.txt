@@ -1,0 +1,2 @@
+Q: Question: David says that his brother tells the truth. His brother says that David lies. His sister says that his brother lies. His mother says that his sister tells the truth. Does David tell the truth?
+A: No,

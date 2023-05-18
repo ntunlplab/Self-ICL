@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "Adam Thielen got on base."
+
+New instance 1:
+Q: Is the following sentence plausible? "The Chicago Bulls won the NBA championship."
+
+New instance 2:
+Q: Is the following sentence plausible? "The New York Yankees won the World Series in 2020."
+
+New instance 3:
+Q: Is the following sentence plausible? "The Los Angeles Lakers scored 100 points in the first quarter."

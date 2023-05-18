@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Sally is a baker who owns a small bakery. She has been using the same ingredients for years, but this year she decided to try something new. She bought a new type of flour called A X200R, which she used to make her cakes. After a few weeks, Sally noticed that the cakes made with A X200R were not as fluffy and moist as the cakes made with her usual flour. She was confused and wondered if the new flour had caused the cakes to not turn out as well. Did Sally cause the cakes to not turn out as well?
+Options:
+- Yes
+- No
+A: No

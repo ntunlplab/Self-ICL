@@ -1,0 +1,11 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Jake, 4, 35, 8 Ryan, 2, 65, 10 Tyler, 6, 55, 9 Mia, 5, 45, 12  For example: the age of Jake is 4, the weight of Mia is 12 kg, the height of Ryan is 65 cm.  We now add a penguin to the table:
+Abby, 9, 75, 11
+We then delete the penguin named Tyler from the table.
+How many penguins are there in the table?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (C)

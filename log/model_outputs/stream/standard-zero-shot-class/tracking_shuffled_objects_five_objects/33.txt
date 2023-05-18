@@ -1,0 +1,11 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Sam, Dave is dancing with Karl, and Eve is dancing with Helga.
+Throughout the song, the dancers often trade partners. First, Dave and Alice switch partners. Then, Claire and Dave switch partners. Then, Alice and Dave switch partners. Then, Bob and Eve switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Bob is dancing with
+Options:
+(A) Lola
+(B) Melissa
+(C) Sam
+(D) Karl
+(E) Helga
+A: (A)

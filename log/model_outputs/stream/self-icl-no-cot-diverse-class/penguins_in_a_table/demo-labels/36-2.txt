@@ -1,0 +1,11 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Thomas, 4, 35, 8 George, 2, 65, 10 Peter, 6, 45, 9 Lucy, 5, 55, 12  For example: the age of Thomas is 4, the weight of Lucy is 12 kg, the height of George is 65 cm.  We now add a penguin to the table:
+Nina, 9, 75, 11
+We then delete the penguin named George from the table.
+Which is the youngest penguin?
+Options:
+(A) Thomas
+(B) George
+(C) Peter
+(D) Lucy
+(E) Nina
+A: (A)

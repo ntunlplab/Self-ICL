@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, anarchism is taught as a prime example of a governing system
+(B) Yeah, democracy is taught as a prime example of a governing system
+A: (A)

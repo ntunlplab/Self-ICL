@@ -1,0 +1,69 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, John went to the movies. Between what times could they have gone?
+We know that:
+John woke up at 8am.
+Sally saw John waiting at the bus stop from 8am to 10am.
+Tom saw John working at the store from 11am to 1pm.
+Jill saw John waiting at the train station from 2pm to 3pm.
+John's friend saw him attending a meeting from 4pm to 6pm.
+John's neighbor saw him walking in the park from 7pm to 8pm.
+The movie theater was closed after 10pm.
+Between what times could John have gone to the movies?
+Options:
+(A) 10am to 11am
+(B) 1pm to 2pm
+(C) 3pm to 4pm
+(D) 8pm to 10pm
+A: (D)
+
+Q: Today, Sarah went to the library. Between what times could they have gone?
+We know that:
+Sarah woke up at 6am.
+John saw Sarah waiting at the bus stop from 6am to 8am.
+Jane saw Sarah working at the cafe from 9am to 11am.
+David saw Sarah waiting at the train station from 12pm to 1pm.
+Sarah's friend saw her attending a meeting from 2pm to 4pm.
+Sarah's neighbor saw her walking in the park from 5pm to 6pm.
+The library was closed after 9pm.
+Between what times could Sarah have gone to the library?
+Options:
+(A) 8am to 9am
+(B) 11am to 12pm
+(C) 1pm to 2pm
+(D) 6pm to 9pm
+A: (D)
+
+Q: Today, Mark went to the park. Between what times could they have gone?
+We know that:
+Mark woke up at 7am.
+Karen saw Mark waiting at the bus stop from 7am to 9am.
+Tom saw Mark working at the store from 10am to 12pm.
+Jill saw Mark waiting at the train station from 1pm to 2pm.
+Mark's friend saw him attending a meeting from 3pm to 5pm.
+Mark's neighbor saw him walking in the park from 6pm to 7pm.
+The park was closed after 11pm.
+Between what times could Mark have gone to the park?
+Options:
+(A) 9am to 10am
+(B) 12pm to 1pm
+(C) 2pm to 3pm
+(D) 7pm to 11pm
+A: (D)
+
+Q: Today, Linda went to the beach. Between what times could they have gone?
+We know that:
+Linda woke up at 10am.
+Elizabeth saw Linda waiting at the train station from 10am to 12pm.
+David saw Linda working at the office from 2pm to 4pm.
+Sarah saw Linda waiting at the airport from 4pm to 5pm.
+Ashley saw Linda attending class at the school from 5pm to 9pm.
+Betty saw Linda walking in the garden from 9pm to 10pm.
+The beach was closed after 10pm.
+Between what times could Linda have gone to the beach?
+Options:
+(A) 12pm to 2pm
+(B) 10am to 12pm
+(C) 2pm to 4pm
+(D) 4pm to 5pm
+A: (D)

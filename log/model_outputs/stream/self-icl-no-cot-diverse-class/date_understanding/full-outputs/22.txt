@@ -1,0 +1,37 @@
+Task description: Infer the date from context.
+
+Q: John is celebrating his birthday on August 15th, 2020. What is the date two days ago in MM/DD/YYYY?
+Options:
+(A) 08/13/2020
+(B) 08/14/2020
+(C) 07/15/2020
+(D) 07/14/2020
+(E) 08/12/2020
+A: (B)
+
+Q: The first day of school is September 3rd, 2019. What is the date one week before in MM/DD/YYYY?
+Options:
+(A) 08/27/2019
+(B) 08/26/2019
+(C) 09/02/2019
+(D) 09/03/2019
+(E) 08/25/2019
+A: (B)
+
+Q: The last day of the year is December 31st, 2021. What is the date one month before in MM/DD/YYYY?
+Options:
+(A) 11/30/2021
+(B) 12/01/2021
+(C) 11/31/2021
+(D) 12/30/2021
+(E) 12/31/2021
+A: (D)
+
+Q: Jane is celebrating the last day of Jan 2012. What is the date yesterday in MM/DD/YYYY?
+Options:
+(A) 01/29/2012
+(B) 09/30/2011
+(C) 02/06/2012
+(D) 01/30/2012
+(E) 01/30/1925
+A: (D)

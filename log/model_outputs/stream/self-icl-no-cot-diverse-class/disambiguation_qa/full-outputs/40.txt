@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student if they had finished their homework.
+Options:
+(A) Asked if the teacher had finished their homework
+(B) Asked if the student had finished their homework
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The parents asked the children if they wanted to go to the park.
+Options:
+(A) Asked if the parents wanted to go to the park
+(B) Asked if the children wanted to go to the park
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employee if they had completed the task.
+Options:
+(A) Asked if the manager had completed the task
+(B) Asked if the employee had completed the task
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The assistant asked the physician if they could borrow some money.
+Options:
+(A) Asked if the assistant could borrow money
+(B) Asked if the physician could borrow money
+(C) Ambiguous
+A: (A)

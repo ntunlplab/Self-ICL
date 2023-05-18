@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven stones: a white stone, a gray stone, a yellow stone, a purple stone, a red stone, a black stone, and a green stone. The black stone is the sixth from the right. The red stone is to the right of the green stone. The red stone is the first from the left. The gray stone is the fourth from the right. The yellow stone is the fifth from the left. The white stone is the second from the left.
+Options:
+(A) The white stone is the leftmost
+(B) The gray stone is the leftmost
+(C) The yellow stone is the leftmost
+(D) The purple stone is the leftmost
+(E) The red stone is the leftmost
+(F) The black stone is the leftmost
+(G) The green stone is the leftmost
+A: (E)

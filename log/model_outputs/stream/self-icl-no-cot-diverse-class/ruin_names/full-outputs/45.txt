@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lion weak
+(B) the lion sneek
+(C) the lion meek
+(D) the lion speak
+A: (B)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the dark knight'?
+Options:
+(A) the dark knightmare
+(B) the dark knightly
+(C) the dark knighten
+(D) the dark knighty
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the sound of music'?
+Options:
+(A) the sound of muzak
+(B) the sound of muddle
+(C) the sound of mumble
+(D) the sound of mooing
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'get shorty'?
+Options:
+(A) wet shorty
+(B) get shirty
+(C) get shovrty
+(D) get sbhorty
+A: (B)

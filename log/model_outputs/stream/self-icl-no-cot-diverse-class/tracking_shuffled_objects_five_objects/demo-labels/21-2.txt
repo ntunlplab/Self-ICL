@@ -1,0 +1,9 @@
+Q: Five friends, Karen, Larry, Mary, Nick, and Olivia, are all avid video game players. At the start of the month, they each buy one new game: Karen gets Super Mario Bros., Larry gets The Legend of Zelda, Mary gets Pac-Man, Nick gets Donkey Kong, and Olivia gets Tetris.
+As the month progresses, they start trading around the new games. First, Mary and Nick swap games. Then, Larry and Mary swap games. Then, Nick and Karen swap games. Then, Nick and Mary swap games. Finally, Mary and Olivia swap games. At the end of the month, Olivia has
+Options:
+(A) Super Mario Bros.
+(B) The Legend of Zelda
+(C) Pac-Man
+(D) Donkey Kong
+(E) Tetris
+A: (E)

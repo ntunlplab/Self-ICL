@@ -1,0 +1,11 @@
+Q: Seven friends, Alex, Ben, Charlie, David, Emma, Frank, and George, are all passionate about music. At the start of the semester, they each buy one new album: Alex gets Abbey Road, Ben gets Sgt. Pepper's Lonely Hearts Club Band, Charlie gets The Wall, David gets Dark Side of the Moon, Emma gets Rumours, Frank gets The Joshua Tree, and George gets Led Zeppelin IV.
+As the semester proceeds, they start trading around the new albums. First, Frank and Alex swap albums. Then, George and Emma swap albums. Then, Alex and Emma swap albums. Then, David and George swap albums. Then, George and Charlie swap albums. Then, Alex and Charlie swap albums. Finally, David and Ben swap albums. At the end of the semester, David has
+Options:
+(A) Abbey Road
+(B) Sgt. Pepper's Lonely Hearts Club Band
+(C) The Wall
+(D) Dark Side of the Moon
+(E) Rumours
+(F) The Joshua Tree
+(G) Led Zeppelin IV
+A: (D)

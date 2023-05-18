@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm sure the new policy will be a great success
+(B) I'm sure the new policy won't be a great success
+A: (B)

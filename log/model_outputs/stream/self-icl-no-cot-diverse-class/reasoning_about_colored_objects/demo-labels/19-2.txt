@@ -1,0 +1,20 @@
+Q: On the desk, there are four white erasers, two black erasers, one white ruler, two black rulers, one white pencil sharpener, and two black pencil sharpeners. If I remove all the white items from the desk, how many black items remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (G)

@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: John's birthday is on August 15th, 2020. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 09/15/2020
+(B) 10/15/2020
+(C) 07/15/2020
+(D) 09/14/2020
+(E) 09/16/2020
+(F) 10/14/2020
+A: (B)
+
+Q: The first day of school is September 8th, 2021. What is the date one year from today in MM/DD/YYYY?
+Options:
+(A) 09/08/2022
+(B) 09/07/2022
+(C) 09/09/2022
+(D) 09/08/2021
+(E) 09/07/2021
+(F) 09/09/2021
+A: (A)
+
+Q: The company's anniversary is on October 5th, 2025. What is the date two years from today in MM/DD/YYYY?
+Options:
+(A) 10/05/2027
+(B) 10/04/2027
+(C) 10/06/2027
+(D) 10/05/2025
+(E) 10/04/2025
+(F) 10/06/2025
+A: (A)
+
+Q: Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 08/03/2002
+(B) 10/22/2002
+(C) 06/03/2002
+(D) 08/04/2002
+(E) 08/04/1930
+(F) 07/04/2003
+A: (D)

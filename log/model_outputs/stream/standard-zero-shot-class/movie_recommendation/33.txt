@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Braveheart, Dances with Wolves, Pulp Fiction, Schindler's List:
+Options:
+(A) Tickling Giants
+(B) Shadow of the Vampire
+(C) The Usual Suspects
+(D) On the Town
+A: (C)

@@ -1,0 +1,11 @@
+Q: Seven friends are playing a game of rock-paper-scissors. At the start of the game, each friend is holding a hand of a different color: Friend 1 is holding a red hand, Friend 2 is holding a purple hand, Friend 3 is holding a white hand, Friend 4 is holding a brown hand, Friend 5 is holding a green hand, Friend 6 is holding a blue hand, and Friend 7 is holding a yellow hand.
+As the game progresses, pairs of friends swap hands. First, Friend 4 and Friend 2 swap hands. Then, Friend 1 and Friend 2 swap hands. Then, Friend 7 and Friend 1 swap hands. Then, Friend 3 and Friend 1 swap hands. Then, Friend 2 and Friend 4 swap hands. Then, Friend 6 and Friend 1 swap hands. Finally, Friend 6 and Friend 5 swap hands. At the end of the game, Friend 7 is holding a 
+Options:
+(A) red hand
+(B) purple hand
+(C) white hand
+(D) brown hand
+(E) green hand
+(F) blue hand
+(G) yellow hand
+A: (A)

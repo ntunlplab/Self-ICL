@@ -1,0 +1,8 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was excited to win the game, and they celebrated afterwards.
+Options:
+(A) The team celebrated
+(B) The game celebrated
+(C) The spectators celebrated
+(D) Ambiguous
+A: (A)

@@ -1,0 +1,2 @@
+Q: Is the following sentence plausible? "The Los Angeles Lakers scored 100 points in the first quarter."
+A: No,

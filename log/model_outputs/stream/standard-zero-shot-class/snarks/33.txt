@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I love it when people mock other people for trying to get healthier. It's so classy
+(B) I love it when people encourage other people for trying to get healthier. It's so classy
+A: (A)

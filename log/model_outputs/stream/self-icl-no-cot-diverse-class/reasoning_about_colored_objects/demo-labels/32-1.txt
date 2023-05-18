@@ -1,0 +1,21 @@
+Q: On the desk, you see the following things arranged in a row: a beige eraser, a coral pen, a tan folder, and a lime green paperclip. What is the color of the right-most thing?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) beige
+(N) coral
+(O) tan
+(P) lime green
+(Q) purple
+(R) grey
+A: (P)

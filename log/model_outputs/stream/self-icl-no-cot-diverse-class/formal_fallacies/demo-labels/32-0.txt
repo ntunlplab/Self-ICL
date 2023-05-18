@@ -1,0 +1,6 @@
+Q: "Is John a fan of the New York Yankees? Are supporters of the Boston Red Sox devotees of the Chicago Cubs? In Major League Baseball, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First, everyone who is both an opponent to the Los Angeles Dodgers and an ex-fan of the San Francisco Giants is a follower of the New York Yankees, too. Second, being an admirer of the Texas Rangers is sufficient for not being an opponent to the Los Angeles Dodgers. Third, whoever is an admirer of the Texas Rangers is not an ex-fan of the San Francisco Giants. In consequence, every admirer of the Texas Rangers is a follower of the New York Yankees."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

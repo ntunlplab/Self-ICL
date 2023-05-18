@@ -1,0 +1,9 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'creedence clearwater revival'?
+Options:
+(A) creedence clearwatee revival
+(B) creedence clqarwater revival
+(C) creedence clearwafer revival
+(D) crecedence clearwater revival
+A: (B)

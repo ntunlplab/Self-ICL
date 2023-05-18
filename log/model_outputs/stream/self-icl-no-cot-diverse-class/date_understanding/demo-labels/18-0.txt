@@ -1,0 +1,9 @@
+Q: Today is June 15, 2020. What is the date 5 weeks ago in MM/DD/YYYY?
+Options:
+(A) 05/04/2020
+(B) 05/11/2020
+(C) 05/18/2020
+(D) 05/25/2020
+(E) 04/27/2020
+(F) 04/20/2020
+A: (F)

@@ -1,0 +1,10 @@
+Q: At a science fair, there are seven projects: a robotics project, a chemistry experiment, a physics demonstration, a biology project, an engineering project, a computer science project, and a mathematics project. The chemistry experiment is the third-oldest. The engineering project is newer than the biology project. The physics demonstration is older than the biology project. The physics demonstration is newer than the computer science project. The mathematics project is the newest. The robotics project is the oldest.
+Options:
+(A) The robotics project is the oldest
+(B) The chemistry experiment is the oldest
+(C) The physics demonstration is the oldest
+(D) The biology project is the oldest
+(E) The engineering project is the oldest
+(F) The computer science project is the oldest
+(G) The mathematics project is the oldest
+A: (A)

@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so lucky to have to work on the weekend
+(B) I'm so lucky to have to work on the weekend, woo hoo!
+A: (B)

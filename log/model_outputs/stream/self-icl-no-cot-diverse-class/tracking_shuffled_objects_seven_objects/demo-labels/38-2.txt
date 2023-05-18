@@ -1,0 +1,12 @@
+Q: At a game of hide and seek, 8 players are competing. At the start of the game, they are each hiding in a different room: Alex is in room 1, Ben is in room 2, Charlie is in room 3, Danielle is in room 4, Eric is in room 5, Fiona is in room 6, George is in room 7, and Harry is in room 8.
+Throughout the game, the players often switch rooms. First, Alex and Ben switch rooms. Then, Charlie and Danielle switch rooms. Then, Eric and Fiona switch rooms. Then, George and Harry switch rooms. Then, Alex and Charlie switch rooms. Then, Ben and Danielle switch rooms. Finally, Eric and George switch rooms. At the end of the game, Harry is in
+Options:
+(A) Room 1
+(B) Room 2
+(C) Room 3
+(D) Room 4
+(E) Room 5
+(F) Room 6
+(G) Room 7
+(H) Room 8
+A: (H)

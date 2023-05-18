@@ -1,0 +1,10 @@
+Q: In a tennis tournament, there were seven players: Jack, Tom, Mia, Amy, Joe, Max, and Ada. Ada finished above Max. Ada finished third-to-last. Amy finished above Jack. Mia finished second-to-last. Joe finished above Amy. Tom finished below Jack.
+Options:
+(A) Jack finished third-to-last
+(B) Tom finished third-to-last
+(C) Mia finished third-to-last
+(D) Amy finished third-to-last
+(E) Joe finished third-to-last
+(F) Max finished third-to-last
+(G) Ada finished third-to-last
+A: (F)

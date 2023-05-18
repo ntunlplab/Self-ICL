@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To begin with, all dogs are mammals. Moreover, all mammals have fur. From this follows: All dogs have fur."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

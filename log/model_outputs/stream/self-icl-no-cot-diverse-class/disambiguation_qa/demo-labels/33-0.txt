@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The student was excited to receive the award, and it was a great honor.
+Options:
+(A) The student was a great honor
+(B) The award was a great honor
+(C) Ambiguous
+A: (B)

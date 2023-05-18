@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Have you tried not being poor? It is much easier
+(B) Have you tried not being rude? It is much easier
+A: (A)

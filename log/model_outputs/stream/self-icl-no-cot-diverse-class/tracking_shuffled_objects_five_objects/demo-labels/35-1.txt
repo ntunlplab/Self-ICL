@@ -1,0 +1,9 @@
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all avid video game players. At the start of the semester, they each buy one new game: Fiona gets Mario Kart, George gets Fortnite, Harry gets Call of Duty, Isabel gets Overwatch, and Jack gets FIFA.
+As the semester proceeds, they start trading around the new games. First, Fiona and George swap games. Then, Harry and George swap games. Then, Isabel and George swap games. Then, Jack and George swap games. Finally, Fiona and Isabel swap games. At the end of the semester, Jack has
+Options:
+(A) Mario Kart
+(B) Fortnite
+(C) Call of Duty
+(D) Overwatch
+(E) FIFA
+A: (E)

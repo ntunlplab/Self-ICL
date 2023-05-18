@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of poker. At the start of the game, each person has a different card: Alice has an ace of spades, Bob has a king of hearts, Claire has a queen of diamonds, Dave has a jack of clubs, and Eve has a ten of spades.
+As the game progresses, pairs of people swap cards. First, Bob and Claire swap their cards. Then, Dave and Eve swap their cards. Then, Bob and Claire swap their cards. Then, Claire and Alice swap their cards. Finally, Eve and Dave swap their cards. At the end of the game, Bob has the
+Options:
+(A) ace of spades
+(B) king of hearts
+(C) queen of diamonds
+(D) jack of clubs
+(E) ten of spades
+A: (B)

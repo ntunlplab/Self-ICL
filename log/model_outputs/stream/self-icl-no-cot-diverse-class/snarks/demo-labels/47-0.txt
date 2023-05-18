@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should be thankful for the government's help during the pandemic
+(B) We should be thankful for the government's lack of help during the pandemic
+A: (B)

@@ -1,0 +1,5 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be a successful artist: All successful artists have a lot of talent. Therefore, if someone wants to be a successful artist, they must have a lot of talent. Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

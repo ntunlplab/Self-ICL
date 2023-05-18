@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Sally is a beekeeper who has been keeping bees for many years. She recently decided to try a new type of bee food called X-Food. She fed the bees the X-Food for a few weeks, but then noticed that some of the bees were dying. She wondered if the X-Food was the cause of the bee deaths.
+Options:
+- Yes
+- No
+A: No,

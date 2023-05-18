@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to predict the stock market: First, if the stock market is unpredictable, then it is impossible to accurately forecast it. Second, if the stock market is predictable, then it is possible to accurately forecast it. Third, it is impossible to accurately forecast the stock market. We may conclude: The stock market is unpredictable."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,9 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, flipper length (cm), diving depth (m) John, 4, 40, 10 Paul, 6, 50, 15 George, 8, 60, 20 Ringo, 10, 70, 25 We then delete the penguin named Paul from the table.
+How many penguins are there in the table?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (C)

@@ -1,0 +1,10 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) David, 5, 40, 9 Alex, 3, 70, 11 Paul, 7, 50, 10 Emma, 6, 60, 13  For example: the age of David is 5, the weight of Emma is 13 kg, the height of Alex is 70 cm.  We now add a penguin to the table:
+Lily, 9, 80, 12
+What is the cumulated height of the penguins?
+Options:
+(A) 270
+(B) 280
+(C) 290
+(D) 300
+(E) 310
+A: (B)

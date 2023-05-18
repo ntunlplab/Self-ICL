@@ -1,0 +1,7 @@
+Q: Who is responsible for the death of a person who was killed in a car accident?
+A person was killed in a car accident when their car was hit by another car that was speeding. Who is responsible for the death of the person?
+Options:
+- The driver of the speeding car
+- The person who was killed
+- The manufacturer of the car
+A: The driver

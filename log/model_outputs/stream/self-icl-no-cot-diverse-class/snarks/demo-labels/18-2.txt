@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy I got stuck in traffic. What a great way to spend my time!
+(B) I'm so happy I got stuck in traffic. What a joy!
+A: (A)

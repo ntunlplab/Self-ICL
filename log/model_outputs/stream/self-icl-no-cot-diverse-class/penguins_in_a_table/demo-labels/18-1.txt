@@ -1,0 +1,16 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, diving depth (m), swimming speed (km/h) 
+Lily, 7, 10, 8
+Ethan, 9, 15, 10
+Mia, 11, 20, 12
+Owen, 10, 18, 11
+We now add a penguin to the table:
+
+Ava, 12, 25, 14
+What is the average diving depth of the penguins?
+Options:
+(A) 10
+(B) 12
+(C) 14
+(D) 16
+(E) 18
+A: (D)

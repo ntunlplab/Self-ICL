@@ -1,0 +1,6 @@
+Q: A store sells three types of shoes: sandals, sneakers, and boots. The sandals are the least expensive. The boots are more expensive than the sneakers.
+Options:
+(A) The sandals are the most expensive
+(B) The sneakers are the most expensive
+(C) The boots are the most expensive
+A: (C)

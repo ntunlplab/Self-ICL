@@ -1,0 +1,20 @@
+Q: On the floor, you see one beige plate, five ivory plates, three navy textbooks, four olive textbooks, one maroon plate, and seven magenta textbooks. If I remove all the plates from the floor, how many ivory items remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (A)

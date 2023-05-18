@@ -1,0 +1,7 @@
+Q: Three friends, John, Sarah, and David, are playing a game of chess. At the start of the game, they are each assigned to a position: John is playing white, Sarah is playing black, and David is playing green.
+As the game progresses, pairs of players occasionally swap positions. First, Sarah and David trade positions. Then, John and David trade positions. Finally, Sarah and John trade positions. At the end of the game, John is playing
+Options:
+(A) white
+(B) black
+(C) green
+A: (A)

@@ -1,0 +1,10 @@
+Q: The members of the basketball team are playing a game of tag. At the start of the game, there are 6 players: Amy, Bill, Chris, Doug, Ed, and Fred. Throughout the game, the players often switch who is "it". First, Amy and Bill switch who is "it". Then, Bill and Chris switch who is "it". Then, Chris and Doug switch who is "it". Then, Doug and Ed switch who is "it". Then, Ed and Fred switch who is "it". Finally, Fred and Amy switch who is "it". At the end of the game, who is "it"?
+
+Options:
+(A) Amy
+(B) Bill
+(C) Chris
+(D) Doug
+(E) Ed
+(F) Fred
+A: (A)

@@ -1,0 +1,18 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, Jessica went to the beach. Between what times could they have gone?
+We know that:
+Jessica woke up at 5am.
+Emily saw Jessica stretching at a yoga studio from 5am to 8am.
+Thomas saw Jessica taking photos near the Eiffel Tower from 8am to 9am.
+Richard saw Jessica fixing their computer at the electronic store from 12pm to 3pm.
+Kimberly saw Jessica watching a movie at the theater from 3pm to 7pm.
+Sarah saw Jessica driving to the water park from 7pm to 10pm.
+The beach was closed after 10pm.
+Between what times could Jessica have gone to the beach?
+Options:
+(A) 8am to 9am
+(B) 12pm to 3pm
+(C) 9am to 12pm
+(D) 5am to 8am
+A: (C)

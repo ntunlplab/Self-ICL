@@ -1,0 +1,2 @@
+Q: Question: Bob says he is a reliable person. Mary says Bob is reliable. Tom says Mary lies. Jane says Tom tells the truth. Does Jane tell the truth?
+A: Yes,

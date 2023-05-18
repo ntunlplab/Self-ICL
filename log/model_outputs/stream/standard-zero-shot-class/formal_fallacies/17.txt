@@ -1,0 +1,8 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Here comes a perfectly valid argument: First premise: Everyone who is a devotee of Legia Warszawa is a follower of FK Kukësi, too. Second premise: No follower of FK Kukësi is a friend of Olympique de Marseille. Therefore, whoever is a devotee of Legia Warszawa is not a friend of Olympique de Marseille."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

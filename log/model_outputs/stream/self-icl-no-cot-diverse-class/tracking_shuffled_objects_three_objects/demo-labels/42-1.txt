@@ -1,0 +1,7 @@
+Q: Three friends, Mark, Lisa, and Paul, are playing a board game. At the start of the game, they are each assigned to a piece: Mark is playing the knight, Lisa is playing the rook, and Paul is playing the bishop.
+As the game progresses, pairs of players occasionally swap pieces. First, Lisa and Paul trade pieces. Then, Lisa and Mark trade pieces. Finally, Lisa and Paul trade pieces. At the end of the game, Lisa is playing
+Options:
+(A) knight
+(B) rook
+(C) bishop
+A: (A)

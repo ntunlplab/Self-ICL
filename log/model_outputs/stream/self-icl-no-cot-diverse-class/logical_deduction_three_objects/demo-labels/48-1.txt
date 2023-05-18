@@ -1,0 +1,6 @@
+Q: In a library, there are three books: a novel, a biography, and a dictionary. The novel is thicker than the biography. The dictionary is thicker than the novel.
+Options:
+(A) The novel is the thinnest
+(B) The biography is the thinnest
+(C) The dictionary is the thinnest
+A: (B)

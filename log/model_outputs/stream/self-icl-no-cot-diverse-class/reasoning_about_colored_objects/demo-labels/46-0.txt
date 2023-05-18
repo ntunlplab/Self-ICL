@@ -1,0 +1,5 @@
+Q: On the kitchen counter, there is a yellow bowl, a blue plate, and a pink spoon. Is the spoon pink?
+Options:
+(A) yes
+(B) no
+A: (A)

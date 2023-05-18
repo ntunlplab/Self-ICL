@@ -1,0 +1,8 @@
+Q: In a spelling bee, there were five participants: David, Ryan, Emma, Mark, and Lily. Mark finished second. Mark finished below David. Ryan finished second-to-last. Lily finished last.
+Options:
+(A) David finished first
+(B) Ryan finished first
+(C) Emma finished first
+(D) Mark finished first
+(E) Lily finished first
+A: (A)

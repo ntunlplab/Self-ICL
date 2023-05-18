@@ -1,0 +1,2 @@
+Q: Question: Alex says he is a trustworthy person. Sam says Alex is trustworthy. Ryan says Sam lies. Emma says Ryan tells the truth. Does Emma tell the truth?
+A: Yes,

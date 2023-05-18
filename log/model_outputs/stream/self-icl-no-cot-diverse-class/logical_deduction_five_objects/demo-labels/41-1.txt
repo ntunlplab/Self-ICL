@@ -1,0 +1,8 @@
+Q: In a spelling bee, there were five contestants: Jack, Emma, Ryan, Sam, and Lucy. Jack finished above Emma. Ryan finished below Lucy. Jack finished second. Lucy finished below Sam.
+Options:
+(A) Jack finished third
+(B) Emma finished third
+(C) Ryan finished third
+(D) Sam finished third
+(E) Lucy finished third
+A: (B)

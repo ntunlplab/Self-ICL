@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tiny whittling grey brand-new Indian triangular dog
+(B) tiny brand-new triangular grey Indian whittling dog
+A: (B)

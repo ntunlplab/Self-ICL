@@ -1,0 +1,8 @@
+Q: In a row of five books, the first book is a mystery novel, the second book is a romance novel, the third book is a science fiction novel, the fourth book is a fantasy novel, and the fifth book is a horror novel. The horror novel is the second from the left. The mystery novel is the leftmost. The science fiction novel is to the left of the fantasy novel. The fantasy novel is the third from the left.
+Options:
+(A) The mystery novel is the rightmost
+(B) The romance novel is the rightmost
+(C) The science fiction novel is the rightmost
+(D) The fantasy novel is the rightmost
+(E) The horror novel is the rightmost
+A: (E)

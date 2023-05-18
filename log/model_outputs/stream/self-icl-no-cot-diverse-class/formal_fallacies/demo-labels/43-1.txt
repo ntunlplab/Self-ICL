@@ -1,0 +1,6 @@
+Q: "Is it true that all dogs are animals? Are all animals mammals? The following argument seeks to clarify the relationship between dogs and mammals: All dogs are animals. All animals are mammals. Therefore, all dogs are mammals."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

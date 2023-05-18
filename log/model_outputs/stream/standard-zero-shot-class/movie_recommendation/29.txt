@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Shawshank Redemption, Pulp Fiction, Schindler's List, Braveheart:
+Options:
+(A) The Bank Job
+(B) Robot Carnival
+(C) Dances with Wolves
+(D) The Family Stone
+A: (A)

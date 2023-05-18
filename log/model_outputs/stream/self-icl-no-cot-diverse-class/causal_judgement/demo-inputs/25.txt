@@ -1,0 +1,28 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+Janet is an employee in the factory. She works in the maintenance department where she monitors the stability of all machines. Since she works in the maintenance department, she knows how to grease and oil all of the machines in the factory. It is her responsibility to put oil into the machines. Kate is also an employee in the factory. She works in the human resources department where she monitors the salaries of all employees. While she works in the human resources department, she knows how to grease and oil all of the machines in the factory. If Janet does not put oil in the machines, it is not Kate's responsibility to do so. On June 1st, Janet forgot to put oil into the machine. The machine broke down. Did the machine break down because Kate did not put oil in the machine?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: How would a typical person answer each of the following questions about causation?
+John is a driver for a delivery company. He is responsible for delivering packages to customers. One day, he was driving to a customer's house when he got a flat tire. He had to pull over and change the tire. While he was changing the tire, he noticed that the tire was worn down and had a hole in it. He had not checked the tire before he left the warehouse. On the other hand, the warehouse manager had checked the tire before John left the warehouse. If the warehouse manager had not checked the tire, would John have been able to drive to the customer's house without getting a flat tire?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: How would a typical person answer each of the following questions about causation?
+John is a student at a university. He is taking a course in physics and has been studying for the final exam. On the day of the exam, he overslept and was late to the exam. His professor had given him a warning the week before that if he was late to the exam, he would not be allowed to take it. If the professor had not given John the warning, would he have been able to take the exam on time?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: How would a typical person answer each of the following questions about causation?
+John is a construction worker. He is responsible for building a new bridge. One day, he was working on the bridge when a piece of the scaffolding collapsed. He had not checked the scaffolding before he started working on the bridge. On the other hand, the foreman had checked the scaffolding before John started working on the bridge. If the foreman had not checked the scaffolding, would the piece of scaffolding have collapsed?
+Options:
+- Yes
+- No

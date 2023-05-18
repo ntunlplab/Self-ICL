@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Every package I get from Amazon is 2 to 3 days late, busted up, doesn't work right, and sometimes not even what I ordered. So disappointed I pay for free shipping with Prime
+(B) Every package I get from Amazon is 2 to 3 days late, busted up, doesn't work right, and sometimes not even what I ordered. So happy I pay for free shipping with Prime
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to be stuck in traffic for an hour on my way to work
+(B) I'm so thrilled to be stuck in traffic for an hour on my way to work
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so lucky to have to work late tonight
+(B) I'm so fortunate to have to work late tonight
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I have to do all this extra paperwork
+(B) I'm so delighted I have to do all this extra paperwork

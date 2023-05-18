@@ -1,0 +1,10 @@
+Q: In a chess tournament, there were seven players: Jack, Mary, Tom, Alice, Peter, George, and Sam. Sam finished below Alice. Jack finished third. Alice finished below Tom. Peter finished last. Tom finished second. Mary finished fourth.
+Options:
+(A) Jack finished third
+(B) Mary finished third
+(C) Tom finished third
+(D) Alice finished third
+(E) Peter finished third
+(F) George finished third
+(G) Sam finished third
+A: (A)

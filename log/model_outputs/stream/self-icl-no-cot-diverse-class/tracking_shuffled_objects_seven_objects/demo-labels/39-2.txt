@@ -1,0 +1,10 @@
+Q: At a game of hide and seek, 8 players are hiding in a park. At the start of the game, the players are hiding in the following order: Player 1 is hiding next to Player 2, Player 2 is hiding next to Player 3, Player 3 is hiding next to Player 4, Player 4 is hiding next to Player 5, Player 5 is hiding next to Player 6, Player 6 is hiding next to Player 7, and Player 7 is hiding next to Player 8. Throughout the game, the players often switch hiding spots. First, Player 1 and Player 4 switch hiding spots. Then, Player 2 and Player 5 switch hiding spots. Then, Player 3 and Player 6 switch hiding spots. Then, Player 4 and Player 7 switch hiding spots. Then, Player 5 and Player 8 switch hiding spots. Then, Player 6 and Player 1 switch hiding spots. Finally, Player 7 and Player 2 switch hiding spots. At the end of the game, Player 8 is hiding next to 
+Options:
+(A) Player 1
+(B) Player 2
+(C) Player 3
+(D) Player 4
+(E) Player 5
+(F) Player 6
+(G) Player 7
+A: (A)

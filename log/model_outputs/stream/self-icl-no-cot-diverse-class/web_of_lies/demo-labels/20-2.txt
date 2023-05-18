@@ -1,0 +1,2 @@
+Q: Question: Sam says that Lisa is lying. Lisa says that Sam is telling the truth. Mark says that Lisa is telling the truth. Paul says that Mark is lying. Does Paul tell the truth?
+A: No,

@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Why would they have weapons drawn when they've been called to the scene of a fire?
+(B) Why would they have weapons drawn when they've been called to the scene of a shooting?
+A: (A)

@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The parents asked their children if they had done their chores.
+Options:
+(A) The parents had done their chores
+(B) The children had done their chores
+(C) Ambiguous
+A: (B)

@@ -1,0 +1,12 @@
+Q: Eight students are playing a game. At the start of the game, they are each holding a toy: Amy has a wooden toy, Brian has a plastic toy, Carl has a metal toy, Daniel has a rubber toy, Emily has a cloth toy, Fred has a glass toy, Grace has a stone toy, and Harry has a paper toy.
+As the game progresses, pairs of students trade toys. First, Emily and Harry swap toys. Then, Fred and Brian swap toys. Then, Fred and Carl swap toys. Then, Emily and Fred swap toys. Then, Fred and Carl swap toys. Then, Amy and Brian swap toys. Finally, Daniel and Harry swap toys. At the end of the game, Amy has the
+Options:
+(A) wooden toy
+(B) plastic toy
+(C) metal toy
+(D) rubber toy
+(E) cloth toy
+(F) glass toy
+(G) stone toy
+(H) paper toy
+A: (A)

@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, let's crucify this nonprofit for making money, they shouldn't be doing that
+(B) Yeah, let's crucify this company for making money, they shouldn't be doing that
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) Wow, that's a great idea, let's just throw away all of our hard work
+(B) Wow, that's a great idea, let's just keep all of our hard work
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) That's a great plan, let's just ignore the facts
+(B) That's a great plan, let's just consider the facts
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) Let's just give up, there's no way we can win
+(B) Let's just keep going, there's no way we can lose

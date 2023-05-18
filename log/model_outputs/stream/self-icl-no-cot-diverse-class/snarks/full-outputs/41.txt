@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm sure the CEO of the company will be more than happy to take a pay cut
+(B) I'm sure the CEO of the company won't be more than happy to take a pay cut
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm sure the government will be able to solve all of the world's problems
+(B) I'm sure the government won't be able to solve all of the world's problems
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm sure the new policy will be a great success
+(B) I'm sure the new policy won't be a great success
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I personally don't believe the 7 time felon that just got done murdering a random woman wouldn't lie
+(B) I personally don't believe the 7 time felon that just got done murdering a random woman would lie
+A: (A)

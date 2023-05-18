@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student if he had finished his homework.
+Options:
+(A) The teacher finished his homework
+(B) The student finished his homework
+(C) Ambiguous
+A: (B)

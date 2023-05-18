@@ -1,0 +1,6 @@
+Q: Three chefs, Jack, Jill, and Peter, are competing in a cooking competition. At the start of the competition, Jack is making a cake, Jill is making a pie, and Peter is making a soup. Throughout the competition, the chefs often switch dishes. First, Jill and Peter switch dishes. Then, Peter and Jack switch dishes. Finally, Jill and Jack switch dishes. At the end of the competition, Peter is making:
+Options:
+(A) Cake
+(B) Pie
+(C) Soup
+A: (A)

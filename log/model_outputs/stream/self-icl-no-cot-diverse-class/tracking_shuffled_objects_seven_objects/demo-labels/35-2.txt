@@ -1,0 +1,12 @@
+Q: At a game of hide and seek, 8 players are hiding in a park. At the start of the game, each player is hiding with their partner: Anna is hiding with Steve, Brian is hiding with Trina, Carl is hiding with Ursula, Dan is hiding with Victor, Eric is hiding with Wendy, Frank is hiding with Xavier, George is hiding with Yolanda, and Harry is hiding with Zoe.
+Throughout the game, the players often switch hiding spots. First, Anna and Carl switch hiding spots. Then, Brian and Eric switch hiding spots. Then, Dan and Frank switch hiding spots. Then, Carl and George switch hiding spots. Then, Eric and Harry switch hiding spots. Then, Anna and Dan switch hiding spots. Finally, Brian and George switch hiding spots. At the end of the game, Carl is hiding with
+Options:
+(A) Steve
+(B) Trina
+(C) Ursula
+(D) Victor
+(E) Wendy
+(F) Xavier
+(G) Yolanda
+(H) Zoe
+A: (C)

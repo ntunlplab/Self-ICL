@@ -1,0 +1,20 @@
+Q: On the floor, you see one white plate, four black plates, two gray textbooks, three brown textbooks, one pink plate, and six silver textbooks. If I remove all the plates from the floor, how many gray items remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)

@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to turn in their assignment by the end of the week.
+Options:
+(A) The teacher would have to turn in the assignment
+(B) The student would have to turn in the assignment
+(C) Ambiguous
+A: (B)

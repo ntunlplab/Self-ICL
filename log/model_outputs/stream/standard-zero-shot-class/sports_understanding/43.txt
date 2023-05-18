@@ -1,0 +1,4 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "Fred VanVleet scored a freekick in the Champions League Final."
+A: No,

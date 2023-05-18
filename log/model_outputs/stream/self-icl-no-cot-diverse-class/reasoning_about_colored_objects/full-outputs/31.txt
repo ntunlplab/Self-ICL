@@ -1,0 +1,25 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the kitchen counter, I see a yellow bowl, a navy blue plate, a teal spoon, a pink cup, and an orange napkin. Is the plate beige?
+Options:
+(A) yes
+(B) no
+A: (B)
+
+Q: On the bookshelf, I see a white book, a black lamp, a gray vase, a lavender candle, and a turquoise clock. Is the book maroon?
+Options:
+(A) yes
+(B) no
+A: (B)
+
+Q: On the dresser, I see a coral scarf, a silver bracelet, a gold necklace, a peach comb, and an aqua hairbrush. Is the comb indigo?
+Options:
+(A) yes
+(B) no
+A: (B)
+
+Q: On the desk, I see a purple sheet of paper, a burgundy necklace, a magenta pen, a green paperclip, and a brown notebook. Is the paperclip fuchsia?
+Options:
+(A) yes
+(B) no
+A: (B)

@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach asked the team to practice their drills and gave them a break.
+Options:
+(A) Gave the coach a break
+(B) Gave the team a break
+(C) Ambiguous
+A: (B)

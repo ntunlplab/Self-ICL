@@ -1,0 +1,5 @@
+Q: A company has been using a certain type of chemical in its production process for many years. Recently, the company's board of directors decided to switch to a different type of chemical that is more cost-effective but also more harmful to the environment. Did the board intentionally harm the environment?
+Options:
+- Yes
+- No
+A: No.

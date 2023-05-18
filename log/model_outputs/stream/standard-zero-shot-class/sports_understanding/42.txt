@@ -1,0 +1,4 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "Jonathan Marchessault scored on the power play in the Stanley Cup."
+A: No,

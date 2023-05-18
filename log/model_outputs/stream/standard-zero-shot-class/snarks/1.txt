@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Hey just be happy then you won't be depressed anymore
+(B) Hey just be happy that you won't be depressed anymore
+A: (A)

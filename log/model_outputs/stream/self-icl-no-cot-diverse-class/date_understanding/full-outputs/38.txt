@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: Today is 11/30/2020. What is the date two months ago in MM/DD/YYYY?
+Options:
+(A) 09/30/2020
+(B) 09/01/2020
+(C) 10/30/2020
+(D) 10/01/2020
+(E) 11/01/2020
+(F) 11/30/2019
+A: (D)
+
+Q: Today is 07/31/2021. What is the date three months ago in MM/DD/YYYY?
+Options:
+(A) 04/30/2021
+(B) 04/01/2021
+(C) 05/31/2021
+(D) 05/01/2021
+(E) 06/30/2021
+(F) 06/01/2021
+A: (B)
+
+Q: Today is 03/31/2022. What is the date four months ago in MM/DD/YYYY?
+Options:
+(A) 11/30/2021
+(B) 11/01/2021
+(C) 12/31/2021
+(D) 12/01/2021
+(E) 01/31/2022
+(F) 01/01/2022
+A: (D)
+
+Q: Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date a month ago in MM/DD/YYYY?
+Options:
+(A) 04/01/1930
+(B) 12/01/1929
+(C) 12/01/1973
+(D) 12/02/1929
+(E) 12/11/1929
+(F) 12/04/1929
+A: (B)

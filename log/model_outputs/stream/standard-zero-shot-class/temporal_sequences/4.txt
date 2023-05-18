@@ -1,0 +1,16 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, Jason went to the movies. Between what times could they have gone?
+We know that:
+Jason woke up at 10am.
+Linda saw Jason getting a coffee at the cafe from 10am to 3pm.
+Jennifer saw Jason walking towards the Statue of Liberty from 6pm to 7pm.
+Sean saw Jason buying a phone at the electronics store from 7pm to 10pm.
+The movies was closed after 10pm.
+Between what times could Jason have gone to the movies?
+Options:
+(A) 3pm to 6pm
+(B) 10am to 3pm
+(C) 7pm to 10pm
+(D) 6pm to 7pm
+A: (C)
