@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe mango
+(B) ripe juicy delicious mango
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small round wooden table
+(B) wooden round small table
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow cheerful sunflower
+(B) cheerful yellow bright sunflower
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) wool repulsive prismlike American chair
+(B) repulsive prismlike American wool chair
+A: (B)

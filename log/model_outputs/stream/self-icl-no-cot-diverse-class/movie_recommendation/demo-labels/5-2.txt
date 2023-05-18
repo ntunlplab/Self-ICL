@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Hangover, Superbad, Knocked Up, Bridesmaids:
+Options:
+(A) The 40-Year-Old Virgin
+(B) Wedding Crashers
+(C) Step Brothers
+(D) Anchorman: The Legend of Ron Burgundy
+A: (A)

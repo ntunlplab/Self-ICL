@@ -1,0 +1,7 @@
+Q: Which of the following is a humorous edit of this artist or movie name: 'Titanic'?
+Options:
+(A) Titainic
+(B) Titanicc
+(C) Titaniic
+(D) Titannic
+A: (A)

@@ -1,0 +1,5 @@
+Q: A person is walking down the street and trips over a crack in the sidewalk. As a result, the person falls and breaks their arm. Did the crack in the sidewalk cause the person to break their arm?
+Options:
+- Yes
+- No
+A: Yes

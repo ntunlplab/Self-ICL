@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) rubber gray walking Mexican midsize cat
+(B) midsize gray Mexican rubber walking cat
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small fluffy white cuddly puppy
+(B) white cuddly small fluffy puppy
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red apple
+(B) red juicy ripe delicious apple
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny colorful plastic ball
+(B) colorful shiny bright plastic ball

@@ -1,0 +1,10 @@
+Q: At a game of tag, 8 players are competing. At the start of the game, they are arranged in a circle in the following order: Jack, Kate, Liam, Mia, Noah, Olivia, Peter, and Quinn. Throughout the game, the players often switch roles. First, Jack and Kate switch roles. Then, Liam and Mia switch roles. Then, Noah and Olivia switch roles. Then, Peter and Quinn switch roles. Then, Jack and Liam switch roles. Then, Kate and Mia switch roles. Finally, Noah and Peter switch roles. At the end of the game, Jack is playing which role?
+Options:
+(A) Kate
+(B) Liam
+(C) Mia
+(D) Noah
+(E) Olivia
+(F) Peter
+(G) Quinn
+A: (B)

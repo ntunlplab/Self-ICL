@@ -1,0 +1,6 @@
+Q: Three friends, Mark, Rachel, and Tyler, are playing a game of cards. At the start of the game, Mark has the Ace of Spades, Rachel has the King of Hearts, and Tyler has the Queen of Clubs. As the game progresses, they decide to switch cards. First, Mark and Rachel swap cards. Then, Rachel and Tyler swap cards. Finally, Mark and Tyler swap cards. At the end of the game, Mark has
+Options:
+(A) Ace of Spades
+(B) King of Hearts
+(C) Queen of Clubs
+A: (B)

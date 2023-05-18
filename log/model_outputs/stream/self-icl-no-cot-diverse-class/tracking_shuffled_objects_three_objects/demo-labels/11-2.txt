@@ -1,0 +1,6 @@
+Q: Three chefs, John, Mary, and Tom, are competing in a cooking competition. At the start of the competition, John is making a cake, Mary is making a pie, and Tom is making a tart. Throughout the competition, the chefs often switch dishes. First, John and Mary switch dishes. Then, Mary and Tom switch dishes. Finally, John and Tom switch dishes. At the end of the competition, John is making 
+Options:
+(A) A cake
+(B) A pie
+(C) A tart
+A: (C)

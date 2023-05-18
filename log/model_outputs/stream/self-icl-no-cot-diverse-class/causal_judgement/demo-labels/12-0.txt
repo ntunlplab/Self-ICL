@@ -1,0 +1,6 @@
+Q: What caused the car to stop running?
+John was driving his car when it suddenly stopped running. He checked the engine and found that the spark plugs were not working. He replaced the spark plugs and the car started running again. Did the car stop running because the spark plugs were not working?
+Options:
+- Yes
+- No
+A: Yes

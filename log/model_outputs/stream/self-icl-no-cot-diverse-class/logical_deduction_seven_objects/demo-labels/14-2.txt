@@ -1,0 +1,10 @@
+Q: On a plate, there are seven pieces of fruit: an apple, a banana, a pear, an orange, a kiwi, a strawberry, and a grape. The orange is the second from the right. The apple is the fourth from the left. The pear is to the left of the kiwi. The strawberry is to the left of the pear. The banana is the second from the left. The grape is to the left of the strawberry.
+Options:
+(A) The banana is the second from the left
+(B) The apple is the second from the left
+(C) The pear is the second from the left
+(D) The orange is the second from the left
+(E) The kiwi is the second from the left
+(F) The strawberry is the second from the left
+(G) The grape is the second from the left
+A: (D)

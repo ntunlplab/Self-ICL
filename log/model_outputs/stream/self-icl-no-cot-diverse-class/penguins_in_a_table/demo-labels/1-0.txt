@@ -1,0 +1,13 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, habitat, diet 
+Mandy, 4, Antarctic, krill 
+Oscar, 6, Arctic, fish 
+Ralph, 8, Sub-Antarctic, squid 
+Tina, 10, Sub-Antarctic, krill 
+For example: the age of Mandy is 4, the habitat of Oscar is Arctic, the diet of Ralph is squid. What is the name of the last penguin sorted by alphabetic order?
+Options:
+(A) Mandy
+(B) Oscar
+(C) Ralph
+(D) Tina
+(E) William
+A: (D)

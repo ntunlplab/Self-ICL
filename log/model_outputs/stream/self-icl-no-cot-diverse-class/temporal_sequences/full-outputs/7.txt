@@ -1,0 +1,64 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, John went to the movie theater. Between what times could they have gone?
+We know that:
+John woke up at 7am.
+Sally saw John playing basketball at the park from 9am to 11am.
+Paul saw John eating lunch at the diner from 11am to 1pm.
+Karen saw John shopping for groceries at the store from 1pm to 3pm.
+Jill saw John walking his dog at the park from 3pm to 5pm.
+The movie theater was closed after 10pm.
+Between what times could John have gone to the movie theater?
+Options:
+(A) 5pm to 10pm
+(B) 3pm to 5pm
+(C) 7am to 9am
+(D) 9am to 11am
+A: (A)
+
+Q: Today, Mary went to the library. Between what times could they have gone?
+We know that:
+Mary woke up at 8am.
+Tom saw Mary playing tennis at the court from 10am to 12pm.
+Sue saw Mary eating lunch at the cafe from 12pm to 2pm.
+John saw Mary buying books at the bookstore from 2pm to 4pm.
+The library was closed after 9pm.
+Between what times could Mary have gone to the library?
+Options:
+(A) 4pm to 9pm
+(B) 2pm to 4pm
+(C) 8am to 10am
+(D) 10am to 12pm
+A: (A)
+
+Q: Today, Jake went to the museum. Between what times could they have gone?
+We know that:
+Jake woke up at 9am.
+Liz saw Jake playing video games at the arcade from 11am to 1pm.
+Dave saw Jake eating lunch at the food court from 1pm to 3pm.
+Kathy saw Jake shopping for souvenirs at the gift shop from 3pm to 5pm.
+The museum was closed after 7pm.
+Between what times could Jake have gone to the museum?
+Options:
+(A) 5pm to 7pm
+(B) 3pm to 5pm
+(C) 9am to 11am
+(D) 11am to 1pm
+A: (A)
+
+Q: Today, Sarah went to the construction site. Between what times could they have gone?
+We know that:
+Sarah woke up at 6am.
+Nancy saw Sarah fixing their computer at the electronic store from 8am to 2pm.
+Betty saw Sarah driving to the water park from 2pm to 3pm.
+Kimberly saw Sarah buying clothes at the mall from 3pm to 4pm.
+Emily saw Sarah buying cookies at a bakery from 4pm to 6pm.
+David saw Sarah attending class at the school from 6pm to 8pm.
+The construction site was closed after 8pm.
+Between what times could Sarah have gone to the construction site?
+Options:
+(A) 3pm to 4pm
+(B) 2pm to 3pm
+(C) 6am to 8am
+(D) 8am to 2pm
+A: (B)

@@ -1,0 +1,9 @@
+Q: Five employees, Karen, Larry, Mike, Nancy, and Olivia, are working on a project. At the start of the project, they are each assigned to a task: Karen is working on task 1, Larry is working on task 2, Mike is working on task 3, Nancy is working on task 4, and Olivia is working on task 5.
+As the project progresses, pairs of employees occasionally swap tasks. First, Karen and Larry trade tasks. Then, Karen and Mike trade tasks. Then, Nancy and Mike trade tasks. Then, Larry and Nancy trade tasks. Finally, Mike and Olivia trade tasks. At the end of the project, Olivia is working on
+Options:
+(A) task 1
+(B) task 2
+(C) task 3
+(D) task 4
+(E) task 5
+A: (E)

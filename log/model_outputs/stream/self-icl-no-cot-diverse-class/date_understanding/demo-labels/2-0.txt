@@ -1,0 +1,9 @@
+Q: The first day of school for the 2020-2021 school year was August 17th. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 09/17/2020
+(B) 09/16/2020
+(C) 10/17/2020
+(D) 10/16/2020
+(E) 11/17/2020
+(F) 11/16/2020
+A: (D)

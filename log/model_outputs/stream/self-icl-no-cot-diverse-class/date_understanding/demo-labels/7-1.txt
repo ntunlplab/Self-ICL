@@ -1,0 +1,9 @@
+Q: Today is 03/15/2020. What is the date one week ago in MM/DD/YYYY?
+Options:
+(A) 03/08/2020
+(B) 03/09/2020
+(C) 03/10/2020
+(D) 03/11/2020
+(E) 03/12/2020
+(F) 03/13/2020
+A: (B)

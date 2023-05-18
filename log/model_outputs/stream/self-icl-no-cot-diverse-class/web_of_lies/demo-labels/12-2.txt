@@ -1,0 +1,2 @@
+Q: Question: Jane says that Jack is lying. Jack says that Jane is telling the truth. Sam says that Jack is telling the truth. Tim says that Sam is lying. Paul says that Tim is telling the truth. Does Paul tell the truth?
+A: No,

@@ -1,0 +1,10 @@
+Q: On the desk, you see a white laptop, a black mouse, a green pen, a yellow notepad, a blue stapler, and a red ruler. How many objects are neither orange nor purple?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (G)

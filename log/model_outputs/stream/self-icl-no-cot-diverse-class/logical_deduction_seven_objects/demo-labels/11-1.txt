@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven toys: a red toy, a white toy, a black toy, a yellow toy, an orange toy, a blue toy, and a green toy. The yellow toy is the rightmost. The blue toy is to the left of the orange toy. The green toy is to the right of the white toy. The blue toy is to the right of the green toy. The black toy is the fourth from the left. The red toy is the third from the right.
+Options:
+(A) The red toy is the fourth from the left
+(B) The white toy is the fourth from the left
+(C) The black toy is the fourth from the left
+(D) The yellow toy is the fourth from the left
+(E) The orange toy is the fourth from the left
+(F) The blue toy is the fourth from the left
+(G) The green toy is the fourth from the left
+A: (C)

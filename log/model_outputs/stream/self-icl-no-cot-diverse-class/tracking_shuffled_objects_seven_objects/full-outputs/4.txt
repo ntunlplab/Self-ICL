@@ -1,0 +1,49 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Seven friends, Alex, Ben, Charlie, David, Emma, Frank, and George, are all avid gamers. At the start of the semester, they each buy one new game: Alex gets Mario Kart, Ben gets Call of Duty, Charlie gets Grand Theft Auto, David gets FIFA, Emma gets The Sims, Frank gets Fortnite, and George gets Overwatch.
+As the semester proceeds, they start trading around the new games. First, David and George swap games. Then, Charlie and Ben swap games. Then, Alex and David swap games. Then, Frank and Charlie swap games. Then, David and Frank swap games. Then, Ben and Charlie swap games. Finally, Emma and Frank swap games. At the end of the semester, Emma has
+Options:
+(A) Mario Kart
+(B) Call of Duty
+(C) Grand Theft Auto
+(D) FIFA
+(E) The Sims
+(F) Fortnite
+(G) Overwatch
+A: (E)
+
+Q: Seven friends, Henry, Irene, Jack, Karen, Larry, Mary, and Nick, are all avid cooks. At the start of the semester, they each buy one new cookbook: Henry gets The Joy of Cooking, Irene gets The Art of French Cooking, Jack gets The Flavor Bible, Karen gets The Vegetarian Cookbook, Larry gets The Complete Mediterranean Cookbook, Mary gets The Complete Vegetarian Cookbook, and Nick gets The Complete Asian Cookbook.
+As the semester proceeds, they start trading around the new cookbooks. First, Karen and Nick swap books. Then, Irene and Jack swap books. Then, Henry and Karen swap books. Then, Mary and Irene swap books. Then, Karen and Mary swap books. Then, Jack and Irene swap books. Finally, Larry and Mary swap books. At the end of the semester, Larry has
+Options:
+(A) The Joy of Cooking
+(B) The Art of French Cooking
+(C) The Flavor Bible
+(D) The Vegetarian Cookbook
+(E) The Complete Mediterranean Cookbook
+(F) The Complete Vegetarian Cookbook
+(G) The Complete Asian Cookbook
+A: (E)
+
+Q: Seven friends, Olivia, Paul, Quinn, Rachel, Sam, Tom, and Ursula, are all avid movie-goers. At the start of the semester, they each buy one new movie: Olivia gets The Godfather, Paul gets Star Wars, Quinn gets The Lord of the Rings, Rachel gets The Matrix, Sam gets The Dark Knight, Tom gets Inception, and Ursula gets The Shawshank Redemption.
+As the semester proceeds, they start trading around the new movies. First, Quinn and Ursula swap movies. Then, Paul and Quinn swap movies. Then, Olivia and Paul swap movies. Then, Sam and Quinn swap movies. Then, Paul and Sam swap movies. Then, Quinn and Paul swap movies. Finally, Rachel and Sam swap movies. At the end of the semester, Rachel has
+Options:
+(A) The Godfather
+(B) Star Wars
+(C) The Lord of the Rings
+(D) The Matrix
+(E) The Dark Knight
+(F) Inception
+(G) The Shawshank Redemption
+A: (E)
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Pearl, Eve gets Hound of the Baskervilles, Fred gets The Fellowship of the Ring, and Gertrude gets The Odyssey.
+As the semester proceeds, they start trading around the new books. First, Dave and Gertrude swap books. Then, Claire and Bob swap books. Then, Alice and Dave swap books. Then, Fred and Claire swap books. Then, Dave and Fred swap books. Then, Bob and Claire swap books. Finally, Eve and Fred swap books. At the end of the semester, Eve has
+Options:
+(A) Lolita
+(B) Frankenstein
+(C) Moby Dick
+(D) The Pearl
+(E) Hound of the Baskervilles
+(F) The Fellowship of the Ring
+(G) The Odyssey
+A: (E)

@@ -1,0 +1,5 @@
+Q: A family is on vacation and decides to go to the beach. While they are there, they notice a large wave coming towards them. The family quickly runs away from the wave, but the wave still manages to knock them over. Did the family intentionally get knocked over by the wave?
+Options:
+- Yes
+- No
+A: No

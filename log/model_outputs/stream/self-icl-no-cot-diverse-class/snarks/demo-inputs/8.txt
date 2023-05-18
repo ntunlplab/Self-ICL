@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, I've noticed he's been drinking every day recently, what a great transformation
+(B) Yeah, I've noticed he's been exercising every day recently, what a great transformation
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to work today
+(B) I'm so excited to go to the dentist today
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad it's raining
+(B) I'm so glad it's snowing
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I got an A on my test
+(B) I'm so glad I got an F on my test

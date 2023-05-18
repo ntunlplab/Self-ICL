@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to work today
+(B) I'm so excited to go to school today
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to clean the house
+(B) I'm so excited to do the laundry
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to pay my taxes
+(B) I'm so excited to go shopping
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, anarchism is taught as a prime example of a governing system
+(B) Yeah, democracy is taught as a prime example of a governing system
+A: (A)

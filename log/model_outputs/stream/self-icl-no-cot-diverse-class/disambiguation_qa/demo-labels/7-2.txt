@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The parents asked their children to clean their room.
+Options:
+(A) Asked the parents
+(B) Asked the children
+(C) Ambiguous
+A: (B)

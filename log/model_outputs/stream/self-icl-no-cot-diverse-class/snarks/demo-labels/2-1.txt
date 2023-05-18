@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so proud of myself for getting an A on the test
+(B) I'm so proud of myself for getting a C on the test
+A: (B)

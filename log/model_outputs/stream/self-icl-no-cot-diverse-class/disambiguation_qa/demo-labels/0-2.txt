@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The couple decided to move because they wanted a change of scenery.
+Options:
+(A) The couple wanted a change of scenery
+(B) The scenery wanted a change of scenery
+(C) Ambiguous
+A: (A)

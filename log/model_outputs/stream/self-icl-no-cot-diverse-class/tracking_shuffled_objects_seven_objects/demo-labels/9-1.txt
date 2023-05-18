@@ -1,0 +1,10 @@
+Q: At a game of rock-paper-scissors, 8 players are competing. At the start of the game, they are arranged in a circle with each player holding a hand sign. Throughout the game, the players often switch hand signs. First, Player 1 and Player 8 switch hand signs. Then, Player 2 and Player 7 switch hand signs. Then, Player 3 and Player 6 switch hand signs. Then, Player 4 and Player 5 switch hand signs. Finally, Player 5 and Player 8 switch hand signs. At the end of the game, Player 8 is holding which hand sign?
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+(D) Lizard
+(E) Spock
+(F) Gun
+(G) Flag
+A: (A)

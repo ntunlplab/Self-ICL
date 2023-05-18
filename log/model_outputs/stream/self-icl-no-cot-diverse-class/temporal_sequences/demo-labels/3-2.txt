@@ -1,0 +1,15 @@
+Q: Today, Rachel went to the zoo. Between what times could they have gone?
+We know that:
+Rachel woke up at 8am.
+Eric saw Rachel walking towards the park from 8am to 9am.
+Frank saw Rachel driving to the library from 9am to 10am.
+Gina saw Rachel studying at the library from 10am to 2pm.
+Henry saw Rachel getting a snack at the cafe from 3pm to 6pm.
+The zoo was closed after 8pm.
+Between what times could Rachel have gone to the zoo?
+Options:
+(A) 10am to 2pm
+(B) 8am to 9am
+(C) 3pm to 6pm
+(D) 6pm to 8pm
+A: (D)

@@ -1,0 +1,15 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg)
+Sally, 3, 30, 6
+Toby, 5, 50, 8
+Nina, 7, 70, 10
+Sam, 9, 90, 12
+We now add a penguin to the table:
+Max, 11, 40, 14
+What is the age of Max?
+Options:
+(A) 3
+(B) 5
+(C) 7
+(D) 9
+(E) 11
+A: (E)

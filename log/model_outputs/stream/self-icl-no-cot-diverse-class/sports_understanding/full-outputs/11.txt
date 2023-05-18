@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The referee called a touchdown on the play."
+A: Yes,
+
+Q: Is the following sentence plausible? "The pitcher threw a no-hitter in the game."
+A: Yes,
+
+Q: Is the following sentence plausible? "The basketball player made a three-pointer from half court."
+A: Yes,
+
+Q: Is the following sentence plausible? "Kwadwo Asamoah was flagged on the play."
+A: Yes,

@@ -1,0 +1,6 @@
+Q: Three friends, Jack, Jill, and John, are playing a game of rock-paper-scissors. At the start of the game, Jack has rock, Jill has paper, and John has scissors. Throughout the game, the players often switch hands. First, Jack and Jill switch hands. Then, Jill and John switch hands. Finally, Jack and Jill switch hands. At the end of the game, Jack has:
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+A: (B)

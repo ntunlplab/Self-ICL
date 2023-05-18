@@ -1,0 +1,11 @@
+Q: Seven students are playing a game. At the start of the game, they are each holding a toy: Amy has a car, Brian has a truck, Carl has a plane, Dan has a boat, Emily has a robot, Fred has a doll, and Grace has a teddy bear.
+As the game progresses, pairs of students trade toys. First, Amy and Brian swap toys. Then, Carl and Dan swap toys. Then, Emily and Fred swap toys. Then, Emily and Amy swap toys. Then, Brian and Amy swap toys. Then, Grace and Carl swap toys. Finally, Amy and Dan swap toys. At the end of the game, Dan has the
+Options:
+(A) car
+(B) truck
+(C) plane
+(D) boat
+(E) robot
+(F) doll
+(G) teddy bear
+A: (A)

@@ -1,0 +1,37 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: In a row of five books, the first book is a novel, the second is a biography, the third is a cookbook, the fourth is a history book, and the fifth is a children's book. The biography is the rightmost book. The novel is to the left of the cookbook. The children's book is to the right of the history book. The history book is the third from the left.
+Options:
+(A) The novel is the second from the left
+(B) The biography is the second from the left
+(C) The cookbook is the second from the left
+(D) The history book is the second from the left
+(E) The children's book is the second from the left
+A: (C)
+
+Q: In a row of five musical instruments, the first is a guitar, the second is a violin, the third is a flute, the fourth is a drum, and the fifth is a trumpet. The violin is the rightmost instrument. The guitar is to the left of the flute. The trumpet is to the right of the drum. The drum is the third from the left.
+Options:
+(A) The guitar is the second from the left
+(B) The violin is the second from the left
+(C) The flute is the second from the left
+(D) The drum is the second from the left
+(E) The trumpet is the second from the left
+A: (C)
+
+Q: In a row of five animals, the first is a lion, the second is a tiger, the third is a bear, the fourth is a wolf, and the fifth is a fox. The tiger is the rightmost animal. The lion is to the left of the bear. The fox is to the right of the wolf. The wolf is the third from the left.
+Options:
+(A) The lion is the second from the left
+(B) The tiger is the second from the left
+(C) The bear is the second from the left
+(D) The wolf is the second from the left
+(E) The fox is the second from the left
+A: (C)
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a raven, an owl, a cardinal, a hummingbird, and a robin. The cardinal is the rightmost. The raven is to the left of the owl. The robin is to the right of the hummingbird. The hummingbird is the third from the left.
+Options:
+(A) The raven is the second from the left
+(B) The owl is the second from the left
+(C) The cardinal is the second from the left
+(D) The hummingbird is the second from the left
+(E) The robin is the second from the left
+A: (B)

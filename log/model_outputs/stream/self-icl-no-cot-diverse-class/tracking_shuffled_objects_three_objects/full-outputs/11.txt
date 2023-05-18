@@ -1,0 +1,30 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Three friends, Jack, Sarah, and David, are playing a game of rock-paper-scissors. At the start of the game, Jack has rock, Sarah has paper, and David has scissors. Throughout the game, the players often switch hands. First, Jack and Sarah switch hands. Then, Sarah and David switch hands. Finally, Jack and David switch hands. At the end of the game, Jack has 
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+A: (B)
+
+Q: Three students, Alex, Ben, and Charlie, are playing a game of tag. At the start of the game, Alex is "it", Ben is running away, and Charlie is hiding. Throughout the game, the roles often switch. First, Alex and Ben switch roles. Then, Ben and Charlie switch roles. Finally, Alex and Charlie switch roles. At the end of the game, Alex is 
+Options:
+(A) "It"
+(B) Running away
+(C) Hiding
+A: (A)
+
+Q: Three chefs, John, Mary, and Tom, are competing in a cooking competition. At the start of the competition, John is making a cake, Mary is making a pie, and Tom is making a tart. Throughout the competition, the chefs often switch dishes. First, John and Mary switch dishes. Then, Mary and Tom switch dishes. Finally, John and Tom switch dishes. At the end of the competition, John is making 
+Options:
+(A) A cake
+(B) A pie
+(C) A tart
+A: (C)
+
+Q: Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Rodrigo, and Claire is dancing with Helga.
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with
+Options:
+(A) Karl
+(B) Rodrigo
+(C) Helga
+A: (B)

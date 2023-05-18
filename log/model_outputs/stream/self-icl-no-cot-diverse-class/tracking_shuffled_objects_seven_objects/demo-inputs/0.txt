@@ -1,0 +1,48 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing left winger, Dave is playing benchwarmer, Eve is playing goalkeeper, Fred is playing center midfielder, and Gertrude is playing cheerleader.
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the match, Gertrude is playing
+Options:
+(A) striker
+(B) right winger
+(C) left winger
+(D) benchwarmer
+(E) goalkeeper
+(F) center midfielder
+(G) cheerleader
+
+New instance 1:
+Q: Seven students are in a debate tournament. At the start of the tournament, they are each assigned to a position: Alex is playing the opening speaker, Ben is playing the closing speaker, Charlie is playing the first rebuttal speaker, David is playing the second rebuttal speaker, Emma is playing the third rebuttal speaker, Fiona is playing the fourth rebuttal speaker, and George is playing the timekeeper.
+As the tournament progresses, pairs of students occasionally swap positions. First, Alex and Ben trade positions. Then, Charlie and David trade positions. Then, Emma and Fiona trade positions. Then, George and Alex trade positions. Then, Ben and Charlie trade positions. Then, David and Emma trade positions. Finally, Fiona and George trade positions. At the end of the tournament, Alex is playing
+Options:
+(A) opening speaker
+(B) closing speaker
+(C) first rebuttal speaker
+(D) second rebuttal speaker
+(E) third rebuttal speaker
+(F) fourth rebuttal speaker
+(G) timekeeper
+
+New instance 2:
+Q: Seven friends are playing a game of charades. At the start of the game, they are each assigned to a role: Andrew is playing the guesser, Beth is playing the clue giver, Carl is playing the timer, Danielle is playing the scorekeeper, Eric is playing the referee, Fiona is playing the narrator, and George is playing the audience.
+As the game progresses, pairs of friends occasionally swap roles. First, Andrew and Beth trade roles. Then, Carl and Danielle trade roles. Then, Eric and Fiona trade roles. Then, George and Andrew trade roles. Then, Beth and Carl trade roles. Then, Danielle and Eric trade roles. Finally, Fiona and George trade roles. At the end of the game, Andrew is playing
+Options:
+(A) guesser
+(B) clue giver
+(C) timer
+(D) scorekeeper
+(E) referee
+(F) narrator
+(G) audience
+
+New instance 3:
+Q: Seven musicians are in a band. At the start of the band, they are each assigned to an instrument: Alan is playing the guitar, Barbara is playing the bass, Charles is playing the drums, David is playing the keyboard, Emily is playing the saxophone, Frank is playing the trumpet, and George is playing the tambourine.
+As the band progresses, pairs of musicians occasionally swap instruments. First, Alan and Barbara trade instruments. Then, Charles and David trade instruments. Then, Emily and Frank trade instruments. Then, George and Alan trade instruments. Then, Barbara and Charles trade instruments. Then, David and Emily trade instruments. Finally, Frank and George trade instruments. At the end of the band, Alan is playing
+Options:
+(A) guitar
+(B) bass
+(C) drums
+(D) keyboard
+(E) saxophone
+(F) trumpet
+(G) tambourine

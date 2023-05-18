@@ -1,0 +1,7 @@
+Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?
+Options:
+(A) the beagles
+(B) the beatels
+(C) the beetles
+(D) the beatees
+A: (A)

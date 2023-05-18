@@ -1,0 +1,15 @@
+Q: Today, Sarah went to the museum. Between what times could they have gone?
+We know that:
+Sarah woke up at 7am.
+John saw Sarah sketching in the art gallery from 10am to 12pm.
+Mary saw Sarah reading in the library from 12pm to 3pm.
+David saw Sarah taking photos in the sculpture garden from 3pm to 5pm.
+Linda saw Sarah watching a documentary in the theater from 5pm to 7pm.
+The museum was closed after 7pm.
+Between what times could Sarah have gone to the museum?
+Options:
+(A) 10am to 12pm
+(B) 7am to 10am
+(C) 3pm to 5pm
+(D) 5pm to 7pm
+A: (B)

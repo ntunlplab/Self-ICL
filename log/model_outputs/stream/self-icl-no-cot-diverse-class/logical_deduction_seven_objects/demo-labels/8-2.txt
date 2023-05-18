@@ -1,0 +1,10 @@
+Q: At a science fair, there are seven projects: a model of the solar system, a robot, a chemistry experiment, a physics experiment, a computer program, a biology experiment, and a rocket. The computer program is the second-oldest. The rocket is the fourth-newest. The chemistry experiment is older than the robot. The robot is older than the model of the solar system. The physics experiment is the third-oldest. The biology experiment is newer than the model of the solar system.
+Options:
+(A) The model of the solar system is the oldest
+(B) The robot is the oldest
+(C) The chemistry experiment is the oldest
+(D) The physics experiment is the oldest
+(E) The computer program is the oldest
+(F) The biology experiment is the oldest
+(G) The rocket is the oldest
+A: (C)

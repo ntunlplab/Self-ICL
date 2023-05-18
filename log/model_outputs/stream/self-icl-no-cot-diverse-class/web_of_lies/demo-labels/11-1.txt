@@ -1,0 +1,2 @@
+Q: Question: Zane says that 2+2=5. Yolanda says that Zane is wrong. Xavier says that Yolanda is right. Winnie says that Xavier is wrong. Vance says that Winnie is right. Is Vance right?
+A: No,

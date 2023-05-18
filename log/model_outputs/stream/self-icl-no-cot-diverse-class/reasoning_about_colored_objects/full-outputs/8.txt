@@ -1,0 +1,25 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the kitchen counter, there is a green apple, a blue plate, a purple spoon, and a white bowl. Is the spoon orange?
+Options:
+(A) yes
+(B) no
+A: (B)
+
+Q: On the desk, there is a black pen, a brown pencil, an orange eraser, and a silver ruler. Is the ruler pink?
+Options:
+(A) yes
+(B) no
+A: (B)
+
+Q: On the shelf, there is a gold clock, a teal book, a maroon lamp, and a beige vase. Is the vase yellow?
+Options:
+(A) yes
+(B) no
+A: (B)
+
+Q: On the table, there is a red crayon, a pink notebook, a yellow jug, and a magenta mug. Is the mug grey?
+Options:
+(A) yes
+(B) no
+A: (B)

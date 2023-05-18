@@ -1,0 +1,8 @@
+Q: On a shelf, there are five boxes: a red box, a blue box, a white box, a black box, and a green box. The red box is the leftmost. The blue box is to the right of the white box. The green box is to the left of the black box. The green box is to the right of the blue box.
+Options:
+(A) The red box is the second from the right
+(B) The blue box is the second from the right
+(C) The white box is the second from the right
+(D) The black box is the second from the right
+(E) The green box is the second from the right
+A: (E)

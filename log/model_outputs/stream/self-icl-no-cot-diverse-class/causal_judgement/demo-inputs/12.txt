@@ -1,0 +1,28 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+Ned has a new motorboat. When Ned turns the key, the motorboat starts if either the gear is in neutral or the motor is in the lock position. Today, the gear is in neutral, and the motor is not in the lock position. Ned checks the motor to see if it is in the lock position. He changes its position, and he puts it in the lock position. Because the motorboat would start if either the gear is in neutral or the motor is in the lock position, the motorboat starts when Ned turns the key. Did the motorboat start because Ned changed the position of the motor?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: What caused the car to stop running?
+John was driving his car when it suddenly stopped running. He checked the engine and found that the spark plugs were not working. He replaced the spark plugs and the car started running again. Did the car stop running because the spark plugs were not working?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: What caused the fire alarm to go off?
+The fire alarm in the building went off and the fire department was called. When they arrived, they found that the fire alarm had been triggered by a faulty smoke detector. Did the fire alarm go off because of the faulty smoke detector?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: What caused the power outage?
+The power went out in the neighborhood. When the electricians arrived, they found that a tree had fallen on the power lines. Did the power outage happen because of the fallen tree?
+Options:
+- Yes
+- No

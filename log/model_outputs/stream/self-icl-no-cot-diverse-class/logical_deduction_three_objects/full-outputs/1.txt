@@ -1,0 +1,29 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: In a pet store, there are three animals: a parrot, a hamster, and a goldfish. The parrot is bigger than the hamster. The goldfish is bigger than the parrot.
+Options:
+(A) The parrot is the smallest
+(B) The hamster is the smallest
+(C) The goldfish is the smallest
+A: (B)
+
+Q: In a toy store, there are three dolls: a Barbie, a Ken, and a G.I. Joe. The Barbie is older than the Ken. The G.I. Joe is older than the Barbie.
+Options:
+(A) The Barbie is the youngest
+(B) The Ken is the youngest
+(C) The G.I. Joe is the youngest
+A: (B)
+
+Q: In a bakery, there are three cakes: a chocolate cake, a vanilla cake, and a strawberry cake. The chocolate cake is sweeter than the vanilla cake. The strawberry cake is sweeter than the chocolate cake.
+Options:
+(A) The chocolate cake is the least sweet
+(B) The vanilla cake is the least sweet
+(C) The strawberry cake is the least sweet
+A: (B)
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are three vehicles: a motorcyle, a limousine, and a convertible. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle.
+Options:
+(A) The motorcyle is the oldest
+(B) The limousine is the oldest
+(C) The convertible is the oldest
+A: (B)

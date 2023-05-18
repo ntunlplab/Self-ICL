@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The Los Angeles Lakers won the NBA championship without making a single three-pointer."
+A: No,
+
+Q: Is the following sentence plausible? "The New York Yankees won the World Series with a walk-off grand slam in the bottom of the ninth inning."
+A: Yes,
+
+Q: Is the following sentence plausible? "The Chicago Bulls won the NBA Finals with a buzzer-beater from half-court."
+A: Yes,
+
+Q: Is the following sentence plausible? "Deshaun Watson was called for the goal tend in the Eastern Conference Finals."
+A: No.

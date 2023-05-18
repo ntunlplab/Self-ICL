@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: A toy store sells seven stuffed animals: bears, cats, dogs, elephants, giraffes, hippos, and monkeys. The cats are the second-cheapest. The hippos are the cheapest. The elephants are the fourth-most expensive. The bears are the third-cheapest. The giraffes are more expensive than the monkeys. The dogs are less expensive than the monkeys.
+Options:
+(A) The dogs are the third-cheapest
+(B) The bears are the third-cheapest
+(C) The cats are the third-cheapest
+(D) The hippos are the third-cheapest
+(E) The monkeys are the third-cheapest
+(F) The elephants are the third-cheapest
+(G) The giraffes are the third-cheapest
+A: (B)
+
+Q: A bakery sells seven types of bread: baguettes, ciabatta, focaccia, naan, pita, rye, and sourdough. The ciabatta is the second-cheapest. The naan is the cheapest. The focaccia is the fourth-most expensive. The baguettes are the third-cheapest. The pita is more expensive than the rye. The sourdough is less expensive than the rye.
+Options:
+(A) The sourdough is the third-cheapest
+(B) The baguettes are the third-cheapest
+(C) The ciabatta is the third-cheapest
+(D) The naan is the third-cheapest
+(E) The rye is the third-cheapest
+(F) The focaccia is the third-cheapest
+(G) The pita is the third-cheapest
+A: (B)
+
+Q: A pet store sells seven types of fish: angelfish, bettas, goldfish, guppies, mollies, tetras, and zebrafish. The bettas are the second-cheapest. The guppies are the cheapest. The mollies are the fourth-most expensive. The angelfish are the third-cheapest. The tetras are more expensive than the goldfish. The zebrafish are less expensive than the goldfish.
+Options:
+(A) The zebrafish are the third-cheapest
+(B) The angelfish are the third-cheapest
+(C) The bettas are the third-cheapest
+(D) The guppies are the third-cheapest
+(E) The goldfish are the third-cheapest
+(F) The mollies are the third-cheapest
+(G) The tetras are the third-cheapest
+A: (C)
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells seven fruits: oranges, loquats, apples, kiwis, mangoes, plums, and peaches. The apples are the second-cheapest. The peaches are the cheapest. The plums are the fourth-most expensive. The loquats are the third-cheapest. The kiwis are more expensive than the mangoes. The oranges are less expensive than the mangoes.
+Options:
+(A) The oranges are the third-cheapest
+(B) The loquats are the third-cheapest
+(C) The apples are the third-cheapest
+(D) The kiwis are the third-cheapest
+(E) The mangoes are the third-cheapest
+(F) The plums are the third-cheapest
+(G) The peaches are the third-cheapest
+A: (B)

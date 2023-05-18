@@ -1,0 +1,2 @@
+Q: Question: John says the sky is green. Mary says John is wrong. Sarah says Mary is wrong. Tom says Sarah is right. Does Tom tell the truth?
+A: No,

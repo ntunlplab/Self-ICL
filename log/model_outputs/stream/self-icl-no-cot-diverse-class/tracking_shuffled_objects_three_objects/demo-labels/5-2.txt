@@ -1,0 +1,6 @@
+Q: Three friends, Alex, Emma, and Ryan, are playing a game of checkers. At the start of the game, Alex has the red pieces, Emma has the black pieces, and Ryan has the white pieces. As the game progresses, they decide to switch pieces. First, Alex and Emma swap pieces. Then, Emma and Ryan swap pieces. Finally, Alex and Ryan swap pieces. At the end of the game, Alex has
+Options:
+(A) Red pieces
+(B) Black pieces
+(C) White pieces
+A: (C)

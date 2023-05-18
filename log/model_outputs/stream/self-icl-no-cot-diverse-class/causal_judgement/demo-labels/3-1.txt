@@ -1,0 +1,6 @@
+Q: Was the death of Mr. Jones caused by his own actions?
+Mr. Jones was a well-known doctor in the community. He was known for his kindness and generosity. One day, Mr. Jones was walking home from work when he noticed a group of men following him. He tried to run away, but the men caught up with him. They demanded that he give them his wallet. Mr. Jones refused and the men attacked him. He was severely beaten and died at the scene. Did Mr. Jones' death result from his own actions?
+Options:
+- Yes
+- No
+A: No

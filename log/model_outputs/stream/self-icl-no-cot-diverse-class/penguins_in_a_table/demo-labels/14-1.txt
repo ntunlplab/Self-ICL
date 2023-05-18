@@ -1,0 +1,13 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, color, wingspan (cm), swimming speed (km/h) 
+Ralph, black, 80, 5 
+Sandy, white, 70, 6 
+Toby, black, 90, 4 
+For example: the color of Ralph is black, the wingspan of Sandy is 70 cm, the swimming speed of Toby is 4 km/h. How many penguins are listed in the table?
+
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (C)

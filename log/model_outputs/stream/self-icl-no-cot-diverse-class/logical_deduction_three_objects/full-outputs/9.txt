@@ -1,0 +1,29 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: In a pet store, there are three animals: a parrot, a hamster, and a guinea pig. The guinea pig is bigger than the hamster. The parrot is bigger than the guinea pig.
+Options:
+(A) The parrot is the biggest
+(B) The guinea pig is the biggest
+(C) The hamster is the biggest
+A: (A)
+
+Q: In a bakery, there are three types of cakes: a chocolate cake, a vanilla cake, and a strawberry cake. The strawberry cake is sweeter than the vanilla cake. The chocolate cake is sweeter than the strawberry cake.
+Options:
+(A) The chocolate cake is the sweetest
+(B) The strawberry cake is the sweetest
+(C) The vanilla cake is the sweetest
+A: (B)
+
+Q: In a garden, there are three types of flowers: a rose, a daisy, and a lily. The daisy is taller than the lily. The rose is taller than the daisy.
+Options:
+(A) The rose is the tallest
+(B) The daisy is the tallest
+(C) The lily is the tallest
+A: (A)
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are three vehicles: a station wagon, a minivan, and a truck. The minivan is newer than the truck. The station wagon is newer than the minivan.
+Options:
+(A) The station wagon is the newest
+(B) The minivan is the newest
+(C) The truck is the newest
+A: (A)

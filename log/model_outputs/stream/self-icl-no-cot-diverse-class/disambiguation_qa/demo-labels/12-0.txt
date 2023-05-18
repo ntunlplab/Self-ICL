@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The student asked the teacher for help and they agreed.
+Options:
+(A) The student agreed
+(B) The teacher agreed
+(C) Ambiguous
+A: (B)

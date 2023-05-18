@@ -1,0 +1,8 @@
+Q: On a shelf, there are five boxes: a red box, a blue box, a yellow box, a green box, and a purple box. The yellow box is to the right of the purple box. The green box is the second from the right. The blue box is to the right of the red box. The blue box is to the left of the purple box.
+Options:
+(A) The red box is the rightmost
+(B) The green box is the rightmost
+(C) The blue box is the rightmost
+(D) The yellow box is the rightmost
+(E) The purple box is the rightmost
+A: (E)

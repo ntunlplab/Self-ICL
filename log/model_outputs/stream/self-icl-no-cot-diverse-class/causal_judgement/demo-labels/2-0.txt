@@ -1,0 +1,5 @@
+Q: Was John's exposure to asbestos the cause of his lung cancer?
+Options:
+- Yes
+- No
+A: It is

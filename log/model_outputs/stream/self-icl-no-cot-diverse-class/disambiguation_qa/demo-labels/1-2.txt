@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The farmer harvested the crops, and they celebrated.
+Options:
+(A) The farmer celebrated
+(B) The crops celebrated
+(C) Ambiguous
+A: (A)

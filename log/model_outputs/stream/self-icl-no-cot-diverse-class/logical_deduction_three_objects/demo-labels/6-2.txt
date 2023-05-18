@@ -1,0 +1,6 @@
+Q: At a restaurant, there are three dishes: a soup, a salad, and a sandwich. The soup is hotter than the sandwich. The salad is colder than the soup.
+Options:
+(A) The sandwich is the hottest
+(B) The soup is the hottest
+(C) The salad is the hottest
+A: (B)

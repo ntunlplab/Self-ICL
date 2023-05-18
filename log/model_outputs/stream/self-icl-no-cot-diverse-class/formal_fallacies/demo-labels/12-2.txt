@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not a certain type of computer is energy efficient: All of the computers of this type are made with energy-saving components. No computers of this type are made with energy-wasting components. We may conclude: All of the computers of this type are energy efficient."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

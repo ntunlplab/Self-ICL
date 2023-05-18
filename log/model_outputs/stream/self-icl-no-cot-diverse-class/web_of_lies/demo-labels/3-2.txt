@@ -1,0 +1,2 @@
+Q: Question: Alex says the sun is yellow. Brian says Alex is wrong. Dave says Brian is wrong. Emily says Dave is right. Does Emily tell the truth?
+A: No,

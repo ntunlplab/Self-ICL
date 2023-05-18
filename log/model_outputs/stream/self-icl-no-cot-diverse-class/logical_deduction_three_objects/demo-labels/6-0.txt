@@ -1,0 +1,6 @@
+Q: At a pet store, there are three animals: a parrot, a hamster, and a guinea pig. The guinea pig is smaller than the parrot. The hamster is larger than the guinea pig.
+Options:
+(A) The parrot is the largest
+(B) The hamster is the largest
+(C) The guinea pig is the largest
+A: (B)

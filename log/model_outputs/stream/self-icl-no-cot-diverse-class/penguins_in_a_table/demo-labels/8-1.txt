@@ -1,0 +1,21 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, beak length (cm), diet 
+
+Oscar, 5, 10, krill
+
+Paul, 7, 12, fish
+
+Quincy, 9, 14, squid
+
+For example: the age of Oscar is 5, the diet of Paul is fish, the beak length of Quincy is 14 cm. We now add a penguin to the table:
+
+Randy, 11, 16, shrimp
+
+What is the average age of the penguins in the table?
+
+Options:
+(A) 5
+(B) 7
+(C) 9
+(D) 11
+(E) 13
+A: (E)

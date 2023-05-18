@@ -1,0 +1,40 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 06/19/2017
+(B) 07/17/2017
+(C) 06/20/2017
+(D) 06/18/2017
+(E) 06/15/2017
+(F) 07/10/2017
+
+New instance 1:
+Q: On April 1st, 2019, John bought a dozen donuts. He ate one every day. Today he ran out of donuts. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 04/25/2019
+(B) 04/26/2019
+(C) 04/27/2019
+(D) 04/24/2019
+(E) 04/23/2019
+(F) 04/22/2019
+
+New instance 2:
+Q: On August 15th, 2018, Sarah bought a carton of milk. She drank one cup per day. Today she ran out of milk. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 08/30/2018
+(B) 09/01/2018
+(C) 08/31/2018
+(D) 08/29/2018
+(E) 08/28/2018
+(F) 09/02/2018
+
+New instance 3:
+Q: On December 25th, 2016, Mark bought a bag of apples. He ate one every day. Today he ran out of apples. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 12/31/2016
+(B) 01/01/2017
+(C) 12/30/2016
+(D) 12/29/2016
+(E) 12/28/2016
+(F) 01/02/2017

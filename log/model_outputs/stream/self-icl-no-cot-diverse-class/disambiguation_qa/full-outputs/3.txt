@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher gave the student a book, and she was excited.
+Options:
+(A) The teacher was excited
+(B) The student was excited
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The couple went to the restaurant, and they had a great time.
+Options:
+(A) The couple had a great time
+(B) The restaurant had a great time
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The dog barked at the cat, and it ran away.
+Options:
+(A) The dog ran away
+(B) The cat ran away
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The scientist will collaborate with the artist, and he will share a story.
+Options:
+(A) The scientist will share a story
+(B) The artist will share a story
+(C) Ambiguous
+A: (B)

@@ -1,0 +1,6 @@
+Q: "Is the ocean salty? Is the desert dry? The following argument seeks to clarify the answer: First, every wave in the ocean is salty. Second, every grain of sand in the desert is not dry. So, necessarily, the ocean is salty and the desert is dry."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

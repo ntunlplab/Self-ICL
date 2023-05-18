@@ -1,0 +1,6 @@
+Q: "Is the sky blue? Is the grass green? The following argument seeks to clarify the answer: First, every cloud in the sky is white. Second, every blade of grass is not white. So, necessarily, the sky is blue and the grass is green."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

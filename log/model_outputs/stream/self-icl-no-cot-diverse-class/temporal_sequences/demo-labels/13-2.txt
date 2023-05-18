@@ -1,0 +1,15 @@
+Q: Today, Alex went to the movie theater. Between what times could they have gone?
+We know that:
+Alex woke up at 7am.
+Linda saw Alex buying breakfast at the bakery from 7am to 9am.
+Brian saw Alex playing video games at the arcade from 9am to 11am.
+Emily saw Alex eating lunch at the food court from 11am to 1pm.
+Alex saw Alex getting a smoothie at the juice bar from 4pm to 6pm.
+The movie theater was closed after 9pm.
+Between what times could Alex have gone to the movie theater?
+Options:
+(A) 1pm to 4pm
+(B) 4pm to 6pm
+(C) 6pm to 9pm
+(D) 7am to 9am
+A: (C)

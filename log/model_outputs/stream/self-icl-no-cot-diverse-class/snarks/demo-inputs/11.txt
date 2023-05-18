@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Yes, the game is over after the second half
+(B) Yes, the game is over after the first half
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to the dentist
+(B) I'm so excited to go to the movies
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad it's raining
+(B) I'm so glad it's sunny
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy to be stuck in traffic
+(B) I'm so happy to be on time for work

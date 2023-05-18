@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher gave the student an A because she worked hard.
+Options:
+(A) The teacher worked hard
+(B) The student worked hard
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team won the game because they had the most points.
+Options:
+(A) The team had the most points
+(B) The game had the most points
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The couple decided to move because they wanted a change of scenery.
+Options:
+(A) The couple wanted a change of scenery
+(B) The scenery wanted a change of scenery
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The patient was referred to the specialist because he had a rare skin condition.
+Options:
+(A) The patient had a skin condition
+(B) The specialist had a skin condition
+(C) Ambiguous
+A: (A)

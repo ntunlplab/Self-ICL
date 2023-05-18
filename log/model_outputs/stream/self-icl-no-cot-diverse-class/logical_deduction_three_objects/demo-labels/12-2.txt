@@ -1,0 +1,6 @@
+Q: In a line of four cars, there are three drivers: a taxi driver, a delivery driver, and a bus driver. The taxi driver is to the right of the delivery driver. The bus driver is to the left of the delivery driver.
+Options:
+(A) The taxi driver is the second from the left
+(B) The delivery driver is the second from the left
+(C) The bus driver is the second from the left
+A: (B)

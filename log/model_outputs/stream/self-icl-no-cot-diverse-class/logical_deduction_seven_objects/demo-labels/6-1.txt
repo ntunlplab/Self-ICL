@@ -1,0 +1,10 @@
+Q: In a spelling bee, there were seven contestants: Alex, Sam, Sarah, Tom, Lucy, Jack, and Emma. Emma finished third. Tom finished last. Alex finished first. Jack finished below Sarah. Sarah finished above Emma. Sam finished third-to-last.
+Options:
+(A) Alex finished last
+(B) Sam finished last
+(C) Sarah finished last
+(D) Tom finished last
+(E) Lucy finished last
+(F) Jack finished last
+(G) Emma finished last
+A: (A)

@@ -1,0 +1,2 @@
+Q: Question: Jake says the sun is purple. Emma says Jake is wrong. Ryan says Emma is wrong. Sam says Ryan is right. Does Sam tell the truth?
+A: No,

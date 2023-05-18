@@ -1,0 +1,44 @@
+Following is an example instance for the task: Answer extremely simple questions about the colors of objects on a surface. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: On the floor, you see a green bracelet, a purple cat toy, a brown pair of sunglasses, a black fidget spinner, a red dog leash, and an orange pen. How many objects are neither black nor blue?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+
+New instance 1:
+Q: On the kitchen counter, you see a yellow bowl, a pink plate, a blue cup, a green spoon, a purple napkin, and an orange knife. How many objects are neither red nor white?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+
+New instance 2:
+Q: On the desk, you see a white laptop, a black mouse, a green pen, a yellow notepad, a blue stapler, and a red ruler. How many objects are neither orange nor purple?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+
+New instance 3:
+Q: On the shelf, you see a gray book, a brown box, a pink eraser, a black marker, a yellow pencil, and an orange crayon. How many objects are neither blue nor green?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six

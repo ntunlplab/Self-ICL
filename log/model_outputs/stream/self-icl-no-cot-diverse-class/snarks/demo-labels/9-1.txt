@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) He's so talented, he must have practiced for hours
+(B) He's so talented, he must have been born with it
+A: (A)

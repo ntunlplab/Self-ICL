@@ -1,0 +1,28 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are three birds: a robin, a blue jay, and a crow. The robin is to the right of the crow. The robin is to the left of the blue jay.
+Options:
+(A) The robin is the rightmost
+(B) The blue jay is the rightmost
+(C) The crow is the rightmost
+
+New instance 1:
+Q: On a shelf, there are three books: a novel, a dictionary, and an encyclopedia. The novel is to the right of the dictionary. The dictionary is to the left of the encyclopedia.
+Options:
+(A) The novel is the rightmost
+(B) The dictionary is the rightmost
+(C) The encyclopedia is the rightmost
+
+New instance 2:
+Q: On a table, there are three cups: a red cup, a blue cup, and a green cup. The red cup is to the right of the blue cup. The blue cup is to the left of the green cup.
+Options:
+(A) The red cup is the rightmost
+(B) The blue cup is the rightmost
+(C) The green cup is the rightmost
+
+New instance 3:
+Q: On a wall, there are three pictures: a landscape, a portrait, and an abstract painting. The landscape is to the right of the portrait. The portrait is to the left of the abstract painting.
+Options:
+(A) The landscape is the rightmost
+(B) The portrait is the rightmost
+(C) The abstract painting is the rightmost

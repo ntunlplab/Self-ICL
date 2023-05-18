@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Godfather Part II, The Dark Knight, Inception:
+Options:
+(A) The Prestige
+(B) The Departed
+(C) Batman Begins
+(D) The Silence of the Lambs
+A: (A)
+
+Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Hobbit: An Unexpected Journey:
+Options:
+(A) The Hobbit: The Desolation of Smaug
+(B) The Hobbit: The Battle of the Five Armies
+(C) The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+(D) Harry Potter and the Philosopher's Stone
+A: (A)
+
+Q: Find a movie similar to The Matrix, The Matrix Reloaded, The Matrix Revolutions, V for Vendetta:
+Options:
+(A) The Terminator
+(B) Blade Runner
+(C) The Fifth Element
+(D) Minority Report
+A: (A)
+
+Q: Find a movie similar to The Shawshank Redemption, The Usual Suspects, Pulp Fiction, Fargo:
+Options:
+(A) Damage
+(B) Pie in the Sky
+(C) The Fugitive
+(D) A Plasticine Crow
+A: (C)

@@ -1,0 +1,6 @@
+Q: "Some people prefer to travel by car, while others prefer to travel by plane. But what is the best option for a safe journey? The following argument pertains to this question: First, traveling by plane is faster than traveling by car. Second, traveling by car is safer than traveling by plane. Third, to be safe is necessary for having a safe journey. Hence, having a safe journey is slower than traveling by car."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

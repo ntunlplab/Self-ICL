@@ -1,0 +1,13 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, species, habitat, diet 
+Miles, Adelie, Antarctic, krill 
+Gus, Emperor, Arctic, fish 
+Lola, Gentoo, Antarctic, squid 
+For example: the species of Miles is Adelie, the habitat of Gus is Arctic, the diet of Lola is squid. What is the total number of penguins listed in the table?
+
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (C)

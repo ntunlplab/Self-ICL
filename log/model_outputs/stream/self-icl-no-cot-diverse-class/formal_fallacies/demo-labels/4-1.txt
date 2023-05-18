@@ -1,0 +1,6 @@
+Q: "Some people prefer to eat out, while others prefer to cook at home. But what is the best way to eat? The following argument pertains to this question: First premise: Eating out is sufficient for not cooking at home. Second premise: Every person who eats out is not cooking at home. Therefore, whoever eats out is not cooking at home."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

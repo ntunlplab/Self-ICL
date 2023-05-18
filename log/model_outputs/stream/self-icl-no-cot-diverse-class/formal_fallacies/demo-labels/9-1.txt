@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to travel faster than the speed of light: If we can travel faster than the speed of light, then the laws of physics will be broken. We know that the laws of physics cannot be broken. We may conclude: We cannot travel faster than the speed of light."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

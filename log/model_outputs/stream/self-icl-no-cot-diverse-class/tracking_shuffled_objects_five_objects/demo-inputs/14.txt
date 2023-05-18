@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Izzi, Claire is dancing with Lola, Dave is dancing with Sam, and Eve is dancing with Melissa.
+Throughout the song, the dancers often trade partners. First, Claire and Bob switch partners. Then, Claire and Eve switch partners. Then, Bob and Dave switch partners. Then, Claire and Eve switch partners. Finally, Alice and Eve switch partners. At the end of the dance, Dave is dancing with
+Options:
+(A) Ophelia
+(B) Izzi
+(C) Lola
+(D) Sam
+(E) Melissa
+
+New instance 1:
+Q: Five students are playing a game of musical chairs. At the start of the game, they each have a chair: Alice is sitting in chair 1, Bob is sitting in chair 2, Claire is sitting in chair 3, Dave is sitting in chair 4, and Eve is sitting in chair 5.
+Throughout the game, the students often switch chairs. First, Claire and Bob switch chairs. Then, Claire and Eve switch chairs. Then, Bob and Dave switch chairs. Then, Claire and Eve switch chairs. Finally, Alice and Eve switch chairs. At the end of the game, Dave is sitting in
+Options:
+(A) Chair 1
+(B) Chair 2
+(C) Chair 3
+(D) Chair 4
+(E) Chair 5
+
+New instance 2:
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a partner: Alice is playing against Ophelia, Bob is playing against Izzi, Claire is playing against Lola, Dave is playing against Sam, and Eve is playing against Melissa.
+Throughout the game, the players often switch opponents. First, Claire and Bob switch opponents. Then, Claire and Eve switch opponents. Then, Bob and Dave switch opponents. Then, Claire and Eve switch opponents. Finally, Alice and Eve switch opponents. At the end of the game, Dave is playing against
+Options:
+(A) Ophelia
+(B) Izzi
+(C) Lola
+(D) Sam
+(E) Melissa
+
+New instance 3:
+Q: Five teams are competing in a relay race. At the start of the race, they each have a runner: Alice is running for Team 1, Bob is running for Team 2, Claire is running for Team 3, Dave is running for Team 4, and Eve is running for Team 5.
+Throughout the race, the runners often switch teams. First, Claire and Bob switch teams. Then, Claire and Eve switch teams. Then, Bob and Dave switch teams. Then, Claire and Eve switch teams. Finally, Alice and Eve switch teams. At the end of the race, Dave is running for
+Options:
+(A) Team 1
+(B) Team 2
+(C) Team 3
+(D) Team 4
+(E) Team 5

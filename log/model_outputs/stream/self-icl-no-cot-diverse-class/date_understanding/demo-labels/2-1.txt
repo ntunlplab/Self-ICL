@@ -1,0 +1,9 @@
+Q: The first day of the new year was January 1st, 2021. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 02/01/2021
+(B) 02/02/2021
+(C) 03/01/2021
+(D) 03/02/2021
+(E) 04/01/2021
+(F) 04/02/2021
+A: (C)

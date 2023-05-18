@@ -1,0 +1,6 @@
+Q: On a shelf, there are three boxes: a black box, a white box, and a grey box. The black box is the rightmost. The white box is the leftmost.
+Options:
+(A) The black box is the second from the left
+(B) The white box is the second from the left
+(C) The grey box is the second from the left
+A: (C)

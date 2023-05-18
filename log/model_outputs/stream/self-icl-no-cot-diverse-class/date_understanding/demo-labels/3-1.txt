@@ -1,0 +1,9 @@
+Q: The school's summer break starts on Tuesday (Tue, 7/9/1972). What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 07/09/1972
+(B) 12/01/1972
+(C) 07/01/2008
+(D) 05/13/1972
+(E) 07/01/1972
+(F) 08/12/1972
+A: (D)

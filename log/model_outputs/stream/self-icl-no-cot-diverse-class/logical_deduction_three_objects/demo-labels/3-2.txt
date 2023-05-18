@@ -1,0 +1,6 @@
+Q: On a wall, there are three pictures: a landscape, a portrait, and an abstract painting. The landscape is to the right of the portrait. The portrait is to the left of the abstract painting.
+Options:
+(A) The landscape is the rightmost
+(B) The portrait is the rightmost
+(C) The abstract painting is the rightmost
+A: (C)

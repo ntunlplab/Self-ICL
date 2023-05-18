@@ -1,0 +1,6 @@
+Q: What is the cause of the following situation?
+Sally and Tom are playing a game of chess. Suddenly, the chess pieces start to move on their own. Did Sally cause the chess pieces to move?
+Options:
+- Yes
+- No
+A: No,

@@ -1,0 +1,41 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Five friends, Alex, Ben, Carl, Dan, and Eric, are playing a game. At the start of the game, they are each holding a card: Alex has a green card, Ben has a yellow card, Carl has a purple card, Dan has an orange card, and Eric has a white card.
+As the game progresses, pairs of players trade cards. First, Alex and Ben swap cards. Then, Carl and Eric swap cards. Then, Ben and Carl swap cards. Then, Dan and Eric swap cards. Finally, Alex and Dan swap cards. At the end of the game, Carl has the
+Options:
+(A) green card
+(B) yellow card
+(C) purple card
+(D) orange card
+(E) white card
+A: (B)
+
+Q: Six students, Fiona, George, Harry, Isabel, Jack, and Kate, are playing a game. At the start of the game, they are each holding a coin: Fiona has a silver coin, George has a gold coin, Harry has a copper coin, Isabel has a bronze coin, Jack has a nickel coin, and Kate has a steel coin.
+As the game progresses, pairs of players trade coins. First, Fiona and George swap coins. Then, Harry and Isabel swap coins. Then, George and Harry swap coins. Then, Jack and Isabel swap coins. Finally, Fiona and Jack swap coins. At the end of the game, Harry has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) copper coin
+(D) bronze coin
+(E) nickel coin
+A: (B)
+
+Q: Five friends, Larry, Mary, Nathan, Olivia, and Peter, are playing a game. At the start of the game, they are each holding a stone: Larry has a quartz stone, Mary has a jade stone, Nathan has a granite stone, Olivia has a marble stone, and Peter has an obsidian stone.
+As the game progresses, pairs of players trade stones. First, Larry and Mary swap stones. Then, Nathan and Olivia swap stones. Then, Mary and Nathan swap stones. Then, Peter and Olivia swap stones. Finally, Larry and Peter swap stones. At the end of the game, Nathan has the
+Options:
+(A) quartz stone
+(B) jade stone
+(C) granite stone
+(D) marble stone
+(E) obsidian stone
+A: (C)
+
+Q: Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a red ball, Dave has a pink ball, and Eve has a blue ball.
+As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Then, Dave and Claire swap balls. Finally, Alice and Dave swap balls. At the end of the game, Claire has the
+Options:
+(A) brown ball
+(B) black ball
+(C) red ball
+(D) pink ball
+(E) blue ball
+A: (D)

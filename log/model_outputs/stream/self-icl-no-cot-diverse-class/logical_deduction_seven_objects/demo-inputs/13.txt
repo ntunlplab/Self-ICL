@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are seven birds: a raven, a hummingbird, a robin, a crow, a quail, a blue jay, and a cardinal. The hummingbird is to the left of the crow. The quail is to the right of the crow. The raven is to the left of the robin. The blue jay is the third from the right. The cardinal is the leftmost. The hummingbird is the fourth from the left.
+Options:
+(A) The raven is the third from the right
+(B) The hummingbird is the third from the right
+(C) The robin is the third from the right
+(D) The crow is the third from the right
+(E) The quail is the third from the right
+(F) The blue jay is the third from the right
+(G) The cardinal is the third from the right
+
+New instance 1:
+Q: On a shelf, there are seven books: a novel, a biography, a cookbook, a dictionary, a travel guide, a textbook, and a comic book. The biography is to the left of the cookbook. The travel guide is to the right of the cookbook. The novel is to the left of the dictionary. The comic book is the third from the right. The textbook is the leftmost. The biography is the fourth from the left.
+Options:
+(A) The novel is the third from the right
+(B) The biography is the third from the right
+(C) The dictionary is the third from the right
+(D) The cookbook is the third from the right
+(E) The travel guide is the third from the right
+(F) The comic book is the third from the right
+(G) The textbook is the third from the right
+
+New instance 2:
+Q: On a table, there are seven items: a pen, a pencil, a ruler, a stapler, a pair of scissors, a glue stick, and a calculator. The pencil is to the left of the ruler. The stapler is to the right of the ruler. The pen is to the left of the scissors. The glue stick is the third from the right. The calculator is the leftmost. The pencil is the fourth from the left.
+Options:
+(A) The pen is the third from the right
+(B) The pencil is the third from the right
+(C) The ruler is the third from the right
+(D) The stapler is the third from the right
+(E) The scissors is the third from the right
+(F) The glue stick is the third from the right
+(G) The calculator is the third from the right
+
+New instance 3:
+Q: On a plate, there are seven pieces of fruit: an apple, a banana, a pear, an orange, a kiwi, a grape, and a strawberry. The banana is to the left of the pear. The orange is to the right of the pear. The apple is to the left of the kiwi. The grape is the third from the right. The strawberry is the leftmost. The banana is the fourth from the left.
+Options:
+(A) The apple is the third from the right
+(B) The banana is the third from the right
+(C) The pear is the third from the right
+(D) The orange is the third from the right
+(E) The kiwi is the third from the right
+(F) The grape is the third from the right
+(G) The strawberry is the third from the right

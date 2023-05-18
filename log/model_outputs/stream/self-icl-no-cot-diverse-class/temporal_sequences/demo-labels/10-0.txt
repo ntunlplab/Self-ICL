@@ -1,0 +1,15 @@
+Q: Today, John went to the grocery store. Between what times could they have gone?
+We know that:
+John woke up at 7am.
+Mary saw John playing basketball from 7am to 9am.
+Paul saw John eating lunch at the cafe from 11am to 12pm.
+Sally saw John walking in the park from 1pm to 3pm.
+Tom saw John visiting the library from 4pm to 6pm.
+The grocery store was closed after 7pm.
+Between what times could John have gone to the grocery store?
+Options:
+(A) 9am to 11am
+(B) 12pm to 1pm
+(C) 3pm to 4pm
+(D) 6pm to 7pm
+A: (D)

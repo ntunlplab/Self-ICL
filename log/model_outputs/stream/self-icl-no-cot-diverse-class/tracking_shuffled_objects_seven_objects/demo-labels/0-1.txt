@@ -1,0 +1,11 @@
+Q: Seven friends are playing a game of charades. At the start of the game, they are each assigned to a role: Andrew is playing the guesser, Beth is playing the clue giver, Carl is playing the timer, Danielle is playing the scorekeeper, Eric is playing the referee, Fiona is playing the narrator, and George is playing the audience.
+As the game progresses, pairs of friends occasionally swap roles. First, Andrew and Beth trade roles. Then, Carl and Danielle trade roles. Then, Eric and Fiona trade roles. Then, George and Andrew trade roles. Then, Beth and Carl trade roles. Then, Danielle and Eric trade roles. Finally, Fiona and George trade roles. At the end of the game, Andrew is playing
+Options:
+(A) guesser
+(B) clue giver
+(C) timer
+(D) scorekeeper
+(E) referee
+(F) narrator
+(G) audience
+A: (G)

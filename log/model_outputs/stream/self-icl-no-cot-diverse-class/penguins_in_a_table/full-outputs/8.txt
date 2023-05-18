@@ -1,0 +1,78 @@
+Task description: Answer questions about a table of penguins and their attributes.
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, color, wingspan (cm), habitat 
+
+Mandy, black, 80, Antarctic
+
+Ralph, white, 70, Arctic
+
+Sandy, gray, 90, Sub-Antarctic
+
+For example: the color of Mandy is black, the habitat of Ralph is Arctic, the wingspan of Sandy is 90 cm. We now add a penguin to the table:
+
+Toby, brown, 75, Sub-Antarctic
+
+What is the average wingspan of the penguins in the table?
+
+Options:
+(A) 75 cm
+(B) 80 cm
+(C) 85 cm
+(D) 90 cm
+(E) 95 cm
+A: (C)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, beak length (cm), diet 
+
+Oscar, 5, 10, krill
+
+Paul, 7, 12, fish
+
+Quincy, 9, 14, squid
+
+For example: the age of Oscar is 5, the diet of Paul is fish, the beak length of Quincy is 14 cm. We now add a penguin to the table:
+
+Randy, 11, 16, shrimp
+
+What is the average age of the penguins in the table?
+
+Options:
+(A) 5
+(B) 7
+(C) 9
+(D) 11
+(E) 13
+A: (E)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, gender, flipper length (cm), swimming speed (km/h) 
+
+Alice, female, 40, 5
+
+Bob, male, 45, 6
+
+Charlie, female, 50, 7
+
+For example: the gender of Alice is female, the swimming speed of Bob is 6 km/h, the flipper length of Charlie is 50 cm. We now add a penguin to the table:
+
+David, male, 55, 8
+
+What is the average flipper length of the penguins in the table?
+
+Options:
+(A) 40 cm
+(B) 45 cm
+(C) 50 cm
+(D) 55 cm
+(E) 60 cm
+A: (E)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
+James, 12, 90, 12
+How many penguins are there in the table?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (E)

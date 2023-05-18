@@ -1,0 +1,12 @@
+Q: At a game of musical chairs, 8 players are seated in a circle. At the start of the game, each player is sitting in a chair: Player 1 is in Chair A, Player 2 is in Chair B, Player 3 is in Chair C, Player 4 is in Chair D, Player 5 is in Chair E, Player 6 is in Chair F, Player 7 is in Chair G, and Player 8 is in Chair H.
+Throughout the game, the players often switch chairs. First, Player 1 and Player 4 switch chairs. Then, Player 5 and Player 8 switch chairs. Then, Player 3 and Player 6 switch chairs. Then, Player 2 and Player 7 switch chairs. Then, Player 1 and Player 5 switch chairs. Then, Player 4 and Player 8 switch chairs. Finally, Player 3 and Player 7 switch chairs. At the end of the game, Player 1 is sitting in
+Options:
+(A) Chair A
+(B) Chair B
+(C) Chair C
+(D) Chair D
+(E) Chair E
+(F) Chair F
+(G) Chair G
+(H) Chair H
+A: (D)

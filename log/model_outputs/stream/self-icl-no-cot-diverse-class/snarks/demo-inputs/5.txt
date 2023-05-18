@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Wow thats crazy, I've never had a takeout meal that used hardwood containers before!
+(B) Wow thats crazy, I've never had a takeout meal that used plastic containers before!
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) That's so convenient, I've never had to wait in line for more than an hour before!
+(B) That's so convenient, I've never had to wait in line for less than an hour before!
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) That's so helpful, I've never had a customer service representative answer my questions before!
+(B) That's so helpful, I've never had a customer service representative ignore my questions before!
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) That's so impressive, I've never seen a movie with such bad special effects before!
+(B) That's so impressive, I've never seen a movie with such good special effects before!

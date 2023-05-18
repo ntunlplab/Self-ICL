@@ -1,0 +1,10 @@
+Q: On the kitchen counter, you see several items arranged in a row: a navy blue mug, a yellow plate, a silver spoon, a pink bowl, and an orange cup. How many non-green items do you see to the left of the yellow item?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (C)

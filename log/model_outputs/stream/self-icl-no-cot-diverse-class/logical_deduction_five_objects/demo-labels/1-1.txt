@@ -1,0 +1,8 @@
+Q: At a music festival, there are five bands: a jazz band, a rock band, a classical band, a folk band, and a hip-hop band. The jazz band is older than the rock band. The hip-hop band is newer than the rock band. The classical band is the second-newest. The hip-hop band is older than the folk band.
+Options:
+(A) The classical band is the second-oldest
+(B) The rock band is the second-oldest
+(C) The jazz band is the second-oldest
+(D) The folk band is the second-oldest
+(E) The hip-hop band is the second-oldest
+A: (B)

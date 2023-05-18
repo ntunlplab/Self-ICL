@@ -1,0 +1,46 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Ophelia, Claire is dancing with Patrick, Dave is dancing with Jamie, Eve is dancing with Lola, Fred is dancing with Helga, and Gertrude is dancing with Izzi.
+Throughout the song, the dancers often trade partners. First, Alice and Fred switch partners. Then, Gertrude and Eve switch partners. Then, Gertrude and Alice switch partners. Then, Bob and Alice switch partners. Then, Dave and Fred switch partners. Then, Eve and Alice switch partners. Finally, Eve and Claire switch partners. At the end of the dance, Gertrude is dancing with
+Options:
+(A) Melissa
+(B) Ophelia
+(C) Patrick
+(D) Jamie
+(E) Lola
+(F) Helga
+(G) Izzi
+
+New instance 1:
+Q: At a game of musical chairs, 8 players are seated in a circle. At the start of the game, each player is sitting in a chair: Player 1 is in Chair A, Player 2 is in Chair B, Player 3 is in Chair C, Player 4 is in Chair D, Player 5 is in Chair E, Player 6 is in Chair F, Player 7 is in Chair G, and Player 8 is in Chair H.
+Throughout the game, the players often switch chairs. First, Player 1 and Player 4 switch chairs. Then, Player 5 and Player 8 switch chairs. Then, Player 3 and Player 6 switch chairs. Then, Player 2 and Player 7 switch chairs. Then, Player 1 and Player 5 switch chairs. Then, Player 4 and Player 8 switch chairs. Finally, Player 3 and Player 7 switch chairs. At the end of the game, Player 1 is sitting in
+Options:
+(A) Chair A
+(B) Chair B
+(C) Chair C
+(D) Chair D
+(E) Chair E
+(F) Chair F
+(G) Chair G
+(H) Chair H
+
+New instance 2:
+Q: At a game of rock-paper-scissors, 8 players are competing. At the start of the game, each player has a hand gesture: Player 1 is using Rock, Player 2 is using Paper, Player 3 is using Scissors, Player 4 is using Rock, Player 5 is using Paper, Player 6 is using Scissors, Player 7 is using Rock, and Player 8 is using Paper.
+Throughout the game, the players often switch hand gestures. First, Player 1 and Player 4 switch hand gestures. Then, Player 5 and Player 8 switch hand gestures. Then, Player 3 and Player 6 switch hand gestures. Then, Player 2 and Player 7 switch hand gestures. Then, Player 1 and Player 5 switch hand gestures. Then, Player 4 and Player 8 switch hand gestures. Finally, Player 3 and Player 7 switch hand gestures. At the end of the game, Player 1 is using
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+
+New instance 3:
+Q: At a game of tag, 8 players are running around. At the start of the game, each player is in a different area: Player 1 is in Area A, Player 2 is in Area B, Player 3 is in Area C, Player 4 is in Area D, Player 5 is in Area E, Player 6 is in Area F, Player 7 is in Area G, and Player 8 is in Area H.
+Throughout the game, the players often switch areas. First, Player 1 and Player 4 switch areas. Then, Player 5 and Player 8 switch areas. Then, Player 3 and Player 6 switch areas. Then, Player 2 and Player 7 switch areas. Then, Player 1 and Player 5 switch areas. Then, Player 4 and Player 8 switch areas. Finally, Player 3 and Player 7 switch areas. At the end of the game, Player 1 is in
+Options:
+(A) Area A
+(B) Area B
+(C) Area C
+(D) Area D
+(E) Area E
+(F) Area F
+(G) Area G
+(H) Area H

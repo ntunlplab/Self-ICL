@@ -1,0 +1,9 @@
+Q: Five siblings, Olivia, Peter, Quinn, Rachel, and Sam, are playing a game. At the start of the game, they are each holding a toy: Olivia has a teddy bear, Peter has a car, Quinn has a doll, Rachel has a truck, and Sam has a train.
+As the game progresses, pairs of players trade toys. First, Olivia and Peter swap toys. Then, Quinn and Rachel swap toys. Then, Peter and Sam swap toys. Then, Olivia and Quinn swap toys. Finally, Rachel and Sam swap toys. At the end of the game, Rachel has the
+Options:
+(A) teddy bear
+(B) car
+(C) doll
+(D) truck
+(E) train
+A: (E)

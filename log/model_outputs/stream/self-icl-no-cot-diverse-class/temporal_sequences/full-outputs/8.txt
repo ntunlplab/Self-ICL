@@ -1,0 +1,69 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, John went to the art museum. Between what times could they have gone?
+We know that:
+John woke up at 6am.
+Sally saw John walking in the park from 6am to 7am.
+John saw John buying groceries at the supermarket from 7am to 8am.
+David saw John buying a new laptop at the electronics store from 8am to 9am.
+Karen saw John taking photos near the Golden Gate Bridge from 9am to 12pm.
+Linda saw John taking photos near the Statue of Liberty from 4pm to 6pm.
+The art museum was closed after 7pm.
+Between what times could John have gone to the art museum?
+Options:
+(A) 12pm to 4pm
+(B) 6am to 7am
+(C) 8am to 9am
+(D) 4pm to 6pm
+A: (A)
+
+Q: Today, Sarah went to the aquarium. Between what times could they have gone?
+We know that:
+Sarah woke up at 5am.
+John saw Sarah walking in the woods from 5am to 6am.
+Sarah saw Sarah buying a new dress at the mall from 6am to 7am.
+David saw Sarah buying a new phone at the phone store from 7am to 8am.
+Karen saw Sarah taking photos near the Grand Canyon from 8am to 11am.
+Linda saw Sarah taking photos near the Niagara Falls from 2pm to 4pm.
+The aquarium was closed after 6pm.
+Between what times could Sarah have gone to the aquarium?
+Options:
+(A) 11am to 2pm
+(B) 5am to 6am
+(C) 7am to 8am
+(D) 2pm to 4pm
+A: (A)
+
+Q: Today, Mark went to the planetarium. Between what times could they have gone?
+We know that:
+Mark woke up at 4am.
+Sally saw Mark walking in the park from 4am to 5am.
+Mark saw Mark buying a new book at the bookstore from 5am to 6am.
+David saw Mark buying a new game console at the game store from 6am to 7am.
+Karen saw Mark taking photos near the Great Wall of China from 7am to 10am.
+Linda saw Mark taking photos near the Taj Mahal from 3pm to 5pm.
+The planetarium was closed after 7pm.
+Between what times could Mark have gone to the planetarium?
+Options:
+(A) 10am to 3pm
+(B) 4am to 5am
+(C) 6am to 7am
+(D) 3pm to 5pm
+A: (A)
+
+Q: Today, Leslie went to the orchestra hall. Between what times could they have gone?
+We know that:
+Leslie woke up at 7am.
+Richard saw Leslie walking in the garden from 7am to 8am.
+Leslie saw Leslie buying cookies at a bakery from 8am to 9am.
+Jason saw Leslie buying a bike at the bike shop from 9am to 10am.
+Samantha saw Leslie taking photos near the Eiffel Tower from 10am to 3pm.
+Linda saw Leslie taking photos near the Leaning Tower of Pisa from 6pm to 8pm.
+The orchestra hall was closed after 8pm.
+Between what times could Leslie have gone to the orchestra hall?
+Options:
+(A) 3pm to 6pm
+(B) 9am to 10am
+(C) 7am to 8am
+(D) 10am to 3pm
+A: (A)

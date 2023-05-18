@@ -1,0 +1,6 @@
+Q: At a museum, there are three artifacts: a vase, a sculpture, and a painting. The sculpture is older than the painting. The vase is the second-newest.
+Options:
+(A) The vase is the second-newest
+(B) The sculpture is the second-newest
+(C) The painting is the second-newest
+A: (C)

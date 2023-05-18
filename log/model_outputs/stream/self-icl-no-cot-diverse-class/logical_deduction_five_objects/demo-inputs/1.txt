@@ -1,0 +1,36 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are five vehicles: a hatchback, a bus, a convertible, a tractor, and a minivan. The tractor is older than the bus. The minivan is newer than the bus. The hatchback is the second-newest. The minivan is older than the convertible.
+Options:
+(A) The hatchback is the second-oldest
+(B) The bus is the second-oldest
+(C) The convertible is the second-oldest
+(D) The tractor is the second-oldest
+(E) The minivan is the second-oldest
+
+New instance 1:
+Q: At a pet store, there are five animals: a parrot, a hamster, a turtle, a rabbit, and a guinea pig. The turtle is older than the hamster. The guinea pig is newer than the hamster. The parrot is the second-newest. The guinea pig is older than the rabbit.
+Options:
+(A) The parrot is the second-oldest
+(B) The hamster is the second-oldest
+(C) The turtle is the second-oldest
+(D) The rabbit is the second-oldest
+(E) The guinea pig is the second-oldest
+
+New instance 2:
+Q: At a music festival, there are five bands: a jazz band, a rock band, a classical band, a folk band, and a hip-hop band. The jazz band is older than the rock band. The hip-hop band is newer than the rock band. The classical band is the second-newest. The hip-hop band is older than the folk band.
+Options:
+(A) The classical band is the second-oldest
+(B) The rock band is the second-oldest
+(C) The jazz band is the second-oldest
+(D) The folk band is the second-oldest
+(E) The hip-hop band is the second-oldest
+
+New instance 3:
+Q: At a toy store, there are five dolls: a Barbie, a Ken, a G.I. Joe, a Cabbage Patch Kid, and a Bratz. The G.I. Joe is older than the Ken. The Bratz is newer than the Ken. The Barbie is the second-newest. The Bratz is older than the Cabbage Patch Kid.
+Options:
+(A) The Barbie is the second-oldest
+(B) The Ken is the second-oldest
+(C) The G.I. Joe is the second-oldest
+(D) The Cabbage Patch Kid is the second-oldest
+(E) The Bratz is the second-oldest

@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Imagine that there is a woman in her kitchen cooking dinner. She is using a gas stove and is not paying attention to the flame. Suddenly, the kitchen catches fire and the woman is unable to put it out. Did the woman intentionally start the fire?
+Options:
+- Yes
+- No
+A: No

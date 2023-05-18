@@ -1,0 +1,11 @@
+Q: Seven friends, Alex, Ben, Charlie, David, Emma, Frank, and George, are all avid gamers. At the start of the semester, they each buy one new game: Alex gets Mario Kart, Ben gets Call of Duty, Charlie gets Grand Theft Auto, David gets FIFA, Emma gets The Sims, Frank gets Fortnite, and George gets Overwatch.
+As the semester proceeds, they start trading around the new games. First, David and George swap games. Then, Charlie and Ben swap games. Then, Alex and David swap games. Then, Frank and Charlie swap games. Then, David and Frank swap games. Then, Ben and Charlie swap games. Finally, Emma and Frank swap games. At the end of the semester, Emma has
+Options:
+(A) Mario Kart
+(B) Call of Duty
+(C) Grand Theft Auto
+(D) FIFA
+(E) The Sims
+(F) Fortnite
+(G) Overwatch
+A: (E)

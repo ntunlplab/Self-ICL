@@ -1,0 +1,5 @@
+Q: A student is studying for a test and is feeling overwhelmed. She decides to take a break and go for a walk. While walking, she notices a book on the ground and decides to pick it up. She opens the book and finds that it is full of notes and summaries of the material she is studying. She takes the book home and uses it to study for the test. Did the student intentionally find the book?
+Options:
+- Yes
+- No
+A: No

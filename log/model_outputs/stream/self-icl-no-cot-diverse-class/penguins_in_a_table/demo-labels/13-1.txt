@@ -1,0 +1,21 @@
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg)
+Molly, 7, 20, 11
+Bert, 5, 30, 13
+Violet, 9, 25, 11
+Gina, 8, 35, 15
+We now add a fish to the table:
+James, 12, 40, 12
+And here is a similar table, but listing sharks:
+name, age, length (cm), weight (kg)
+Jody, 5, 150, 620
+Gladys, 10, 140, 590
+Marian, 2, 130, 410
+Donna, 9, 160, 650
+How many sharks are there in the tables?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (D)

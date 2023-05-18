@@ -1,0 +1,7 @@
+Q: At a game of rock-paper-scissors, 8 players are competing. At the start of the game, each player has a hand gesture: Player 1 is using Rock, Player 2 is using Paper, Player 3 is using Scissors, Player 4 is using Rock, Player 5 is using Paper, Player 6 is using Scissors, Player 7 is using Rock, and Player 8 is using Paper.
+Throughout the game, the players often switch hand gestures. First, Player 1 and Player 4 switch hand gestures. Then, Player 5 and Player 8 switch hand gestures. Then, Player 3 and Player 6 switch hand gestures. Then, Player 2 and Player 7 switch hand gestures. Then, Player 1 and Player 5 switch hand gestures. Then, Player 4 and Player 8 switch hand gestures. Finally, Player 3 and Player 7 switch hand gestures. At the end of the game, Player 1 is using
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+A: (B)

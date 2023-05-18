@@ -1,0 +1,5 @@
+Q: Was John's decision to switch to the plastics division the cause of his lung cancer?
+Options:
+- Yes
+- No
+A: No

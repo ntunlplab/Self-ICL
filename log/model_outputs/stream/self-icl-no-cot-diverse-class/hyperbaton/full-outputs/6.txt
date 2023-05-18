@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white rabbit
+(B) white furry small rabbit
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny new toy
+(B) new shiny bright toy
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe apple
+(B) ripe juicy delicious apple
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tan silly old-fashioned dog
+(B) silly old-fashioned tan dog
+A: (A)

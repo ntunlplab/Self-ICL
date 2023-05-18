@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She's a great cook, always making delicious meals for her family
+(B) She's a terrible cook, always making delicious meals for her family
+A: (B)

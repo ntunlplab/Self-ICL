@@ -1,0 +1,20 @@
+Q: On the table, there are two blue pairs of sunglasses, two green pairs of sunglasses, three green scrunchiephone chargers, three purple scrunchiephone chargers, one blue keychain, two purple pairs of sunglasses, and one green keychain. If I remove all the keychains from the table, how many blue things remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)

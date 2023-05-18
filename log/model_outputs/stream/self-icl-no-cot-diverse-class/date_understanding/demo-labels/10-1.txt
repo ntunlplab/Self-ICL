@@ -1,0 +1,9 @@
+Q: On June 30th, 2020, the day before yesterday was June 28th, 2020. What is the date today in MM/DD/YYYY?
+Options:
+(A) 06/26/2020
+(B) 06/27/2020
+(C) 06/28/2020
+(D) 06/29/2020
+(E) 06/30/2020
+(F) 07/01/2020
+A: (D)

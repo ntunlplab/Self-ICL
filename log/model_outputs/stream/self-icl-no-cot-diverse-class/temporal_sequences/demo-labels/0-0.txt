@@ -1,0 +1,16 @@
+Q: Today, John went to the movie theater. Between what times could they have gone?
+We know that:
+John woke up at 8am.
+Sally saw John playing basketball from 8am to 10am.
+Jill saw John shopping for groceries from 10am to 11am.
+Jessica saw John eating lunch at the diner from 11am to 12pm.
+Steven saw John taking a walk in the park from 12pm to 2pm.
+Thomas saw John visiting the museum from 2pm to 5pm.
+The movie theater was closed after 10pm.
+Between what times could John have gone to the movie theater?
+Options:
+(A) 5pm to 10pm
+(B) 8am to 10am
+(C) 11am to 12pm
+(D) 12pm to 2pm
+A: (A)

@@ -1,0 +1,15 @@
+Q: Today, John went to the beach. Between what times could they have gone?
+We know that:
+John woke up at 5am.
+Sally saw John playing volleyball from 8am to 10am.
+Tom saw John swimming in the ocean from 10am to 2pm.
+Jane saw John eating lunch at a beachside cafe from 2pm to 4pm.
+Harry saw John building a sandcastle from 4pm to 6pm.
+The beach was closed after 6pm.
+Between what times could John have gone to the beach?
+Options:
+(A) 8am to 10am
+(B) 5am to 8am
+(C) 2pm to 4pm
+(D) 4pm to 6pm
+A: (B)

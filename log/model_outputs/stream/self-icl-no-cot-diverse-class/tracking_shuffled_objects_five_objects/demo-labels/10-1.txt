@@ -1,0 +1,9 @@
+Q: Five students, Joe, Kim, Larry, Mike, and Nancy, are playing a game. At the start of the game, they are each holding a coin: Joe has a silver coin, Kim has a gold coin, Larry has a copper coin, Mike has a bronze coin, and Nancy has a nickel coin.
+As the game progresses, pairs of players trade coins. First, Joe and Kim swap coins. Then, Larry and Mike swap coins. Then, Kim and Nancy swap coins. Then, Joe and Larry swap coins. Finally, Mike and Nancy swap coins. At the end of the game, Mike has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) copper coin
+(D) bronze coin
+(E) nickel coin
+A: (D)

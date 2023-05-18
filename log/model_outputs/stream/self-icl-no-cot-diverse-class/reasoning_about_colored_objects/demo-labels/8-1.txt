@@ -1,0 +1,5 @@
+Q: On the desk, there is a black pen, a brown pencil, an orange eraser, and a silver ruler. Is the ruler pink?
+Options:
+(A) yes
+(B) no
+A: (B)

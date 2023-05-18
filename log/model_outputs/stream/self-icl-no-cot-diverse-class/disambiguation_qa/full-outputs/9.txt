@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to hand in her essay.
+Options:
+(A) It is the teacher's essay
+(B) It is the student's essay
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor gave the patient his medication.
+Options:
+(A) It is the doctor's medication
+(B) It is the patient's medication
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The parents asked their children to clean their room.
+Options:
+(A) It is the parents' room
+(B) It is the children's room
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The customer and the chef discuss his culinary training.
+Options:
+(A) It is the customer's culinary training
+(B) It is the chef's culinary training
+(C) Ambiguous
+A: (C)

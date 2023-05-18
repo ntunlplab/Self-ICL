@@ -1,0 +1,85 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the kitchen counter, you see four yellow plates, three blue bowls, two green cups, and one yellow cup. If I remove all the blue items from the counter, how many cups remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)
+
+Q: On the bookshelf, you see five black books, four white notebooks, three purple pencils, and two black pencils. If I remove all the white items from the bookshelf, how many pencils remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)
+
+Q: On the coffee table, you see six orange coasters, four green coasters, three yellow mugs, and two orange mugs. If I remove all the green items from the coffee table, how many mugs remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)
+
+Q: On the desk, you see three magenta mugs, three red fidget spinners, three red keychains, and two magenta cups. If I remove all the red items from the desk, how many mugs remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (A)

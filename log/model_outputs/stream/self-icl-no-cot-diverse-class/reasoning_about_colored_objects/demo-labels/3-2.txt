@@ -1,0 +1,10 @@
+Q: On the desk, you see several items arranged in a row: a maroon pencil, a beige eraser, a turquoise ruler, a lavender folder, and a coral paperclip. How many non-blue items do you see to the left of the beige item?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (B)

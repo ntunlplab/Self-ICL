@@ -1,0 +1,6 @@
+Q: Was the school responsible for the accident that injured Joe's son?
+Joe was picking up his son from school when he noticed a person in need of help. He stopped to help the person, who had been injured while exercising. Because of this delay, Joe's neighbor, who had been waiting for Joe to show up, took the child home in his car. On the way home, the neighbor's car was struck by a drunk driver. Joe's son, the only seriously hurt victim, received severe leg injuries. Did the school cause the accident that injured Joe's son?
+Options:
+- Yes
+- No
+A: No

@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small fluffy white cuddly puppy
+(B) white cuddly small fluffy puppy
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red apple
+(B) red juicy ripe delicious apple
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny colorful plastic ball
+(B) colorful shiny bright plastic ball
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) rubber gray walking Mexican midsize cat
+(B) midsize gray Mexican rubber walking cat
+A: (B)

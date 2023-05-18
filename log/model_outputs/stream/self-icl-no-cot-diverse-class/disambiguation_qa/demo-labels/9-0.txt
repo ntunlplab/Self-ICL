@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to hand in her essay.
+Options:
+(A) It is the teacher's essay
+(B) It is the student's essay
+(C) Ambiguous
+A: (B)

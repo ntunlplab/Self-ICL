@@ -1,0 +1,9 @@
+Q: In the US, people usually put the month before the day when formatting the date. Therefore, today is 01/02/1987 to them. What is the date two weeks ago in MM/DD/YYYY?
+Options:
+(A) 12/19/1986
+(B) 12/20/1986
+(C) 01/19/1986
+(D) 12/02/2032
+(E) 12/02/2062
+(F) 02/06/1987
+A: (A)

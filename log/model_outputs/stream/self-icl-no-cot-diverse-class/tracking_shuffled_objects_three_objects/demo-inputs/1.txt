@@ -1,0 +1,29 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets The Odyssey, and Claire gets Catch-22.
+As the semester proceeds, they start trading around the new books. First, Claire and Alice swap books. Then, Bob and Claire swap books. Finally, Alice and Bob swap books. At the end of the semester, Alice has
+Options:
+(A) Hound of the Baskervilles
+(B) The Odyssey
+(C) Catch-22
+
+New instance 1:
+Q: Three friends, David, Emma, and Frank, are playing a game of chess. At the start of the game, David has the white pieces, Emma has the black pieces, and Frank has the red pieces. As the game progresses, they decide to switch pieces. First, David and Emma swap pieces. Then, Frank and Emma swap pieces. Finally, David and Frank swap pieces. At the end of the game, David has
+Options:
+(A) White pieces
+(B) Black pieces
+(C) Red pieces
+
+New instance 2:
+Q: Three friends, George, Henry, and Irene, are playing a game of cards. At the start of the game, George has the Ace of Spades, Henry has the King of Hearts, and Irene has the Queen of Clubs. As the game progresses, they decide to switch cards. First, George and Henry swap cards. Then, Irene and Henry swap cards. Finally, George and Irene swap cards. At the end of the game, George has
+Options:
+(A) Ace of Spades
+(B) King of Hearts
+(C) Queen of Clubs
+
+New instance 3:
+Q: Three friends, Jack, Karen, and Larry, are playing a game of checkers. At the start of the game, Jack has the red pieces, Karen has the black pieces, and Larry has the white pieces. As the game progresses, they decide to switch pieces. First, Jack and Karen swap pieces. Then, Larry and Karen swap pieces. Finally, Jack and Larry swap pieces. At the end of the game, Jack has
+Options:
+(A) Red pieces
+(B) Black pieces
+(C) White pieces

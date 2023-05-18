@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Here comes a perfectly valid argument: First, being a resident of California is sufficient for being a citizen of the United States. We may conclude that whoever is a resident of California is a citizen of the United States."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: First, being a student of Harvard is sufficient for being a student of an Ivy League school. We may conclude that whoever is a student of Harvard is a student of an Ivy League school."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: First, being a member of the Democratic Party is sufficient for being a supporter of progressive policies. We may conclude that whoever is a member of the Democratic Party is a supporter of progressive policies."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: First, being a cousin of Chris is sufficient for not being a son of Kermit. We may conclude that whoever is not a son of Kermit is a cousin of Chris."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

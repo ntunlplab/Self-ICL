@@ -1,0 +1,6 @@
+Q: Three chefs, Alex, Amy, and Andrew, are competing in a cooking competition. At the start of the competition, Alex is making a cake, Amy is making a pie, and Andrew is making a tart. Throughout the competition, the chefs often switch dishes. First, Alex and Amy switch dishes. Then, Andrew and Amy switch dishes. Finally, Alex and Andrew switch dishes. At the end of the competition, Alex is making:
+Options:
+(A) A cake
+(B) A pie
+(C) A tart
+A: (B)

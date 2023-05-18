@@ -1,0 +1,10 @@
+Q: A pet store sells seven types of fish: angelfish, bettas, goldfish, guppies, mollies, tetras, and zebrafish. The bettas are the second-cheapest. The guppies are the cheapest. The mollies are the fourth-most expensive. The angelfish are the third-cheapest. The tetras are more expensive than the goldfish. The zebrafish are less expensive than the goldfish.
+Options:
+(A) The zebrafish are the third-cheapest
+(B) The angelfish are the third-cheapest
+(C) The bettas are the third-cheapest
+(D) The guppies are the third-cheapest
+(E) The goldfish are the third-cheapest
+(F) The mollies are the third-cheapest
+(G) The tetras are the third-cheapest
+A: (C)

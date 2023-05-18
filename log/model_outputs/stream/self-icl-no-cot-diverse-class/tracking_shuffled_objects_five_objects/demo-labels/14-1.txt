@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a partner: Alice is playing against Ophelia, Bob is playing against Izzi, Claire is playing against Lola, Dave is playing against Sam, and Eve is playing against Melissa.
+Throughout the game, the players often switch opponents. First, Claire and Bob switch opponents. Then, Claire and Eve switch opponents. Then, Bob and Dave switch opponents. Then, Claire and Eve switch opponents. Finally, Alice and Eve switch opponents. At the end of the game, Dave is playing against
+Options:
+(A) Ophelia
+(B) Izzi
+(C) Lola
+(D) Sam
+(E) Melissa
+A: (D)

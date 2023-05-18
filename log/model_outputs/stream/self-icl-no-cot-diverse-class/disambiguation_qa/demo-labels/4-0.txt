@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The students were excited to see their teacher
+Options:
+(A) The teacher was the students' teacher
+(B) The teacher was the school's teacher
+(C) Ambiguous
+A: (A)

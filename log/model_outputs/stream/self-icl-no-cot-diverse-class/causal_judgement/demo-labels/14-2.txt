@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Tom is playing a game on his computer and notices that the game is running slowly. He decides to close some of the other programs he has running in the background. After closing the programs, the game runs much faster. Is the game running faster because Tom closed the other programs?
+Options:
+- Yes
+- No
+A: Yes

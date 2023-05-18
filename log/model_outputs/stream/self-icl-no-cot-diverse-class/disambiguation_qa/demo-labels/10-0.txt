@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher gave the student a book because she was struggling.
+Options:
+(A) The teacher was struggling
+(B) The student was struggling
+(C) Ambiguous
+A: (B)

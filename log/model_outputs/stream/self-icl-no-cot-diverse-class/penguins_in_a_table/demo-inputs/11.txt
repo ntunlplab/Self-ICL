@@ -1,0 +1,78 @@
+Following is an example instance for the task: Answer questions about a table of penguins and their attributes. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
+name, age, height (cm), weight (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+How many giraffes are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+
+New instance 1:
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg)
+Molly, 4, 80, 0.5
+Bert, 6, 90, 0.7
+Lily, 2, 70, 0.4
+Sandy, 8, 100, 0.9
+For example: the age of Molly is 4, the weight of Sandy is 0.9 kg, the wingspan of Bert is 90 cm. 
+And here is a similar table, but listing cats:
+name, age, wingspan (cm), weight (kg)
+Toby, 5, 30, 4
+Mia, 10, 25, 3
+Max, 2, 20, 2
+Oscar, 9, 35, 5
+How many cats are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+
+New instance 2:
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg)
+Nemo, 4, 20, 0.2
+Dory, 6, 25, 0.3
+Marlin, 2, 15, 0.1
+Bubbles, 8, 30, 0.4
+For example: the age of Nemo is 4, the weight of Bubbles is 0.4 kg, the length of Dory is 25 cm. 
+And here is a similar table, but listing turtles:
+name, age, length (cm), weight (kg)
+Shelly, 5, 10, 0.5
+Squirt, 10, 12, 0.6
+Crush, 2, 8, 0.4
+Raphael, 9, 11, 0.5
+How many turtles are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+
+New instance 3:
+Q: Here is a table where the first line is a header and each subsequent line is a mammal:  name, age, height (cm), weight (kg)
+Toby, 4, 50, 11
+Bella, 6, 80, 13
+Max, 2, 60, 11
+Daisy, 8, 70, 15
+For example: the age of Toby is 4, the weight of Daisy is 15 kg, the height of Bella is 80 cm. 
+And here is a similar table, but listing dogs:
+name, age, height (cm), weight (kg)
+Fido, 5, 30, 10
+Buddy, 10, 25, 8
+Spot, 2, 20, 6
+Rover, 9, 35, 12
+How many dogs are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5

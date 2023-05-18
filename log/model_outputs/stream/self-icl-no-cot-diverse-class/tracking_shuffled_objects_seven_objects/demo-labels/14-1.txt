@@ -1,0 +1,11 @@
+Q: Seven friends, Jack, Kelly, Larry, Mary, Nick, Olivia, and Paul, are all avid movie watchers. At the start of the month, they each rent one new movie: Jack gets The Godfather, Kelly gets The Shawshank Redemption, Larry gets The Dark Knight, Mary gets The Matrix, Nick gets Inception, Olivia gets The Lord of the Rings, and Paul gets Star Wars.
+As the month progresses, they start trading around the new movies. First, Larry and Mary swap movies. Then, Nick and Olivia swap movies. Then, Jack and Mary swap movies. Then, Larry and Nick swap movies. Then, Olivia and Larry swap movies. Then, Larry and Paul swap movies. Finally, Nick and Kelly swap movies. At the end of the month, Jack has
+Options:
+(A) The Godfather
+(B) The Shawshank Redemption
+(C) The Dark Knight
+(D) The Matrix
+(E) Inception
+(F) The Lord of the Rings
+(G) Star Wars
+A: (A)

@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg) Bob, 4, 20, 0.5 Sam, 6, 25, 0.7 Joe, 8, 30, 0.9 Tom, 10, 35, 1.2  For example: the age of Bob is 4, the weight of Tom is 1.2 kg, the length of Joe is 30 cm.  And here is a similar table, but listing turtles:
+name, age, length (cm), weight (kg)
+Sally, 3, 10, 0.5
+Harry, 5, 15, 0.7
+George, 7, 20, 0.9
+Lily, 9, 25, 1.2
+What is the cumulated length of the turtles?
+Options:
+(A) 45 cm
+(B) 55 cm
+(C) 65 cm
+(D) 75 cm
+(E) 85 cm
+A: (C)

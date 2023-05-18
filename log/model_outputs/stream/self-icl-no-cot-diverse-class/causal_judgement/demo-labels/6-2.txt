@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A government passes a law that increases taxes on the wealthy. As a result, the wealthy are forced to pay more in taxes and their wealth is reduced. Did the government intentionally harm the wealthy?
+Options:
+- Yes
+- No
+A: No

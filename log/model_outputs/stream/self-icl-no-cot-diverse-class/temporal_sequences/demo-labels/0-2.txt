@@ -1,0 +1,16 @@
+Q: Today, Mark went to the amusement park. Between what times could they have gone?
+We know that:
+Mark woke up at 9am.
+Linda saw Mark playing tennis from 9am to 11am.
+John saw Mark buying souvenirs at the gift shop from 11am to 12pm.
+Jessica saw Mark eating lunch at the food court from 12pm to 2pm.
+Steven saw Mark taking a bike ride around the lake from 2pm to 4pm.
+Thomas saw Mark visiting the zoo from 4pm to 7pm.
+The amusement park was closed after 10pm.
+Between what times could Mark have gone to the amusement park?
+Options:
+(A) 7pm to 10pm
+(B) 9am to 11am
+(C) 11am to 12pm
+(D) 2pm to 4pm
+A: (A)

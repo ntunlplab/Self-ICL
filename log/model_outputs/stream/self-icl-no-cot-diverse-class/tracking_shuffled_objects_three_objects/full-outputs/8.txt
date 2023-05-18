@@ -1,0 +1,33 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Jack, Jill, and John are playing a game. At the start of the game, they are each holding a card: Jack has a black card, Jill has a blue card, and John has a green card.
+As the game progresses, pairs of players trade cards. First, John and Jill swap cards. Then, Jill and Jack swap cards. Finally, John and Jack swap cards. At the end of the game, Jill has the
+Options:
+(A) black card
+(B) blue card
+(C) green card
+A: (A)
+
+Q: Sarah, Tom, and Tyler are playing a game. At the start of the game, they are each holding a coin: Sarah has a silver coin, Tom has a gold coin, and Tyler has a bronze coin.
+As the game progresses, pairs of players trade coins. First, Tyler and Tom swap coins. Then, Tom and Sarah swap coins. Finally, Tyler and Sarah swap coins. At the end of the game, Tom has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) bronze coin
+A: (B)
+
+Q: David, Emma, and Fiona are playing a game. At the start of the game, they are each holding a stone: David has a pink stone, Emma has a purple stone, and Fiona has an orange stone.
+As the game progresses, pairs of players trade stones. First, Fiona and Emma swap stones. Then, Emma and David swap stones. Finally, Fiona and David swap stones. At the end of the game, Emma has the
+Options:
+(A) pink stone
+(B) purple stone
+(C) orange stone
+A: (B)
+
+Q: Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a red ball, and Claire has a white ball.
+As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Alice swap balls. At the end of the game, Bob has the
+Options:
+(A) brown ball
+(B) red ball
+(C) white ball
+A: (C)

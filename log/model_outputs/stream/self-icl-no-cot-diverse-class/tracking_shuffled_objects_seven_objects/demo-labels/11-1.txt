@@ -1,0 +1,12 @@
+Q: At a game of tag, 8 children are running around a playground. At the start of the game, they are in the following positions: Alex is in the sandbox, Beth is on the swings, Carl is on the slide, David is on the monkey bars, Emily is on the seesaw, Frank is on the merry-go-round, Gwen is on the jungle gym, and Harry is on the tire swing. Throughout the game, the children often switch positions. First, Alex and Beth switch positions. Then, Carl and David switch positions. Then, Emily and Frank switch positions. Then, Gwen and Harry switch positions. Then, Alex and Beth switch positions. Then, Alex and Frank switch positions. Finally, Frank and Beth switch positions. At the end of the game, Alex is in which position?
+
+Options:
+(A) Sandbox
+(B) Swings
+(C) Slide
+(D) Monkey bars
+(E) Seesaw
+(F) Merry-go-round
+(G) Jungle gym
+(H) Tire swing
+A: (B)

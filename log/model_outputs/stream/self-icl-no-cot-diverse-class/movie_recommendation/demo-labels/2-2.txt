@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Hangover, Superbad, Knocked Up, Step Brothers:
+Options:
+(A) Pineapple Express
+(B) This Is the End
+(C) The World's End
+(D) Role Models
+A: (A)

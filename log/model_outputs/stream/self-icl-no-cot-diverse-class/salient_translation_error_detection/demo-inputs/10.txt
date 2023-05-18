@@ -1,0 +1,51 @@
+Following is an example instance for the task: Detect the type of error in an English translation of a German source sentence. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Ruth Lynn Deech, Baroness Deech DBE ist eine britische Juristin und Hochschullehrerin, die seit 2005 als Life Peeress Mitglied des House of Lords ist.
+Translation: Ruth Lynn Deech, Baroness Deech DBE is a British lawyer and university lecturer who has been a life peer of the House of Lords since 2015.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+New instance 1:
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Der Berliner Dom ist eine evangelische Kirche in Berlin.
+Translation: The Berlin Cathedral is a Catholic church in Berlin.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+New instance 2:
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Der Eiffelturm ist 324 Meter hoch.
+Translation: The Eiffel Tower is 300 feet tall.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+New instance 3:
+Q: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Der Rhein ist ein Fluss in Deutschland.
+Translation: The Rhine is a river in France.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts

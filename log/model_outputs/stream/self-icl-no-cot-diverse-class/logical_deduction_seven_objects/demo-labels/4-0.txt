@@ -1,0 +1,10 @@
+Q: A toy store sells seven stuffed animals: bears, cats, dogs, elephants, giraffes, monkeys, and tigers. The cats are the fourth-cheapest. The elephants are the second-most expensive. The cats are more expensive than the dogs. The tigers are less expensive than the elephants. The monkeys are the third-most expensive. The giraffes are the second-cheapest.
+Options:
+(A) The cats are the second-cheapest
+(B) The dogs are the second-cheapest
+(C) The elephants are the second-cheapest
+(D) The bears are the second-cheapest
+(E) The giraffes are the second-cheapest
+(F) The monkeys are the second-cheapest
+(G) The tigers are the second-cheapest
+A: (E)

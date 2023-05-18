@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) enormous rectangular blue dog
+(B) enormous blue rectangular dog
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white cat
+(B) white small furry cat
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall wooden brown table
+(B) brown tall wooden table
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) shiny silver round plate
+(B) round shiny silver plate

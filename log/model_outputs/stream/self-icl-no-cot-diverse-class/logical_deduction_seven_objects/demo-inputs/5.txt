@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Eli, Eve, Mel, Joe, Mya, Rob, and Ada. Ada finished above Mya. Eli finished below Joe. Eli finished above Eve. Ada finished second-to-last. Mel finished third. Rob finished fourth.
+Options:
+(A) Eli finished third-to-last
+(B) Eve finished third-to-last
+(C) Mel finished third-to-last
+(D) Joe finished third-to-last
+(E) Mya finished third-to-last
+(F) Rob finished third-to-last
+(G) Ada finished third-to-last
+
+New instance 1:
+Q: In a tennis tournament, there were seven players: Sam, Tom, Max, Joe, Amy, Ray, and Ann. Ann finished above Amy. Sam finished below Joe. Sam finished above Tom. Ann finished second-to-last. Max finished third. Ray finished fourth.
+Options:
+(A) Sam finished third-to-last
+(B) Tom finished third-to-last
+(C) Max finished third-to-last
+(D) Joe finished third-to-last
+(E) Amy finished third-to-last
+(F) Ray finished third-to-last
+(G) Ann finished third-to-last
+
+New instance 2:
+Q: In a swimming competition, there were seven swimmers: Jack, Jill, Mike, Joe, Amy, Rob, and Ann. Ann finished above Amy. Jack finished below Joe. Jack finished above Jill. Ann finished second-to-last. Mike finished third. Rob finished fourth.
+Options:
+(A) Jack finished third-to-last
+(B) Jill finished third-to-last
+(C) Mike finished third-to-last
+(D) Joe finished third-to-last
+(E) Amy finished third-to-last
+(F) Rob finished third-to-last
+(G) Ann finished third-to-last
+
+New instance 3:
+Q: In a chess tournament, there were seven players: John, Jane, Mark, Joe, Amy, Ron, and Ann. Ann finished above Amy. John finished below Joe. John finished above Jane. Ann finished second-to-last. Mark finished third. Ron finished fourth.
+Options:
+(A) John finished third-to-last
+(B) Jane finished third-to-last
+(C) Mark finished third-to-last
+(D) Joe finished third-to-last
+(E) Amy finished third-to-last
+(F) Ron finished third-to-last
+(G) Ann finished third-to-last

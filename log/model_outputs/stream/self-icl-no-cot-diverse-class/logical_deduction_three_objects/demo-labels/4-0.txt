@@ -1,0 +1,6 @@
+Q: In a row of three chairs, the first chair is brown, the second chair is blue, and the third chair is green. The blue chair is to the right of the brown chair. Which of the following is true?
+Options:
+(A) The green chair is the rightmost
+(B) The brown chair is the rightmost
+(C) The blue chair is the rightmost
+A: (C)

@@ -1,0 +1,6 @@
+Q: In a row of three trees, the first tree is an oak tree, the second tree is a maple tree, and the third tree is a pine tree. The maple tree is to the right of the oak tree. Which of the following is true?
+Options:
+(A) The pine tree is the rightmost
+(B) The oak tree is the rightmost
+(C) The maple tree is the rightmost
+A: (C)

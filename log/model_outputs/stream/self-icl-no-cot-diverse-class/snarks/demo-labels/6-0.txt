@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) Have you tried not being lazy? It is much easier
+(B) Have you tried not being irresponsible? It is much easier
+A: (A)

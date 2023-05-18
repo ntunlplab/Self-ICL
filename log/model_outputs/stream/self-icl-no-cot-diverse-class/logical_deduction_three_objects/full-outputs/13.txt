@@ -1,0 +1,29 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: At a pet store, there are three animals: a parrot, a hamster, and a guinea pig. The parrot is larger than the guinea pig. The guinea pig is larger than the hamster.
+Options:
+(A) The parrot is the largest
+(B) The guinea pig is the largest
+(C) The hamster is the largest
+A: (B)
+
+Q: At a restaurant, there are three dishes: a salad, a soup, and a sandwich. The soup is spicier than the sandwich. The salad is spicier than the soup.
+Options:
+(A) The sandwich is the least spicy
+(B) The soup is the least spicy
+(C) The salad is the least spicy
+A: (C)
+
+Q: At a library, there are three books: a novel, a biography, and a cookbook. The biography is thicker than the novel. The cookbook is thicker than the biography.
+Options:
+(A) The novel is the thinnest
+(B) The biography is the thinnest
+(C) The cookbook is the thinnest
+A: (C)
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are three vehicles: a minivan, a bus, and a sedan. The minivan is newer than the sedan. The minivan is older than the bus.
+Options:
+(A) The minivan is the second-newest
+(B) The bus is the second-newest
+(C) The sedan is the second-newest
+A: (B)
