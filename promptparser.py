@@ -7,7 +7,7 @@ class PromptParser(object):
         self._num_demos = num_demos
         
     def split_demo_inputs(self, full_demo_inputs: str):
-        sep_demo_inputs = re.findall(pattern=r"tance \d:\nQ:\s(.*?)(?:\n*New ins|\Z)", string=full_demo_inputs, flags=re.DOTALL)
+        sep_demo_inputs = re.findall(pattern=r"tance \d:\s+Q:\s(.*?)(?:\n*New ins|\Z)", string=full_demo_inputs, flags=re.DOTALL)
         if len(sep_demo_inputs) != self._num_demos:
             raise ValueError(f"Number of demos in full_demo_inputs ({len(sep_demo_inputs)}) does not match num_demos ({self._num_demos})")
         return sep_demo_inputs
@@ -23,7 +23,7 @@ if __name__ == "__main__":
     num_demos = 3
     prompt_parser = PromptParser(num_demos)
     
-    full_demo_inputs = Path("./log/model_outputs/stream/api/self-icl-3-demos/boolean_expressions/demo-inputs/0.txt").read_text()
+    full_demo_inputs = Path("./log/model_outputs/stream/self-icl-no-cot-diverse-temp075-class/boolean_expressions/demo-inputs/0.txt").read_text()
     print(full_demo_inputs)
     demo_inputs = prompt_parser.split_demo_inputs(full_demo_inputs)
     print(demo_inputs)
