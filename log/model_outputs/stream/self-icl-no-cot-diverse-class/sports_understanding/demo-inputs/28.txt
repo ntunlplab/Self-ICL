@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "Zach LaVine  shot the puck."
+
+New instance 1:
+Q: Is the following sentence plausible? "The referee threw the basketball into the hoop."
+
+New instance 2:
+Q: Is the following sentence plausible? "The pitcher hit a home run."
+
+New instance 3:
+Q: Is the following sentence plausible? "The quarterback completed a touchdown pass to the wide receiver."

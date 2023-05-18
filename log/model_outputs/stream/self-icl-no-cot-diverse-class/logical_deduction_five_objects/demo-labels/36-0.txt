@@ -1,0 +1,8 @@
+Q: A toy store sells five types of toys: dolls, cars, stuffed animals, action figures, and puzzles. The puzzles are more expensive than the stuffed animals. The action figures are more expensive than the cars. The dolls are the most expensive. The cars are more expensive than the puzzles.
+Options:
+(A) The dolls are the cheapest
+(B) The cars are the cheapest
+(C) The stuffed animals are the cheapest
+(D) The action figures are the cheapest
+(E) The puzzles are the cheapest
+A: (C)

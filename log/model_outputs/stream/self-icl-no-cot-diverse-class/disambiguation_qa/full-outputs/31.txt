@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher gave the student a book after she finished her work.
+Options:
+(A) The teacher finished her work
+(B) The student finished her work
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor prescribed the patient a medicine after he complained of a headache.
+Options:
+(A) The doctor complained of a headache
+(B) The patient complained of a headache
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The farmer harvested the crop after he watered it.
+Options:
+(A) The farmer watered the crop
+(B) The crop watered itself
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The driver yelled at the tailor after he broke a window.
+Options:
+(A) The driver broke a window
+(B) The tailor broke a window
+(C) Ambiguous
+A: (A)

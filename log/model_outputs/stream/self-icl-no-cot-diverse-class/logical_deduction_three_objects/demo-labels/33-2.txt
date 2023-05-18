@@ -1,0 +1,6 @@
+Q: On a shelf, there are three toys: a red toy, a blue toy, and a purple toy. The red toy is to the left of the purple toy. The purple toy is the second from the left.
+Options:
+(A) The red toy is the second from the left
+(B) The blue toy is the second from the left
+(C) The purple toy is the second from the left
+A: (C)

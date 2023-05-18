@@ -1,0 +1,9 @@
+Q: Five musicians, Karen, Larry, Mike, Nancy, and Olivia, are performing a song. At the start of the song, they are each assigned to an instrument: Karen is playing the guitar, Larry is playing the drums, Mike is playing the bass, Nancy is playing the keyboard, and Olivia is playing the saxophone.
+As the song progresses, pairs of musicians occasionally swap instruments. First, Olivia and Mike trade instruments. Then, Karen and Nancy trade instruments. Then, Mike and Larry trade instruments. Then, Olivia and Karen trade instruments. Finally, Mike and Olivia trade instruments. At the end of the song, Mike is playing
+Options:
+(A) the guitar
+(B) the drums
+(C) the bass
+(D) the keyboard
+(E) the saxophone
+A: (C)

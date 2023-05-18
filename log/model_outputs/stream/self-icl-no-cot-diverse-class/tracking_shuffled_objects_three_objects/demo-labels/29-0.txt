@@ -1,0 +1,6 @@
+Q: Three friends, Jack, Sarah, and David, are playing a game of rock-paper-scissors. At the start of the game, Jack has rock, Sarah has paper, and David has scissors. Throughout the game, the players often switch hands. First, Jack and Sarah switch hands. Then, David and Jack switch hands. Finally, Jack and Sarah switch hands. At the end of the game, Sarah is holding 
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+A: (A)

@@ -1,0 +1,6 @@
+Q: "Is Tom a colleague of Sarah? Is Joe related to Bob? In large workplaces, it is sometimes difficult to keep track of all one's coworkers. The following argument seeks to clarify some such relations: First premise: Being a supervisor of Jane is necessary for being a colleague of Sarah. Second premise: Some colleague of Tom is a friend of Bob and a supervisor of Jane. Third premise: Being a colleague of Sarah is sufficient for being a friend of Bob. Hence, somebody is a colleague of Tom and a colleague of Sarah."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

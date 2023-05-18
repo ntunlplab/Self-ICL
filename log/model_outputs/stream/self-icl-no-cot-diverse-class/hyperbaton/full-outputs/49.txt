@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry green striped dog
+(B) furry small striped green dog
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall wooden round blue table
+(B) tall round wooden blue table
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow soft fluffy pillow
+(B) bright soft yellow fluffy pillow
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) enormous new triangular Nigerian lead cat
+(B) enormous Nigerian triangular new lead cat
+A: (B)

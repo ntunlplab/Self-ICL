@@ -1,0 +1,5 @@
+Q: Was John's death caused by the nurse's mistake?
+Options:
+- Yes
+- No
+A: It depends

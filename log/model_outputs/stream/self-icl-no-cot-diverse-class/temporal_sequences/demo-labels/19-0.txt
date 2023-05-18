@@ -1,0 +1,14 @@
+Q: Today, John went to the movies. Between what times could they have gone?
+We know that:
+John left his house at 8am.
+He stopped for breakfast at a diner from 9am to 11am.
+He went to the bank from 11am to 1pm.
+He went to the grocery store from 1pm to 3pm.
+The movie theater closed at 10pm.
+Between what times could John have gone to the movies?
+Options:
+(A) 8am to 11am
+(B) 11am to 1pm
+(C) 1pm to 3pm
+(D) 3pm to 10pm
+A: (D)

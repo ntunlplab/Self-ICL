@@ -1,0 +1,9 @@
+Q: Five siblings, Karen, Larry, Mike, Nancy, and Owen, are playing a game. At the start of the game, they are each holding a toy: Karen has a teddy bear, Larry has a car, Mike has a doll, Nancy has a truck, and Owen has a train.
+As the game progresses, pairs of players trade toys. First, Mike and Karen swap toys. Then, Nancy and Larry swap toys. Then, Owen and Larry swap toys. Then, Larry and Karen swap toys. Finally, Owen and Mike swap toys. At the end of the game, Karen has the
+Options:
+(A) teddy bear
+(B) car
+(C) doll
+(D) truck
+(E) train
+A: (B)

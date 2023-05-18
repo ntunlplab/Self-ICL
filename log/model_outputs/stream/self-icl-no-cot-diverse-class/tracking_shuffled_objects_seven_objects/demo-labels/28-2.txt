@@ -1,0 +1,6 @@
+Q: At a game of tag, 8 players are running around. At the start of the game, each player has a tag status: Player 1 is "it", Player 2 is "not it", Player 3 is "not it", Player 4 is "not it", Player 5 is "not it", Player 6 is "not it", Player 7 is "not it", and Player 8 is "not it".
+Throughout the game, the players often switch tag statuses. First, Player 1 and Player 2 switch statuses. Then, Player 3 and Player 4 switch statuses. Then, Player 5 and Player 6 switch statuses. Then, Player 7 and Player 8 switch statuses. Then, Player 1 and Player 3 switch statuses. Then, Player 2 and Player 4 switch statuses. Finally, Player 5 and Player 7 switch statuses. At the end of the game, Player 8 is
+Options:
+(A) "it"
+(B) "not it"
+A: (A)

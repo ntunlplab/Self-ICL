@@ -1,0 +1,32 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a orange ball, Bob has a purple present, and Claire has a blue present.
+As the event progresses, pairs of people swap gifts. First, Claire and Bob swap their gifts. Then, Claire and Alice swap their gifts. Finally, Bob and Alice swap their gifts. At the end of the event, Alice has the
+Options:
+(A) orange ball
+(B) purple present
+(C) blue present
+
+New instance 1:
+Q: Three friends, David, Emma, and Frank, are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: David has a red token, Emma has a green token, and Frank has a blue token.
+As the game progresses, pairs of players swap tokens. First, Emma and Frank swap their tokens. Then, Emma and David swap their tokens. Finally, Frank and David swap their tokens. At the end of the game, David has the
+Options:
+(A) red token
+(B) green token
+(C) blue token
+
+New instance 2:
+Q: Three siblings, George, Helen, and Ian, are playing a game of hide-and-seek. At the start of the game, each player has a different colored hat: George has a yellow hat, Helen has a pink hat, and Ian has a black hat.
+As the game progresses, pairs of players swap hats. First, Helen and Ian swap their hats. Then, Helen and George swap their hats. Finally, Ian and George swap their hats. At the end of the game, George has the
+Options:
+(A) yellow hat
+(B) pink hat
+(C) black hat
+
+New instance 3:
+Q: Three students, Jack, Kate, and Luke, are playing a game of tag. At the start of the game, each player has a different colored marker: Jack has a white marker, Kate has a brown marker, and Luke has a green marker.
+As the game progresses, pairs of players swap markers. First, Kate and Luke swap their markers. Then, Kate and Jack swap their markers. Finally, Luke and Jack swap their markers. At the end of the game, Jack has the
+Options:
+(A) white marker
+(B) brown marker
+(C) green marker

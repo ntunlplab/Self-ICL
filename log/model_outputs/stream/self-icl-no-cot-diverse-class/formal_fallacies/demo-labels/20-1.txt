@@ -1,0 +1,6 @@
+Q: "Is Sarah a fan of the Golden State Warriors? Are supporters of the Los Angeles Lakers devotees of the Portland Trail Blazers? In the National Basketball Association, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: Every supporter of the Denver Nuggets is not an expert of the Oklahoma City Thunder and not a backer of the Utah Jazz. Every backer of the Utah Jazz who is an expert of the Oklahoma City Thunder is a supporter of the Denver Nuggets or a devotee of the Dallas Mavericks. In consequence, everyone who is not both an expert of the Oklahoma City Thunder and a backer of the Utah Jazz is a devotee of the Dallas Mavericks."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

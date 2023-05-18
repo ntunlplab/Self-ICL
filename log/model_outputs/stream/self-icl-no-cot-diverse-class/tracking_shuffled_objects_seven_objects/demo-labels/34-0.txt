@@ -1,0 +1,10 @@
+Q: The members of a robotics team are competing in a tournament. At the start of the tournament, they are each assigned to a role: John is the programmer, Sarah is the engineer, Tom is the builder, Jane is the strategist, Alex is the navigator, and Ryan is the troubleshooter.
+As the tournament progresses, pairs of members occasionally swap roles. First, John and Sarah trade roles. Then, Tom and Jane trade roles. Then, Alex and Ryan trade roles. Then, John and Tom trade roles. Then, Sarah and Jane trade roles. Then, Ryan and Alex trade roles. Finally, Jane and Ryan trade roles. At the end of the tournament, John is playing
+Options:
+(A) programmer
+(B) engineer
+(C) builder
+(D) strategist
+(E) navigator
+(F) troubleshooter
+A: (A)

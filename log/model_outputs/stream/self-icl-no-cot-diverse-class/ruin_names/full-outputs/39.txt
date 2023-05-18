@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?
+Options:
+(A) the beagles
+(B) the beatels
+(C) the beatees
+(D) the beetles
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lion kong
+(B) the lion kling
+(C) the lion kang
+(D) the lion kwing
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'frozen'?
+Options:
+(A) frozem
+(B) frozun
+(C) frozun
+(D) frozenn
+A: (B)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'breaking benjamin'?
+Options:
+(A) breaking benjamins
+(B) breaking benjaqmin
+(C) reaking benjamin
+(D) breaking oenjamin
+A: (B)

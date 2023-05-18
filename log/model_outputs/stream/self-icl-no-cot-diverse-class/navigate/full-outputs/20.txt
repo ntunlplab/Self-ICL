@@ -1,0 +1,25 @@
+Task description: Given a series of navigation instructions, determine whether one would end up back at the starting point.
+
+Q: If you follow these instructions, do you return to the starting point? Always face north. Take 3 steps forward. Turn left. Take 4 steps forward. Turn right. Take 2 steps forward.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Always face east. Take 5 steps forward. Turn left. Take 3 steps forward. Turn right. Take 4 steps forward.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Always face south. Take 2 steps forward. Turn left. Take 6 steps forward. Turn right. Take 3 steps forward.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps backward. Take 6 steps forward. Take 6 steps right.
+Options:
+- Yes
+- No
+A: No

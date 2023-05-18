@@ -1,0 +1,6 @@
+Q: "Some people prefer to travel by car, while others prefer to travel by plane. But which is the better option? The following argument pertains to this question: To begin with, if someone does not prefer to travel by car, then that person does not prefer to travel by plane or not prefer to travel by train. Moreover, preferring to travel by train is necessary for not preferring to travel by plane. Finally, nobody does not prefer to travel by plane nor by train. In consequence, nobody does not prefer to travel by car nor by train."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

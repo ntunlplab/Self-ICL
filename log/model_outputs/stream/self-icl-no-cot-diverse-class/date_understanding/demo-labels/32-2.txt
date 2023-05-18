@@ -1,0 +1,9 @@
+Q: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date in three months in MM/DD/YYYY?
+Options:
+(A) 05/01/1987
+(B) 05/02/1987
+(C) 05/03/1987
+(D) 05/04/1987
+(E) 05/05/1987
+(F) 05/06/1987
+A: (F)

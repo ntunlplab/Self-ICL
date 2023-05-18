@@ -1,0 +1,16 @@
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg) Louis, 7, 20, 0.5 Bernard, 5, 25, 0.7 Vincent, 9, 22, 0.6 Gwen, 8, 24, 0.8  For example: the age of Louis is 7, the weight of Gwen is 0.8 kg, the length of Bernard is 25 cm.  We now add a fish to the table:
+James, 12, 28, 0.9
+And here is a similar table, but listing sharks:
+name, age, length (cm), weight (kg)
+Jody, 5, 150, 200
+Gladys, 10, 140, 180
+Marian, 2, 130, 160
+Donna, 9, 145, 190
+What is the name of the last shark?
+Options:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise
+A: (D)

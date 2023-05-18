@@ -1,0 +1,8 @@
+Q: In a garden, there are five flowers: a rose, a tulip, a daisy, a lily, and a sunflower. The tulip is the leftmost. The sunflower is to the left of the lily. The rose is the rightmost. The lily is the third from the left.
+Options:
+(A) The rose is the second from the right
+(B) The tulip is the second from the right
+(C) The daisy is the second from the right
+(D) The lily is the second from the right
+(E) The sunflower is the second from the right
+A: (E)

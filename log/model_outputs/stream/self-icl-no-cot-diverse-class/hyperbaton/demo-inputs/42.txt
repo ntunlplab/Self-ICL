@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Russian steel awful chair
+(B) awful Russian steel chair
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Shiny new red car
+(B) Red new shiny car
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Delicious juicy ripe apple
+(B) Juicy ripe delicious apple
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) Soft fluffy white pillow
+(B) White fluffy soft pillow

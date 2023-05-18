@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A family was living in a small town and the local factory was polluting the air. The family decided to move away to a different town to get away from the pollution. After they moved, the factory closed down and the air quality in the old town improved. Did the family's decision to move away cause the factory to close down?
+Options:
+- Yes
+- No
+A: No

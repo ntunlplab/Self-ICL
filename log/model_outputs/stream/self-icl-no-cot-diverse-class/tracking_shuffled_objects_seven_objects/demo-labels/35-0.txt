@@ -1,0 +1,12 @@
+Q: At a game of musical chairs, 8 players are seated in a circle. At the start of the game, each player is seated next to their partner: Alex is seated next to Sarah, Ben is seated next to Tanya, Charlie is seated next to Uma, David is seated next to Vicky, Edward is seated next to Wendy, Frank is seated next to Xavier, George is seated next to Yolanda, and Henry is seated next to Zoe.
+Throughout the game, the players often switch seats. First, Alex and Charlie switch seats. Then, Ben and Edward switch seats. Then, David and Frank switch seats. Then, Charlie and George switch seats. Then, Edward and Henry switch seats. Then, Alex and David switch seats. Finally, Ben and George switch seats. At the end of the game, Charlie is seated next to
+Options:
+(A) Sarah
+(B) Tanya
+(C) Uma
+(D) Vicky
+(E) Wendy
+(F) Xavier
+(G) Yolanda
+(H) Zoe
+A: (C)

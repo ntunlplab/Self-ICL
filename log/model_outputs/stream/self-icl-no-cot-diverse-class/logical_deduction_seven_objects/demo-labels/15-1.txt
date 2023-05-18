@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven dolls: a pink doll, a brown doll, a white doll, a yellow doll, a blue doll, an orange doll, and a purple doll. The purple doll is to the left of the yellow doll. The yellow doll is the third from the right. The white doll is the rightmost. The orange doll is the second from the left. The pink doll is to the right of the brown doll. The pink doll is the third from the left.
+Options:
+(A) The pink doll is the second from the right
+(B) The brown doll is the second from the right
+(C) The yellow doll is the second from the right
+(D) The green doll is the second from the right
+(E) The blue doll is the second from the right
+(F) The orange doll is the second from the right
+(G) The purple doll is the second from the right
+A: (F)

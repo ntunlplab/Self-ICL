@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First premise: Nobody is neither a workmate of Calvin nor a schoolmate of Barton. We may conclude: Being a workmate of Calvin is necessary for not being a schoolmate of Barton."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Is John a friend of Sarah? Is Mary related to John? In large social circles, it is sometimes difficult to keep track of all one's acquaintances. The following argument seeks to clarify some such relations: First premise: Nobody is neither a neighbor of David nor a colleague of Emma. We may conclude: Being a neighbor of David is necessary for not being a colleague of Emma."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Is Tom a classmate of Jane? Is Tom related to Mary? In large groups, it is sometimes difficult to keep track of all one's connections. The following argument seeks to clarify some such relations: First premise: Nobody is neither a friend of Sam nor a family member of Joe. We may conclude: Being a friend of Sam is necessary for not being a family member of Joe."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Is Alex a colleague of Sarah? Is Alex related to John? In large organizations, it is sometimes difficult to keep track of all one's coworkers. The following argument seeks to clarify some such relations: First premise: Nobody is neither a neighbor of David nor a classmate of Emma. We may conclude: Being a neighbor of David is necessary for not being a classmate of Emma."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

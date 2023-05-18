@@ -1,0 +1,2 @@
+Q: Question: Emma says that Frank is lying. Frank says that Emma is telling the truth. George says that Frank is telling the truth. Henry says that George is lying. Does Henry tell the truth?
+A: No,

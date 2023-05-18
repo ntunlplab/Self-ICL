@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, swimming speed (km/h), diving depth (m) 
+George, 3, 5, 10 
+Isabelle, 5, 7, 15 
+Jacob, 7, 9, 20 
+Grace, 9, 11, 25 
+For example: the age of George is 3, the swimming speed of Jacob is 9 km/h, the diving depth of Isabelle is 15 m. We then delete the penguin named Jacob from the table.
+How many penguins can dive deeper than 15 m?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (B)

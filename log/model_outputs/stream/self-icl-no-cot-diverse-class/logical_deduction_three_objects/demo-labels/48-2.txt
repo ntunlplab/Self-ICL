@@ -1,0 +1,6 @@
+Q: In a garden, there are three plants: a rose, a daisy, and a tulip. The rose is taller than the daisy. The tulip is taller than the rose.
+Options:
+(A) The rose is the shortest
+(B) The daisy is the shortest
+(C) The tulip is the shortest
+A: (B)

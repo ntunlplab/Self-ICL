@@ -1,0 +1,16 @@
+Q: Here is a table where the first line is a header and each subsequent line is a mammal:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a mammal to the table:
+James, 12, 90, 12
+And here is a similar table, but listing elephants:
+name, age, height (cm), weight (kg)
+Jody, 5, 300, 2000
+Gladys, 10, 290, 1800
+Marian, 2, 280, 1600
+Donna, 9, 295, 1900
+What is the name of the last elephant?
+Options:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise
+A: (D)

@@ -1,0 +1,19 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, color, habitat 
+
+Sam, 5, black, Antarctic 
+
+Nina, 7, white, Arctic 
+
+Toby, 9, black, Antarctic 
+
+Lola, 8, white, Arctic 
+
+For example: the age of Sam is 5, the color of Toby is black, the habitat of Nina is Arctic. How many penguins are more than 8 years old?
+
+Options:
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4
+A: (C)

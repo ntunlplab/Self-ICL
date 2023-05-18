@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Sam, Dave is dancing with Karl, and Eve is dancing with Helga.
+Throughout the song, the dancers often trade partners. First, Dave and Alice switch partners. Then, Claire and Dave switch partners. Then, Alice and Dave switch partners. Then, Bob and Eve switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Bob is dancing with
+Options:
+(A) Lola
+(B) Melissa
+(C) Sam
+(D) Karl
+(E) Helga
+
+New instance 1:
+Q: Five students are playing a game of musical chairs. At the start of the game, they each have a chair: Alex is sitting in chair 1, Ben is sitting in chair 2, Charlie is sitting in chair 3, David is sitting in chair 4, and Emily is sitting in chair 5.
+Throughout the game, the students often switch chairs. First, Alex and Ben switch chairs. Then, Charlie and David switch chairs. Then, Alex and David switch chairs. Then, Ben and Emily switch chairs. Finally, Ben and Alex switch chairs. At the end of the game, Ben is sitting in
+Options:
+(A) Chair 1
+(B) Chair 2
+(C) Chair 3
+(D) Chair 4
+(E) Chair 5
+
+New instance 2:
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a hand sign: Adam is showing rock, Beth is showing paper, Carl is showing scissors, Dan is showing rock, and Emma is showing paper.
+Throughout the game, the friends often switch hand signs. First, Adam and Beth switch hand signs. Then, Carl and Dan switch hand signs. Then, Adam and Dan switch hand signs. Then, Beth and Emma switch hand signs. Finally, Beth and Adam switch hand signs. At the end of the game, Beth is showing
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+(D) Rock
+(E) Paper
+
+New instance 3:
+Q: Five children are playing a game of tag. At the start of the game, they each have a starting position: Fiona is standing at the base of a tree, George is standing at the edge of a pond, Harry is standing at the top of a hill, Isabel is standing at the entrance of a cave, and Jake is standing at the corner of a building.
+Throughout the game, the children often switch positions. First, Fiona and George switch positions. Then, Harry and Isabel switch positions. Then, Fiona and Isabel switch positions. Then, George and Jake switch positions. Finally, George and Fiona switch positions. At the end of the game, George is standing at
+Options:
+(A) The base of a tree
+(B) The edge of a pond
+(C) The top of a hill
+(D) The entrance of a cave
+(E) The corner of a building

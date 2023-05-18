@@ -1,0 +1,6 @@
+Q: Three students, Amy, Ben, and Charlie, are playing a game of tag. At the start of the game, Amy is "it", Ben is running away, and Charlie is standing still. Throughout the game, the players often switch roles. First, Ben and Amy switch roles. Then, Charlie and Ben switch roles. Finally, Amy and Ben switch roles. At the end of the game, Ben is 
+Options:
+(A) "It"
+(B) Running away
+(C) Standing still
+A: (A)

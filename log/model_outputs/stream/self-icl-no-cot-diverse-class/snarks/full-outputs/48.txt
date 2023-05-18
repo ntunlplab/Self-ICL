@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to work today
+(B) I'm so excited to go to work today, not
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I have to stay late tonight
+(B) I'm so glad I have to stay late tonight, not
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so lucky I have to do this project
+(B) I'm so lucky I have to do this project, not
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) No, you misunderstand. Those who make more money are inherently better
+(B) No, you misunderstand. Those who make more money aren't inherently better
+A: (A)

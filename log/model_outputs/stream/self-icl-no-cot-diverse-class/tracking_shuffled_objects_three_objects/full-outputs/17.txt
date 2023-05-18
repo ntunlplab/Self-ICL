@@ -1,0 +1,33 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Three friends, John, Sarah, and David, are playing a game of chess. At the start of the game, they are each assigned to a position: John is playing white, Sarah is playing black, and David is playing green.
+As the game progresses, pairs of players occasionally swap positions. First, Sarah and David trade positions. Then, John and David trade positions. Finally, Sarah and John trade positions. At the end of the game, John is playing
+Options:
+(A) white
+(B) black
+(C) green
+A: (A)
+
+Q: Three students, Alex, Emma, and Ryan, are taking a test. At the start of the test, they are each assigned to a seat: Alex is sitting in seat 1, Emma is sitting in seat 2, and Ryan is sitting in seat 3.
+As the test progresses, pairs of students occasionally swap seats. First, Emma and Ryan trade seats. Then, Alex and Ryan trade seats. Finally, Emma and Alex trade seats. At the end of the test, Alex is sitting in
+Options:
+(A) seat 1
+(B) seat 2
+(C) seat 3
+A: (A)
+
+Q: Three siblings, Jack, Jill, and Sam, are playing a game of tag. At the start of the game, they are each assigned to a corner of the yard: Jack is in the northeast corner, Jill is in the northwest corner, and Sam is in the southwest corner.
+As the game progresses, pairs of siblings occasionally swap corners. First, Jill and Sam trade corners. Then, Jack and Sam trade corners. Finally, Jill and Jack trade corners. At the end of the game, Jack is in
+Options:
+(A) northeast corner
+(B) northwest corner
+(C) southwest corner
+A: (B)
+
+Q: Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing left winger, and Claire is playing center midfielder.
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Alice and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Alice is playing
+Options:
+(A) goalkeeper
+(B) left winger
+(C) center midfielder
+A: (A)

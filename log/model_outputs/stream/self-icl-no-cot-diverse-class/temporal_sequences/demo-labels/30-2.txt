@@ -1,0 +1,14 @@
+Q: Today, Lisa went to the movie theater. Between what times could they have gone?
+We know that:
+Lisa left her house at 7am.
+John saw Lisa jogging at the park from 7am to 9am.
+Jane saw Lisa eating breakfast at the cafe from 9am to 11am.
+David saw Lisa shopping at the mall from 11am to 1pm.
+The movie theater was closed after 8pm.
+Between what times could Lisa have gone to the movie theater?
+Options:
+(A) 1pm to 8pm
+(B) 11am to 1pm
+(C) 9am to 11am
+(D) 7am to 9am
+A: (A)

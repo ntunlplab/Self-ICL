@@ -1,0 +1,8 @@
+Q: On a shelf, there are five cups: a black cup, a silver cup, a gold cup, a bronze cup, and a copper cup. The silver cup is the rightmost. The black cup is to the left of the bronze cup. The gold cup is to the left of the copper cup. The bronze cup is the second from the left.
+Options:
+(A) The black cup is the second from the right
+(B) The silver cup is the second from the right
+(C) The gold cup is the second from the right
+(D) The bronze cup is the second from the right
+(E) The copper cup is the second from the right
+A: (B)

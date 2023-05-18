@@ -1,0 +1,9 @@
+Q: Five children are playing a game of tag. At the start of the game, they each have a starting position: Fiona is standing at the base of a tree, George is standing at the edge of a pond, Harry is standing at the top of a hill, Isabel is standing at the entrance of a cave, and Jake is standing at the corner of a building.
+Throughout the game, the children often switch positions. First, Fiona and George switch positions. Then, Harry and Isabel switch positions. Then, Fiona and Isabel switch positions. Then, George and Jake switch positions. Finally, George and Fiona switch positions. At the end of the game, George is standing at
+Options:
+(A) The base of a tree
+(B) The edge of a pond
+(C) The top of a hill
+(D) The entrance of a cave
+(E) The corner of a building
+A: (E)

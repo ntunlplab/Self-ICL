@@ -1,0 +1,5 @@
+Q: On the desk, there is a white laptop, a black mouse, and an orange stapler. Is the stapler orange?
+Options:
+(A) yes
+(B) no
+A: (A)

@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) Let's just give up, there's no way we can win
+(B) Let's just keep going, there's no way we can lose
+A: (A)

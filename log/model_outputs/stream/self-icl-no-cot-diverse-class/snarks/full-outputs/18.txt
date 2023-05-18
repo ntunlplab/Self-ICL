@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to the dentist tomorrow. Can't wait!
+(B) I'm so excited to go to the dentist tomorrow. Yay!
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I got up early today. What a great start to the day!
+(B) I'm so glad I got up early today. What a treat!
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy I got stuck in traffic. What a great way to spend my time!
+(B) I'm so happy I got stuck in traffic. What a joy!
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) This website is well known to post falsehoods and spread false rumors. Rock-solid source if you ask me
+(B) This website is well known to post falsehoods and spread false rumors. Suspicious source if you ask me
+A: (A)

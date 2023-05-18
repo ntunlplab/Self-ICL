@@ -1,0 +1,11 @@
+Q: Seven students are playing a game. At the start of the game, they are each holding a toy: Amy has a red toy, Brian has a green toy, Carl has an orange toy, Daniel has a blue toy, Emily has a yellow toy, Fred has a black toy, and Grace has a purple toy.
+As the game progresses, pairs of students trade toys. First, Amy and Brian swap toys. Then, Brian and Carl swap toys. Then, Carl and Daniel swap toys. Then, Daniel and Emily swap toys. Then, Emily and Fred swap toys. Then, Fred and Grace swap toys. Finally, Amy and Brian swap toys again. At the end of the game, Grace has the
+Options:
+(A) red toy
+(B) green toy
+(C) orange toy
+(D) blue toy
+(E) yellow toy
+(F) black toy
+(G) purple toy
+A: (A)

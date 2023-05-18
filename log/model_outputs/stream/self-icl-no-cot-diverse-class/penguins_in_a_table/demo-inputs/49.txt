@@ -1,0 +1,36 @@
+Following is an example instance for the task: Answer questions about a table of penguins and their attributes. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin has a welsh name?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+
+New instance 1:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), beak length (cm) Terence, 4, 40, 8 Rupert, 6, 50, 10 Nigel, 8, 60, 12 Gertrude, 7, 70, 14  For example: the age of Terence is 4, the beak length of Gertrude is 14 cm, the wingspan of Rupert is 50 cm.  Which penguin has a Scottish name?
+Options:
+(A) Terence
+(B) Rupert
+(C) Nigel
+(D) Gertrude
+(E) Angus
+
+New instance 2:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, flipper length (cm), dive depth (m) Peter, 3, 20, 5 Paul, 5, 30, 7 Patrick, 7, 40, 9 Patricia, 9, 50, 11  For example: the age of Peter is 3, the dive depth of Patricia is 11 m, the flipper length of Paul is 30 cm.  Which penguin has an Irish name?
+Options:
+(A) Peter
+(B) Paul
+(C) Patrick
+(D) Patricia
+(E) Sean
+
+New instance 3:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, swimming speed (km/h), egg count (per year) Alfred, 2, 5, 1 Barry, 4, 10, 2 Charles, 6, 15, 3 Charlotte, 8, 20, 4  For example: the age of Alfred is 2, the egg count of Charlotte is 4 per year, the swimming speed of Barry is 10 km/h.  Which penguin has a French name?
+Options:
+(A) Alfred
+(B) Barry
+(C) Charles
+(D) Charlotte
+(E) Pierre

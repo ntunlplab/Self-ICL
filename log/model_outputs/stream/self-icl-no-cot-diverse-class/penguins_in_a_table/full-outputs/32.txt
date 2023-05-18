@@ -1,0 +1,61 @@
+Task description: Answer questions about a table of penguins and their attributes.
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, habitat, diet Louis, 7, Antarctic, krill Bernard, 5, Sub-Antarctic, fish Vincent, 9, Sub-Antarctic, squid Gwen, 8, Antarctic, fish  For example: the age of Louis is 7, the habitat of Gwen is Antarctic, the diet of Bernard is fish. And here is a similar table, but listing seals:
+name, age, habitat, diet
+Jody, 5, Arctic, fish
+Gladys, 10, Sub-Antarctic, squid
+Marian, 2, Antarctic, krill
+Donna, 9, Arctic, fish
+What is the name of the last penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (D)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, color, wingspan (cm) Louis, 7, black, 50 Bernard, 5, white, 80 Vincent, 9, black, 60 Gwen, 8, white, 70  For example: the age of Louis is 7, the color of Gwen is white, the wingspan of Bernard is 80 cm. And here is a similar table, but listing owls:
+name, age, color, wingspan (cm)
+Jody, 5, brown, 110
+Gladys, 10, white, 100
+Marian, 2, gray, 90
+Donna, 9, brown, 120
+What is the name of the last penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (D)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, swimming speed (km/h), diving depth (m) Louis, 7, 5, 10 Bernard, 5, 3, 15 Vincent, 9, 4, 20 Gwen, 8, 6, 25  For example: the age of Louis is 7, the swimming speed of Gwen is 6 km/h, the diving depth of Bernard is 15 m. And here is a similar table, but listing dolphins:
+name, age, swimming speed (km/h), diving depth (m)
+Jody, 5, 10, 30
+Gladys, 10, 8, 25
+Marian, 2, 6, 20
+Donna, 9, 12, 35
+What is the name of the last penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (D)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
+name, age, height (cm), weight (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+What is the name of the last penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (D)

@@ -1,0 +1,10 @@
+Q: In a chess tournament, there were seven players: Alex, Bob, Claire, Amy, Dave, Max, and Ben. Claire finished below Amy. Alex finished below Bob. Bob finished below Claire. Max finished third-to-last. Amy finished third. Dave finished below Ben.
+Options:
+(A) Alex finished third
+(B) Bob finished third
+(C) Claire finished third
+(D) Amy finished third
+(E) Dave finished third
+(F) Max finished third
+(G) Ben finished third
+A: (D)

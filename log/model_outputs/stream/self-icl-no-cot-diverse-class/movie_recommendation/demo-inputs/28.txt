@@ -1,0 +1,32 @@
+Following is an example instance for the task: Recommend movies similar to the given list of movies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Find a movie similar to Toy Story, The Mask, Batman, The Lion King:
+Options:
+(A) Exit Wounds
+(B) Punch-Drunk Love
+(C) Seeking Justice
+(D) Pretty Woman
+
+New instance 1:
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Departed:
+Options:
+(A) The Town
+(B) The Prestige
+(C) Goodfellas
+(D) The Green Mile
+
+New instance 2:
+Q: Find a movie similar to The Hangover, Bridesmaids, Superbad, Knocked Up:
+Options:
+(A) The 40-Year-Old Virgin
+(B) Pineapple Express
+(C) Step Brothers
+(D) This Is The End
+
+New instance 3:
+Q: Find a movie similar to The Matrix, Inception, The Terminator, Blade Runner:
+Options:
+(A) The Fifth Element
+(B) Minority Report
+(C) Total Recall
+(D) Aliens

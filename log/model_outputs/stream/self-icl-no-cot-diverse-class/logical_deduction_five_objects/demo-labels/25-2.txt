@@ -1,0 +1,8 @@
+Q: A pet store sells five types of pet food: kibble, wet food, treats, raw food, and freeze-dried food. The wet food is the second-cheapest. The treats are more expensive than the wet food. The raw food is the second-most expensive. The kibble is the most expensive.
+Options:
+(A) The kibble is the third-most expensive
+(B) The wet food is the third-most expensive
+(C) The treats are the third-most expensive
+(D) The raw food is the third-most expensive
+(E) The freeze-dried food is the third-most expensive
+A: (E)

@@ -1,0 +1,66 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, John went to the movie theater. Between what times could they have gone?
+We know that:
+John woke up at 7am.
+Sally saw John playing basketball from 7am to 9am.
+Tom saw John eating lunch at a restaurant from 9am to 11am.
+David saw John shopping at the mall from 11am to 1pm.
+Karen saw John walking his dog from 1pm to 3pm.
+The movie theater was closed after 10pm.
+Between what times could John have gone to the movie theater?
+Options:
+(A) 7am to 9am
+(B) 9am to 11am
+(C) 11am to 1pm
+(D) 3pm to 10pm
+A: (D)
+
+Q: Today, Sarah went to the art gallery. Between what times could they have gone?
+We know that:
+Sarah woke up at 6am.
+John saw Sarah playing tennis from 6am to 8am.
+Jill saw Sarah eating breakfast at a cafe from 8am to 10am.
+Mark saw Sarah visiting a museum from 10am to 12pm.
+Alice saw Sarah walking in the park from 12pm to 2pm.
+The art gallery was closed after 9pm.
+Between what times could Sarah have gone to the art gallery?
+Options:
+(A) 6am to 8am
+(B) 8am to 10am
+(C) 10am to 12pm
+(D) 2pm to 9pm
+A: (D)
+
+Q: Today, Joe went to the amusement park. Between what times could they have gone?
+We know that:
+Joe woke up at 5am.
+Samantha saw Joe swimming at the beach from 5am to 7am.
+Paul saw Joe eating lunch at a diner from 7am to 9am.
+Emily saw Joe playing video games at an arcade from 9am to 11am.
+David saw Joe walking around the city from 11am to 1pm.
+The amusement park was closed after 8pm.
+Between what times could Joe have gone to the amusement park?
+Options:
+(A) 5am to 7am
+(B) 7am to 9am
+(C) 9am to 11am
+(D) 1pm to 8pm
+A: (D)
+
+Q: Today, Betty went to the bookstore. Between what times could they have gone?
+We know that:
+Betty woke up at 8am.
+Nancy saw Betty waiting at the airport from 8am to 10am.
+Tiffany saw Betty stretching at a yoga studio from 10am to 2pm.
+James saw Betty reading at the library from 2pm to 4pm.
+Steven saw Betty buying a bike at the bike shop from 4pm to 5pm.
+Mary saw Betty taking photos near the Leaning Tower of Pisa from 5pm to 6pm.
+The bookstore was closed after 8pm.
+Between what times could Betty have gone to the bookstore?
+Options:
+(A) 2pm to 4pm
+(B) 10am to 2pm
+(C) 8am to 10am
+(D) 6pm to 8pm
+A: (D)

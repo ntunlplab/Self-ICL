@@ -1,0 +1,88 @@
+Following is an example instance for the task: Answer extremely simple questions about the colors of objects on a surface. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: On the table, you see a bunch of items arranged in a row: a mauve sheet of paper, a purple booklet, and a blue necklace. What is the color of the left-most item?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+
+New instance 1:
+Q: On the kitchen counter, you see a stack of dishes: a yellow plate, a green bowl, and a white cup. What is the color of the top-most item?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+
+New instance 2:
+Q: On the bookshelf, you see a row of books: a black book, a pink book, and a white book. What is the color of the right-most item?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+
+New instance 3:
+Q: On the wall, you see a row of pictures: a gold frame, a blue frame, and a silver frame. What is the color of the left-most item?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink

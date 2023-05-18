@@ -1,0 +1,6 @@
+Q: "Is John a friend of Mary? Is Jane related to Mark? In large social circles, it is sometimes difficult to keep track of all one's acquaintances. The following argument seeks to clarify some such relations: First premise: Being a classmate of Sarah is necessary for being a friend of Mary. Second premise: Some acquaintance of John is a neighbor of Mark and a classmate of Sarah. Third premise: Being a friend of Mary is sufficient for being a neighbor of Mark. Hence, somebody is an acquaintance of John and a friend of Mary."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

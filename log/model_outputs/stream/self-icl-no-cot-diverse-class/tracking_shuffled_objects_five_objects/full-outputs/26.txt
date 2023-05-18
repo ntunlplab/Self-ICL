@@ -1,0 +1,41 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each person has a different item: Alice has a blue marble, Bob has a red marble, Claire has a green marble, Dave has a yellow marble, and Eve has a black marble.
+As the game progresses, pairs of people swap items. First, Alice and Dave swap their items. Then, Dave and Eve swap their items. Then, Dave and Alice swap their items. Then, Bob and Claire swap their items. Finally, Bob and Eve swap their items. At the end of the game, Bob has the
+Options:
+(A) blue marble
+(B) red marble
+(C) green marble
+(D) yellow marble
+(E) black marble
+A: (B)
+
+Q: Five students are playing a game of musical chairs. At the start of the game, each student has a different item: Alice has a blue book, Bob has a red book, Claire has a green book, Dave has a yellow book, and Eve has a black book.
+As the game progresses, pairs of students swap items. First, Alice and Dave swap their items. Then, Dave and Eve swap their items. Then, Dave and Alice swap their items. Then, Bob and Claire swap their items. Finally, Bob and Eve swap their items. At the end of the game, Bob has the
+Options:
+(A) blue book
+(B) red book
+(C) green book
+(D) yellow book
+(E) black book
+A: (B)
+
+Q: Five friends are playing a game of tag. At the start of the game, each person has a different item: Alice has a blue hat, Bob has a red hat, Claire has a green hat, Dave has a yellow hat, and Eve has a black hat.
+As the game progresses, pairs of people swap items. First, Alice and Dave swap their items. Then, Dave and Eve swap their items. Then, Dave and Alice swap their items. Then, Bob and Claire swap their items. Finally, Bob and Eve swap their items. At the end of the game, Bob has the
+Options:
+(A) blue hat
+(B) red hat
+(C) green hat
+(D) yellow hat
+(E) black hat
+A: (B)
+
+Q: Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a red present, Claire has a green present, Dave has a orange ball, and Eve has a black ball.
+As the event progresses, pairs of people swap gifts. First, Alice and Dave swap their gifts. Then, Dave and Eve swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Claire swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Bob has the
+Options:
+(A) pink ball
+(B) red present
+(C) green present
+(D) orange ball
+(E) black ball
+A: (B)

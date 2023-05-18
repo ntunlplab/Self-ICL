@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven books: a brown book, a green book, a black book, a silver book, a white book, a gold book, and a blue book. The brown book is the leftmost. The green book is to the right of the silver book. The black book is the fourth from the left. The silver book is to the right of the gold book. The white book is to the left of the blue book. The gold book is the third from the right.
+Options:
+(A) The brown book is the second from the right
+(B) The green book is the second from the right
+(C) The black book is the second from the right
+(D) The silver book is the second from the right
+(E) The white book is the second from the right
+(F) The gold book is the second from the right
+(G) The blue book is the second from the right
+A: (B)

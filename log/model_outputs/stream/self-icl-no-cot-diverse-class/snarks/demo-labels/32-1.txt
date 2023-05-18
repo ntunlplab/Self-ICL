@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited for the weekend
+(B) I'm not excited for the weekend
+A: (B)

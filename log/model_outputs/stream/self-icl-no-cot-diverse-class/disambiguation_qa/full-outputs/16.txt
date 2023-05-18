@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to turn in their assignment.
+Options:
+(A) The teacher's assignment
+(B) The student's assignment
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was unable to finish the project on time because they underestimated the difficulty.
+Options:
+(A) The team underestimated the difficulty
+(B) Someone else underestimated the difficulty
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employees to submit their reports.
+Options:
+(A) The manager's reports
+(B) The employees' reports
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The developer was unable to communicate with the writer because he focuses on code.
+Options:
+(A) The developer focuses on code
+(B) The writer focuses on code
+(C) Ambiguous
+A: (A)

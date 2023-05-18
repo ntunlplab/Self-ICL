@@ -1,0 +1,6 @@
+Q: In a baking competition, there were three contestants: Sarah, John, and Maria. Maria finished below Sarah. Maria finished above John.
+Options:
+(A) Sarah finished second
+(B) John finished second
+(C) Maria finished second
+A: (B)

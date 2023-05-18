@@ -1,0 +1,28 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+Laurie likes GC brand coffee. GC is doing a new promotion for their new coffee flavor where customers can receive a free sample. Customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list. Laurie has previously purchased coffee beans from GC, and she is subscribed to the GC email list. When she hears about the promotion, Laurie checks to see if she is subscribed to the email list, and she sees that she is. So, she does not change her subscription status, and she remains subscribed to the email list. Because customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list, Laurie receives a free sample. Did Laurie receive a free sample because she did not change her subscription status?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: How would a typical person answer each of the following questions about causation?
+John is a frequent customer at a local restaurant. The restaurant is offering a free meal to customers who have dined there at least five times in the past month. John has dined at the restaurant four times in the past month. He decides to go to the restaurant one more time to get the free meal. Did John receive the free meal because he went to the restaurant one more time?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: How would a typical person answer each of the following questions about causation?
+Sally is a student at a local university. The university is offering a scholarship to students who have a GPA of 3.5 or higher. Sally has a GPA of 3.4. She decides to take an extra course to raise her GPA to 3.5. She successfully raises her GPA to 3.5 and receives the scholarship. Did Sally receive the scholarship because she took the extra course?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: How would a typical person answer each of the following questions about causation?
+Tom is a customer at a local store. The store is offering a 10% discount to customers who spend at least $50. Tom spends $45. He decides to buy an extra item to get the discount. He successfully spends $50 and receives the discount. Did Tom receive the discount because he bought the extra item?
+Options:
+- Yes
+- No

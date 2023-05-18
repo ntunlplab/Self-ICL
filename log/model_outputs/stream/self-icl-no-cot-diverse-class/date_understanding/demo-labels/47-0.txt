@@ -1,0 +1,8 @@
+Q: The first day of school for the 2020-2021 school year was August 10th. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 07/30/2020
+(B) 08/01/2020
+(C) 07/25/2020
+(D) 07/20/2020
+(E) 07/21/2020
+A: (A)

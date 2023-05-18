@@ -1,0 +1,9 @@
+Q: Five chefs, Karen, Larry, Mike, Nancy, and Olivia, are competing in a cooking competition. At the start of the competition, they are each assigned to a station: Karen is at station 1, Larry is at station 2, Mike is at station 3, Nancy is at station 4, and Olivia is at station 5.
+As the competition progresses, pairs of chefs occasionally swap stations. First, Olivia and Mike trade stations. Then, Nancy and Larry trade stations. Then, Olivia and Nancy trade stations. Then, Karen and Mike trade stations. Finally, Larry and Olivia trade stations. At the end of the competition, Mike is at
+Options:
+(A) station 1
+(B) station 2
+(C) station 3
+(D) station 4
+(E) station 5
+A: (E)

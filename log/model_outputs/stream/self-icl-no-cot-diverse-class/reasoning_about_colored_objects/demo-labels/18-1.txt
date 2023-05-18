@@ -1,0 +1,20 @@
+Q: On the table, there are five red paperclips, four white paperclips, and three purple paperclips. If I remove all the white items from the table, how many paperclips remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (O)

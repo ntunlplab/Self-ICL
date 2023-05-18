@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John is a frequent customer at a local restaurant. The restaurant is offering a free meal to customers who have dined there at least five times in the past month. John has dined at the restaurant four times in the past month. He decides to go to the restaurant one more time to get the free meal. Did John receive the free meal because he went to the restaurant one more time?
+Options:
+- Yes
+- No
+A: No

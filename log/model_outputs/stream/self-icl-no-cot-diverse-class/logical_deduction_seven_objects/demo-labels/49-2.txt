@@ -1,0 +1,10 @@
+Q: A clothing store sells seven items of clothing: jeans, t-shirts, sweaters, dresses, skirts, shorts, and jackets. The sweaters are less expensive than the jeans. The skirts are more expensive than the shorts. The jackets are less expensive than the jeans. The t-shirts are more expensive than the dresses. The shorts are less expensive than the skirts. The jeans are the third-most expensive.
+Options:
+(A) The jeans are the cheapest
+(B) The t-shirts are the cheapest
+(C) The sweaters are the cheapest
+(D) The dresses are the cheapest
+(E) The skirts are the cheapest
+(F) The shorts are the cheapest
+(G) The jackets are the cheapest
+A: (C)

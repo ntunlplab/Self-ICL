@@ -1,0 +1,2 @@
+Q: Question: Fiona says that Greg lies. Harry says that Fiona tells the truth. Isabelle says that Harry lies. Jake says that Isabelle tells the truth. Does Jake tell the truth?
+A: No,

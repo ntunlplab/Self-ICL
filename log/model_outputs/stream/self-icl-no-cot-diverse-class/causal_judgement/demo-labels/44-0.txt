@@ -1,0 +1,6 @@
+Q: Was the nurse responsible for John's death?
+John was a healthy, active man in his 50s. He had never smoked a cigarette in his life and he ate a balanced diet. One day, he was walking to work when he was hit by a car. The driver of the car was a young woman who had been texting while driving. She was distracted and didn't see John crossing the street. John was rushed to the hospital, but he died from his injuries. Did the driver's negligence cause John's death?
+Options:
+- Yes
+- No
+A: Yes

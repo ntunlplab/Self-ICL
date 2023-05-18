@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) walking black medium-size rectangular wonderful car
+(B) wonderful medium-size rectangular black walking car
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red apple
+(B) red ripe juicy delicious apple
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful tall slender white birch tree
+(B) white tall slender beautiful birch tree
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft fluffy warm cozy blanket
+(B) warm fluffy cozy soft blanket

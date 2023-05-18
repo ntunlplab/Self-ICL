@@ -1,0 +1,2 @@
+Q: Question: Alex says that his friend is lying. His friend says that Alex is telling the truth. His teacher says that Alex is lying. His principal says that his teacher is telling the truth. Is his principal telling the truth?
+A: No,

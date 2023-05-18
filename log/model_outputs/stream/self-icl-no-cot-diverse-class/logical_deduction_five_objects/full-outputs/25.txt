@@ -1,0 +1,37 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: A toy store sells five stuffed animals: bears, cats, dogs, elephants, and monkeys. The cats are the second-cheapest. The dogs are more expensive than the cats. The elephants are the second-most expensive. The bears are the most expensive.
+Options:
+(A) The bears are the third-most expensive
+(B) The cats are the third-most expensive
+(C) The dogs are the third-most expensive
+(D) The elephants are the third-most expensive
+(E) The monkeys are the third-most expensive
+A: (B)
+
+Q: A bakery sells five types of bread: sourdough, rye, wheat, pumpernickel, and focaccia. The rye is the second-cheapest. The wheat is more expensive than the rye. The pumpernickel is the second-most expensive. The sourdough is the most expensive.
+Options:
+(A) The sourdough is the third-most expensive
+(B) The rye is the third-most expensive
+(C) The wheat is the third-most expensive
+(D) The pumpernickel is the third-most expensive
+(E) The focaccia is the third-most expensive
+A: (E)
+
+Q: A pet store sells five types of pet food: kibble, wet food, treats, raw food, and freeze-dried food. The wet food is the second-cheapest. The treats are more expensive than the wet food. The raw food is the second-most expensive. The kibble is the most expensive.
+Options:
+(A) The kibble is the third-most expensive
+(B) The wet food is the third-most expensive
+(C) The treats are the third-most expensive
+(D) The raw food is the third-most expensive
+(E) The freeze-dried food is the third-most expensive
+A: (E)
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: watermelons, loquats, pears, plums, and apples. The pears are the second-cheapest. The loquats are more expensive than the pears. The plums are the second-most expensive. The watermelons are the most expensive.
+Options:
+(A) The watermelons are the third-most expensive
+(B) The loquats are the third-most expensive
+(C) The pears are the third-most expensive
+(D) The plums are the third-most expensive
+(E) The apples are the third-most expensive
+A: (D)

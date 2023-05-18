@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The educator was meeting with a student to discuss his grading policy.
+Options:
+(A) It was the educator's grading policy
+(B) It was the student's grading policy
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to bring her pencil to class.
+Options:
+(A) It was the teacher's pencil
+(B) It was the student's pencil
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach gave the team their instructions for the game.
+Options:
+(A) It was the coach's instructions
+(B) It was the team's instructions
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor asked the patient to take his medication.
+Options:
+(A) It was the doctor's medication
+(B) It was the patient's medication
+(C) Ambiguous

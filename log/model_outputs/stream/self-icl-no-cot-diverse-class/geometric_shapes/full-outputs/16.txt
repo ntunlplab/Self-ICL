@@ -1,0 +1,57 @@
+Task description: Name geometric shapes from their SVG paths.
+
+Q: This SVG path element <path d="M 10.00,20.00 L 20.00,30.00 L 30.00,20.00 L 40.00,30.00 L 50.00,20.00 L 40.00,10.00 L 30.00,20.00 L 20.00,10.00 L 10.00,20.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+A: (D)
+
+Q: This SVG path element <path d="M 10.00,20.00 L 20.00,30.00 L 30.00,20.00 L 40.00,30.00 L 50.00,20.00 L 50.00,10.00 L 40.00,10.00 L 30.00,20.00 L 20.00,10.00 L 10.00,20.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+A: (C)
+
+Q: This SVG path element <path d="M 10.00,20.00 L 20.00,30.00 L 30.00,20.00 L 40.00,30.00 L 50.00,20.00 L 50.00,10.00 L 40.00,10.00 L 30.00,20.00 L 20.00,10.00 L 10.00,20.00 L 10.00,30.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+A: (D)
+
+Q: This SVG path element <path d="M 34.08,19.65 L 43.45,30.98 L 38.19,35.33 L 28.82,24.00 L 26.80,25.67 L 24.63,13.16 L 36.11,17.98 M 36.11,17.98 L 34.08,19.65"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+A: (D)

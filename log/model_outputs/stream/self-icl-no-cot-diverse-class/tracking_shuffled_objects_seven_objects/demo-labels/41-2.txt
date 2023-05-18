@@ -1,0 +1,11 @@
+Q: Seven chefs are competing in a cooking competition. At the start of the competition, each chef is assigned a dish of a different color: Chef 1 is assigned a red dish, Chef 2 is assigned a purple dish, Chef 3 is assigned a white dish, Chef 4 is assigned a brown dish, Chef 5 is assigned a green dish, Chef 6 is assigned a blue dish, and Chef 7 is assigned a yellow dish.
+As the competition progresses, pairs of chefs swap dishes. First, Chef 4 and Chef 2 swap dishes. Then, Chef 1 and Chef 2 swap dishes. Then, Chef 7 and Chef 1 swap dishes. Then, Chef 3 and Chef 1 swap dishes. Then, Chef 2 and Chef 4 swap dishes. Then, Chef 6 and Chef 1 swap dishes. Finally, Chef 6 and Chef 5 swap dishes. At the end of the competition, Chef 7 is assigned a 
+Options:
+(A) red dish
+(B) purple dish
+(C) white dish
+(D) brown dish
+(E) green dish
+(F) blue dish
+(G) yellow dish
+A: (A)

@@ -1,0 +1,28 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+Drew, Kylie, Oliver, and Jen are regular customers at a small, local coffee shop. Given the selling price of the coffee and the cost of daily operation, the coffee shop will turn a profit if anyone orders coffee on a given day. Only one person ordering coffee is needed for the coffee shop to turn a profit that day. Kylie, Oliver, and Jen all usually order coffee on Tuesdays. However, Drew doesn't usually order coffee on Tuesdays. This Tuesday, unexpectedly, Drew ordered coffee. The same day, Kylie ordered coffee, Oliver ordered coffee, and Jen also ordered coffee. Since at least one person ordered coffee on Tuesday, the coffee shop made a profit that day. Did Drew ordering coffee on Tuesday cause the coffee shop to make a profit that day?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: Did the new marketing campaign cause an increase in sales?
+A small business recently launched a new marketing campaign to promote their products. After the campaign was launched, the business saw an increase in sales. Did the new marketing campaign cause the increase in sales?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: Did the new safety regulations cause fewer workplace accidents?
+A large company recently implemented new safety regulations in their workplace. After the regulations were implemented, the company saw a decrease in workplace accidents. Did the new safety regulations cause the decrease in workplace accidents?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: Did the new tax law cause an increase in government revenue?
+A government recently passed a new tax law that increased the tax rate for certain individuals. After the law was passed, the government saw an increase in revenue. Did the new tax law cause the increase in government revenue?
+Options:
+- Yes
+- No

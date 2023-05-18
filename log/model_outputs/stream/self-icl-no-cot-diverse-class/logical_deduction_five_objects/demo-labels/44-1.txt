@@ -1,0 +1,8 @@
+Q: At a toy store, there are five dolls: a Barbie, a Ken, a baby doll, a superhero doll, and a stuffed animal. The stuffed animal is the oldest. The baby doll is the second-oldest. The superhero doll is the third-oldest. The Ken is the fourth-oldest. The Barbie is the youngest.
+Options:
+(A) The Barbie is the third-oldest
+(B) The Ken is the third-oldest
+(C) The baby doll is the third-oldest
+(D) The superhero doll is the third-oldest
+(E) The stuffed animal is the third-oldest
+A: (D)

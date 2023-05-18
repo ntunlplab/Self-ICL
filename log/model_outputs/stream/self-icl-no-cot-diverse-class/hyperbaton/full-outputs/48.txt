@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe mango
+(B) ripe juicy delicious mango
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry cuddly teddy bear
+(B) cuddly furry small teddy bear
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny sparkling diamond
+(B) sparkling shiny bright diamond
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) terrible midsize snorkeling baby
+(B) terrible snorkeling midsize baby
+A: (B)

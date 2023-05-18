@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Godfather, The Dark Knight, The Silence of the Lambs, The Departed:
+Options:
+(A) The Untouchables
+(B) The Prestige
+(C) The Aviator
+(D) The Green Mile
+A: (A)

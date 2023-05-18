@@ -1,0 +1,8 @@
+Q: At a library, there are five books: a novel, a biography, a cookbook, a children's book, and a textbook. The biography is the second-oldest. The textbook is newer than the cookbook. The cookbook is newer than the biography. The textbook is older than the children's book.
+Options:
+(A) The novel is the oldest
+(B) The biography is the oldest
+(C) The cookbook is the oldest
+(D) The children's book is the oldest
+(E) The textbook is the oldest
+A: (A)

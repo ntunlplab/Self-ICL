@@ -1,0 +1,29 @@
+Task description: Answer questions about causal attribution.
+
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe are both driving on the same road. Alice is driving at the speed limit, while Zoe is driving 10 miles over the speed limit. Suddenly, a deer runs out in front of Alice's car, and she slams on the brakes to avoid hitting it. Zoe, who is driving faster, is unable to stop in time and hits the deer. Did Zoe cause the deer to be hit?
+Options:
+- Yes
+- No
+A: No,
+
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe are both playing a game of chess. Alice makes a move that puts her in a position to win the game. Zoe then makes a move that puts her in a position to win the game. Did Zoe cause Alice to lose the game?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe are both playing a game of basketball. Alice passes the ball to Zoe, who then takes a shot and scores. Did Alice cause Zoe to score?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe work for the same company. They work in different rooms, and both of them sometimes need to access the central computer of the company. Unbeknownst to everybody, if two people are logged in to the central computer at the same time, an empty email is immediately sent from the central computer to a non-existent email address. One day, Alice logs in to the central computer at 9 am. The same day, Zoe also logs in at 9 am. Immediately, an empty email is sent from the central computer to a non-existent email address. Did Zoe cause an empty email to be sent from the central computer to a non-existent email address?
+Options:
+- Yes
+- No
+A: Yes

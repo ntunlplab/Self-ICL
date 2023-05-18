@@ -1,0 +1,15 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg)
+Sam, 2, 30, 5
+Karen, 4, 35, 6
+Paul, 6, 40, 8
+Jill, 8, 45, 10
+We now add a penguin to the table:
+Dave, 10, 50, 12
+Which penguin is the youngest?
+Options:
+(A) Sam
+(B) Karen
+(C) Paul
+(D) Jill
+(E) Dave
+A: (A)

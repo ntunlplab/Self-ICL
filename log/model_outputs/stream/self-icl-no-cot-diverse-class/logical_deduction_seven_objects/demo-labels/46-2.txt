@@ -1,0 +1,10 @@
+Q: In a math competition, there were seven contestants: Alex, John, Peter, Kate, Ben, Tim, and Joe. Kate finished last. Joe finished above John. Peter finished above Joe. John finished fourth. Alex finished second. Ben finished above Tim.
+Options:
+(A) Alex finished first
+(B) John finished first
+(C) Peter finished first
+(D) Kate finished first
+(E) Ben finished first
+(F) Tim finished first
+(G) Joe finished first
+A: (A)

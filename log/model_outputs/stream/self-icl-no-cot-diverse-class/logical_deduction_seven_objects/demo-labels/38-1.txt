@@ -1,0 +1,10 @@
+Q: At a music festival, there are seven bands: a rock band, a jazz band, a hip-hop group, a classical ensemble, a punk band, a folk group, and a blues band. The jazz band is the third-oldest. The punk band is newer than the classical ensemble. The hip-hop group is older than the classical ensemble. The hip-hop group is newer than the folk group. The blues band is the newest. The rock band is the oldest.
+Options:
+(A) The rock band is the oldest
+(B) The jazz band is the oldest
+(C) The hip-hop group is the oldest
+(D) The classical ensemble is the oldest
+(E) The punk band is the oldest
+(F) The folk group is the oldest
+(G) The blues band is the oldest
+A: (A)

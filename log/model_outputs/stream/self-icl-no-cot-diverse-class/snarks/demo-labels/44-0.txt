@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) People always make rational decisions
+(B) People always make irrational decisions
+A: (A)

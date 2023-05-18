@@ -1,0 +1,9 @@
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all passionate about music. At the start of the year, they each buy one new album: Fiona gets Abbey Road, George gets Thriller, Harry gets Dark Side of the Moon, Isabel gets The Wall, and Jack gets Rumours.
+As the year progresses, they start trading around the new albums. First, Fiona and Jack swap albums. Then, Harry and Jack swap albums. Then, Fiona and Jack swap albums. Then, Jack and Isabel swap albums. Finally, Fiona and George swap albums. At the end of the year, George has
+Options:
+(A) Abbey Road
+(B) Thriller
+(C) Dark Side of the Moon
+(D) The Wall
+(E) Rumours
+A: (B)

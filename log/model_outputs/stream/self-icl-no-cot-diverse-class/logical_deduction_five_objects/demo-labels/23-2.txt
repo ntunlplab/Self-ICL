@@ -1,0 +1,8 @@
+Q: At a museum, there are five artifacts: a vase, a sculpture, a painting, a tapestry, and a mask. The sculpture is the second-oldest. The mask is newer than the painting. The painting is newer than the sculpture. The mask is older than the tapestry.
+Options:
+(A) The vase is the oldest
+(B) The sculpture is the oldest
+(C) The painting is the oldest
+(D) The tapestry is the oldest
+(E) The mask is the oldest
+A: (A)

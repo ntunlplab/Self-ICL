@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She's such a great driver
+(B) She's such a terrible driver
+A: (B)

@@ -1,0 +1,6 @@
+Q: Three siblings, Alex, Beth, and Charlie, are playing a game of tag. At the start of the game, Alex is "it", Beth is in the backyard, and Charlie is in the front yard. As the game progresses, pairs of players occasionally swap locations. First, Alex and Beth trade locations. Then, Alex and Charlie trade locations. Finally, Beth and Charlie trade locations. At the end of the game, Charlie is
+Options:
+(A) "it"
+(B) in the backyard
+(C) in the front yard
+A: (A)

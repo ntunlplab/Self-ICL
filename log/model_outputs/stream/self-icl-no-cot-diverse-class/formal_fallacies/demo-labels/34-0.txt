@@ -1,0 +1,6 @@
+Q: "Some people prefer to watch movies at home, while others prefer to watch them in the theater. But which is the better option? The following argument pertains to this question: To begin with, if someone does not prefer to watch movies at home, then that person does not prefer to watch them in the theater or not prefer to watch them in a drive-in. Moreover, preferring to watch movies in a drive-in is necessary for not preferring to watch them in the theater. Finally, nobody does not prefer to watch movies in the theater nor in a drive-in. In consequence, nobody does not prefer to watch movies at home nor in a drive-in."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

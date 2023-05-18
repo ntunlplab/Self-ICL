@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to travel to the moon: If the moon is too far away to reach, then it is impossible to travel to the moon. We may conclude that it is impossible to travel to the moon."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

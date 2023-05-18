@@ -1,0 +1,7 @@
+Q: Which of the following is a humorous edit of this artist or movie name: 'the sound of music'?
+Options:
+(A) the sound of muzak
+(B) the sound of muddle
+(C) the sound of mumble
+(D) the sound of mooing
+A: (A)

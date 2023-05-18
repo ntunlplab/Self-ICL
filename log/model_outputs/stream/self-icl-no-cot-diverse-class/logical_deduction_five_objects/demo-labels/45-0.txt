@@ -1,0 +1,9 @@
+Q: In a row of five books, the first book is a novel, the second book is a dictionary, the third book is a cookbook, the fourth book is a history book, and the fifth book is a science book. The dictionary is to the left of the cookbook. The science book is the second from the right. The novel is the leftmost.
+
+Options:
+(A) The novel is the rightmost
+(B) The dictionary is the rightmost
+(C) The cookbook is the rightmost
+(D) The history book is the rightmost
+(E) The science book is the rightmost
+A: (E)

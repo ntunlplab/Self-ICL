@@ -1,0 +1,41 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Five friends, Fred, George, Harry, Ian, and Jack, are playing a game. At the start of the game, they are each holding a card: Fred has a red card, George has a blue card, Harry has a green card, Ian has a yellow card, and Jack has a purple card.
+As the game progresses, pairs of players trade cards. First, Fred and George swap cards. Then, Harry and George swap cards. Then, Ian and Jack swap cards. Then, Jack and Fred swap cards. Finally, George and Harry swap cards. At the end of the game, Fred has the
+Options:
+(A) red card
+(B) blue card
+(C) green card
+(D) yellow card
+(E) purple card
+A: (B)
+
+Q: Five students, Lisa, Mary, Nathan, Olivia, and Peter, are playing a game. At the start of the game, they are each holding a coin: Lisa has a penny, Mary has a nickel, Nathan has a dime, Olivia has a quarter, and Peter has a half-dollar.
+As the game progresses, pairs of players trade coins. First, Mary and Lisa swap coins. Then, Nathan and Lisa swap coins. Then, Olivia and Peter swap coins. Then, Peter and Mary swap coins. Finally, Lisa and Nathan swap coins. At the end of the game, Mary has the
+Options:
+(A) penny
+(B) nickel
+(C) dime
+(D) quarter
+(E) half-dollar
+A: (E)
+
+Q: Five siblings, Rachel, Sam, Tom, Ursula, and Victor, are playing a game. At the start of the game, they are each holding a toy: Rachel has a car, Sam has a doll, Tom has a truck, Ursula has a train, and Victor has a plane.
+As the game progresses, pairs of players trade toys. First, Rachel and Sam swap toys. Then, Tom and Sam swap toys. Then, Ursula and Victor swap toys. Then, Victor and Rachel swap toys. Finally, Sam and Tom swap toys. At the end of the game, Rachel has the
+Options:
+(A) car
+(B) doll
+(C) truck
+(D) train
+(E) plane
+A: (B)
+
+Q: Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a purple ball, Claire has a black ball, Dave has a green ball, and Eve has a yellow ball.
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Bob and Alice swap balls. Then, Eve and Dave swap balls. Then, Dave and Claire swap balls. Finally, Alice and Bob swap balls. At the end of the game, Claire has the
+Options:
+(A) brown ball
+(B) purple ball
+(C) black ball
+(D) green ball
+(E) yellow ball
+A: (A)

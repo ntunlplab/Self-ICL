@@ -1,0 +1,6 @@
+Q: "Is Sam a grandfather of Alex? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First, Sam is a great-uncle of Joe. Second, nobody is neither a great-uncle of Joe nor a grandfather of Bob. So, necessarily, Sam is not a grandfather of Bob."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

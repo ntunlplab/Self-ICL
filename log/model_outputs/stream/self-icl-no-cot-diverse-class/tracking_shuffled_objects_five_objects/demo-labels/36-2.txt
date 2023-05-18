@@ -1,0 +1,9 @@
+Q: Five siblings, Paul, Rachel, Sarah, Tom, and Ursula, are playing a game. At the start of the game, they are each holding a toy: Paul has a car toy, Rachel has a doll toy, Sarah has a train toy, Tom has a plane toy, and Ursula has a boat toy.
+As the game progresses, pairs of players trade toys. First, Paul and Ursula swap toys. Then, Rachel and Ursula swap toys. Then, Rachel and Tom swap toys. Then, Paul and Sarah swap toys. Finally, Tom and Sarah swap toys. At the end of the game, Paul has the
+Options:
+(A) car toy
+(B) doll toy
+(C) train toy
+(D) plane toy
+(E) boat toy
+A: (A)

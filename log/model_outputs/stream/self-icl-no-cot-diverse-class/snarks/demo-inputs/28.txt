@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) What a poor guy, years of work and he only got a $50,000 scholarship
+(B) What a poor guy, years of work and he only got a $50 scholarship
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to have to stay up all night to finish this project
+(B) I'm so excited to have to stay up all night to finish this project, yay!
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so lucky to have to work on the weekend
+(B) I'm so lucky to have to work on the weekend, woo hoo!
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) I can't believe I have to do all this work
+(B) I can't believe I have to do all this work, what a treat!

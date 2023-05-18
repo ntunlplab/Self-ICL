@@ -1,0 +1,6 @@
+Q: Three friends, Jack, Jill, and John, are playing a game of rock-paper-scissors. At the start of the game, Jack has rock, Jill has paper, and John has scissors. Throughout the game, the players often switch hands. First, Jack and Jill switch hands. Then, Jack and John switch hands. Finally, Jill and John switch hands. At the end of the game, who has rock?
+Options:
+(A) Jack
+(B) Jill
+(C) John
+A: (A)

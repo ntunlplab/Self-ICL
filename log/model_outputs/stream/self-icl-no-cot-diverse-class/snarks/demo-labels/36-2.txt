@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should definitely invest in fossil fuels
+(B) We should definitely invest in renewable energy
+A: (A)

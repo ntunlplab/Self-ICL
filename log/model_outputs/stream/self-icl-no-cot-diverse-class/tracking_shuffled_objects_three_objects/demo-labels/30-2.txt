@@ -1,0 +1,7 @@
+Q: Three students, Jack, Kate, and Luke, are playing a game of tag. At the start of the game, each player has a different colored marker: Jack has a black marker, Kate has a red marker, and Luke has a green marker.
+As the game progresses, pairs of players swap markers. First, Kate and Luke swap their markers. Then, Jack and Kate swap their markers. Finally, Luke and Jack swap their markers. At the end of the game, Jack has the
+Options:
+(A) black marker
+(B) red marker
+(C) green marker
+A: (A)

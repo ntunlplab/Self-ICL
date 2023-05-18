@@ -1,0 +1,25 @@
+Following is an example instance for the task: Answer questions about causal attribution. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: How would a typical person answer each of the following questions about causation?
+Prof. Smith works at a large university. At this university, in order to get new computers from the university, faculty like Prof. Smith must send an application to two administrative committees, the IT committee and the department budget committee. Prof. Smith will be able to get her new computers if the IT committee approves her application or the department budget committee approves her application. Only one of the committees needs to approve her application for her to get the new computers. The IT committee almost always approves these applications. The department budget committee almost never approves these applications. The budget committee is notorious for turning down almost every application they receive. Prof. Smith sends in her applications. Each committee meets independently and they decide without talking to each other, but their meetings are scheduled for the exact same time. The IT committee approves her application, and surprisingly, the department budget committee approves her application. So, Prof. Smith got her new computers. Does the department budget committee cause the approval of Prof. Smith's application?
+Options:
+- Yes
+- No
+
+New instance 1:
+Q: Does the fact that the IT committee almost always approves applications cause the department budget committee to approve Prof. Smith's application?
+Options:
+- Yes
+- No
+
+New instance 2:
+Q: Does the fact that the department budget committee is notorious for turning down almost every application they receive cause the IT committee to approve Prof. Smith's application?
+Options:
+- Yes
+- No
+
+New instance 3:
+Q: Does the fact that the IT committee and the department budget committee had their meetings scheduled for the exact same time cause both committees to approve Prof. Smith's application?
+Options:
+- Yes
+- No

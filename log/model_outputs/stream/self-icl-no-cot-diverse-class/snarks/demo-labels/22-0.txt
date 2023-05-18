@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't like the new iPhone?
+(B) You mean you love the new iPhone?
+A: (A)

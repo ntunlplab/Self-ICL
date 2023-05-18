@@ -1,0 +1,8 @@
+Q: In a tennis tournament, there were five players: Mark, Emma, Ryan, Paul, and Kate. Emma finished above Paul. Mark finished first. Ryan finished above Kate. Paul finished below Kate.
+Options:
+(A) Mark finished second-to-last
+(B) Emma finished second-to-last
+(C) Ryan finished second-to-last
+(D) Paul finished second-to-last
+(E) Kate finished second-to-last
+A: (E)

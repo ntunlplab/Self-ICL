@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad you could make it to the party.
+(B) I'm so glad you could make it to the party. Not.
+A: (B)

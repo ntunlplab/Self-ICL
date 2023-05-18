@@ -1,0 +1,6 @@
+Q: "Some people prefer to watch movies in the theater, while others prefer to watch them at home. But what is the best way to watch a movie? The following argument pertains to this question: First of all, some people who watch movies at home are fans of horror films. Next, being a fan of horror films is sufficient for preferring to watch movies at home. Plus, preferring to watch movies in the theater is necessary for being a fan of horror films. So, necessarily, there is somebody who prefers to watch movies in the theater and is a fan of horror films."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

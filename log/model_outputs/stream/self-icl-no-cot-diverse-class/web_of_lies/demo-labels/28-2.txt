@@ -1,0 +1,2 @@
+Q: Question: Paul says that the grass is purple. Sam says that Paul is wrong. Dave says that Sam is wrong. Karen says that Dave is wrong. Does Karen tell the truth?
+A: No,

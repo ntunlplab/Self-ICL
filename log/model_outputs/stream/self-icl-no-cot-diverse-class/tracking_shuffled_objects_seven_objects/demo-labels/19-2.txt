@@ -1,0 +1,10 @@
+Q: At a game of chess, 8 pieces are arranged on a board. At the start of the game, they are in the following positions: The King is in position A1, the Queen is in position B1, the Bishop is in position C1, the Knight is in position D1, the Rook is in position E1, the Pawn is in position F1, and the other Pawn is in position G1. Throughout the game, the pieces often switch positions. First, the King and the Knight switch positions. Then, the Knight and the Pawn switch positions. Then, the Pawn and the other Pawn switch positions. Then, the other Pawn and the Bishop switch positions. Then, the Bishop and the Rook switch positions. Then, the Rook and the Queen switch positions. Finally, the Queen and the King switch positions. At the end of the game, the King is in position
+Options:
+(A) A1
+(B) B1
+(C) C1
+(D) D1
+(E) E1
+(F) F1
+(G) G1
+A: (D)

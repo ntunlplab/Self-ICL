@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should be thankful for the chance to live in a country with no freedom
+(B) We should be thankful for the chance to live in a country with lots of freedom
+A: (A)

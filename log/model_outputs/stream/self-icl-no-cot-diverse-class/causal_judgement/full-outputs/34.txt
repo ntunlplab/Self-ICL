@@ -1,0 +1,32 @@
+Task description: Answer questions about causal attribution.
+
+Q: Who is responsible for the destruction of a building that was damaged by a tornado?
+A tornado swept through a small town and caused extensive damage to a building. The building had been built to withstand a Category 5 hurricane, but the tornado was much stronger than expected. The building was completely destroyed. Who is responsible for the destruction of the building?
+Options:
+- The builders of the building
+- The people who failed to predict the strength of the tornado
+- The tornado itself
+A: The people
+
+Q: Who is responsible for the death of a person who was killed in a car accident?
+A person was killed in a car accident when their car was hit by another car that was speeding. Who is responsible for the death of the person?
+Options:
+- The driver of the speeding car
+- The person who was killed
+- The manufacturer of the car
+A: The driver
+
+Q: Who is responsible for the contamination of a river that was polluted by a factory?
+A factory was dumping toxic waste into a nearby river, causing it to become contaminated. Who is responsible for the contamination of the river?
+Options:
+- The factory
+- The government for not regulating the factory
+- The people who live near the river for not taking action sooner
+A: The factory
+
+Q: How would a typical person answer each of the following questions about causation?
+Billy and Suzy are freight train conductors. One day, they happen to approach an old two-way rail bridge from opposite directions at the same time. There are signals on either side of the bridge. Billy's signal is green, so he is supposed to drive across the bridge immediately. Suzy's signal is green, so she is also supposed to drive across immediately. Neither of them realizes that the bridge is on the verge of collapse. If they both drive their trains onto the bridge at the same time, it will collapse. Neither train is heavy enough on its own to break the bridge, but both together will be too heavy for it. Billy follows his signal and drives his train onto the bridge immediately at the same time that Suzy follows her signal and drives her train onto the bridge. Both trains move onto the bridge at the same time, and at that moment the bridge collapses. Did Billy cause the bridge to collapse?
+Options:
+- Yes
+- No
+A: No

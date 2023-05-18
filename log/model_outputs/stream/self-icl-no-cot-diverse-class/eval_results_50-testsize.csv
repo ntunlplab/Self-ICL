@@ -1,0 +1,4 @@
+Item,boolean_expressions,causal_judgement,date_understanding,disambiguation_qa,formal_fallacies,geometric_shapes,hyperbaton,logical_deduction_five_objects,logical_deduction_seven_objects,logical_deduction_three_objects,movie_recommendation,navigate,penguins_in_a_table,reasoning_about_colored_objects,ruin_names,salient_translation_error_detection,snarks,sports_understanding,temporal_sequences,tracking_shuffled_objects_five_objects,tracking_shuffled_objects_seven_objects,tracking_shuffled_objects_three_objects,web_of_lies
+ncorrect,44.0,29.0,28.0,30.0,25.0,14.0,29.0,16.0,17.0,36.0,40.0,35.0,39.0,32.0,33.0,29.0,32.0,29.0,21.0,12.0,13.0,13.0,30.0
+total,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+accuracy,0.88,0.58,0.56,0.6,0.5,0.28,0.58,0.32,0.34,0.72,0.8,0.7,0.78,0.64,0.66,0.58,0.64,0.58,0.42,0.24,0.26,0.26,0.6

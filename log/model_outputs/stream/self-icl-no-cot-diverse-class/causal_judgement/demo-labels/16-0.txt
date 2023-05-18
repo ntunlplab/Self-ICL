@@ -1,0 +1,5 @@
+Q: A company has been producing a product for many years that has been known to cause environmental damage. The company's board of directors recently decided to continue producing the product despite the environmental damage it causes. Did the board intentionally harm the environment?
+Options:
+- Yes
+- No
+A: No.

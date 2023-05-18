@@ -1,0 +1,10 @@
+Q: On the kitchen counter, you see the following objects arranged in a row: a yellow plate, a pink bowl, a green spoon, a blue knife, and an orange cup. How many non-blue objects do you see to the right of the knife?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (C)

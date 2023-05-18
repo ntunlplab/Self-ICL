@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor asked the patient to take his medication.
+Options:
+(A) It was the doctor's medication
+(B) It was the patient's medication
+(C) Ambiguous
+A: (B)

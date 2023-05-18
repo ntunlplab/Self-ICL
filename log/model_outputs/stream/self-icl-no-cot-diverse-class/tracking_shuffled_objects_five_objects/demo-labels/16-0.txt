@@ -1,0 +1,9 @@
+Q: Five students are taking a test in a classroom. At the start of the test, they are each assigned to a seat: Student A is sitting in the front row, Student B is sitting in the second row, Student C is sitting in the third row, Student D is sitting in the fourth row, and Student E is sitting in the fifth row.
+As the test progresses, pairs of students occasionally swap seats. First, Student A and Student B trade seats. Then, Student C and Student D trade seats. Then, Student A and Student C trade seats. Then, Student B and Student E trade seats. Finally, Student C and Student E trade seats. At the end of the test, Student A is sitting in which row?
+Options:
+(A) Front row
+(B) Second row
+(C) Third row
+(D) Fourth row
+(E) Fifth row
+A: (C)

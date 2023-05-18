@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: In a cooking competition, there were seven contestants: Jack, Jill, John, Jane, Joe, Jim, and Jerry. Jack finished above Jim. Jane finished above Joe. Jerry finished last. Jim finished third-to-last. Joe finished below John. Jill finished third.
+Options:
+(A) Jack finished last
+(B) Jill finished last
+(C) John finished last
+(D) Jane finished last
+(E) Joe finished last
+(F) Jim finished last
+(G) Jerry finished last
+A: (G)
+
+Q: In a spelling bee, there were seven contestants: Sarah, Sam, Steve, Susan, Seth, Scott, and Sylvia. Sarah finished above Seth. Susan finished above Steve. Sylvia finished last. Steve finished third-to-last. Seth finished below Scott. Sam finished third.
+Options:
+(A) Sarah finished last
+(B) Sam finished last
+(C) Steve finished last
+(D) Susan finished last
+(E) Seth finished last
+(F) Scott finished last
+(G) Sylvia finished last
+A: (G)
+
+Q: In a chess tournament, there were seven players: Peter, Paul, Patrick, Pamela, Phil, Priscilla, and Pranav. Peter finished above Priscilla. Pamela finished above Phil. Pranav finished last. Phil finished third-to-last. Priscilla finished below Paul. Patrick finished third.
+Options:
+(A) Peter finished last
+(B) Paul finished last
+(C) Patrick finished last
+(D) Pamela finished last
+(E) Phil finished last
+(F) Priscilla finished last
+(G) Pranav finished last
+A: (G)
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Eli, Ada, Amy, Ana, Eve, Mel, and Dan. Ada finished above Mel. Dan finished above Ada. Amy finished last. Ana finished third-to-last. Dan finished below Eli. Eve finished third.
+Options:
+(A) Eli finished last
+(B) Ada finished last
+(C) Amy finished last
+(D) Ana finished last
+(E) Eve finished last
+(F) Mel finished last
+(G) Dan finished last
+A: (G)

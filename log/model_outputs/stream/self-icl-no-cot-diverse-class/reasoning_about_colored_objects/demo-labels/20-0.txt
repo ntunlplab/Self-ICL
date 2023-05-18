@@ -1,0 +1,10 @@
+Q: On the kitchen counter, there is a white plate, a purple bowl, a pink spoon, a blue cup, and an orange napkin. How many objects are neither pink nor purple?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (C)

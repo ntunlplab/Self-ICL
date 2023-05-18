@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "Lionel Messi scored a goal from a free kick from the half-way line."
+A: Yes,
+
+Q: Is the following sentence plausible? "Novak Djokovic won a tennis match without dropping a single game."
+A: No,
+
+Q: Is the following sentence plausible? "Usain Bolt set a new world record in the 400m sprint."
+A: Yes,
+
+Q: Is the following sentence plausible? "Robert Lewandowski threw a touchdown."
+A: No,

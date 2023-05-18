@@ -1,0 +1,16 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bear:  name, age, height (cm), weight (kg) Paul, 7, 150, 11 Sarah, 5, 180, 13 Mark, 9, 160, 11 Grace, 8, 170, 15  For example: the age of Paul is 7, the weight of Grace is 15 kg, the height of Sarah is 180 cm.  We now add a bear to the table:
+Harry, 12, 190, 12
+And here is a similar table, but listing tigers:
+name, age, height (cm), weight (kg)
+John, 5, 100, 620
+Gina, 10, 110, 590
+Mandy, 2, 90, 410
+Diana, 9, 120, 650
+What is the name of the last tiger sorted by alphabetic order?
+Options:
+(A) John
+(B) Gina
+(C) Mandy
+(D) Diana
+(E) Harry
+A: (D)

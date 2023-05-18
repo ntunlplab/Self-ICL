@@ -1,0 +1,2 @@
+Q: Question: Tom says he always tells the truth. Jane says Tom lies. Alex says Jane tells the truth. Ryan says Alex lies. Emma says Ryan tells the truth. Does Emma tell the truth?
+A: No,

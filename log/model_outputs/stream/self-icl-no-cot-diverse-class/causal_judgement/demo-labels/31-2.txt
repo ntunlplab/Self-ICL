@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Bob is a carpenter who recently decided to try a new type of wood sealant called A X200R. He applied the sealant to a few of his projects and noticed that the wood seemed to be protected from the elements. However, after a few weeks, he noticed that the wood was starting to rot and warp. He was concerned that the sealant might have caused the wood to rot. Did the sealant cause the wood to rot?
+Options:
+- Yes
+- No
+A: No

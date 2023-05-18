@@ -1,0 +1,5 @@
+Q: On the bedside table, there is a pink alarm clock, a blue book, a silver pen, and a black phone charger. Is the book blue?
+Options:
+(A) yes
+(B) no
+A: (A)

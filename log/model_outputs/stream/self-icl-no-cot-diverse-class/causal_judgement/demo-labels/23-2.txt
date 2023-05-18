@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A company was struggling financially and decided to lay off some of its employees. After the layoffs, the company's profits increased. Did the layoffs cause the company's profits to increase?
+Options:
+- Yes
+- No
+A: No

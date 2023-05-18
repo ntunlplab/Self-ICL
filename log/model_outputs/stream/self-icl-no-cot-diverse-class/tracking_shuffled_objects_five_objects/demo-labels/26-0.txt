@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each person has a different item: Alice has a blue marble, Bob has a red marble, Claire has a green marble, Dave has a yellow marble, and Eve has a black marble.
+As the game progresses, pairs of people swap items. First, Alice and Dave swap their items. Then, Dave and Eve swap their items. Then, Dave and Alice swap their items. Then, Bob and Claire swap their items. Finally, Bob and Eve swap their items. At the end of the game, Bob has the
+Options:
+(A) blue marble
+(B) red marble
+(C) green marble
+(D) yellow marble
+(E) black marble
+A: (B)

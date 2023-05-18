@@ -1,0 +1,40 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date today in MM/DD/YYYY?
+Options:
+(A) 02/06/2010
+(B) 12/21/2009
+(C) 02/16/1933
+(D) 02/16/2010
+(E) 11/30/2009
+(F) 05/24/2010
+
+New instance 1:
+Q: John has been going to the movies every Tuesday since the beginning of August. Today is his 8th visit. What is the date today in MM/DD/YYYY?
+Options:
+(A) 10/20/2020
+(B) 09/08/2020
+(C) 08/25/2020
+(D) 09/22/2020
+(E) 10/06/2020
+(F) 11/03/2020
+
+New instance 2:
+Q: Sarah has been going to the gym every Friday since the beginning of June. Today is her 10th visit. What is the date today in MM/DD/YYYY?
+Options:
+(A) 07/17/2020
+(B) 08/14/2020
+(C) 06/19/2020
+(D) 07/03/2020
+(E) 08/28/2020
+(F) 09/11/2020
+
+New instance 3:
+Q: Mark has been going to the library every Wednesday since the beginning of April. Today is his 12th visit. What is the date today in MM/DD/YYYY?
+Options:
+(A) 05/27/2020
+(B) 06/24/2020
+(C) 04/15/2020
+(D) 05/13/2020
+(E) 07/08/2020
+(F) 06/10/2020

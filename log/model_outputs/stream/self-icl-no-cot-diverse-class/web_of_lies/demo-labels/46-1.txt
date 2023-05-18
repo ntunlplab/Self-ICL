@@ -1,0 +1,2 @@
+Q: Question: Alex says he always tells the truth. Ashley says Alex lies. Brian says Ashley tells the truth. Chris says Brian lies. Daniel says Chris tells the truth. Does Daniel tell the truth?
+A: No,

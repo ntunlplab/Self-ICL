@@ -1,0 +1,10 @@
+Q: In a spelling bee, there were seven contestants: Sarah, Sam, Steve, Susan, Seth, Scott, and Sylvia. Sarah finished above Seth. Susan finished above Steve. Sylvia finished last. Steve finished third-to-last. Seth finished below Scott. Sam finished third.
+Options:
+(A) Sarah finished last
+(B) Sam finished last
+(C) Steve finished last
+(D) Susan finished last
+(E) Seth finished last
+(F) Scott finished last
+(G) Sylvia finished last
+A: (G)

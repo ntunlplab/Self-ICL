@@ -1,0 +1,13 @@
+Q: This SVG path element <path d="M 10.00,20.00 L 30.00,20.00 L 40.00,30.00 L 30.00,40.00 L 10.00,40.00 L 10.00,20.00"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+A: (D)

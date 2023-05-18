@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Sam and Sarah are both employees at a large company. Sam is the manager of the company's sales department, and Sarah is the manager of the company's customer service department. The company recently implemented a new policy that requires all employees to use a secure password when accessing the company's internal network. Sam and Sarah both use the same password to access the network. One day, Sarah logs into the network and discovers that some of the company's confidential employee records have been changed. Did Sam cause the company's confidential employee records to be changed?
+Options:
+- Yes
+- No
+A: No

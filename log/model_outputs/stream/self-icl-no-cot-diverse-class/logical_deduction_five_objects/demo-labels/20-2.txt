@@ -1,0 +1,8 @@
+Q: A bakery sells five types of cakes: chocolate, vanilla, carrot, lemon, and red velvet. The chocolate is the most expensive. The vanilla is less expensive than the carrot. The lemon is the second-cheapest. The red velvet is less expensive than the vanilla.
+Options:
+(A) The chocolate is the second-cheapest
+(B) The vanilla is the second-cheapest
+(C) The carrot is the second-cheapest
+(D) The lemon is the second-cheapest
+(E) The red velvet is the second-cheapest
+A: (D)

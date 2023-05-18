@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Here comes a perfectly valid argument: To begin with, Carmen is a daughter of Hattie. Moreover, being a niece of Shona is sufficient for not being a daughter of Hattie. From this follows: Carmen is not a niece of Shona."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Here comes a perfectly valid argument: To begin with, all cats are animals. Moreover, all animals have four legs. From this follows: All cats have four legs."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Here comes a perfectly valid argument: To begin with, all dogs are mammals. Moreover, all mammals have fur. From this follows: All dogs have fur."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Here comes a perfectly valid argument: To begin with, all birds can fly. Moreover, all animals that can fly have wings. From this follows: All birds have wings."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

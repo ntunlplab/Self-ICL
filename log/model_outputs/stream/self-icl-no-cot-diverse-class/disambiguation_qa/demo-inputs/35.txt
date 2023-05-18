@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: My parent called his secretary for more information
+Options:
+(A) They were my parent's secretary
+(B) They were the secretary's secretary
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: She gave her friend a gift
+Options:
+(A) She gave her own friend a gift
+(B) She gave her friend's friend a gift
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: He told his teacher the answer
+Options:
+(A) He told his own teacher the answer
+(B) He told his teacher's teacher the answer
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: They gave their dog a treat
+Options:
+(A) They gave their own dog a treat
+(B) They gave their dog's dog a treat
+(C) Ambiguous

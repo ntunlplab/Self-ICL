@@ -1,0 +1,11 @@
+Q: Seven students are playing a game of musical chairs. At the start of the game, each student is sitting in a chair of a different color: Student A is sitting in a pink chair, Student B is sitting in a red chair, Student C is sitting in a blue chair, Student D is sitting in a brown chair, Student E is sitting in a yellow chair, Student F is sitting in a white chair, and Student G is sitting in a black chair.
+As the game progresses, pairs of students swap chairs. First, Student A and Student C swap chairs. Then, Student D and Student B swap chairs. Then, Student A and Student G swap chairs. Then, Student C and Student G swap chairs. Then, Student A and Student E swap chairs. Then, Student F and Student D swap chairs. Finally, Student C and Student A swap chairs. At the end of the game, Student A is sitting in a 
+Options:
+(A) pink chair
+(B) red chair
+(C) blue chair
+(D) brown chair
+(E) yellow chair
+(F) white chair
+(G) black chair
+A: (C)

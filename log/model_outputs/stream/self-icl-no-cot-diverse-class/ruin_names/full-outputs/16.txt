@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'The Beatles'?
+Options:
+(A) The Beagles
+(B) The Beeltees
+(C) The Beetles
+(D) The Beelites
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'Titanic'?
+Options:
+(A) Tintanic
+(B) Tittanic
+(C) Tintanic
+(D) Titantic
+A: (B)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'The Lion King'?
+Options:
+(A) The Lion Queen
+(B) The Lyin' King
+(C) The Lion Ring
+(D) The Lyin' Kingg
+A: (B)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the beastie boys'?
+Options:
+(A) the yeastie boys
+(B) the beastie foys
+(C) the bpeastie boys
+(D) the beastiwe boys
+A: (A)

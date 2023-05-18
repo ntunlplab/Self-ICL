@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: First, no one who is a member of the Democratic Party is a member of the Republican Party. Second, everyone who is a resident of California is a member of the Democratic Party. Therefore, everyone who is not a resident of California is not a member of the Republican Party."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

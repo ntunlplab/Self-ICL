@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to the dentist tomorrow
+(B) I'm so excited to go to the dentist today
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I have to stay late at work tonight
+(B) I'm so glad I have to stay late at work tomorrow
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to do my taxes this year
+(B) I'm so excited to do my taxes next year
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) You're right, it's the first week of winter! It will definitely get warmer in a couple weeks for our first playoff game
+(B) You're right, it's the last week of winter! It will definitely get warmer in a couple weeks for our first playoff game
+A: (A)

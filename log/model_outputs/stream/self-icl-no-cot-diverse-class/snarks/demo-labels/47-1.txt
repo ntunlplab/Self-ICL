@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should be grateful for the low taxes
+(B) We should be grateful for the high taxes
+A: (A)

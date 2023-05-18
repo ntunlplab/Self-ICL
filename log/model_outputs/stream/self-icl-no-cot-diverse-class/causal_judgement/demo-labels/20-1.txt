@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe are both playing a game of chess. Alice makes a move that puts her in a position to win the game. Zoe then makes a move that puts her in a position to win the game. Did Zoe cause Alice to lose the game?
+Options:
+- Yes
+- No
+A: No

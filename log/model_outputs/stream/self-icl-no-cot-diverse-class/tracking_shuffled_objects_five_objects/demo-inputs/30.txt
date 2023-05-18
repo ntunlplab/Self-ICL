@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Patrick, Claire is dancing with Karl, Dave is dancing with Helga, and Eve is dancing with Izzi.
+Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Alice and Dave switch partners. Then, Alice and Bob switch partners. Then, Bob and Eve switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Eve is dancing with
+Options:
+(A) Jamie
+(B) Patrick
+(C) Karl
+(D) Helga
+(E) Izzi
+
+New instance 1:
+Q: Five students are playing a game of musical chairs. At the start of the game, they are each sitting in a chair: Alex is sitting in chair 1, Ben is sitting in chair 2, Charlie is sitting in chair 3, David is sitting in chair 4, and Emily is sitting in chair 5.
+Throughout the game, the students often switch chairs. First, Alex and Ben switch chairs. Then, Ben and Charlie switch chairs. Then, Charlie and David switch chairs. Then, David and Emily switch chairs. Finally, Alex and Emily switch chairs. At the end of the game, Charlie is sitting in
+Options:
+(A) Chair 1
+(B) Chair 2
+(C) Chair 3
+(D) Chair 4
+(E) Chair 5
+
+New instance 2:
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a hand sign: Alex is showing rock, Ben is showing paper, Charlie is showing scissors, David is showing rock, and Emily is showing paper.
+Throughout the game, the friends often switch hand signs. First, Alex and Ben switch hand signs. Then, Ben and Charlie switch hand signs. Then, Charlie and David switch hand signs. Then, David and Emily switch hand signs. Finally, Alex and Emily switch hand signs. At the end of the game, Charlie is showing
+Options:
+(A) Rock
+(B) Paper
+(C) Scissors
+(D) Rock
+(E) Paper
+
+New instance 3:
+Q: Five friends are playing a game of tag. At the start of the game, they each have a starting position: Alex is at position 1, Ben is at position 2, Charlie is at position 3, David is at position 4, and Emily is at position 5.
+Throughout the game, the friends often switch positions. First, Alex and Ben switch positions. Then, Ben and Charlie switch positions. Then, Charlie and David switch positions. Then, David and Emily switch positions. Finally, Alex and Emily switch positions. At the end of the game, Charlie is at
+Options:
+(A) Position 1
+(B) Position 2
+(C) Position 3
+(D) Position 4
+(E) Position 5

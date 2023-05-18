@@ -1,0 +1,6 @@
+Q: "Is Alex a neighbor of David? Is Joe related to Bob? In large neighborhoods, it is sometimes difficult to keep track of all one's neighbors. The following argument seeks to clarify some such relations: First premise: Being a classmate of Sarah is necessary for being a neighbor of David. Second premise: Some neighbor of Alex is a friend of Bob and a classmate of Sarah. Third premise: Being a neighbor of David is sufficient for being a friend of Bob. Hence, somebody is a neighbor of Alex and a neighbor of David."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

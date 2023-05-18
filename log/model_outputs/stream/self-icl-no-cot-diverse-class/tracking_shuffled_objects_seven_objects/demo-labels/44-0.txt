@@ -1,0 +1,11 @@
+Q: Seven students are playing a game. At the start of the game, they are each holding a card: Alex has a red card, Ben has a yellow card, Charlie has a blue card, David has a green card, Emma has a purple card, Frank has a black card, and George has a white card.
+As the game progresses, pairs of students trade cards. First, George and Alex swap cards. Then, Charlie and Emma swap cards. Then, Ben and Charlie swap cards. Then, Charlie and Emma swap cards. Then, Emma and Frank swap cards. Then, Ben and Frank swap cards. Finally, David and Emma swap cards. At the end of the game, Alex has the
+Options:
+(A) red card
+(B) yellow card
+(C) blue card
+(D) green card
+(E) purple card
+(F) black card
+(G) white card
+A: (A)

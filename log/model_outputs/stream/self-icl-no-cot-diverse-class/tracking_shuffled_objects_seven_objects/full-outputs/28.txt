@@ -1,0 +1,46 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: At a game of musical chairs, 8 players are seated in a circle. At the start of the game, each player is sitting in a chair: Player 1 is in Chair A, Player 2 is in Chair B, Player 3 is in Chair C, Player 4 is in Chair D, Player 5 is in Chair E, Player 6 is in Chair F, Player 7 is in Chair G, and Player 8 is in Chair H.
+Throughout the game, the players often switch chairs. First, Player 1 and Player 2 switch chairs. Then, Player 3 and Player 4 switch chairs. Then, Player 5 and Player 6 switch chairs. Then, Player 7 and Player 8 switch chairs. Then, Player 1 and Player 3 switch chairs. Then, Player 2 and Player 4 switch chairs. Finally, Player 5 and Player 7 switch chairs. At the end of the game, Player 8 is sitting in
+Options:
+(A) Chair A
+(B) Chair B
+(C) Chair C
+(D) Chair D
+(E) Chair E
+(F) Chair F
+(G) Chair G
+(H) Chair H
+A: (H)
+
+Q: At a game of rock-paper-scissors, 8 players are competing. At the start of the game, each player has a score: Player 1 has a score of 1, Player 2 has a score of 2, Player 3 has a score of 3, Player 4 has a score of 4, Player 5 has a score of 5, Player 6 has a score of 6, Player 7 has a score of 7, and Player 8 has a score of 8.
+Throughout the game, the players often switch scores. First, Player 1 and Player 2 switch scores. Then, Player 3 and Player 4 switch scores. Then, Player 5 and Player 6 switch scores. Then, Player 7 and Player 8 switch scores. Then, Player 1 and Player 3 switch scores. Then, Player 2 and Player 4 switch scores. Finally, Player 5 and Player 7 switch scores. At the end of the game, Player 8 has a score of
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+A: (H)
+
+Q: At a game of tag, 8 players are running around. At the start of the game, each player has a tag status: Player 1 is "it", Player 2 is "not it", Player 3 is "not it", Player 4 is "not it", Player 5 is "not it", Player 6 is "not it", Player 7 is "not it", and Player 8 is "not it".
+Throughout the game, the players often switch tag statuses. First, Player 1 and Player 2 switch statuses. Then, Player 3 and Player 4 switch statuses. Then, Player 5 and Player 6 switch statuses. Then, Player 7 and Player 8 switch statuses. Then, Player 1 and Player 3 switch statuses. Then, Player 2 and Player 4 switch statuses. Finally, Player 5 and Player 7 switch statuses. At the end of the game, Player 8 is
+Options:
+(A) "it"
+(B) "not it"
+A: (A)
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Helga, Claire is dancing with Sam, Dave is dancing with Melissa, Eve is dancing with Jamie, Fred is dancing with Rodrigo, and Gertrude is dancing with Patrick.
+Throughout the song, the dancers often trade partners. First, Dave and Claire switch partners. Then, Gertrude and Claire switch partners. Then, Claire and Eve switch partners. Then, Gertrude and Eve switch partners. Then, Fred and Claire switch partners. Then, Bob and Alice switch partners. Finally, Eve and Claire switch partners. At the end of the dance, Gertrude is dancing with
+Options:
+(A) Lola
+(B) Helga
+(C) Sam
+(D) Melissa
+(E) Jamie
+(F) Rodrigo
+(G) Patrick
+A: (G)

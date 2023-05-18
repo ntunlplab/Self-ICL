@@ -1,0 +1,8 @@
+Q: In a swimming competition, there were five swimmers: Jake, Mia, Ryan, Olivia, and Tyler. Jake finished below Tyler. Mia finished first. Tyler finished below Olivia. Ryan finished above Olivia.
+Options:
+(A) Jake finished second-to-last
+(B) Ryan finished second-to-last
+(C) Mia finished second-to-last
+(D) Olivia finished second-to-last
+(E) Tyler finished second-to-last
+A: (E)

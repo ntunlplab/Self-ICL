@@ -1,0 +1,20 @@
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg)
+Sammy, 7, 20, 11
+Bella, 5, 30, 13
+Toby, 9, 25, 11
+Sally, 8, 35, 15
+For example: the age of Sammy is 7, the weight of Sally is 15 kg, the length of Bella is 30 cm. 
+And here is a similar table, but listing sharks:
+name, age, length (cm), weight (kg)
+Otto, 5, 150, 620
+Gina, 10, 140, 590
+Max, 2, 130, 410
+Diane, 9, 145, 650
+How many fish are there in the tables?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (D)

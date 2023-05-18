@@ -1,0 +1,7 @@
+Q: Who is responsible for the contamination of a river that was polluted by a factory?
+A factory was dumping toxic waste into a nearby river, causing it to become contaminated. Who is responsible for the contamination of the river?
+Options:
+- The factory
+- The government for not regulating the factory
+- The people who live near the river for not taking action sooner
+A: The factory

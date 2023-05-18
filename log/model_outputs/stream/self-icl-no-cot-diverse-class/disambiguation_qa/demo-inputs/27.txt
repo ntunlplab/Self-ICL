@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The secretary corrected the developer because they better understood the problem.
+Options:
+(A) The secretary understood the problem
+(B) The developer understood the problem
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student if they had finished their homework.
+Options:
+(A) The teacher had finished their homework
+(B) The student had finished their homework
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employee if they had completed the task.
+Options:
+(A) The manager had completed the task
+(B) The employee had completed the task
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor asked the patient if they had taken their medication.
+Options:
+(A) The doctor had taken their medication
+(B) The patient had taken their medication
+(C) Ambiguous

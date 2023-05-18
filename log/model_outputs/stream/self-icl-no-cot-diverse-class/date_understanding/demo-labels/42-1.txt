@@ -1,0 +1,8 @@
+Q: It's been exactly one month since the start of the new year. What is the date today in MM/DD/YYYY?
+Options:
+(A) 01/31/2021
+(B) 02/28/2021
+(C) 03/31/2021
+(D) 04/30/2021
+(E) 05/31/2021
+A: (B)

@@ -1,0 +1,10 @@
+Q: On the living room floor, there is a red pillow, a blue blanket, a purple toy car, an orange book, and a brown teddy bear. How many items are neither black nor white?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (F)

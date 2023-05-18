@@ -1,0 +1,6 @@
+Q: Three students, Mark, Lisa, and Alex, are taking a test. At the start of the test, each student has a different score: Mark has 70%, Lisa has 80%, and Alex has 90%. As the test progresses, pairs of students swap scores. First, Mark and Lisa swap their scores. Then, Lisa and Alex swap their scores. Finally, Alex and Mark swap their scores. At the end of the test, Mark has the
+Options:
+(A) 70%
+(B) 80%
+(C) 90%
+A: (C)

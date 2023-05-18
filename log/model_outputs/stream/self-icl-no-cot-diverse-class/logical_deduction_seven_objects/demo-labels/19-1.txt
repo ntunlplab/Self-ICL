@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven animals: a lion, a tiger, a bear, a wolf, a fox, a deer, and a rabbit. The rabbit is to the left of the bear. The bear is the third from the right. The fox is the rightmost. The tiger is the second from the left. The lion is to the right of the deer. The lion is the third from the left.
+Options:
+(A) The lion is the third from the left
+(B) The deer is the third from the left
+(C) The bear is the third from the left
+(D) The wolf is the third from the left
+(E) The fox is the third from the left
+(F) The tiger is the third from the left
+(G) The rabbit is the third from the left
+A: (C)

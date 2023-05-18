@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't like the new iPhone?
+(B) You mean you love the new iPhone?
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't want to go to the beach?
+(B) You mean you can't wait to go to the beach?
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) You mean you don't want to try the new restaurant?
+(B) You mean you can't wait to try the new restaurant?
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) You mean Knuth up arrow notation isn't unfamiliar for you?
+(B) You mean Knuth up arrow notation isn't normal for you?
+A: (A)

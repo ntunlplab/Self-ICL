@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) lovely midsize green Filipino sock
+(B) Filipino midsize lovely green sock
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe mango
+(B) ripe juicy delicious mango
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft fluffy white pillow
+(B) white fluffy soft pillow
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny new toy
+(B) new shiny bright toy

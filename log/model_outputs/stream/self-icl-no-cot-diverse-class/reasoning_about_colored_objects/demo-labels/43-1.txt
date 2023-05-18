@@ -1,0 +1,5 @@
+Q: On the desk, there is a black laptop, a blue pen, a silver stapler, and a gold paperclip. Is the laptop red?
+Options:
+(A) yes
+(B) no
+A: (B)

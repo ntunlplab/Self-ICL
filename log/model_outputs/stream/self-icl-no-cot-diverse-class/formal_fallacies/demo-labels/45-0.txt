@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be both a vegetarian and a meat-eater: First premise: Eating meat is incompatible with being a vegetarian. All this entails that it is impossible to be both a vegetarian and a meat-eater."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

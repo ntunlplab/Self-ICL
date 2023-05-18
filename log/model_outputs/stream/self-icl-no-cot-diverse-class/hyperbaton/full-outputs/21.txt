@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white fluffy dog
+(B) white fluffy small furry dog
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow round plastic ball
+(B) round yellow bright plastic ball
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) long thin shiny silver necklace
+(B) shiny silver long thin necklace
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) medium-size prismlike grey cardboard cat
+(B) prismlike cardboard grey medium-size cat
+A: (B)

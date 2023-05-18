@@ -1,0 +1,9 @@
+Q: Five chefs are competing in a cooking competition. At the start of the competition, they are each assigned to a station: Chef A is working at the stove station, Chef B is working at the chopping station, Chef C is working at the baking station, Chef D is working at the grilling station, and Chef E is working at the sautéing station.
+As the competition progresses, pairs of chefs occasionally swap stations. First, Chef A and Chef B trade stations. Then, Chef C and Chef D trade stations. Then, Chef A and Chef C trade stations. Then, Chef B and Chef E trade stations. Finally, Chef C and Chef E trade stations. At the end of the competition, Chef A is working at which station?
+Options:
+(A) Stove
+(B) Chopping
+(C) Baking
+(D) Grilling
+(E) Sautéing
+A: (A)

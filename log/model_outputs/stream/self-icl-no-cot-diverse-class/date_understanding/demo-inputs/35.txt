@@ -1,0 +1,40 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: This is the last day of 1899. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 02/07/1900
+(B) 02/22/1900
+(C) 01/13/1900
+(D) 01/07/1900
+(E) 10/07/1900
+(F) 01/07/1828
+
+New instance 1:
+Q: It is the first day of the year 2020. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 02/01/2020
+(B) 03/01/2020
+(C) 01/31/2020
+(D) 02/29/2020
+(E) 10/01/2020
+(F) 01/01/2021
+
+New instance 2:
+Q: It is the last day of the year 2020. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 01/07/2021
+(B) 01/14/2021
+(C) 12/31/2020
+(D) 01/01/2021
+(E) 12/24/2020
+(F) 12/17/2020
+
+New instance 3:
+Q: It is the first day of the month of April in the year 2021. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 05/01/2021
+(B) 05/31/2021
+(C) 04/30/2021
+(D) 05/30/2021
+(E) 04/01/2022
+(F) 05/15/2021

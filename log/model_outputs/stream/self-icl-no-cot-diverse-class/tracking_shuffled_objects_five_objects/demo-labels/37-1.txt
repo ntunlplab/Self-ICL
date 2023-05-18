@@ -1,0 +1,9 @@
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all passionate cooks. At the start of the year, they each buy one new cookbook: Fiona gets The Joy of Cooking, George gets The Flavor Bible, Harry gets The Art of French Cooking, Isabel gets The Professional Chef, and Jack gets The Vegetarian Cookbook.
+As the year progresses, they start trading around the new cookbooks. First, Harry and Isabel swap books. Then, George and Isabel swap books. Then, Isabel and Jack swap books. Then, George and Isabel swap books. Finally, Fiona and Isabel swap books. At the end of the year, Harry has
+Options:
+(A) The Joy of Cooking
+(B) The Flavor Bible
+(C) The Art of French Cooking
+(D) The Professional Chef
+(E) The Vegetarian Cookbook
+A: (C)

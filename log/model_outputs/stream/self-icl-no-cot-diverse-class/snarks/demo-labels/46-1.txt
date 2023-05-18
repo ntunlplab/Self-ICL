@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so lucky to have to work late tonight
+(B) I'm so fortunate to have to work late tonight
+A: (A)

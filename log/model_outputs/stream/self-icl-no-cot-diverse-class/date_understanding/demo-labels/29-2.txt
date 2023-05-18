@@ -1,0 +1,9 @@
+Q: Mark has been going to the library every Wednesday since the beginning of April. Today is his 12th visit. What is the date today in MM/DD/YYYY?
+Options:
+(A) 05/27/2020
+(B) 06/24/2020
+(C) 04/15/2020
+(D) 05/13/2020
+(E) 07/08/2020
+(F) 06/10/2020
+A: (D)

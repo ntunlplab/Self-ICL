@@ -1,0 +1,8 @@
+Q: In a row of five animals, the first animal is a lion, the second animal is a tiger, the third animal is a bear, the fourth animal is a wolf, and the fifth animal is a fox. The lion is the leftmost. The fox is to the left of the wolf. The tiger is the rightmost. The wolf is the third from the left.
+Options:
+(A) The lion is the third from the left
+(B) The tiger is the third from the left
+(C) The bear is the third from the left
+(D) The wolf is the third from the left
+(E) The fox is the third from the left
+A: (D)

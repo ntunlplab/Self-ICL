@@ -1,0 +1,37 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was excited to win the game, and they celebrated afterwards.
+Options:
+(A) The team celebrated
+(B) The game celebrated
+(C) The spectators celebrated
+(D) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The students were required to bring their own supplies.
+Options:
+(A) The students' supplies
+(B) The school's supplies
+(C) The teacher's supplies
+(D) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The family went on vacation and enjoyed themselves.
+Options:
+(A) The family enjoyed each other
+(B) The family enjoyed the vacation
+(C) The family enjoyed the destination
+(D) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: This story could not be published without the writer and her friends' support.
+Options:
+(A) They were the writer's friends
+(B) They were the friends' friends
+(C) They were the story's friends
+(D) Ambiguous
+A: (A)

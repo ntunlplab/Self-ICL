@@ -1,0 +1,2 @@
+Q: Question: Jack says that his friend tells the truth. His friend says that Jack lies. His teacher says that his friend lies. His father says that his teacher tells the truth. Does Jack tell the truth?
+A: No,

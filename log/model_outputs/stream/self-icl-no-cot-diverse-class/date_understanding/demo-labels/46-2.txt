@@ -1,0 +1,9 @@
+Q: Mark was born on the first day of December in 2000. Today is his 17-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 12/02/2017
+(B) 12/01/2017
+(C) 11/30/2017
+(D) 12/31/2017
+(E) 11/29/2017
+(F) 12/03/2017
+A: (F)

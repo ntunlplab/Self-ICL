@@ -1,0 +1,20 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg)
+Eddie, 7, 120, 11
+Lola, 5, 140, 13
+Ralph, 9, 130, 11
+Gina, 8, 150, 15
+For example: the age of Eddie is 7, the weight of Gina is 15 kg, the wingspan of Lola is 140 cm. 
+And here is a similar table, but listing owls:
+name, age, wingspan (cm), weight (kg)
+Oscar, 5, 90, 620
+Gertrude, 10, 100, 590
+Miles, 2, 80, 410
+Diana, 9, 110, 650
+How many birds are there in the tables?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (D)

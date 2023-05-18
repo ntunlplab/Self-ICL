@@ -1,0 +1,10 @@
+Q: On the bookshelf, there is a white book, a purple bookmark, a pink bookmark, a blue bookmark, and an orange bookmark. How many objects are neither pink nor purple?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (C)

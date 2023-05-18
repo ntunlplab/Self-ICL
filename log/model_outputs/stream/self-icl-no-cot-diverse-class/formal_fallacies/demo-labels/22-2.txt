@@ -1,0 +1,6 @@
+Q: "Is Alice a niece of Bob? Is Dave related to Dan? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First of all, some cousin of Alice is a classmate of Dan. Next, everyone who is both a cousin of Bob and a cousin of Dave is not a classmate of Dan. All this entails that some cousin of Alice is not a cousin of Bob or not a cousin of Dave."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

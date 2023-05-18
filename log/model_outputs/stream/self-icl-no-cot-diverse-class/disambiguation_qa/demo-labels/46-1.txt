@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor prescribed the patient medication, but they didn't take it.
+Options:
+(A) The doctor didn't take it
+(B) The patient didn't take it
+(C) Ambiguous
+A: (B)

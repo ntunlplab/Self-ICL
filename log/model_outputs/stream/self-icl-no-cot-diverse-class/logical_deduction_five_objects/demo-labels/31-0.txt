@@ -1,0 +1,8 @@
+Q: In a row of five books, the first book is a novel, the second book is a biography, the third book is a cookbook, the fourth book is a dictionary, and the fifth book is a comic book. The novel is the leftmost. The comic book is to the left of the dictionary. The biography is the rightmost. The dictionary is the third from the left.
+Options:
+(A) The novel is the third from the left
+(B) The biography is the third from the left
+(C) The cookbook is the third from the left
+(D) The dictionary is the third from the left
+(E) The comic book is the third from the left
+A: (D)

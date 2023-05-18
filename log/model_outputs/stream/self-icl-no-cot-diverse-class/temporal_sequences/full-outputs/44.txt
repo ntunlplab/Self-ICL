@@ -1,0 +1,61 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, Sarah went to the library. Between what times could they have gone?
+We know that:
+Sarah woke up at 6am.
+John saw Sarah eating breakfast at the cafe from 6am to 8am.
+Karen saw Sarah shopping at the mall from 8am to 10am.
+Linda saw Sarah playing tennis at the park from 11am to 2pm.
+The library was closed after 8pm.
+Between what times could Sarah have gone to the library?
+Options:
+(A) 8am to 10am
+(B) 10am to 11am
+(C) 11am to 2pm
+(D) 6am to 8am
+A: (B)
+
+Q: Today, David went to the art gallery. Between what times could they have gone?
+We know that:
+David woke up at 7am.
+Alice saw David jogging in the park from 7am to 9am.
+Bob saw David eating lunch at the diner from 9am to 11am.
+Carol saw David playing chess at the cafe from 12pm to 4pm.
+The art gallery was closed after 6pm.
+Between what times could David have gone to the art gallery?
+Options:
+(A) 9am to 11am
+(B) 11am to 12pm
+(C) 12pm to 4pm
+(D) 7am to 9am
+A: (C)
+
+Q: Today, Lisa went to the museum. Between what times could they have gone?
+We know that:
+Lisa woke up at 8am.
+Steve saw Lisa swimming at the pool from 8am to 10am.
+Jill saw Lisa playing basketball at the court from 10am to 12pm.
+Mark saw Lisa walking her dog in the park from 1pm to 5pm.
+The museum was closed after 7pm.
+Between what times could Lisa have gone to the museum?
+Options:
+(A) 10am to 12pm
+(B) 12pm to 1pm
+(C) 1pm to 5pm
+(D) 8am to 10am
+A: (B)
+
+Q: Today, Michael went to the physics classroom. Between what times could they have gone?
+We know that:
+Michael woke up at 5am.
+Samantha saw Michael buying lunch at the deli from 5am to 8am.
+Jennifer saw Michael stretching at a yoga studio from 8am to 9am.
+Andrew saw Michael taking photos near the Leaning Tower of Pisa from 1pm to 10pm.
+The physics classroom was closed after 10pm.
+Between what times could Michael have gone to the physics classroom?
+Options:
+(A) 9am to 1pm
+(B) 1pm to 10pm
+(C) 5am to 8am
+(D) 8am to 9am
+A: (D)

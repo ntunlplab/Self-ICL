@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: Today is May 5, 2021. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 04/05/2021
+(B) 03/05/2021
+(C) 04/15/2021
+(D) 05/15/2021
+(E) 03/15/2021
+(F) 04/25/2021
+A: (B)
+
+Q: Today is June 1, 2021. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 06/01/2020
+(B) 05/01/2020
+(C) 07/01/2020
+(D) 06/15/2020
+(E) 05/15/2020
+(F) 07/15/2020
+A: (A)
+
+Q: Today is July 15, 2021. What is the date two weeks ago from today in MM/DD/YYYY?
+Options:
+(A) 07/01/2021
+(B) 06/30/2021
+(C) 06/15/2021
+(D) 07/15/2020
+(E) 06/30/2020
+(F) 07/01/2020
+A: (C)
+
+Q: Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 05/15/2021
+(B) 04/23/2021
+(C) 04/15/2021
+(D) 06/05/2021
+(E) 04/19/2021
+(F) 04/24/2021
+A: (E)

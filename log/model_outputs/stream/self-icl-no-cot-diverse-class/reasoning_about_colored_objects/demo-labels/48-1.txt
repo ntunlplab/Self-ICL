@@ -1,0 +1,20 @@
+Q: On the bookshelf, I see two white books, one white vase, one black book, one black vase, one orange book, one orange vase, one pink book, one pink vase, and one purple book. If I remove all the white items from the bookshelf, how many books remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (D)

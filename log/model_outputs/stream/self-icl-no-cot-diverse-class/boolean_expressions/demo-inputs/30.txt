@@ -1,0 +1,12 @@
+Following is an example instance for the task: Evaluate the result of a random Boolean expression. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: False and ( not False ) or False is
+
+New instance 1:
+Q: True and ( not True ) or False is
+
+New instance 2:
+Q: False and ( not True ) or True is
+
+New instance 3:
+Q: True and ( not False ) or True is

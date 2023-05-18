@@ -1,0 +1,7 @@
+Q: Which of the following is a humorous edit of this artist or movie name: 'star wars'?
+Options:
+(A) star wars 2
+(B) star wars 3
+(C) star wars 4
+(D) star wars 5
+A: (D)

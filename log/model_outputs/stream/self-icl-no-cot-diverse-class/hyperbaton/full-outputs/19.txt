@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red apple
+(B) red ripe juicy delicious apple
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft furry cuddly white teddy bear
+(B) white cuddly furry soft teddy bear
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny sparkling blue necklace
+(B) blue shiny sparkling bright necklace
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) repulsive big rectangular pink steel exercise shoe
+(B) pink big exercise repulsive steel rectangular shoe
+A: (B)

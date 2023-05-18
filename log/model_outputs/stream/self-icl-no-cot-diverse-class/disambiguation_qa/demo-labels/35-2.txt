@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: They gave their dog a treat
+Options:
+(A) They gave their own dog a treat
+(B) They gave their dog's dog a treat
+(C) Ambiguous
+A: (A)

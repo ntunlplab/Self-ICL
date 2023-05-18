@@ -1,0 +1,16 @@
+Q: Today, Nancy went to the planetarium. Between what times could they have gone?
+We know that:
+Nancy woke up at 5am.
+John saw Nancy jogging at the track from 5am to 7am.
+Karen saw Nancy shopping at the mall from 7am to 9am.
+David saw Nancy eating breakfast at the cafe from 9am to 10am.
+William saw Nancy playing basketball at the park from 12pm to 1pm.
+Sarah saw Nancy studying at the library from 1pm to 3pm.
+The planetarium was closed after 3pm.
+Between what times could Nancy have gone to the planetarium?
+Options:
+(A) 9am to 10am
+(B) 1pm to 3pm
+(C) 5am to 7am
+(D) 12pm to 1pm
+A: (B)

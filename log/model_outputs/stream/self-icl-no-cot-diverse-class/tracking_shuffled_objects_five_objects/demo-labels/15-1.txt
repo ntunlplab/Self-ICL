@@ -1,0 +1,9 @@
+Q: Five students, Fiona, George, Harry, Isabel, and Jack, are playing a game. At the start of the game, they are each holding a coin: Fiona has a silver coin, George has a gold coin, Harry has a copper coin, Isabel has a bronze coin, and Jack has a nickel coin.
+As the game progresses, pairs of players trade coins. First, Harry and Fiona swap coins. Then, Isabel and George swap coins. Then, Jack and George swap coins. Then, George and Fiona swap coins. Finally, Jack and Harry swap coins. At the end of the game, Fiona has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) copper coin
+(D) bronze coin
+(E) nickel coin
+A: (B)

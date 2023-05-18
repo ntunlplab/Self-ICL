@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Dark Knight, The Hangover, The Wolf of Wall Street:
+Options:
+(A) The Departed
+(B) Ocean's Eleven
+(C) Goodfellas
+(D) The Big Short
+A: (A)
+
+Q: Find a movie similar to The Matrix, Inception, The Prestige, Interstellar:
+Options:
+(A) Blade Runner
+(B) Ex Machina
+(C) Primer
+(D) Source Code
+A: (A)
+
+Q: Find a movie similar to The Lord of the Rings, Harry Potter, Star Wars, The Hobbit:
+Options:
+(A) The Chronicles of Narnia
+(B) The Hunger Games
+(C) The Maze Runner
+(D) Percy Jackson and the Olympians
+A: (A)
+
+Q: Find a movie similar to Pulp Fiction, The Shawshank Redemption, Aladdin, The Lion King:
+Options:
+(A) Terminator 2 Judgment Day
+(B) The Next Three Days
+(C) Detachment
+(D) Ruby Sparks
+A: (A)

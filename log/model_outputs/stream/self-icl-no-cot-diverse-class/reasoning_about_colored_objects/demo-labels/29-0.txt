@@ -1,0 +1,20 @@
+Q: On the table, you see two green apples, two green oranges, three red apples, and one red orange. If I remove all the oranges from the table, how many purple objects remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (A)

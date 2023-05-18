@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) It's so easy to stay healthy
+(B) It's impossible to stay healthy
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited for the weekend
+(B) I'm not excited for the weekend
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy to be here
+(B) I'm not happy to be here
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Only rich people can afford healthy food
+(B) Not only rich people can afford healthy food
+A: (A)

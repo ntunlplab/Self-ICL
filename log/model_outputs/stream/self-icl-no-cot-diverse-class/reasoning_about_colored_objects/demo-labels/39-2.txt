@@ -1,0 +1,10 @@
+Q: On the bookshelf, you see a brown book, a white vase, a black clock, a green candle, and a purple picture frame. How many items are neither yellow nor red?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (D)

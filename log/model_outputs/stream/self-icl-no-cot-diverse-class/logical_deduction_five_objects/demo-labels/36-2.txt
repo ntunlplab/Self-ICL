@@ -1,0 +1,8 @@
+Q: A furniture store sells five types of furniture: chairs, tables, couches, dressers, and beds. The dressers are more expensive than the tables. The beds are more expensive than the couches. The chairs are the most expensive. The couches are more expensive than the dressers.
+Options:
+(A) The chairs are the cheapest
+(B) The tables are the cheapest
+(C) The couches are the cheapest
+(D) The dressers are the cheapest
+(E) The beds are the cheapest
+A: (B)

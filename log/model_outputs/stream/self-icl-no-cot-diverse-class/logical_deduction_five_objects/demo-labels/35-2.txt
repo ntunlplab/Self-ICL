@@ -1,0 +1,8 @@
+Q: On a shelf, there are five tools: a hammer, a saw, a screwdriver, a wrench, and a drill. The hammer is to the left of the screwdriver. The saw is to the left of the wrench. The hammer is to the right of the wrench. The drill is the leftmost.
+Options:
+(A) The hammer is the second from the left
+(B) The saw is the second from the left
+(C) The screwdriver is the second from the left
+(D) The wrench is the second from the left
+(E) The drill is the second from the left
+A: (C)

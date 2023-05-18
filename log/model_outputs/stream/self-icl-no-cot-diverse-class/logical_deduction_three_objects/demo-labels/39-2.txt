@@ -1,0 +1,6 @@
+Q: On a shelf, there are three dolls: a pink doll, a purple doll, and a red doll. The purple doll is the leftmost. The red doll is to the right of the pink doll.
+Options:
+(A) The pink doll is the leftmost
+(B) The purple doll is the leftmost
+(C) The red doll is the leftmost
+A: (B)

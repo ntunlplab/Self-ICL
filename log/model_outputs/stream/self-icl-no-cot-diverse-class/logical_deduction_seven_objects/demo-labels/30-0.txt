@@ -1,0 +1,10 @@
+Q: In a pet store, there are seven animals: a parrot, a hamster, a rabbit, a turtle, a guinea pig, a cat, and a dog. The guinea pig is older than the rabbit. The turtle is older than the cat. The parrot is older than the guinea pig. The dog is the second-newest. The hamster is the oldest. The rabbit is older than the parrot.
+Options:
+(A) The parrot is the newest
+(B) The hamster is the newest
+(C) The rabbit is the newest
+(D) The turtle is the newest
+(E) The guinea pig is the newest
+(F) The cat is the newest
+(G) The dog is the newest
+A: (G)

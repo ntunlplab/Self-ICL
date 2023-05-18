@@ -1,0 +1,20 @@
+Q: On the kitchen table, I see one yellow plate, two blue forks, two red spoons, two yellow spoons, two blue plates, two red forks, and three yellow forks. If I remove all the blue items from the table, how many plates remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)

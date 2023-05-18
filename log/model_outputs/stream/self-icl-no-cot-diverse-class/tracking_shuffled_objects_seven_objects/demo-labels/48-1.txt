@@ -1,0 +1,11 @@
+Q: Seven astronauts are on a mission to explore a distant planet. At the start of the mission, they are each assigned to a position: Alice is the pilot, Bob is the navigator, Claire is the engineer, Dave is the medic, Eve is the communications officer, Fred is the science officer, and Gertrude is the mission specialist.
+As the mission progresses, pairs of astronauts occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the mission, Dave is the
+Options:
+(A) pilot
+(B) navigator
+(C) engineer
+(D) medic
+(E) communications officer
+(F) science officer
+(G) mission specialist
+A: (D)

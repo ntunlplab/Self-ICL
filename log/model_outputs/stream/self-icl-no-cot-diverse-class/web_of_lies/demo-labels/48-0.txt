@@ -1,0 +1,2 @@
+Q: Question: John says the sky is green. Sarah says the sky is blue. Mark says Sarah is wrong. Lisa says Mark is wrong. Paul says Lisa is right. Is Paul correct?
+A: Yes,

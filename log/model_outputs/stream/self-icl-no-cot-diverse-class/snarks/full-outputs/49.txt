@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's so smart, he could do anything
+(B) He's so smart, he couldn't do anything
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) She's so organized, she never forgets anything
+(B) She's so organized, she always forgets something
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) He's so reliable, he never misses a deadline
+(B) He's so reliable, he always misses a deadline
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Just healthy meals wouldn't cut it for his active lifestyle
+(B) Just healthy meals cut it for his active lifestyle
+A: (A)

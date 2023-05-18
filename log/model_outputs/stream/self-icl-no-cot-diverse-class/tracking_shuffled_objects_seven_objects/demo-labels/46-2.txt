@@ -1,0 +1,11 @@
+Q: Seven siblings are playing a game. At the start of the game, they are each holding a snack: Anna has a cookie, Ben has a pretzel, Charlie has a cracker, David has a popcorn, Emma has a candy, Frank has a chips, and George has a ice cream.
+As the game progresses, pairs of siblings trade snacks. First, Emma and David swap snacks. Then, Charlie and Emma swap snacks. Then, David and Charlie swap snacks. Then, Ben and Frank swap snacks. Then, Frank and David swap snacks. Then, Emma and Anna swap snacks. Finally, David and George swap snacks. At the end of the game, David has the
+Options:
+(A) cookie
+(B) pretzel
+(C) cracker
+(D) popcorn
+(E) candy
+(F) chips
+(G) ice cream
+A: (G)

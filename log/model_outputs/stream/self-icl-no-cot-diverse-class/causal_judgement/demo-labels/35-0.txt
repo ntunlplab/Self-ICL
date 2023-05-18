@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John and Mary are both employees at a large company. John is the manager of the company's IT department, and Mary is the manager of the company's marketing department. The company recently implemented a new policy that requires all employees to use a secure password when accessing the company's internal network. John and Mary both use the same password to access the network. One day, John logs into the network and discovers that some of the company's confidential customer data has been deleted. Did Mary cause the company's confidential customer data to be deleted?
+Options:
+- Yes
+- No
+A: No

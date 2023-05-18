@@ -1,0 +1,25 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the kitchen counter, there is a yellow bowl, a blue plate, and a pink spoon. Is the spoon pink?
+Options:
+(A) yes
+(B) no
+A: (A)
+
+Q: On the desk, there is a white laptop, a black mouse, and an orange stapler. Is the stapler orange?
+Options:
+(A) yes
+(B) no
+A: (A)
+
+Q: On the bed, there is a red pillow, a gray blanket, and a brown teddy bear. Is the teddy bear brown?
+Options:
+(A) yes
+(B) no
+A: (A)
+
+Q: On the floor, there is a purple pencil, a green cat toy, and a mauve booklet. Is the booklet mauve?
+Options:
+(A) yes
+(B) no
+A: (A)

@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tiny whittling grey brand-new Indian triangular dog
+(B) tiny brand-new triangular grey Indian whittling dog
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy crunchy ripe red apple
+(B) ripe crunchy juicy red delicious apple
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) old wooden antique carved round table
+(B) antique old round carved wooden table
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft furry cuddly white teddy bear
+(B) white cuddly soft furry teddy bear

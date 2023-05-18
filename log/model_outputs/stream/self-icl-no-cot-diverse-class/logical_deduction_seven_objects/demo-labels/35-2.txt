@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven pieces of jewelry: a red necklace, a purple bracelet, a green ring, a white earring, an orange anklet, a blue pendant, and a gray brooch. The green ring is to the left of the white earring. The red necklace is to the left of the purple bracelet. The red necklace is to the right of the orange anklet. The gray brooch is the second from the left. The purple bracelet is to the left of the green ring. The blue pendant is the fourth from the left.
+Options:
+(A) The red necklace is the third from the left
+(B) The purple bracelet is the third from the left
+(C) The green ring is the third from the left
+(D) The white earring is the third from the left
+(E) The orange anklet is the third from the left
+(F) The blue pendant is the third from the left
+(G) The gray brooch is the third from the left
+A: (B)

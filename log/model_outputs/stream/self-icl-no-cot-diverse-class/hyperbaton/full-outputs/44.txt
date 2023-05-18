@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red apple
+(B) red ripe juicy delicious apple
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful tall slender white birch tree
+(B) white tall slender beautiful birch tree
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft fluffy warm cozy blanket
+(B) warm fluffy cozy soft blanket
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) walking black medium-size rectangular wonderful car
+(B) wonderful medium-size rectangular black walking car
+A: (B)

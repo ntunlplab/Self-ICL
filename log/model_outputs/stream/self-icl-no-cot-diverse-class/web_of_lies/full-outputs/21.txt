@@ -1,0 +1,13 @@
+Task description: Evaluate a random boolean function expressed as a word problem.
+
+Q: Question: John says the sky is blue. Mary says John says the sky is blue. Paul says Mary says the sky is blue. Sarah says Paul says the sky is blue. Tom says Sarah says the sky is blue. Does Tom say the sky is blue?
+A: Yes,
+
+Q: Question: Mark says the grass is green. Lisa says Mark says the grass is green. David says Lisa says the grass is green. Rachel says David says the grass is green. Jake says Rachel says the grass is green. Does Jake say the grass is green?
+A: Yes,
+
+Q: Question: Emma says the sun is bright. Noah says Emma says the sun is bright. Olivia says Noah says the sun is bright. Tyler says Olivia says the sun is bright. Alex says Tyler says the sun is bright. Does Alex say the sun is bright?
+A: Yes,
+
+Q: Question: Ryan tells the truth. Sal says Ryan tells the truth. Leda says Sal tells the truth. Rashida says Leda tells the truth. Alejandro says Rashida tells the truth. Does Alejandro tell the truth?
+A: Yes.

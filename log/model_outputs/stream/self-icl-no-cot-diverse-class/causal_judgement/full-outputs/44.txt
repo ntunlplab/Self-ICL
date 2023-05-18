@@ -1,0 +1,29 @@
+Task description: Answer questions about causal attribution.
+
+Q: Was the nurse responsible for John's death?
+John was a healthy, active man in his 50s. He had never smoked a cigarette in his life and he ate a balanced diet. One day, he was walking to work when he was hit by a car. The driver of the car was a young woman who had been texting while driving. She was distracted and didn't see John crossing the street. John was rushed to the hospital, but he died from his injuries. Did the driver's negligence cause John's death?
+Options:
+- Yes
+- No
+A: Yes
+
+Q: Was John's lifestyle responsible for his death?
+John was a 45-year-old man who had been living a healthy lifestyle for many years. He ate a balanced diet, exercised regularly, and never smoked. One day, he was diagnosed with a rare form of cancer. After months of treatment, the cancer spread and John eventually died from the disease. Did John's lifestyle contribute to his death?
+Options:
+- Yes
+- No
+A: No.
+
+Q: Was John's job responsible for his death?
+John was a 55-year-old man who had been working in a factory for the past 30 years. He had been exposed to a variety of hazardous chemicals and materials over the years, including asbestos. After years of exposure, John was diagnosed with a rare form of cancer. Despite treatment, the cancer spread and John eventually died from the disease. Did John's job contribute to his death?
+Options:
+- Yes
+- No
+A: Yes
+
+Q: How would a typical person answer each of the following questions about causation?
+Long ago, when John was only 17 years old, he got a job working for a large manufacturing company. He started out working on an assembly line for minimum wage, but after a few years at the company, he was given a choice between two line manager positions. He could stay in the woodwork division, which is where he was currently working. Or he could move to the plastics division. John was unsure what to do because he liked working in the woodwork division, but he also thought it might be worth trying something different. He finally decided to switch to the plastics division and try something new. For the last 30 years, John has worked as a production line supervisor in the plastics division. After the first year there, the plastics division was moved to a different building with more space. Unfortunately, through the many years he worked there, John was exposed to asbestos, a highly carcinogenic substance. Most of the plastics division was quite safe, but the small part in which John worked was exposed to asbestos fibers. And now, although John has never smoked a cigarette in his life and otherwise lives a healthy lifestyle, he has a highly progressed and incurable case of lung cancer at the age of 50. John had seen three cancer specialists, all of whom confirmed the worst: that, except for pain, John's cancer was untreatable and he was absolutely certain to die from it very soon (the doctors estimated no more than 2 months). Yesterday, while John was in the hospital for a routine medical appointment, a new nurse accidentally administered the wrong medication to him. John was allergic to the drug and he immediately went into shock and experienced cardiac arrest (a heart attack). Doctors attempted to resuscitate him but he died minutes after the medication was administered. Did long-term exposure to asbestos cause John's premature death?
+Options:
+- Yes
+- No
+A: Yes

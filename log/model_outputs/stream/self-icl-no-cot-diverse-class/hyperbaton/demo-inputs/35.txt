@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) silver new repulsive exercise green Pakistani computer
+(B) repulsive new green Pakistani silver exercise computer
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red apple
+(B) red juicy ripe delicious apple
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small blue plastic toy
+(B) blue small plastic toy
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft fluffy white pillow
+(B) white fluffy soft pillow

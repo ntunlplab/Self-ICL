@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Mel, Rob, Eli, Dan, Ana, Ada, and Mya. Ana finished last. Mya finished above Rob. Dan finished above Mya. Rob finished fourth. Eli finished second. Mel finished above Ada.
+Options:
+(A) Mel finished first
+(B) Rob finished first
+(C) Eli finished first
+(D) Dan finished first
+(E) Ana finished first
+(F) Ada finished first
+(G) Mya finished first
+
+New instance 1:
+Q: In a cooking competition, there were seven contestants: Sam, Joe, Tom, Sue, Mia, Amy, and Max. Sue finished last. Max finished above Joe. Tom finished above Max. Joe finished fourth. Sam finished second. Mia finished above Amy.
+Options:
+(A) Sam finished first
+(B) Joe finished first
+(C) Tom finished first
+(D) Sue finished first
+(E) Mia finished first
+(F) Amy finished first
+(G) Max finished first
+
+New instance 2:
+Q: In a spelling bee, there were seven contestants: Jack, Ryan, Sarah, Mark, Emma, Lily, and Noah. Emma finished last. Noah finished above Ryan. Mark finished above Noah. Ryan finished fourth. Jack finished second. Sarah finished above Lily.
+Options:
+(A) Jack finished first
+(B) Ryan finished first
+(C) Sarah finished first
+(D) Mark finished first
+(E) Emma finished first
+(F) Lily finished first
+(G) Noah finished first
+
+New instance 3:
+Q: In a math competition, there were seven contestants: Alex, John, Peter, Kate, Ben, Tim, and Joe. Kate finished last. Joe finished above John. Peter finished above Joe. John finished fourth. Alex finished second. Ben finished above Tim.
+Options:
+(A) Alex finished first
+(B) John finished first
+(C) Peter finished first
+(D) Kate finished first
+(E) Ben finished first
+(F) Tim finished first
+(G) Joe finished first

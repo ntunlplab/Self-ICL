@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to be stuck in traffic for the next hour.
+(B) I'm so excited to be stuck in traffic for the next two hours.
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to have to work late tonight.
+(B) I'm so excited to have to work late tomorrow night.
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to have to clean the house today.
+(B) I'm so excited to have to clean the house tomorrow.
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Why would they have weapons drawn when they've been called to the scene of a fire?
+(B) Why would they have weapons drawn when they've been called to the scene of a shooting?
+A: (A)

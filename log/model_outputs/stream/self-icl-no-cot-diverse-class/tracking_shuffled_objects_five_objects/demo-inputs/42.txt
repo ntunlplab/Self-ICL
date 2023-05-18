@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing fullback, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing right winger.
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Alice and Dave trade positions. Then, Claire and Bob trade positions. Then, Eve and Alice trade positions. Finally, Claire and Eve trade positions. At the end of the match, Claire is playing
+Options:
+(A) center midfielder
+(B) fullback
+(C) goalkeeper
+(D) left winger
+(E) right winger
+
+New instance 1:
+Q: Five students, Alex, Ben, Charlie, David, and Emma, are taking a test. At the start of the test, they are each assigned to a seat: Alex is in seat 1, Ben is in seat 2, Charlie is in seat 3, David is in seat 4, and Emma is in seat 5.
+As the test progresses, pairs of students occasionally swap seats. First, Emma and Charlie trade seats. Then, Alex and David trade seats. Then, Charlie and Ben trade seats. Then, Emma and Alex trade seats. Finally, Charlie and Emma trade seats. At the end of the test, Charlie is in
+Options:
+(A) seat 1
+(B) seat 2
+(C) seat 3
+(D) seat 4
+(E) seat 5
+
+New instance 2:
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are playing a board game. At the start of the game, they are each assigned to a spot: Fiona is in spot 1, George is in spot 2, Harry is in spot 3, Isabel is in spot 4, and Jack is in spot 5.
+As the game progresses, pairs of friends occasionally swap spots. First, Jack and Harry trade spots. Then, Fiona and Isabel trade spots. Then, Harry and George trade spots. Then, Jack and Fiona trade spots. Finally, Harry and Jack trade spots. At the end of the game, Harry is in
+Options:
+(A) spot 1
+(B) spot 2
+(C) spot 3
+(D) spot 4
+(E) spot 5
+
+New instance 3:
+Q: Five musicians, Karen, Larry, Mike, Nancy, and Olivia, are performing a song. At the start of the song, they are each assigned to an instrument: Karen is playing the guitar, Larry is playing the drums, Mike is playing the bass, Nancy is playing the keyboard, and Olivia is playing the saxophone.
+As the song progresses, pairs of musicians occasionally swap instruments. First, Olivia and Mike trade instruments. Then, Karen and Nancy trade instruments. Then, Mike and Larry trade instruments. Then, Olivia and Karen trade instruments. Finally, Mike and Olivia trade instruments. At the end of the song, Mike is playing
+Options:
+(A) the guitar
+(B) the drums
+(C) the bass
+(D) the keyboard
+(E) the saxophone

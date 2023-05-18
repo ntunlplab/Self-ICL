@@ -1,0 +1,6 @@
+Q: On a shelf, there are three cups: a red cup, a blue cup, and a yellow cup. The blue cup is to the left of the yellow cup. The red cup is to the left of the blue cup.
+Options:
+(A) The red cup is the second from the left
+(B) The blue cup is the second from the left
+(C) The yellow cup is the second from the left
+A: (B)

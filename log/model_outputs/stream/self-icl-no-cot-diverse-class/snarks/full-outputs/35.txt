@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to work today
+(B) I'm so excited to go to work tomorrow
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I got to stay up late last night
+(B) I'm so glad I got to stay up early last night
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy I got to do all my chores
+(B) I'm so happy I got to do all my homework
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) The two minute wait in line is too long for me, I think i'll just leave
+(B) The two hour wait in line is too long for me, I think i'll just leave
+A: (A)

@@ -1,0 +1,11 @@
+Q: Seven students are in a debate tournament. At the start of the tournament, they are each assigned to a position: Alex is playing the role of the opposition, Ben is playing the role of the prime minister, Charlie is playing the role of the leader of the opposition, Dave is playing the role of the speaker, Eve is playing the role of the deputy prime minister, Fred is playing the role of the deputy leader of the opposition, and Gertrude is playing the role of the chairperson.
+As the tournament progresses, pairs of students occasionally swap positions. First, Fred and Charlie trade positions. Then, Gertrude and Alex trade positions. Then, Fred and Dave trade positions. Then, Fred and Charlie trade positions. Then, Alex and Ben trade positions. Then, Dave and Ben trade positions. Finally, Fred and Eve trade positions. At the end of the tournament, Ben is playing
+Options:
+(A) opposition
+(B) prime minister
+(C) leader of the opposition
+(D) speaker
+(E) deputy prime minister
+(F) deputy leader of the opposition
+(G) chairperson
+A: (D)

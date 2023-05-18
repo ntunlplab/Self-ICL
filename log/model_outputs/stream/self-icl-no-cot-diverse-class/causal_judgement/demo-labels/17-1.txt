@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Sally was walking home from school when she was hit by a car. The driver of the car had been drinking and was driving recklessly. However, the driver had not seen Sally because she was wearing dark clothing and had been walking in a poorly lit area. Did the driver cause injury to Sally?
+Options:
+- Yes
+- No
+A: Yes

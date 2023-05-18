@@ -1,0 +1,9 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), speed (km/h) Alex, 6, 80, 20 Jack, 8, 90, 25 Sarah, 10, 70, 30 David, 9, 85, 35 We then delete the penguin named Sarah from the table.
+How many penguins are there in the table?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (D)

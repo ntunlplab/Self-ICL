@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor prescribed the patient a new medication, but they were hesitant to take it.
+Options:
+(A) The doctor was hesitant to take it
+(B) The patient was hesitant to take it
+(C) Ambiguous
+A: (B)

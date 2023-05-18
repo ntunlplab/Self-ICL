@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe are both playing a game of basketball. Alice passes the ball to Zoe, who then takes a shot and scores. Did Alice cause Zoe to score?
+Options:
+- Yes
+- No
+A: No

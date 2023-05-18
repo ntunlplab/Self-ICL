@@ -1,0 +1,6 @@
+Q: In a race, there were three runners: Jake, Sam, and Alex. Alex finished below Jake. Alex finished above Sam.
+Options:
+(A) Jake finished second
+(B) Sam finished second
+(C) Alex finished second
+A: (B)

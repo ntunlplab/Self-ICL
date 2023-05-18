@@ -1,0 +1,2 @@
+Q: Question: Jake says that the sun is purple. Emma says that Jake is wrong. Nick says that Emma is wrong. Olivia says that Nick is wrong. Does Olivia tell the truth?
+A: No,

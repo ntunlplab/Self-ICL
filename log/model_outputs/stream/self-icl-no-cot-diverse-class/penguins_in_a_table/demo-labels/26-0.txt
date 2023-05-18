@@ -1,0 +1,24 @@
+Q: Here is a table where the first line is a header and each subsequent line is a whale:  name, age, length (m), weight (kg) 
+Moby, 7, 10, 11
+Willie, 5, 15, 13
+Flipper, 9, 12, 11
+Gus, 8, 14, 15
+For example: the age of Moby is 7, the weight of Gus is 15 kg, the length of Willie is 15 m. We now add a whale to the table:
+
+Nemo, 12, 16, 12
+
+And here is a similar table, but listing dolphins:
+name, age, length (m), weight (kg)
+Dory, 5, 2, 620
+Bubbles, 10, 1.5, 590
+Marlin, 2, 1.2, 410
+Nigel, 9, 1.8, 650
+
+What is the name of the last whale?
+Options:
+(A) Moby
+(B) Willie
+(C) Flipper
+(D) Gus
+(E) Nemo
+A: (E)

@@ -1,0 +1,92 @@
+Following is an example instance for the task: Answer questions about a table of penguins and their attributes. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
+James, 12, 90, 12
+And here is a similar table, but listing giraffes:
+name, age, height (cm), weight (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+What is the name of the last penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+
+New instance 1:
+Q: Here is a table where the first line is a header and each subsequent line is a whale:  name, age, length (m), weight (kg) 
+Moby, 7, 10, 11
+Willie, 5, 15, 13
+Flipper, 9, 12, 11
+Gus, 8, 14, 15
+For example: the age of Moby is 7, the weight of Gus is 15 kg, the length of Willie is 15 m. We now add a whale to the table:
+
+Nemo, 12, 16, 12
+
+And here is a similar table, but listing dolphins:
+name, age, length (m), weight (kg)
+Dory, 5, 2, 620
+Bubbles, 10, 1.5, 590
+Marlin, 2, 1.2, 410
+Nigel, 9, 1.8, 650
+
+What is the name of the last whale?
+Options:
+(A) Moby
+(B) Willie
+(C) Flipper
+(D) Gus
+(E) Nemo
+
+New instance 2:
+Q: Here is a table where the first line is a header and each subsequent line is a bear:  name, age, height (cm), weight (kg) 
+Yogi, 7, 150, 11
+BamBam, 5, 180, 13
+Smokey, 9, 160, 11
+Fozzie, 8, 170, 15
+For example: the age of Yogi is 7, the weight of Fozzie is 15 kg, the height of BamBam is 180 cm. We now add a bear to the table:
+
+BooBoo, 12, 190, 12
+
+And here is a similar table, but listing tigers:
+name, age, height (cm), weight (kg)
+Tony, 5, 100, 620
+Shere Khan, 10, 110, 590
+Rajah, 2, 90, 410
+Kaa, 9, 105, 650
+
+What is the name of the last bear?
+Options:
+(A) Yogi
+(B) BamBam
+(C) Smokey
+(D) Fozzie
+(E) BooBoo
+
+New instance 3:
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg) 
+Tweety, 7, 50, 11
+Woody, 5, 80, 13
+Sam, 9, 60, 11
+Taz, 8, 70, 15
+For example: the age of Tweety is 7, the weight of Taz is 15 kg, the wingspan of Woody is 80 cm. We now add a bird to the table:
+
+Bugs, 12, 90, 12
+
+And here is a similar table, but listing eagles:
+name, age, wingspan (cm), weight (kg)
+Aquila, 5, 150, 620
+Falco, 10, 140, 590
+Haliaeetus, 2, 130, 410
+Pandion, 9, 145, 650
+
+What is the name of the last bird?
+Options:
+(A) Tweety
+(B) Woody
+(C) Sam
+(D) Taz
+(E) Bugs

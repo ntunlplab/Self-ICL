@@ -1,0 +1,10 @@
+Q: In a chess tournament, there were seven players: Peter, Paul, Patrick, Pamela, Phil, Priscilla, and Pranav. Peter finished above Priscilla. Pamela finished above Phil. Pranav finished last. Phil finished third-to-last. Priscilla finished below Paul. Patrick finished third.
+Options:
+(A) Peter finished last
+(B) Paul finished last
+(C) Patrick finished last
+(D) Pamela finished last
+(E) Phil finished last
+(F) Priscilla finished last
+(G) Pranav finished last
+A: (G)

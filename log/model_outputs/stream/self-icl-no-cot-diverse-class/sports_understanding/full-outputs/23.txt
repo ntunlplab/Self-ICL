@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "Lionel Messi won a gold medal in the Olympic high jump."
+A: No,
+
+Q: Is the following sentence plausible? "Cristiano Ronaldo won a tennis match against Roger Federer."
+A: No,
+
+Q: Is the following sentence plausible? "Serena Williams hit a home run in a baseball game."
+A: No,
+
+Q: Is the following sentence plausible? "Gerard Pique scored a corner kick."
+A: Yes.

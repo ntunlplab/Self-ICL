@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Tom is a customer at a store. The store is offering a 10% discount to customers who have purchased at least $50 worth of items in the past month. Tom has purchased $45 worth of items in the past month. He decides to buy an additional item to get the 10% discount. He successfully buys the additional item and receives the discount. Did Tom receive the discount because he bought the additional item?
+Options:
+- Yes
+- No
+A: No,

@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "The following argument pertains to the question of whether or not it is possible to predict the future: First, if the future is predetermined, then it is impossible to change it. Second, if the future is not predetermined, then it is possible to change it. Third, it is impossible to change the future. We may conclude: The future is predetermined."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "The following argument pertains to the question of whether or not it is possible to predict the weather: First, if the weather is unpredictable, then it is impossible to accurately forecast it. Second, if the weather is predictable, then it is possible to accurately forecast it. Third, it is possible to accurately forecast the weather. We may conclude: The weather is predictable."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "The following argument pertains to the question of whether or not it is possible to predict the stock market: First, if the stock market is unpredictable, then it is impossible to accurately forecast it. Second, if the stock market is predictable, then it is possible to accurately forecast it. Third, it is impossible to accurately forecast the stock market. We may conclude: The stock market is unpredictable."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First, whoever is an uncle of Owen is not a nephew of Gene. Second, whoever is both a nephew of Ignacio and a brother of David is a schoolmate of Steve or an uncle of Owen.third, everyone who is a schoolmate of Steve is a nephew of Gene, too. We may conclude: Every brother of David who is a nephew of Ignacio is not a nephew of Gene."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

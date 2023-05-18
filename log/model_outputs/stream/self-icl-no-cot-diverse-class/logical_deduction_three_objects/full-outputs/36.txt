@@ -1,0 +1,29 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: A restaurant serves three types of soup: tomato, mushroom, and lentil. The tomato soup is more expensive than the mushroom soup. The lentil soup is more expensive than the tomato soup.
+Options:
+(A) The lentil soup is the most expensive
+(B) The mushroom soup is the most expensive
+(C) The tomato soup is the most expensive
+A: (C)
+
+Q: A store sells three types of jewelry: necklaces, earrings, and bracelets. The necklaces are more expensive than the earrings. The bracelets are more expensive than the necklaces.
+Options:
+(A) The bracelets are the most expensive
+(B) The necklaces are the most expensive
+(C) The earrings are the most expensive
+A: (B)
+
+Q: A bakery sells three types of cakes: chocolate, vanilla, and strawberry. The chocolate cake is more expensive than the vanilla cake. The strawberry cake is more expensive than the chocolate cake.
+Options:
+(A) The strawberry cake is the most expensive
+(B) The chocolate cake is the most expensive
+(C) The vanilla cake is the most expensive
+A: (B)
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells three fruits: loquats, mangoes, and apples. The mangoes are more expensive than the apples. The loquats are more expensive than the mangoes.
+Options:
+(A) The loquats are the most expensive
+(B) The mangoes are the most expensive
+(C) The apples are the most expensive
+A: (A)

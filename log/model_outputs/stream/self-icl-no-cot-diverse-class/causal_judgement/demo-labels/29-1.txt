@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Sally is studying for a test and decides to take a break to watch a movie. After the movie, she finds that she is more focused and better able to recall the material she was studying. Was Sally's improved focus and recall due to watching the movie?
+Options:
+- Yes
+- No
+A: No

@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: At a pet store, there are seven animals: a parrot, a hamster, a rabbit, a guinea pig, a turtle, a ferret, and a snake. The turtle is older than the ferret. The guinea pig is older than the snake. The guinea pig is newer than the rabbit. The rabbit is newer than the ferret. The hamster is the second-newest. The parrot is the third-newest.
+Options:
+(A) The parrot is the third-oldest
+(B) The hamster is the third-oldest
+(C) The turtle is the third-oldest
+(D) The guinea pig is the third-oldest
+(E) The rabbit is the third-oldest
+(F) The ferret is the third-oldest
+(G) The snake is the third-oldest
+A: (C)
+
+Q: At a music festival, there are seven performers: a singer, a guitarist, a drummer, a pianist, a violinist, a saxophonist, and a flutist. The drummer is older than the flutist. The pianist is older than the saxophonist. The pianist is newer than the violinist. The violinist is newer than the flutist. The guitarist is the second-newest. The singer is the third-newest.
+Options:
+(A) The singer is the third-oldest
+(B) The guitarist is the third-oldest
+(C) The drummer is the third-oldest
+(D) The pianist is the third-oldest
+(E) The violinist is the third-oldest
+(F) The saxophonist is the third-oldest
+(G) The flutist is the third-oldest
+A: (G)
+
+Q: At a toy store, there are seven dolls: a Barbie, a Ken, a G.I. Joe, a Cabbage Patch Kid, a Bratz, a My Little Pony, and a Furby. The G.I. Joe is older than the Furby. The Cabbage Patch Kid is older than the My Little Pony. The Cabbage Patch Kid is newer than the Bratz. The Bratz is newer than the Furby. The Ken is the second-newest. The Barbie is the third-newest.
+Options:
+(A) The Barbie is the third-oldest
+(B) The Ken is the third-oldest
+(C) The G.I. Joe is the third-oldest
+(D) The Cabbage Patch Kid is the third-oldest
+(E) The Bratz is the third-oldest
+(F) The My Little Pony is the third-oldest
+(G) The Furby is the third-oldest
+A: (D)
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are seven vehicles: a sedan, a minivan, a motorcyle, a limousine, a hatchback, a truck, and a tractor. The motorcyle is older than the tractor. The hatchback is older than the limousine. The hatchback is newer than the truck. The truck is newer than the tractor. The minivan is the second-newest. The sedan is the third-newest.
+Options:
+(A) The sedan is the third-oldest
+(B) The minivan is the third-oldest
+(C) The motorcyle is the third-oldest
+(D) The limousine is the third-oldest
+(E) The hatchback is the third-oldest
+(F) The truck is the third-oldest
+(G) The tractor is the third-oldest
+A: (F)

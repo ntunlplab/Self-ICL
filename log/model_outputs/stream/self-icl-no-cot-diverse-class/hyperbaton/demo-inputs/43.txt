@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) archaic gold orange awful surfboard
+(B) awful archaic orange gold surfboard
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) slimy green furry smelly rat
+(B) smelly slimy furry green rat
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow shiny plastic toy
+(B) shiny bright plastic yellow toy
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) soft fluffy white cotton pillow
+(B) white soft cotton fluffy pillow

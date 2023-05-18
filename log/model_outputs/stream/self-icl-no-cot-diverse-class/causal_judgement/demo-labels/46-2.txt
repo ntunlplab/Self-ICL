@@ -1,0 +1,5 @@
+Q: Does the fact that the IT committee and the department budget committee had their meetings scheduled for the exact same time cause both committees to approve Prof. Smith's application?
+Options:
+- Yes
+- No
+A: No

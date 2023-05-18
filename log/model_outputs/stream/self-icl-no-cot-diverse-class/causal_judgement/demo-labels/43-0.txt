@@ -1,0 +1,5 @@
+Q: Did the new law passed by the government cause the decrease in crime rate?
+Options:
+- Yes
+- No
+A: It depends

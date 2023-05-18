@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to be a successful artist: First premise: Being a successful artist is necessary for having a large fan base. Second premise: Having a large fan base is sufficient for being a successful artist. It follows that having a large fan base is necessary for being a successful artist."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

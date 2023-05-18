@@ -1,0 +1,13 @@
+Q: The students in Mrs. Smith's class are playing a game of musical chairs. At the start of the game, there are 8 students: Alex, Ben, Charlie, David, Emma, Fiona, George, and Henry. Alex is sitting in the first chair, Ben is sitting in the second chair, Charlie is sitting in the third chair, David is sitting in the fourth chair, Emma is sitting in the fifth chair, Fiona is sitting in the sixth chair, George is sitting in the seventh chair, and Henry is sitting in the eighth chair.
+Throughout the game, the students often switch chairs. First, Alex and Ben switch chairs. Then, Charlie and David switch chairs. Then, Emma and Fiona switch chairs. Then, George and Henry switch chairs. Then, Alex and Charlie switch chairs. Then, Ben and David switch chairs. Finally, Emma and George switch chairs. At the end of the game, Ben is sitting in which chair?
+
+Options:
+(A) First
+(B) Second
+(C) Third
+(D) Fourth
+(E) Fifth
+(F) Sixth
+(G) Seventh
+(H) Eighth
+A: (B)

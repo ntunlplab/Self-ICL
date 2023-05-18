@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) hiking Japanese black medium-size cloth knife
+(B) medium-size black Japanese cloth hiking knife
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white cuddly stuffed bear
+(B) white small cuddly furry stuffed bear
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious creamy rich chocolate ice cream
+(B) rich creamy delicious chocolate ice cream
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright colorful abstract modern painting
+(B) modern bright colorful abstract painting

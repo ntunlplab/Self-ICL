@@ -1,0 +1,8 @@
+Q: On a shelf, there are five stones: a quartz stone, a jade stone, an obsidian stone, an amethyst stone, and a turquoise stone. The jade stone is to the left of the quartz stone. The obsidian stone is to the left of the amethyst stone. The turquoise stone is to the right of the amethyst stone. The turquoise stone is to the left of the jade stone.
+Options:
+(A) The quartz stone is the rightmost
+(B) The jade stone is the rightmost
+(C) The obsidian stone is the rightmost
+(D) The amethyst stone is the rightmost
+(E) The turquoise stone is the rightmost
+A: (E)

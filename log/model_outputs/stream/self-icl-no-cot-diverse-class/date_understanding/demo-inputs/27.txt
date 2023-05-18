@@ -1,0 +1,36 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 02/05/2021
+(B) 09/05/2020
+(C) 08/15/2020
+(D) 09/06/2020
+(E) 09/04/2020
+
+New instance 1:
+Q: John started his new job on Jan 1, 2021. 45 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 12/25/2020
+(B) 12/18/2020
+(C) 12/17/2020
+(D) 12/24/2020
+(E) 12/19/2020
+
+New instance 2:
+Q: Sarah moved to a new city on Feb 15, 2021. 32 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 02/08/2021
+(B) 02/01/2021
+(C) 01/25/2021
+(D) 02/07/2021
+(E) 02/02/2021
+
+New instance 3:
+Q: Mark graduated from college on Apr 10, 2020. 463 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 01/28/2021
+(B) 01/21/2021
+(C) 01/20/2021
+(D) 01/27/2021
+(E) 01/22/2021

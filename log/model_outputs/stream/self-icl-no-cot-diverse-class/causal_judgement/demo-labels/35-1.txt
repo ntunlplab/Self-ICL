@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Bob are both employees at a large company. Alice is the manager of the company's accounting department, and Bob is the manager of the company's human resources department. The company recently implemented a new policy that requires all employees to use a secure password when accessing the company's internal network. Alice and Bob both use the same password to access the network. One day, Bob logs into the network and discovers that some of the company's confidential financial records have been altered. Did Alice cause the company's confidential financial records to be altered?
+Options:
+- Yes
+- No
+A: No

@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The referee called a technical foul on the player for excessive celebration."
+A: Yes,
+
+Q: Is the following sentence plausible? "The quarterback threw a Hail Mary pass to the end zone."
+A: Yes,
+
+Q: Is the following sentence plausible? "The soccer player dribbled the ball around the defender and scored a goal."
+A: Yes,
+
+Q: Is the following sentence plausible? "Malcolm Brogdon banked the shot in."
+A: Yes.

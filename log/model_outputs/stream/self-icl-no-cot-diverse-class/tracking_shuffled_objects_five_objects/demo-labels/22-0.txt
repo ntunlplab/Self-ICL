@@ -1,0 +1,9 @@
+Q: Five friends, Alex, Ben, Charlie, David, and Emma, are all avid board game players. At the start of the summer, they each buy one new game: Alex gets Monopoly, Ben gets Scrabble, Charlie gets Risk, David gets Clue, and Emma gets Catan.
+As the summer progresses, they start trading around the new games. First, Emma and David swap games. Then, Charlie and Alex swap games. Then, David and Emma swap games. Then, Ben and Charlie swap games. Finally, Alex and Charlie swap games. At the end of the summer, Emma has
+Options:
+(A) Monopoly
+(B) Scrabble
+(C) Risk
+(D) Clue
+(E) Catan
+A: (E)

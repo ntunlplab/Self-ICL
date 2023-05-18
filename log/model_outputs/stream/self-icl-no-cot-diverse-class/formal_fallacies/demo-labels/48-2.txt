@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To begin with, all birds can fly. Moreover, all animals that can fly have wings. From this follows: All birds have wings."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

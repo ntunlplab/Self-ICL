@@ -1,0 +1,26 @@
+Task description: Answer questions about causal attribution.
+
+Q: In the early 2000s, a large company was accused of polluting a nearby river. The company's CEO was asked if the company had intentionally polluted the river. The CEO replied: "We have taken all the necessary steps to ensure that our operations do not pollute the river. We have invested in the latest technology and have implemented strict environmental regulations. We are doing everything we can to protect the environment." Did the company intentionally pollute the river?
+Options:
+- Yes
+- No
+A: No
+
+Q: In the late 1990s, a small town was experiencing a severe drought. The mayor of the town decided to implement a water rationing system. Shortly after the rationing system was put in place, the mayor was asked if the rationing system was intentionally implemented to help the town cope with the drought. The mayor replied: "We implemented the rationing system to ensure that everyone in the town has access to clean water. We are doing everything we can to make sure that everyone has enough water to survive the drought." Did the mayor intentionally implement the rationing system to help the town cope with the drought?
+Options:
+- Yes
+- No
+A: Yes
+
+Q: In the early 2000s, a large company was accused of exploiting its workers. The company's CEO was asked if the company had intentionally exploited its workers. The CEO replied: "We have taken all the necessary steps to ensure that our workers are treated fairly and with respect. We have invested in the latest technology and have implemented strict labor regulations. We are doing everything we can to protect our workers." Did the company intentionally exploit its workers?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+In Nazi Germany, there was a law called the 'racial identification law.' The purpose of the law was to help identify people of certain races so that they could be rounded up and sent to concentration camps. Shortly after this law was passed, the CEO of a small corporation decided to make certain organizational changes. The Vice-President of the corporation said: "By making those changes, you'll definitely be increasing our profits. But you'll also be fulfilling the requirements of the racial identification law." The CEO said: "Look, I know that I'll be fulfilling the requirements of the law, but I don't care one bit about that. All I care about is making as much profit as I can. Let's make those organizational changes!" As soon as the CEO gave this order, the corporation began making the organizational changes. Did the CEO intentionally fulfill the requirements of the law?
+Options:
+- Yes
+- No
+A: Yes

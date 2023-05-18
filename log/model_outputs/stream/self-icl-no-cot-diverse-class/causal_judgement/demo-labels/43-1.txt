@@ -1,0 +1,5 @@
+Q: Did the new technology introduced by the company cause the increase in productivity?
+Options:
+- Yes
+- No
+A: It depends

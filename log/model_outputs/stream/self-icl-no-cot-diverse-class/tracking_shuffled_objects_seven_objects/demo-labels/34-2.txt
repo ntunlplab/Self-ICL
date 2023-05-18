@@ -1,0 +1,10 @@
+Q: The members of a theater troupe are performing in a play. At the start of the play, they are each assigned to a role: Joe is the lead actor, Mary is the assistant director, Tom is the set designer, Sarah is the costume designer, Alex is the lighting technician, and Ryan is the sound technician.
+As the play progresses, pairs of members occasionally swap roles. First, Joe and Mary trade roles. Then, Tom and Sarah trade roles. Then, Alex and Ryan trade roles. Then, Joe and Tom trade roles. Then, Mary and Sarah trade roles. Then, Ryan and Alex trade roles. Finally, Sarah and Ryan trade roles. At the end of the play, Joe is playing
+Options:
+(A) lead actor
+(B) assistant director
+(C) set designer
+(D) costume designer
+(E) lighting technician
+(F) sound technician
+A: (A)

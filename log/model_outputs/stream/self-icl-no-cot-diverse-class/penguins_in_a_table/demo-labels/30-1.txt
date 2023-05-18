@@ -1,0 +1,21 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bird: name, age, wingspan (cm), weight (kg)
+Tweety, 2, 40, 0.5
+Woody, 4, 50, 0.7
+Sammy, 6, 60, 0.9
+Bubbles, 3, 45, 0.6
+We now add a bird to the table:
+Toby, 8, 70, 1.1
+And here is a similar table, but listing bats:
+name, age, wingspan (cm), weight (kg)
+Mittens, 1, 20, 0.2
+Whiskers, 5, 25, 0.3
+Garfield, 7, 30, 0.4
+Tiger, 3, 35, 0.5
+What is the name of the last animal?
+Options:
+(A) Bubbles
+(B) Garfield
+(C) Mittens
+(D) Sammy
+(E) Toby
+A: (E)

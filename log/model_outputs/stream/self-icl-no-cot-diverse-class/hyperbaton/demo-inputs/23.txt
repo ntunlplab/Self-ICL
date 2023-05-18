@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) ancient mysterious yellow walking cat
+(B) mysterious ancient yellow walking cat
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white cuddly puppy
+(B) white small cuddly furry puppy
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall slim handsome muscular man
+(B) handsome tall muscular slim man
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright colorful shiny glittery dress
+(B) colorful bright shiny glittery dress

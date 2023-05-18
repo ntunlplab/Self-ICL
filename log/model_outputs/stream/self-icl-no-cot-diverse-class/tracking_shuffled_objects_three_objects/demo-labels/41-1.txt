@@ -1,0 +1,7 @@
+Q: Three friends, Alex, Ryan, and Emma, are playing a board game. At the start of the game, they are each assigned to a piece: Alex is playing the knight, Ryan is playing the rook, and Emma is playing the bishop.
+As the game progresses, pairs of players occasionally swap pieces. First, Emma and Ryan trade pieces. Then, Alex and Emma trade pieces. Finally, Alex and Ryan trade pieces. At the end of the game, Emma is playing
+Options:
+(A) knight
+(B) rook
+(C) bishop
+A: (B)

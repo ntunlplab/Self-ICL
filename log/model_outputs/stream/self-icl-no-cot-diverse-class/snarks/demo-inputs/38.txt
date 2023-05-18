@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, he's clearly apathetic to earning minutes based on his lackluster play and the fact that he's grabbing hot dogs at half time..
+(B) Yeah, he's clearly dedicated to earning minutes based on his lackluster play and the fact that he's grabbing hot dogs at half time..
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, she's clearly excited to be stuck in traffic for hours on end.
+(B) Yeah, she's clearly thrilled to be stuck in traffic for hours on end.
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, he's clearly motivated to get the job done on time.
+(B) Yeah, he's clearly enthusiastic to get the job done on time.
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, she's clearly delighted to be stuck in the same job for years.
+(B) Yeah, she's clearly overjoyed to be stuck in the same job for years.

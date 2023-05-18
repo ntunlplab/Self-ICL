@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employee if they had completed the task.
+Options:
+(A) The manager had completed the task
+(B) The employee had completed the task
+(C) Ambiguous
+A: (B)

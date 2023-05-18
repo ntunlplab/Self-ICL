@@ -1,0 +1,9 @@
+Q: Five students, Lisa, Mary, Nancy, Olivia, and Paula, are playing a game of musical chairs. At the start of the game, each student has a different colored chair: Lisa has a pink chair, Mary has a black chair, Nancy has a white chair, Olivia has a green chair, and Paula has a blue chair.
+As the game progresses, pairs of students swap chairs. First, Lisa and Mary swap their chairs. Then, Nancy and Olivia swap their chairs. Then, Paula and Lisa swap their chairs. Then, Mary and Nancy swap their chairs. Finally, Olivia and Paula swap their chairs. At the end of the game, Lisa has the
+Options:
+(A) pink chair
+(B) black chair
+(C) white chair
+(D) green chair
+(E) blue chair
+A: (E)

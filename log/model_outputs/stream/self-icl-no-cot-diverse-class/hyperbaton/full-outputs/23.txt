@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white cuddly puppy
+(B) white small cuddly furry puppy
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall slim handsome muscular man
+(B) handsome tall muscular slim man
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright colorful shiny glittery dress
+(B) colorful bright shiny glittery dress
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) ancient mysterious yellow walking cat
+(B) mysterious ancient yellow walking cat
+A: (B)

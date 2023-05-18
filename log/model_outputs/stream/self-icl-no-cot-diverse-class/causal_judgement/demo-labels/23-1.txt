@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A student was studying for an exam and was struggling to understand the material. The student's friend offered to help and explained the material in a way that made it easier to understand. The student ended up getting a good grade on the exam. Did the friend's help cause the student to get a good grade?
+Options:
+- Yes
+- No
+A: Yes

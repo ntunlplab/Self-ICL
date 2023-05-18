@@ -1,0 +1,6 @@
+Q: In a row of five books, there is a novel, a dictionary, and an encyclopedia. The novel is to the left of the dictionary. The dictionary is to the left of the encyclopedia.
+Options:
+(A) The novel is the second from the left
+(B) The dictionary is the second from the left
+(C) The encyclopedia is the second from the left
+A: (B)

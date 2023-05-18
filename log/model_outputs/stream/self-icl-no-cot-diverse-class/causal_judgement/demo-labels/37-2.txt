@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Bob is a beekeeper who has been keeping bees for many years. Recently, he noticed that the number of bees in his hives has been decreasing. He wonders if the use of pesticides in the area is the cause of the decline in bee population.
+Options:
+- Yes
+- No
+A: No,

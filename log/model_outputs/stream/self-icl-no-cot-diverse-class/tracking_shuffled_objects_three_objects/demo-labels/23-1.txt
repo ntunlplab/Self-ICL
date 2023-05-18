@@ -1,0 +1,7 @@
+Q: Sarah, Tom, and Tyler are playing a game. At the start of the game, they are each holding a coin: Sarah has a silver coin, Tom has a gold coin, and Tyler has a bronze coin.
+As the game progresses, pairs of players trade coins. First, Tyler and Tom swap coins. Then, Tom and Sarah swap coins. Finally, Tyler and Tom swap coins. At the end of the game, Tyler has the
+Options:
+(A) silver coin
+(B) gold coin
+(C) bronze coin
+A: (A)

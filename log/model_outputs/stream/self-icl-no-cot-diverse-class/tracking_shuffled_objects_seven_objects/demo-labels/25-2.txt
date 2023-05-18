@@ -1,0 +1,10 @@
+Q: The members of the robotics club are building robots. At the start of the project, each member has a robot part. Throughout the project, the members switch parts. First, Alex and Bob switch parts. Then, Claire and Dave switch parts. Then, Alex and Eve switch parts. Then, Bob and Claire switch parts. Then, Alex and Dave switch parts. Then, Eve and Bob switch parts. Finally, Claire and Alex switch parts. At the end of the project, which robot part is Claire holding?
+
+Options:
+(A) Alex's part
+(B) Bob's part
+(C) Claire's part
+(D) Dave's part
+(E) Eve's part
+(F) Another member's part
+A: (A)

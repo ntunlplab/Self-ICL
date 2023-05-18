@@ -1,0 +1,48 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a red present, Claire has a blue present, Dave has a brown present, Eve has a yellow present, Fred has a white present, and Gertrude has a black ball.
+As the event progresses, pairs of people swap gifts. First, Alice and Claire swap their gifts. Then, Dave and Bob swap their gifts. Then, Alice and Gertrude swap their gifts. Then, Claire and Gertrude swap their gifts. Then, Alice and Eve swap their gifts. Then, Fred and Dave swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Alice has the
+Options:
+(A) pink ball
+(B) red present
+(C) blue present
+(D) brown present
+(E) yellow present
+(F) white present
+(G) black ball
+
+New instance 1:
+Q: Seven students are playing a game of musical chairs. At the start of the game, each student is sitting in a chair of a different color: Student A is sitting in a pink chair, Student B is sitting in a red chair, Student C is sitting in a blue chair, Student D is sitting in a brown chair, Student E is sitting in a yellow chair, Student F is sitting in a white chair, and Student G is sitting in a black chair.
+As the game progresses, pairs of students swap chairs. First, Student A and Student C swap chairs. Then, Student D and Student B swap chairs. Then, Student A and Student G swap chairs. Then, Student C and Student G swap chairs. Then, Student A and Student E swap chairs. Then, Student F and Student D swap chairs. Finally, Student C and Student A swap chairs. At the end of the game, Student A is sitting in a 
+Options:
+(A) pink chair
+(B) red chair
+(C) blue chair
+(D) brown chair
+(E) yellow chair
+(F) white chair
+(G) black chair
+
+New instance 2:
+Q: Seven friends are playing a game of rock-paper-scissors. At the start of the game, each friend is holding a hand of a different color: Friend A is holding a pink hand, Friend B is holding a red hand, Friend C is holding a blue hand, Friend D is holding a brown hand, Friend E is holding a yellow hand, Friend F is holding a white hand, and Friend G is holding a black hand.
+As the game progresses, pairs of friends swap hands. First, Friend A and Friend C swap hands. Then, Friend D and Friend B swap hands. Then, Friend A and Friend G swap hands. Then, Friend C and Friend G swap hands. Then, Friend A and Friend E swap hands. Then, Friend F and Friend D swap hands. Finally, Friend C and Friend A swap hands. At the end of the game, Friend A is holding a 
+Options:
+(A) pink hand
+(B) red hand
+(C) blue hand
+(D) brown hand
+(E) yellow hand
+(F) white hand
+(G) black hand
+
+New instance 3:
+Q: Seven students are playing a game of tag. At the start of the game, each student is wearing a shirt of a different color: Student A is wearing a pink shirt, Student B is wearing a red shirt, Student C is wearing a blue shirt, Student D is wearing a brown shirt, Student E is wearing a yellow shirt, Student F is wearing a white shirt, and Student G is wearing a black shirt.
+As the game progresses, pairs of students swap shirts. First, Student A and Student C swap shirts. Then, Student D and Student B swap shirts. Then, Student A and Student G swap shirts. Then, Student C and Student G swap shirts. Then, Student A and Student E swap shirts. Then, Student F and Student D swap shirts. Finally, Student C and Student A swap shirts. At the end of the game, Student A is wearing a 
+Options:
+(A) pink shirt
+(B) red shirt
+(C) blue shirt
+(D) brown shirt
+(E) yellow shirt
+(F) white shirt
+(G) black shirt

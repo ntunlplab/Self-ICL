@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: At a pet show, there are seven animals: a parrot, a hamster, a rabbit, a turtle, a guinea pig, a ferret, and a chinchilla. The turtle is the fourth-newest. The guinea pig is the third-newest. The ferret is the second-oldest. The chinchilla is older than the rabbit. The parrot is newer than the hamster. The hamster is older than the turtle.
+Options:
+(A) The parrot is the third-oldest
+(B) The hamster is the third-oldest
+(C) The rabbit is the third-oldest
+(D) The turtle is the third-oldest
+(E) The guinea pig is the third-oldest
+(F) The ferret is the third-oldest
+(G) The chinchilla is the third-oldest
+A: (F)
+
+Q: At a music festival, there are seven performers: a rapper, a singer, a violinist, a cellist, a pianist, a guitarist, and a drummer. The cellist is the fourth-newest. The violinist is the third-newest. The pianist is the second-oldest. The guitarist is older than the singer. The rapper is newer than the drummer. The singer is older than the cellist.
+Options:
+(A) The rapper is the third-oldest
+(B) The singer is the third-oldest
+(C) The violinist is the third-oldest
+(D) The cellist is the third-oldest
+(E) The pianist is the third-oldest
+(F) The guitarist is the third-oldest
+(G) The drummer is the third-oldest
+A: (C)
+
+Q: At a sports tournament, there are seven teams: a basketball team, a soccer team, a volleyball team, a baseball team, a tennis team, a hockey team, and a lacrosse team. The volleyball team is the fourth-newest. The baseball team is the third-newest. The tennis team is the second-oldest. The hockey team is older than the soccer team. The basketball team is newer than the lacrosse team. The soccer team is older than the volleyball team.
+Options:
+(A) The basketball team is the third-oldest
+(B) The soccer team is the third-oldest
+(C) The volleyball team is the third-oldest
+(D) The baseball team is the third-oldest
+(E) The tennis team is the third-oldest
+(F) The hockey team is the third-oldest
+(G) The lacrosse team is the third-oldest
+A: (C)
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are seven vehicles: a truck, a hatchback, a minivan, a bus, a tractor, a station wagon, and a convertible. The station wagon is the fourth-newest. The minivan is the third-newest. The tractor is the second-oldest. The convertible is older than the station wagon. The truck is newer than the bus. The hatchback is older than the convertible.
+Options:
+(A) The truck is the third-oldest
+(B) The hatchback is the third-oldest
+(C) The minivan is the third-oldest
+(D) The bus is the third-oldest
+(E) The tractor is the third-oldest
+(F) The station wagon is the third-oldest
+(G) The convertible is the third-oldest
+A: (F)

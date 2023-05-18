@@ -1,0 +1,15 @@
+Q: Today, Jane went to the park. Between what times could they have gone?
+We know that:
+Jane woke up at 9am.
+Jane saw Jane attending a lecture at the university from 9am to 11am.
+Sean saw Jane grocery shopping at the store from 11am to 1pm.
+Susan saw Jane taking a nap at home from 1pm to 3pm.
+Nancy saw Jane attending a yoga class from 3pm to 6pm.
+The park was closed after 7pm.
+Between what times could Jane have gone to the park?
+Options:
+(A) 6pm to 7pm
+(B) 3pm to 6pm
+(C) 11am to 1pm
+(D) 1pm to 3pm
+A: (A)

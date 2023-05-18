@@ -1,0 +1,25 @@
+Task description: Given a series of navigation instructions, determine whether one would end up back at the starting point.
+
+Q: If you follow these instructions, do you return to the starting point? Take 3 steps. Turn left. Take 5 steps. Turn right. Take 2 steps.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Take 5 steps. Turn right. Take 4 steps. Turn left. Take 3 steps.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Take 2 steps. Turn around. Take 7 steps. Turn right. Take 4 steps.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Take 4 steps. Take 2 steps. Turn around. Take 6 steps.
+Options:
+- Yes
+- No
+A: Yes

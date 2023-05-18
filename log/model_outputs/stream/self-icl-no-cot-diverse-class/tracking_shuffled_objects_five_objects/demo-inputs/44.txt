@@ -1,0 +1,40 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Rodrigo, Claire is dancing with Melissa, Dave is dancing with Patrick, and Eve is dancing with Jamie.
+Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Alice and Bob switch partners. Then, Dave and Eve switch partners. Then, Eve and Claire switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Eve is dancing with
+Options:
+(A) Helga
+(B) Rodrigo
+(C) Melissa
+(D) Patrick
+(E) Jamie
+
+New instance 1:
+Q: Five students are playing a game of musical chairs. At the start of the game, they each have a chair: Alex is sitting in chair 1, Ben is sitting in chair 2, Charlie is sitting in chair 3, David is sitting in chair 4, and Emily is sitting in chair 5.
+Throughout the game, the students often switch chairs. First, Emily and Ben switch chairs. Then, Alex and Ben switch chairs. Then, David and Emily switch chairs. Then, Emily and Charlie switch chairs. Finally, Alex and Charlie switch chairs. At the end of the game, Emily is sitting in
+Options:
+(A) Chair 1
+(B) Chair 2
+(C) Chair 3
+(D) Chair 4
+(E) Chair 5
+
+New instance 2:
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a partner: Alex is playing against Ben, Charlie is playing against David, and Emily is playing against Fred.
+Throughout the game, the players often switch partners. First, Emily and Ben switch partners. Then, Alex and Ben switch partners. Then, David and Emily switch partners. Then, Emily and Charlie switch partners. Finally, Alex and Charlie switch partners. At the end of the game, Emily is playing against
+Options:
+(A) Alex
+(B) Ben
+(C) Charlie
+(D) David
+(E) Fred
+
+New instance 3:
+Q: Five students are playing a game of tag. At the start of the game, they each have a partner: Alex is chasing Ben, Charlie is chasing David, and Emily is chasing Fred.
+Throughout the game, the players often switch partners. First, Emily and Ben switch partners. Then, Alex and Ben switch partners. Then, David and Emily switch partners. Then, Emily and Charlie switch partners. Finally, Alex and Charlie switch partners. At the end of the game, Emily is chasing
+Options:
+(A) Alex
+(B) Ben
+(C) Charlie
+(D) David
+(E) Fred

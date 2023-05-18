@@ -1,0 +1,2 @@
+Q: Question: Mark says that Lisa is telling the truth. Paul says that Mark is lying. Rachel says that Paul is telling the truth. David says that Rachel is lying. Does David tell the truth?
+A: No,

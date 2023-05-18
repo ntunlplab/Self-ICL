@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven coins: a silver coin, a gold coin, a copper coin, a bronze coin, a nickel coin, a platinum coin, and a steel coin. The silver coin is to the right of the copper coin. The bronze coin is the rightmost. The platinum coin is to the left of the gold coin. The gold coin is to the left of the steel coin. The copper coin is the second from the left. The platinum coin is to the right of the silver coin.
+Options:
+(A) The silver coin is the third from the right
+(B) The copper coin is the third from the right
+(C) The bronze coin is the third from the right
+(D) The gold coin is the third from the right
+(E) The nickel coin is the third from the right
+(F) The platinum coin is the third from the right
+(G) The steel coin is the third from the right
+A: (C)

@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to predict the stock market: If the Dow Jones Industrial Average is above 25,000, then the stock market will go up. Moreover, if the Dow Jones Industrial Average is below 25,000, then the stock market will go down. Finally, the Dow Jones Industrial Average is below 25,000. Therefore, the stock market will go down."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

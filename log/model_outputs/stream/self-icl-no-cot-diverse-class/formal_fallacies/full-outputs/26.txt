@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "The following argument pertains to the question of whether or not it is possible to predict the future: If we can predict the future, then we can know what will happen in the future. But we cannot know what will happen in the future. Therefore, we cannot predict the future."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "The following argument pertains to the question of whether or not it is possible to travel faster than light: If we can travel faster than light, then we can break the laws of physics. But we cannot break the laws of physics. Therefore, we cannot travel faster than light."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "The following argument pertains to the question of whether or not it is possible to time travel: If we can time travel, then we can go back in time. But we cannot go back in time. Therefore, we cannot time travel."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
+
+Q: "Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To begin with, Jose is an admirer of AEK Athens FC. Moreover, every admirer of AEK Athens FC is an expert of Feyenoord. All this entails that Jose is an expert of Feyenoord."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

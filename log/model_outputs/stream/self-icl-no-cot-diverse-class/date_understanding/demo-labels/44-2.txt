@@ -1,0 +1,8 @@
+Q: On July 4th, 2021, the United States celebrated its independence. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 07/04/2020
+(B) 07/03/2020
+(C) 07/05/2020
+(D) 07/04/2019
+(E) 07/03/2019
+A: (D)

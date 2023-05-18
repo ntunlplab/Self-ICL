@@ -1,0 +1,5 @@
+Q: A company has been using a certain type of fuel for its operations for many years. Recently, the company's board of directors decided to switch to a different type of fuel that is more cost-effective but also more harmful to the environment. Did the board intentionally harm the environment?
+Options:
+- Yes
+- No
+A: No.

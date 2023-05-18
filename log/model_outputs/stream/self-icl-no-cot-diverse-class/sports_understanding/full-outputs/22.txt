@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The Chicago Bulls won the NBA championship."
+A: Yes,
+
+Q: Is the following sentence plausible? "The New York Yankees won the World Series in 2020."
+A: No,
+
+Q: Is the following sentence plausible? "The Los Angeles Lakers scored 100 points in the first quarter."
+A: No,
+
+Q: Is the following sentence plausible? "Adam Thielen got on base."
+A: Yes.

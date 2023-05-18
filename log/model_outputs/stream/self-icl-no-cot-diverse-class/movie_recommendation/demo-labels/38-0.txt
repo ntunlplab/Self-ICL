@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Godfather, The Dark Knight, The Hangover, The Wolf of Wall Street:
+Options:
+(A) The Departed
+(B) Ocean's Eleven
+(C) Goodfellas
+(D) The Big Short
+A: (A)

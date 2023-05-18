@@ -1,0 +1,30 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Three friends, David, Emma, and Frank, are playing a game of chess. At the start of the game, David has the white pieces, Emma has the black pieces, and Frank has the red pieces. As the game progresses, they start swapping pieces. First, David and Emma swap pieces. Then, Frank and Emma swap pieces. Finally, Emma and David swap pieces. At the end of the game, Frank has
+Options:
+(A) White pieces
+(B) Black pieces
+(C) Red pieces
+A: (C)
+
+Q: Three friends, George, Henry, and Irene, are playing a game of cards. At the start of the game, George has the Ace of Spades, Henry has the King of Hearts, and Irene has the Queen of Clubs. As the game progresses, they start swapping cards. First, George and Henry swap cards. Then, Irene and Henry swap cards. Finally, Henry and George swap cards. At the end of the game, Irene has
+Options:
+(A) Ace of Spades
+(B) King of Hearts
+(C) Queen of Clubs
+A: (B)
+
+Q: Three friends, Jake, Kate, and Luke, are playing a game of checkers. At the start of the game, Jake has the red pieces, Kate has the black pieces, and Luke has the white pieces. As the game progresses, they start swapping pieces. First, Jake and Kate swap pieces. Then, Luke and Kate swap pieces. Finally, Kate and Jake swap pieces. At the end of the game, Luke has
+Options:
+(A) Red pieces
+(B) Black pieces
+(C) White pieces
+A: (C)
+
+Q: Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Great Gatsby, and Claire gets Ulysses.
+As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Claire and Bob swap books. Finally, Bob and Alice swap books. At the end of the semester, Claire has
+Options:
+(A) Frankenstein
+(B) The Great Gatsby
+(C) Ulysses
+A: (B)

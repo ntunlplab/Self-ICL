@@ -1,0 +1,6 @@
+Q: On a shelf, there are three toys: a pink toy, a black toy, and a silver toy. The black toy is to the right of the pink toy. The silver toy is to the right of the black toy.
+Options:
+(A) The pink toy is the second from the left
+(B) The black toy is the second from the left
+(C) The silver toy is the second from the left
+A: (B)

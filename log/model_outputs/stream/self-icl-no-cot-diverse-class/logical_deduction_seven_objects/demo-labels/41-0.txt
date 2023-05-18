@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven cups: a white cup, a gray cup, a yellow cup, a purple cup, a red cup, a black cup, and a green cup. The black cup is the fourth from the right. The red cup is to the right of the green cup. The red cup is the fifth from the left. The gray cup is the second from the right. The yellow cup is the sixth from the left. The white cup is the third from the left.
+Options:
+(A) The white cup is the leftmost
+(B) The gray cup is the leftmost
+(C) The yellow cup is the leftmost
+(D) The purple cup is the leftmost
+(E) The red cup is the leftmost
+(F) The black cup is the leftmost
+(G) The green cup is the leftmost
+A: (G)

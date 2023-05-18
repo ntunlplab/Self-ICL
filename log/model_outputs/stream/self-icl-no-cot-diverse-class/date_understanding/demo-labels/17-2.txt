@@ -1,0 +1,9 @@
+Q: Mark moved to a new city on October 5, 2017. 1245 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 07/18/2021
+(B) 07/17/2020
+(C) 07/18/2058
+(D) 06/01/2020
+(E) 08/27/2021
+(F) 07/18/2085
+A: (A)

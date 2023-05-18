@@ -1,0 +1,36 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 12/06/2010
+(B) 01/15/2011
+(C) 01/17/2011
+(D) 03/15/2011
+(E) 12/24/2010
+
+New instance 1:
+Q: On April 15, 2019, John bought a new car. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 03/15/2019
+(B) 02/15/2019
+(C) 03/17/2019
+(D) 04/15/2018
+(E) 02/17/2019
+
+New instance 2:
+Q: On August 12, 2020, Sarah went on a vacation. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 08/12/2019
+(B) 07/12/2019
+(C) 08/15/2019
+(D) 07/15/2019
+(E) 06/12/2019
+
+New instance 3:
+Q: On June 21, 2021, Mark went to the beach. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 05/21/2021
+(B) 05/15/2021
+(C) 06/15/2021
+(D) 04/21/2021
+(E) 04/15/2021

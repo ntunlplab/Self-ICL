@@ -1,0 +1,8 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), habitat Louis, 7, 50, Antarctic Bernard, 5, 80, Arctic Vincent, 9, 60, Sub-Antarctic Gwen, 8, 70, Sub-Antarctic  For example: the age of Louis is 7, the wingspan of Gwen is 70 cm, the habitat of Bernard is Arctic.  What is the habitat of Vincent?
+Options:
+(A) Antarctic
+(B) Arctic
+(C) Sub-Antarctic
+(D) Antarctic Ocean
+(E) Arctic Ocean
+A: (C)

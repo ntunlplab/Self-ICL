@@ -1,0 +1,9 @@
+Q: In the US, people usually put the month before the day when formatting the date. Therefore, today is 01/02/1987 to them. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 12/01/1986
+(B) 11/30/1986
+(C) 11/02/1986
+(D) 10/02/1986
+(E) 09/30/1986
+(F) 09/02/1986
+A: (D)

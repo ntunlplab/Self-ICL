@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "Gerard Pique scored a corner kick."
+
+New instance 1:
+Q: Is the following sentence plausible? "Lionel Messi won a gold medal in the Olympic high jump."
+
+New instance 2:
+Q: Is the following sentence plausible? "Cristiano Ronaldo won a tennis match against Roger Federer."
+
+New instance 3:
+Q: Is the following sentence plausible? "Serena Williams hit a home run in a baseball game."

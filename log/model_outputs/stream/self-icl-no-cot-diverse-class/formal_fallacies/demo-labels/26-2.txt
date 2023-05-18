@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to time travel: If we can time travel, then we can go back in time. But we cannot go back in time. Therefore, we cannot time travel."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

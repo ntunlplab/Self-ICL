@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Matrix:
+Options:
+(A) The Departed
+(B) Inception
+(C) Fight Club
+(D) The Prestige
+A: (A)
+
+Q: Find a movie similar to The Lion King, Toy Story, Finding Nemo, Up:
+Options:
+(A) Inside Out
+(B) Monsters, Inc.
+(C) WALL-E
+(D) Ratatouille
+A: (A)
+
+Q: Find a movie similar to The Hangover, Bridesmaids, Superbad, Knocked Up:
+Options:
+(A) The 40-Year-Old Virgin
+(B) Step Brothers
+(C) Anchorman
+(D) Wedding Crashers
+A: (D)
+
+Q: Find a movie similar to Beauty and the Beast, Independence Day, Forrest Gump, Jurassic Park:
+Options:
+(A) The Bag Man
+(B) The Silence of the Lambs
+(C) Extreme Measures
+(D) Kicking Off
+A: (B)

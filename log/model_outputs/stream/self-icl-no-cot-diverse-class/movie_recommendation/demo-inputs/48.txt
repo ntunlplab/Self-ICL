@@ -1,0 +1,32 @@
+Following is an example instance for the task: Recommend movies similar to the given list of movies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Find a movie similar to Batman, The Mask, The Lion King, Pretty Woman:
+Options:
+(A) Los Angeles Plays Itself
+(B) Gintama The Final Chapter - Be Forever Yorozuya
+(C) Doctor Who Last Christmas
+(D) The Fugitive
+
+New instance 1:
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Silence of the Lambs:
+Options:
+(A) The Departed
+(B) The Prestige
+(C) Inception
+(D) Goodfellas
+
+New instance 2:
+Q: Find a movie similar to The Hangover, Bridesmaids, Superbad, Knocked Up:
+Options:
+(A) Step Brothers
+(B) Pineapple Express
+(C) This Is The End
+(D) The 40-Year-Old Virgin
+
+New instance 3:
+Q: Find a movie similar to The Lord of the Rings, The Hobbit, Harry Potter, Star Wars:
+Options:
+(A) The Chronicles of Narnia
+(B) The Hunger Games
+(C) Avatar
+(D) Guardians of the Galaxy

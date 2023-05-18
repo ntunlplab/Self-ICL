@@ -1,0 +1,9 @@
+Q: Five students are in a science lab. At the start of the lab, they are each assigned to a station: John is working at station 1, Sarah is working at station 2, Mark is working at station 3, Lisa is working at station 4, and David is working at station 5.
+As the lab progresses, pairs of students occasionally swap stations. First, John and Sarah trade stations. Then, Mark and Lisa trade stations. Then, Sarah and David trade stations. Then, John and Mark trade stations. Finally, Lisa and David trade stations. At the end of the lab, Sarah is working at
+Options:
+(A) station 1
+(B) station 2
+(C) station 3
+(D) station 4
+(E) station 5
+A: (B)

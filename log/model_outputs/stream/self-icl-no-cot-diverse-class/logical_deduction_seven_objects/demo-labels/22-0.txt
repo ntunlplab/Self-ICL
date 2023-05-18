@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven books: a novel, a biography, a cookbook, a dictionary, a textbook, a comic book, and a magazine. The cookbook is to the left of the biography. The textbook is to the right of the dictionary. The comic book is to the right of the textbook. The novel is the second from the right. The magazine is to the left of the comic book. The dictionary is the third from the left.
+Options:
+(A) The novel is the third from the left
+(B) The biography is the third from the left
+(C) The cookbook is the third from the left
+(D) The dictionary is the third from the left
+(E) The textbook is the third from the left
+(F) The comic book is the third from the left
+(G) The magazine is the third from the left
+A: (D)

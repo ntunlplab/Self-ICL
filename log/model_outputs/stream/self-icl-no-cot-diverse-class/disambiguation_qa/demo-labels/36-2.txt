@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach told the team to practice their drills every day.
+Options:
+(A) The coach would have to practice the drills
+(B) The team would have to practice the drills
+(C) Ambiguous
+A: (B)

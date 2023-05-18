@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should all be thankful for the wonderful job our government is doing!
+(B) We should all be thankful for the terrible job our government is doing!
+A: (B)

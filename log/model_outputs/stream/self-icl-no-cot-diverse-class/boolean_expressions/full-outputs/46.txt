@@ -1,0 +1,13 @@
+Task description: Evaluate the result of a random Boolean expression.
+
+Q: ( ( False and True ) or False ) is
+A: False
+
+Q: ( ( True and False ) or True ) is
+A: True
+
+Q: ( ( False or False ) and True ) is
+A: False
+
+Q: ( ( not True ) or True ) is
+A: True

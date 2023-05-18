@@ -1,0 +1,24 @@
+Following is an example instance for the task: Answer extremely simple questions about the colors of objects on a surface. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: On the desk, there is an orange scrunchiephone charger, a turquoise bracelet, a gold sheet of paper, and a red envelope. Is the bracelet turquoise?
+Options:
+(A) yes
+(B) no
+
+New instance 1:
+Q: On the kitchen counter, there is a yellow bowl, a green apple, a purple spoon, and a white plate. Is the spoon purple?
+Options:
+(A) yes
+(B) no
+
+New instance 2:
+Q: On the bedside table, there is a pink alarm clock, a blue book, a silver pen, and a black phone charger. Is the book blue?
+Options:
+(A) yes
+(B) no
+
+New instance 3:
+Q: On the living room coffee table, there is a brown vase, an orange candle, a gold coaster, and a white remote control. Is the vase brown?
+Options:
+(A) yes
+(B) no

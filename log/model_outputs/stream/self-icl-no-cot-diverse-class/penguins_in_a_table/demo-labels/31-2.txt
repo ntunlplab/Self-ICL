@@ -1,0 +1,16 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg) Peter, 7, 50, 11 Susan, 5, 80, 13 David, 9, 60, 11 Rachel, 8, 70, 15  For example: the age of Peter is 7, the weight of Rachel is 15 kg, the wingspan of Susan is 80 cm.  We now add a bird to the table:
+Harry, 12, 90, 12
+And here is a similar table, but listing eagles:
+name, age, wingspan (cm), weight (kg)
+John, 5, 150, 620
+Gina, 10, 140, 590
+Mandy, 2, 130, 410
+Diana, 9, 160, 650
+What is the name of the last eagle sorted by alphabetic order?
+Options:
+(A) John
+(B) Gina
+(C) Mandy
+(D) Diana
+(E) Harry
+A: (D)

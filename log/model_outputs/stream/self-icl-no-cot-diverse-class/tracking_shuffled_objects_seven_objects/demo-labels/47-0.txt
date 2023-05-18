@@ -1,0 +1,9 @@
+Q: Seven friends are playing a game of chess. At the start of the game, each player has one chess piece: Alice has a rook, Bob has a knight, Claire has a bishop, Dave has a queen, Eve has a king, Fred has a pawn, and Gertrude has a knight. As the game progresses, they start trading pieces. First, Fred and Eve swap pieces. Then, Gertrude and Alice swap pieces. Then, Dave and Claire swap pieces. Then, Alice and Bob swap pieces. Then, Alice and Fred swap pieces. Then, Eve and Dave swap pieces. Finally, Eve and Alice swap pieces. At the end of the game, Gertrude has
+Options:
+(A) Rook
+(B) Knight
+(C) Bishop
+(D) Queen
+(E) King
+(F) Pawn
+A: (B)

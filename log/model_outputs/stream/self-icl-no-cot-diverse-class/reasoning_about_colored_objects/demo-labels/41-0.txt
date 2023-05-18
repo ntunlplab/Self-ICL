@@ -1,0 +1,10 @@
+Q: On the kitchen counter, there is a pink bowl, a white plate, a black spoon, a gray cup, and a silver fork. How many items are neither yellow nor green?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (F)

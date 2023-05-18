@@ -1,0 +1,10 @@
+Q: A pet store sells seven animals: cats, dogs, hamsters, parrots, rabbits, guinea pigs, and ferrets. The rabbits are more expensive than the guinea pigs. The cats are less expensive than the guinea pigs. The rabbits are the second-most expensive. The ferrets are less expensive than the parrots. The cats are more expensive than the ferrets. The ferrets are the third-cheapest. The hamsters are the cheapest.
+Options:
+(A) The hamsters are the most expensive
+(B) The parrots are the most expensive
+(C) The guinea pigs are the most expensive
+(D) The rabbits are the most expensive
+(E) The cats are the most expensive
+(F) The ferrets are the most expensive
+(G) The dogs are the most expensive
+A: (D)

@@ -1,0 +1,2 @@
+Q: Question: Joe says that Jill lies. Sam says that Joe tells the truth. Tim says that Sam lies. Nick says that Tim tells the truth. Does Nick tell the truth?
+A: No,

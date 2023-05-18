@@ -1,0 +1,40 @@
+Following is an example instance for the task: Infer the date from context. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date yesterday in MM/DD/YYYY?
+Options:
+(A) 05/27/1943
+(B) 06/04/1943
+(C) 06/01/2005
+(D) 03/20/1943
+(E) 05/24/1943
+(F) 06/01/1943
+
+New instance 1:
+Q: The first day of school was scheduled to be on 09/02/2021, but was delayed by one week to today. What is the date one week ago in MM/DD/YYYY?
+Options:
+(A) 08/26/2021
+(B) 09/09/2021
+(C) 09/02/2020
+(D) 08/19/2021
+(E) 08/12/2021
+(F) 09/02/2021
+
+New instance 2:
+Q: The wedding was scheduled to be on 11/14/2022, but was delayed by two months to today. What is the date two months ago in MM/DD/YYYY?
+Options:
+(A) 09/14/2022
+(B) 11/14/2023
+(C) 11/14/2020
+(D) 09/14/2021
+(E) 09/14/2020
+(F) 11/14/2022
+
+New instance 3:
+Q: The launch of the new product was scheduled to be on 04/05/2024, but was delayed by three days to today. What is the date three days ago in MM/DD/YYYY?
+Options:
+(A) 04/02/2024
+(B) 04/08/2024
+(C) 04/05/2023
+(D) 03/30/2024
+(E) 03/27/2024
+(F) 04/05/2024

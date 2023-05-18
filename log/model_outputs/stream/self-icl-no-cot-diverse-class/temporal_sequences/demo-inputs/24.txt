@@ -1,0 +1,64 @@
+Following is an example instance for the task: Task description: Answer questions about which times certain events could have occurred. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Today, Andrew went to the art studio. Between what times could they have gone?
+We know that:
+Andrew woke up at 8am.
+Richard saw Andrew buying a phone at the electronics store from 8am to 10am.
+Samantha saw Andrew fixing their computer at the electronic store from 10am to 2pm.
+Michael saw Andrew reading at the library from 3pm to 4pm.
+Sarah saw Andrew buying lunch at the deli from 4pm to 6pm.
+The art studio was closed after 6pm.
+Between what times could Andrew have gone to the art studio?
+Options:
+(A) 8am to 10am
+(B) 2pm to 3pm
+(C) 4pm to 6pm
+(D) 3pm to 4pm
+
+New instance 1:
+Q: Today, Sarah went to the movie theater. Between what times could they have gone?
+We know that:
+Sarah woke up at 7am.
+John saw Sarah buying groceries at the supermarket from 7am to 9am.
+David saw Sarah playing basketball at the park from 9am to 11am.
+Karen saw Sarah studying at the library from 12pm to 2pm.
+Michael saw Sarah eating lunch at the cafe from 3pm to 4pm.
+The movie theater was closed after 5pm.
+Between what times could Sarah have gone to the movie theater?
+Options:
+(A) 7am to 9am
+(B) 11am to 12pm
+(C) 2pm to 3pm
+(D) 4pm to 5pm
+
+New instance 2:
+Q: Today, Karen went to the museum. Between what times could they have gone?
+We know that:
+Karen woke up at 6am.
+John saw Karen jogging at the park from 6am to 8am.
+David saw Karen shopping at the mall from 8am to 10am.
+Sarah saw Karen attending a lecture at the university from 11am to 1pm.
+Michael saw Karen eating lunch at the cafe from 2pm to 3pm.
+The museum was closed after 4pm.
+Between what times could Karen have gone to the museum?
+Options:
+(A) 6am to 8am
+(B) 10am to 11am
+(C) 1pm to 2pm
+(D) 3pm to 4pm
+
+New instance 3:
+Q: Today, Michael went to the aquarium. Between what times could they have gone?
+We know that:
+Michael woke up at 5am.
+John saw Michael playing tennis at the court from 5am to 7am.
+David saw Michael buying a new bike at the store from 8am to 10am.
+Sarah saw Michael attending a seminar at the university from 11am to 1pm.
+Karen saw Michael eating lunch at the restaurant from 2pm to 3pm.
+The aquarium was closed after 5pm.
+Between what times could Michael have gone to the aquarium?
+Options:
+(A) 5am to 7am
+(B) 8am to 10am
+(C) 11am to 1pm
+(D) 3pm to 5pm

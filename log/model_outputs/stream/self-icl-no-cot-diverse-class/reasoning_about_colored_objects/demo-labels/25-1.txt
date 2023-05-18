@@ -1,0 +1,20 @@
+Q: On the shelf, I see two white plates, one black plate, one purple cup, two orange plates, three black cups, two white cups, one purple spoon, three orange spoons, and two black spoons. If I remove all the white things from the shelf, how many cups remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (C)

@@ -1,0 +1,11 @@
+Q: Seven chefs are competing in a cooking competition. At the start of the competition, they are each assigned to a position: Alex is preparing the appetizers, Ben is preparing the main course, Charlie is preparing the desserts, Dave is preparing the drinks, Eve is preparing the side dishes, Fred is preparing the garnishes, and Gertrude is preparing the sauces.
+As the competition progresses, pairs of chefs occasionally swap positions. First, Fred and Charlie trade positions. Then, Gertrude and Alex trade positions. Then, Fred and Dave trade positions. Then, Fred and Charlie trade positions. Then, Alex and Ben trade positions. Then, Dave and Ben trade positions. Finally, Fred and Eve trade positions. At the end of the competition, Ben is preparing
+Options:
+(A) the appetizers
+(B) the main course
+(C) the desserts
+(D) the drinks
+(E) the side dishes
+(F) the garnishes
+(G) the sauces
+A: (B)

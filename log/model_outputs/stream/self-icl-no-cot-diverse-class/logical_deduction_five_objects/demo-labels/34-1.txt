@@ -1,0 +1,8 @@
+Q: In a swimming competition, there were five swimmers: John, Mary, Jake, David, and Lisa. Mary finished above David. John finished first. Jake finished above Lisa. David finished below Lisa.
+Options:
+(A) John finished second-to-last
+(B) Mary finished second-to-last
+(C) Jake finished second-to-last
+(D) David finished second-to-last
+(E) Lisa finished second-to-last
+A: (E)

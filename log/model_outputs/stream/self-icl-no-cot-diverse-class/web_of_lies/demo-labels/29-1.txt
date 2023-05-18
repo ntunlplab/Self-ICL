@@ -1,0 +1,2 @@
+Q: Question: Mark says that the moon is made of cheese. Lisa says that Mark is wrong. Paul says that Lisa is wrong. Rachel says that Paul is wrong. Does Rachel tell the truth?
+A: No,

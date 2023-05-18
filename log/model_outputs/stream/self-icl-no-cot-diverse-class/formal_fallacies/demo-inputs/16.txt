@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Here comes a perfectly valid argument: To start with, whoever is an expert of BSC Young Boys is not an ex-fan of Real Betis Balompié. Now, whoever is a friend of FC Dynamo Kyiv is not an expert of BSC Young Boys. Hence, no friend of FC Dynamo Kyiv is an ex-fan of Real Betis Balompié."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Here comes a perfectly valid argument: To start with, whoever is a fan of the New York Yankees is not a fan of the Boston Red Sox. Now, whoever is a fan of the Los Angeles Dodgers is not a fan of the New York Yankees. Hence, no fan of the Los Angeles Dodgers is a fan of the Boston Red Sox."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Here comes a perfectly valid argument: To start with, whoever is a student of Harvard University is not a student of Stanford University. Now, whoever is a student of Yale University is not a student of Harvard University. Hence, no student of Yale University is a student of Stanford University."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Here comes a perfectly valid argument: To start with, whoever is a resident of California is not a resident of Texas. Now, whoever is a resident of Arizona is not a resident of California. Hence, no resident of Arizona is a resident of Texas."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

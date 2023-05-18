@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) snorkeling iron prismlike orange midsize knife
+(B) midsize prismlike orange iron snorkeling knife
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) furry striped tall cuddly stuffed bear
+(B) tall cuddly furry striped stuffed bear
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) shiny smooth round silver necklace
+(B) round shiny silver smooth necklace
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright colorful soft cotton scarf
+(B) soft bright colorful cotton scarf

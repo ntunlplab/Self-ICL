@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small blue furry stuffed bear
+(B) furry stuffed small blue bear
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall wooden antique bookcase
+(B) antique tall wooden bookcase
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow plastic beach ball
+(B) plastic bright yellow beach ball
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) new white lead walking surfboard
+(B) walking lead new white surfboard
+A: (A)

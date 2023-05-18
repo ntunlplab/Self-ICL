@@ -1,0 +1,7 @@
+Q: Three chefs, Jack, Sam, and Mary, are competing in a cooking competition. At the start of the competition, they are each assigned to a station: Jack is at station 1, Sam is at station 2, and Mary is at station 3.
+As the competition progresses, pairs of chefs occasionally swap stations. First, Mary and Sam trade stations. Then, Jack and Mary trade stations. Finally, Jack and Sam trade stations. At the end of the competition, Mary is at
+Options:
+(A) station 1
+(B) station 2
+(C) station 3
+A: (A)

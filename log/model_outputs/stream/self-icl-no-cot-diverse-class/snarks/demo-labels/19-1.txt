@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) Life is easy
+(B) Life is hard
+A: (A)

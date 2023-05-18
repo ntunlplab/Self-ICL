@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The developer argued with the designer because he liked the design.
+Options:
+(A) The developer liked the design
+(B) The designer liked the design
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student why she was late.
+Options:
+(A) The teacher was late
+(B) The student was late
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employee why he was not at work.
+Options:
+(A) The manager was not at work
+(B) The employee was not at work
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor asked the patient why she was feeling unwell.
+Options:
+(A) The doctor was feeling unwell
+(B) The patient was feeling unwell
+(C) Ambiguous

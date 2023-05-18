@@ -1,0 +1,10 @@
+Q: A bakery sells seven types of pastries: croissants, donuts, éclairs, macarons, muffins, scones, and tarts. The éclairs are the most expensive. The macarons are the second-most expensive. The tarts are the third-most expensive. The scones are the fourth-most expensive. The donuts are the fifth-most expensive. The muffins are the sixth-most expensive. The croissants are the least expensive.
+Options:
+(A) The croissants are the fourth-most expensive
+(B) The donuts are the fourth-most expensive
+(C) The éclairs are the fourth-most expensive
+(D) The macarons are the fourth-most expensive
+(E) The muffins are the fourth-most expensive
+(F) The scones are the fourth-most expensive
+(G) The tarts are the fourth-most expensive
+A: (F)

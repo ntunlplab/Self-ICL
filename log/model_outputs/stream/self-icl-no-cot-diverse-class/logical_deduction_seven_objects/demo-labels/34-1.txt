@@ -1,0 +1,10 @@
+Q: A clothing store sells seven types of shoes: sandals, sneakers, boots, flip-flops, loafers, mules, and pumps. The sneakers are the third-cheapest. The sandals are the second-most expensive. The sneakers are more expensive than the boots. The pumps are less expensive than the sandals. The flip-flops are the third-most expensive. The loafers are the second-cheapest.
+Options:
+(A) The sandals are the fourth-most expensive
+(B) The sneakers are the fourth-most expensive
+(C) The boots are the fourth-most expensive
+(D) The flip-flops are the fourth-most expensive
+(E) The loafers are the fourth-most expensive
+(F) The mules are the fourth-most expensive
+(G) The pumps are the fourth-most expensive
+A: (G)

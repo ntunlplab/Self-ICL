@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: Alex tells us that they could not meet.
+Options:
+(A) Alex could not meet
+(B) We could not meet
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: She said that it was too late.
+Options:
+(A) She said it was too late
+(B) Something else was too late
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: They told me that I should wait.
+Options:
+(A) They told me to wait
+(B) I should wait
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: He said that it was a mistake.
+Options:
+(A) He said it was a mistake
+(B) Something else was a mistake
+(C) Ambiguous

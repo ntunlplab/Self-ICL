@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should all be grateful for the amazing healthcare system we have!
+(B) We should all be grateful for the terrible healthcare system we have!
+A: (B)

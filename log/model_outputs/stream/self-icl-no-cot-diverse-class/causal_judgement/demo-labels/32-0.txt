@@ -1,0 +1,5 @@
+Q: A person is driving a car and they hit a patch of ice on the road. The car skids and crashes into a tree. Did the ice cause the crash?
+Options:
+- Yes
+- No
+A: Yes

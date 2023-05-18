@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Alice and Zoe are both drivers on the same highway. Alice is driving in the left lane and Zoe is driving in the right lane. Suddenly, Alice swerves into the right lane, cutting off Zoe. Zoe slams on her brakes to avoid a collision and her car skids off the road. Did Alice cause Zoe's car to skid off the road?
+Options:
+- Yes
+- No
+A: Yes

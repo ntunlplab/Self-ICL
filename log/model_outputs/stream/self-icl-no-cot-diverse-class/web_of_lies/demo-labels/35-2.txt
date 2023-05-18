@@ -1,0 +1,2 @@
+Q: Question: Sam says he always tells the truth. Emma says Sam lies. Nick says Emma tells the truth. Jake says Nick lies. Does Jake tell the truth?
+A: No,

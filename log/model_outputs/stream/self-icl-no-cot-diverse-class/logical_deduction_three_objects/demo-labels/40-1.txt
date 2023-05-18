@@ -1,0 +1,6 @@
+Q: A store sells three types of shoes: running shoes, dress shoes, and sandals. The running shoes are the most expensive. The dress shoes are more expensive than the sandals.
+Options:
+(A) The running shoes are the second-most expensive
+(B) The dress shoes are the second-most expensive
+(C) The sandals are the second-most expensive
+A: (B)

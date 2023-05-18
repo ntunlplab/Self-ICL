@@ -1,0 +1,10 @@
+Q: A toy store sells seven toys: dolls, cars, stuffed animals, action figures, board games, puzzles, and building blocks. The action figures are less expensive than the dolls. The puzzles are more expensive than the stuffed animals. The building blocks are less expensive than the dolls. The cars are more expensive than the board games. The stuffed animals are less expensive than the puzzles. The dolls are the third-most expensive.
+Options:
+(A) The dolls are the third-most expensive
+(B) The cars are the third-most expensive
+(C) The stuffed animals are the third-most expensive
+(D) The action figures are the third-most expensive
+(E) The board games are the third-most expensive
+(F) The puzzles are the third-most expensive
+(G) The building blocks are the third-most expensive
+A: (E)

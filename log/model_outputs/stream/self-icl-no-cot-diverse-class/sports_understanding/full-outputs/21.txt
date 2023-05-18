@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The basketball team scored a total of twelve points in the first quarter."
+A: Yes,
+
+Q: Is the following sentence plausible? "The soccer team won the match with a score of five to two."
+A: Yes,
+
+Q: Is the following sentence plausible? "The tennis player served an ace to win the set."
+A: Yes,
+
+Q: Is the following sentence plausible? "Frederik Andersen took a three."
+A: No,

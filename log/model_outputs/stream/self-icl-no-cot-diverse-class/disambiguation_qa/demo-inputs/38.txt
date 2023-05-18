@@ -1,0 +1,32 @@
+Following is an example instance for the task: Clarify the meaning of sentences with ambiguous pronouns. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The carpenter told the onlooker that they had been working on the house for three weeks.
+Options:
+(A) The carpenter had been working on the house
+(B) The onlooker had been working on the house
+(C) Ambiguous
+
+New instance 1:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the students if they had finished their homework.
+Options:
+(A) The teacher had finished their homework
+(B) The students had finished their homework
+(C) Ambiguous
+
+New instance 2:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient that they should take the medicine twice a day.
+Options:
+(A) The doctor should take the medicine twice a day
+(B) The patient should take the medicine twice a day
+(C) Ambiguous
+
+New instance 3:
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach asked the team if they were ready for the game.
+Options:
+(A) The coach was ready for the game
+(B) The team was ready for the game
+(C) Ambiguous

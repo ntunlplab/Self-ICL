@@ -1,0 +1,8 @@
+Q: In a pet store, there are five animals: a parrot, a hamster, a rabbit, a guinea pig, and a turtle. The turtle is older than the parrot. The hamster is older than the guinea pig. The rabbit is the second-oldest.
+Options:
+(A) The parrot is the oldest
+(B) The hamster is the oldest
+(C) The rabbit is the oldest
+(D) The guinea pig is the oldest
+(E) The turtle is the oldest
+A: (E)

@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John and Mary are driving in separate cars on a two-lane highway. John is driving in the left lane and Mary is driving in the right lane. Suddenly, John swerves into the right lane and cuts off Mary, causing her to slam on her brakes. As a result, the car behind Mary rear-ends her car. Did John swerving into the right lane cause the car behind Mary to rear-end her car?
+Options:
+- Yes
+- No
+A: Yes

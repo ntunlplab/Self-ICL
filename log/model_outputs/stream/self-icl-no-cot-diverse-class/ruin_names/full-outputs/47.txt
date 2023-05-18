@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'The Lion King'?
+Options:
+(A) The Lyin' King
+(B) The Loin King
+(C) The Lien King
+(D) The Lion Kwing
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'Titanic'?
+Options:
+(A) Taitanic
+(B) Tiatanic
+(C) Tiatnic
+(D) Tiatnoc
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'The Godfather'?
+Options:
+(A) The Godfother
+(B) The Godfahter
+(C) The Godfahtha
+(D) The Godfahthar
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'mean girls'?
+Options:
+(A) bean girls
+(B) oean girls
+(C) meyan girls
+(D) mean giwls
+A: (D)

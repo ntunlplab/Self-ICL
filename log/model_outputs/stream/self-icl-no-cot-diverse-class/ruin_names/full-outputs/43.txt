@@ -1,0 +1,33 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?
+Options:
+(A) the beagles
+(B) the beatels
+(C) the beatees
+(D) the beetles
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'titanic'?
+Options:
+(A) titanicc
+(B) titanicq
+(C) titanicw
+(D) tittanic
+A: (D)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lion kang
+(B) the lion kimg
+(C) the lioon king
+(D) the lioon kang
+A: (A)
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'creedence clearwater revival'?
+Options:
+(A) creedence clearwatee revival
+(B) creedence clqarwater revival
+(C) creedence clearwafer revival
+(D) crecedence clearwater revival
+A: (C)

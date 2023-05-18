@@ -1,0 +1,5 @@
+Q: A company produces a product that is known to be dangerous to consumers. The company is aware of the risks associated with the product, but continues to manufacture and sell it. Is the company responsible for the harm caused by the product?
+Options:
+- Yes
+- No
+A: Yes

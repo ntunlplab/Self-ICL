@@ -1,0 +1,9 @@
+Q: Today is the fifteenth day of the twelfth month of 1999. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 12/08/1999
+(B) 11/25/1999
+(C) 12/01/1999
+(D) 11/18/1999
+(E) 12/15/2001
+(F) 12/15/1999
+A: (B)

@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Violence is a perfect way to unleash your frustrations
+(B) Exercise is a perfect way to unleash your frustrations
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) Money can't buy happiness
+(B) Money can buy happiness
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) Life is easy
+(B) Life is hard
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited for the weekend
+(B) I'm so excited for Monday morning

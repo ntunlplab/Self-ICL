@@ -1,0 +1,6 @@
+Q: In a race, there were three runners: Alex, Bob, and Chris. Chris finished above Bob. Alex finished below Bob.
+Options:
+(A) Bob finished first
+(B) Alex finished first
+(C) Chris finished first
+A: (C)

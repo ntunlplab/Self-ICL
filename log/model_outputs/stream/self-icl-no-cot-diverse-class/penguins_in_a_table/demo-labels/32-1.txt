@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, color, wingspan (cm) Louis, 7, black, 50 Bernard, 5, white, 80 Vincent, 9, black, 60 Gwen, 8, white, 70  For example: the age of Louis is 7, the color of Gwen is white, the wingspan of Bernard is 80 cm. And here is a similar table, but listing owls:
+name, age, color, wingspan (cm)
+Jody, 5, brown, 110
+Gladys, 10, white, 100
+Marian, 2, gray, 90
+Donna, 9, brown, 120
+What is the name of the last penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (D)

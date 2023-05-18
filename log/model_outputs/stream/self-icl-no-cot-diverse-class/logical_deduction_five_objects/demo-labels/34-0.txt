@@ -1,0 +1,8 @@
+Q: In a baking competition, there were five contestants: Sarah, Tom, Jane, Alex, and Sam. Jane finished above Alex. Sarah finished first. Tom finished above Sam. Alex finished below Sam.
+Options:
+(A) Sarah finished second-to-last
+(B) Tom finished second-to-last
+(C) Jane finished second-to-last
+(D) Alex finished second-to-last
+(E) Sam finished second-to-last
+A: (E)

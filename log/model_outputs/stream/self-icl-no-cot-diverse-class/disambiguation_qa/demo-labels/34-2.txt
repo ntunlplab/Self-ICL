@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The coach gave the team a pep talk and asked them to work harder.
+Options:
+(A) Asked the coach
+(B) Asked the team
+(C) Ambiguous
+A: (B)

@@ -1,0 +1,64 @@
+Following is an example instance for the task: Task description: Answer questions about which times certain events could have occurred. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Today, Susan went to the park. Between what times could they have gone?
+We know that:
+Susan woke up at 7am.
+Mary saw Susan fixing their computer at the electronic store from 1pm to 2pm.
+Michael saw Susan getting a coffee at the cafe from 2pm to 3pm.
+Richard saw Susan waiting at the train station from 3pm to 5pm.
+Linda saw Susan taking photos near the Eiffel Tower from 5pm to 6pm.
+The park was closed after 6pm.
+Between what times could Susan have gone to the park?
+Options:
+(A) 5pm to 6pm
+(B) 3pm to 5pm
+(C) 7am to 1pm
+(D) 2pm to 3pm
+
+New instance 1:
+Q: Today, John went to the beach. Between what times could they have gone?
+We know that:
+John left his house at 8am.
+Sally saw John shopping at the grocery store from 10am to 11am.
+David saw John eating lunch at the restaurant from 11am to 12pm.
+Karen saw John playing basketball at the court from 12pm to 2pm.
+Jill saw John walking his dog at the park from 2pm to 3pm.
+The beach was closed after 4pm.
+Between what times could John have gone to the beach?
+Options:
+(A) 2pm to 3pm
+(B) 12pm to 2pm
+(C) 8am to 10am
+(D) 11am to 12pm
+
+New instance 2:
+Q: Today, Sarah went to the museum. Between what times could they have gone?
+We know that:
+Sarah left her house at 9am.
+Tom saw Sarah getting a haircut at the salon from 10am to 11am.
+Emily saw Sarah buying a book at the bookstore from 11am to 12pm.
+Paul saw Sarah eating lunch at the cafe from 12pm to 1pm.
+Karen saw Sarah walking her dog at the park from 1pm to 2pm.
+The museum was closed after 5pm.
+Between what times could Sarah have gone to the museum?
+Options:
+(A) 1pm to 2pm
+(B) 12pm to 1pm
+(C) 9am to 10am
+(D) 11am to 12pm
+
+New instance 3:
+Q: Today, Mark went to the library. Between what times could they have gone?
+We know that:
+Mark left his house at 6am.
+Samantha saw Mark getting a coffee at the cafe from 8am to 9am.
+John saw Mark buying groceries at the store from 9am to 10am.
+Linda saw Mark playing soccer at the field from 10am to 11am.
+Karen saw Mark walking his dog at the park from 11am to 12pm.
+The library was closed after 3pm.
+Between what times could Mark have gone to the library?
+Options:
+(A) 11am to 12pm
+(B) 10am to 11am
+(C) 6am to 8am
+(D) 9am to 10am

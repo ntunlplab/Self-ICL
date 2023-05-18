@@ -1,0 +1,8 @@
+Q: In a math competition, there were five students: Alex, Hannah, Sam, Mia, and David. Alex finished below David. Sam finished second. Sam finished above Mia. Mia finished above David.
+Options:
+(A) Alex finished second
+(B) Hannah finished second
+(C) Sam finished second
+(D) Mia finished second
+(E) David finished second
+A: (C)

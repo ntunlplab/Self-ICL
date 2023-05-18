@@ -1,0 +1,5 @@
+Q: On the bed, there is a gray pillow, a pink blanket, an orange stuffed animal, and a brown book. Is the blanket yellow?
+Options:
+(A) yes
+(B) no
+A: (B)

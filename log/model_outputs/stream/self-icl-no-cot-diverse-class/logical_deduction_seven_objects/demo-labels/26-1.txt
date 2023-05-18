@@ -1,0 +1,10 @@
+Q: At a music festival, there are seven performers: a singer, a guitarist, a drummer, a pianist, a violinist, a saxophonist, and a flutist. The drummer is older than the flutist. The pianist is older than the saxophonist. The pianist is newer than the violinist. The violinist is newer than the flutist. The guitarist is the second-newest. The singer is the third-newest.
+Options:
+(A) The singer is the third-oldest
+(B) The guitarist is the third-oldest
+(C) The drummer is the third-oldest
+(D) The pianist is the third-oldest
+(E) The violinist is the third-oldest
+(F) The saxophonist is the third-oldest
+(G) The flutist is the third-oldest
+A: (G)

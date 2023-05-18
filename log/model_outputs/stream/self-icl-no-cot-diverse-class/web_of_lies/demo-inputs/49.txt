@@ -1,0 +1,12 @@
+Following is an example instance for the task: Evaluate a random boolean function expressed as a word problem. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Question: Fletcher lies. Teressa says Fletcher lies. Vernell says Teressa lies. Dallas says Vernell lies. Millicent says Dallas tells the truth. Does Millicent tell the truth?
+
+New instance 1:
+Q: Question: John says that Sarah says that Tom says that Mary says that John is wrong. Is John wrong?
+
+New instance 2:
+Q: Question: If Jack says that Jill says that Peter says that Jack is lying, is Jack lying?
+
+New instance 3:
+Q: Question: If Alice says that Bob says that Alice is wrong, is Alice wrong?

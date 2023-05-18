@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) Politicians always act in the best interest of their constituents
+(B) Politicians always act in their own best interest
+A: (B)

@@ -1,0 +1,8 @@
+Q: In a math competition, there were five students: Alex, Bella, David, Tom, and Grace. Alex finished above Bella. David finished below Grace. Alex finished second. Grace finished below Tom.
+Options:
+(A) Alex finished third
+(B) Bella finished third
+(C) David finished third
+(D) Tom finished third
+(E) Grace finished third
+A: (B)

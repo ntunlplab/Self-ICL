@@ -1,0 +1,6 @@
+Q: "Some people prefer to eat out, while others prefer to cook at home. But which is the better option? The following argument pertains to this question: To begin with, if someone does not prefer to eat out, then that person does not prefer to cook at home or not prefer to order takeout. Moreover, preferring to order takeout is necessary for not preferring to cook at home. Finally, nobody does not prefer to cook at home nor order takeout. In consequence, nobody does not prefer to eat out nor order takeout."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

@@ -1,0 +1,6 @@
+Q: "Is it true that all birds are animals? Are all animals mammals? The following argument seeks to clarify the relationship between birds and mammals: All birds are animals. All animals are mammals. Therefore, all birds are mammals."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

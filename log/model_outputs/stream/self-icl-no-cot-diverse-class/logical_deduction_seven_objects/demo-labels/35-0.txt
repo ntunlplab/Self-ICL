@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven toys: a red toy, a purple toy, a green toy, a white toy, an orange toy, a blue toy, and a gray toy. The green toy is to the left of the white toy. The red toy is to the left of the purple toy. The red toy is to the right of the orange toy. The gray toy is the second from the left. The purple toy is to the left of the green toy. The blue toy is the fourth from the left.
+Options:
+(A) The red toy is the third from the left
+(B) The purple toy is the third from the left
+(C) The green toy is the third from the left
+(D) The white toy is the third from the left
+(E) The orange toy is the third from the left
+(F) The blue toy is the third from the left
+(G) The gray toy is the third from the left
+A: (B)

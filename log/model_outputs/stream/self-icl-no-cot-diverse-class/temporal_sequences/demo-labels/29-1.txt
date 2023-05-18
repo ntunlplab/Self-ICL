@@ -1,0 +1,14 @@
+Q: Today, Sarah went to the zoo. Between what times could they have gone?
+We know that:
+Sarah left her house at 9am.
+She was seen playing basketball at the park from 9am to 11am.
+She was seen eating lunch at a cafe from 12pm to 2pm.
+She was seen taking a nap in the park from 3pm to 4pm.
+The zoo closed at 6pm.
+Between what times could Sarah have gone to the zoo?
+Options:
+(A) 4pm to 6pm
+(B) 9am to 11am
+(C) 12pm to 2pm
+(D) 3pm to 4pm
+A: (A)

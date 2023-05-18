@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor prescribed the patient a medicine after he complained of a headache.
+Options:
+(A) The doctor complained of a headache
+(B) The patient complained of a headache
+(C) Ambiguous
+A: (B)

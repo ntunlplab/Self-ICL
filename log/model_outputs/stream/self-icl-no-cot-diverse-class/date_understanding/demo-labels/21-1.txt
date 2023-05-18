@@ -1,0 +1,9 @@
+Q: On August 8, 2020, Sarah went on a vacation. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 07/29/2020
+(B) 07/19/2020
+(C) 07/19/2069
+(D) 07/20/2020
+(E) 05/08/2020
+(F) 04/08/2020
+A: (A)

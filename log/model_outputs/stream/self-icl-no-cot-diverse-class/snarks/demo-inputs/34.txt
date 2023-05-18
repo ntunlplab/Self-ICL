@@ -1,0 +1,24 @@
+Following is an example instance for the task: Determine which of two sentences is sarcastic. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which statement is sarcastic?
+Options:
+(A) Her wheel wobbling several millimeters in either direction wasn't enough to suggest that the bike was unsafe
+(B) Her wheel wobbling several feet in either direction wasn't enough to suggest that the bike was unsafe
+
+New instance 1:
+Q: Which statement is sarcastic?
+Options:
+(A) She was so excited to get a new car
+(B) She was so excited to get a new bicycle
+
+New instance 2:
+Q: Which statement is sarcastic?
+Options:
+(A) He was so proud of his new job
+(B) He was so proud of his new hobby
+
+New instance 3:
+Q: Which statement is sarcastic?
+Options:
+(A) She was so thrilled to get a promotion
+(B) She was so thrilled to get a demotion

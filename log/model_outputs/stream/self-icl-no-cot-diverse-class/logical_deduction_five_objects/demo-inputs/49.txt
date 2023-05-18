@@ -1,0 +1,36 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a crow, a falcon, a hawk, a robin, and a quail. The robin is to the right of the falcon. The quail is to the left of the hawk. The robin is the second from the left. The hawk is the second from the right.
+Options:
+(A) The crow is the leftmost
+(B) The falcon is the leftmost
+(C) The hawk is the leftmost
+(D) The robin is the leftmost
+(E) The quail is the leftmost
+
+New instance 1:
+Q: In a row of five books, the first book is a novel, the second book is a biography, the third book is a cookbook, the fourth book is a dictionary, and the fifth book is a textbook. The biography is to the right of the novel. The dictionary is to the left of the textbook. The cookbook is the second from the left. The textbook is the second from the right.
+Options:
+(A) The novel is the leftmost
+(B) The biography is the leftmost
+(C) The cookbook is the leftmost
+(D) The dictionary is the leftmost
+(E) The textbook is the leftmost
+
+New instance 2:
+Q: In a row of five cars, the first car is a Ferrari, the second car is a Lamborghini, the third car is a Porsche, the fourth car is a Mercedes, and the fifth car is a BMW. The Lamborghini is to the right of the Ferrari. The Mercedes is to the left of the BMW. The Porsche is the second from the left. The BMW is the second from the right.
+Options:
+(A) The Ferrari is the leftmost
+(B) The Lamborghini is the leftmost
+(C) The Porsche is the leftmost
+(D) The Mercedes is the leftmost
+(E) The BMW is the leftmost
+
+New instance 3:
+Q: In a row of five musical instruments, the first instrument is a guitar, the second instrument is a piano, the third instrument is a violin, the fourth instrument is a flute, and the fifth instrument is a drum. The piano is to the right of the guitar. The flute is to the left of the drum. The violin is the second from the left. The drum is the second from the right.
+Options:
+(A) The guitar is the leftmost
+(B) The piano is the leftmost
+(C) The violin is the leftmost
+(D) The flute is the leftmost
+(E) The drum is the leftmost

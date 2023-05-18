@@ -1,0 +1,7 @@
+Q: Three siblings, George, Helen, and Ian, are playing a game of hide-and-seek. At the start of the game, each player has a different colored hat: George has a yellow hat, Helen has a purple hat, and Ian has an orange hat.
+As the game progresses, pairs of players swap hats. First, Helen and Ian swap their hats. Then, Ian and George swap their hats. Finally, George and Helen swap their hats. At the end of the game, George has the
+Options:
+(A) yellow hat
+(B) purple hat
+(C) orange hat
+A: (A)

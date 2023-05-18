@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: To start with, no employee of the company is a member of the same family as their supervisor. Now, it is false that Sarah is a member of the same family as their supervisor. Moreover, it is false that Sarah is an employee of the company. We may conclude: It is not the case that Sarah is a member of the same family as their supervisor."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,29 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: At a pet store, there are three animals: a parrot, a hamster, and a turtle. The parrot is the smallest. The hamster is bigger than the turtle.
+Options:
+(A) The parrot is the second-biggest
+(B) The hamster is the second-biggest
+(C) The turtle is the second-biggest
+A: (B)
+
+Q: At a restaurant, there are three dishes: a salad, a soup, and a sandwich. The salad is the lightest. The soup is heavier than the sandwich.
+Options:
+(A) The salad is the second-heaviest
+(B) The soup is the second-heaviest
+(C) The sandwich is the second-heaviest
+A: (C)
+
+Q: At a museum, there are three paintings: a landscape, a portrait, and an abstract. The landscape is the oldest. The portrait is newer than the abstract.
+Options:
+(A) The landscape is the second-newest
+(B) The portrait is the second-newest
+(C) The abstract is the second-newest
+A: (B)
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are three vehicles: a motorcyle, a bus, and a tractor. The motorcyle is the oldest. The bus is newer than the tractor.
+Options:
+(A) The motorcyle is the second-newest
+(B) The bus is the second-newest
+(C) The tractor is the second-newest
+A: (C)

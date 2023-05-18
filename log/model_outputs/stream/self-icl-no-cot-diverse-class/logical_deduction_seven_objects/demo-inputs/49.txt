@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells seven fruits: apples, plums, mangoes, watermelons, oranges, kiwis, and loquats. The watermelons are less expensive than the plums. The watermelons are more expensive than the oranges. The kiwis are less expensive than the oranges. The apples are more expensive than the loquats. The plums are less expensive than the mangoes. The mangoes are the third-most expensive.
+Options:
+(A) The apples are the cheapest
+(B) The plums are the cheapest
+(C) The mangoes are the cheapest
+(D) The watermelons are the cheapest
+(E) The oranges are the cheapest
+(F) The kiwis are the cheapest
+(G) The loquats are the cheapest
+
+New instance 1:
+Q: A pet store sells seven animals: cats, dogs, hamsters, guinea pigs, parrots, rabbits, and ferrets. The guinea pigs are less expensive than the cats. The parrots are more expensive than the rabbits. The ferrets are less expensive than the cats. The dogs are more expensive than the hamsters. The rabbits are less expensive than the parrots. The cats are the third-most expensive.
+Options:
+(A) The cats are the cheapest
+(B) The dogs are the cheapest
+(C) The hamsters are the cheapest
+(D) The guinea pigs are the cheapest
+(E) The parrots are the cheapest
+(F) The rabbits are the cheapest
+(G) The ferrets are the cheapest
+
+New instance 2:
+Q: A toy store sells seven toys: dolls, cars, stuffed animals, action figures, puzzles, board games, and building blocks. The action figures are less expensive than the dolls. The puzzles are more expensive than the stuffed animals. The board games are less expensive than the dolls. The cars are more expensive than the building blocks. The stuffed animals are less expensive than the puzzles. The dolls are the third-most expensive.
+Options:
+(A) The dolls are the cheapest
+(B) The cars are the cheapest
+(C) The stuffed animals are the cheapest
+(D) The action figures are the cheapest
+(E) The puzzles are the cheapest
+(F) The board games are the cheapest
+(G) The building blocks are the cheapest
+
+New instance 3:
+Q: A clothing store sells seven items of clothing: jeans, t-shirts, sweaters, dresses, skirts, shorts, and jackets. The sweaters are less expensive than the jeans. The skirts are more expensive than the shorts. The jackets are less expensive than the jeans. The t-shirts are more expensive than the dresses. The shorts are less expensive than the skirts. The jeans are the third-most expensive.
+Options:
+(A) The jeans are the cheapest
+(B) The t-shirts are the cheapest
+(C) The sweaters are the cheapest
+(D) The dresses are the cheapest
+(E) The skirts are the cheapest
+(F) The shorts are the cheapest
+(G) The jackets are the cheapest

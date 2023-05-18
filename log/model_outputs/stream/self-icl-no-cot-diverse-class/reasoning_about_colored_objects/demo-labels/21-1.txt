@@ -1,0 +1,10 @@
+Q: On the living room table, you see the following objects arranged in a row: a white vase, a gray candle, a brown book, a black pen, and a beige coaster. How many non-black objects do you see to the left of the pen?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (C)

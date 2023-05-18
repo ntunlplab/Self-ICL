@@ -1,0 +1,14 @@
+Q: Today, Sarah went to the grocery store. Between what times could they have gone?
+We know that:
+Sarah left her house at 9am.
+John saw Sarah walking in the park from 9am to 11am.
+Jane saw Sarah eating lunch at the cafe from 11am to 1pm.
+David saw Sarah shopping at the mall from 1pm to 3pm.
+The grocery store was closed after 6pm.
+Between what times could Sarah have gone to the grocery store?
+Options:
+(A) 3pm to 6pm
+(B) 1pm to 3pm
+(C) 11am to 1pm
+(D) 9am to 11am
+A: (A)

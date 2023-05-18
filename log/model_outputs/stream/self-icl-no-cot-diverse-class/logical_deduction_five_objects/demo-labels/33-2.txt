@@ -1,0 +1,8 @@
+Q: In a row of five animals, there is a lion, a tiger, a bear, a wolf, and a fox. The lion is to the left of the tiger. The bear is to the left of the wolf. The fox is the leftmost. The lion is to the right of the bear.
+Options:
+(A) The lion is the second from the left
+(B) The tiger is the second from the left
+(C) The bear is the second from the left
+(D) The wolf is the second from the left
+(E) The fox is the second from the left
+A: (B)

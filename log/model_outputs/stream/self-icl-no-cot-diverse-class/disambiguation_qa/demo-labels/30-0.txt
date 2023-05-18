@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the students to bring their books to class.
+Options:
+(A) Bring the teacher's books to class
+(B) Bring the students' books to class
+(C) Ambiguous
+A: (B)

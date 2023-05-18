@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to make a profit from investing in stocks: First, if someone invests in stocks, then they will make a profit. Second, no one invests in stocks. In consequence, no one will make a profit."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid
