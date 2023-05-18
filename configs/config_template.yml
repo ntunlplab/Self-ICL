@@ -1,4 +1,4 @@
-exp_name: "self-icl-no-cot-diverse-class"
+exp_name: "self-icl-no-cot-diverse-temp025-class"
 # data paths
 bbh_input_path: "./bbh/BIG-Bench-Hard/bbh"
 bbh_task_desc_path: "./bbh/bbh_task_description.json"
@@ -16,5 +16,6 @@ test_sample_size: 50
 # model hparams
 model: "text-davinci-003"
 max_tokens: 1024
-temperature: 0.0
+temperature: 0.0 # temperature when performing inference
+demo_temperature: 0.25 # temperature when generating pseudo-demos (only used when exemplars_mode == "self-icl")
 top_p: 1.0
