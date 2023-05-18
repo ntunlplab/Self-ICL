@@ -1,0 +1,7 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the floor, there is a silver booklet, a pink teddy bear, a brown scrunchiephone charger, and a red bracelet. Is the teddy bear orange?
+Options:
+(A) yes
+(B) no
+A: (B)

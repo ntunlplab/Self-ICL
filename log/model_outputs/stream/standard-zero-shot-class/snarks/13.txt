@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Everyone knows salt is the highlight of gourmet sophistication
+(B) Everyone knows caviar is the highlight of gourmet sophistication
+A: (A)

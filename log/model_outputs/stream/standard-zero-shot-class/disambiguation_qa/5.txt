@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The developer argued with the designer because she liked the design.
+Options:
+(A) The developer liked the design
+(B) The designer liked the design
+(C) Ambiguous
+A: (B)

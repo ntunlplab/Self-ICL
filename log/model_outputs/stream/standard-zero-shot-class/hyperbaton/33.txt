@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) hiking Japanese black medium-size cloth knife
+(B) medium-size black Japanese cloth hiking knife
+A: (B)

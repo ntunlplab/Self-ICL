@@ -1,0 +1,8 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Here comes a perfectly valid argument: To start with, no half-sister of Nelda is a close friend of Terrie or a cousin of Amanda. Now, it is false that Gretchen is a close friend of Terrie. Moreover, it is false that Gretchen is a cousin of Amanda. We may conclude: It is not the case that Gretchen is a half-sister of Nelda."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,7 @@
+Task description: Given a series of navigation instructions, determine whether one would end up back at the starting point.
+
+Q: If you follow these instructions, do you return to the starting point? Take 3 steps. Take 6 steps. Take 9 steps.
+Options:
+- Yes
+- No
+A: No

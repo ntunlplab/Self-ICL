@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The developer was unable to communicate with the writer because she focuses on code.
+Options:
+(A) The developer focuses on code
+(B) The writer focuses on code
+(C) Ambiguous
+A: (B)

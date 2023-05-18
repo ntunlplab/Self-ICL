@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The technician told the customer that she had completed the repair.
+Options:
+(A) The technician completed the repair
+(B) The customer completed the repair
+(C) Ambiguous
+A: (A)

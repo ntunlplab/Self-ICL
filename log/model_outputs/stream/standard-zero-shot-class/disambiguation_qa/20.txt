@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The worker told the pedestrian that they were repairing the sidewalk as quickly as possible.
+Options:
+(A) The worker was repairing
+(B) The pedestrian was repairing
+(C) Ambiguous
+A: (A)

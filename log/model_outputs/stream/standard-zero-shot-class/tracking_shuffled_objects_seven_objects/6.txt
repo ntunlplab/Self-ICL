@@ -1,0 +1,13 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Patrick, Claire is dancing with Karl, Dave is dancing with Rodrigo, Eve is dancing with Izzi, Fred is dancing with Helga, and Gertrude is dancing with Jamie.
+Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Gertrude and Alice switch partners. Then, Bob and Alice switch partners. Then, Eve and Gertrude switch partners. Then, Fred and Claire switch partners. Then, Fred and Bob switch partners. Finally, Dave and Fred switch partners. At the end of the dance, Fred is dancing with
+Options:
+(A) Ophelia
+(B) Patrick
+(C) Karl
+(D) Rodrigo
+(E) Izzi
+(F) Helga
+(G) Jamie
+A: (D)

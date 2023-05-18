@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Shawshank Redemption, The Usual Suspects, Pulp Fiction, Fargo:
+Options:
+(A) Damage
+(B) Pie in the Sky
+(C) The Fugitive
+(D) A Plasticine Crow
+A: (C)

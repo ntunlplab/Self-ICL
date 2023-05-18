@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Inception, Pulp Fiction, Forrest Gump, Raiders of the Lost Ark:
+Options:
+(A) Who's Afraid of Virginia Woolf
+(B) Fantastic Mr Fox
+(C) Clash of the Titans
+(D) Independence Day
+A: (B)

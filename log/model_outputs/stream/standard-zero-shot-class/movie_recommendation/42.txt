@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Dances with Wolves, The Lion King, The Fugitive, The Shawshank Redemption:
+Options:
+(A) Schindler's List
+(B) Day for Night
+(C) Man of the House
+(D) The Neon Demon
+A: (A)

@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yes, the game is over after the second half
+(B) Yes, the game is over after the first half
+A: (A)

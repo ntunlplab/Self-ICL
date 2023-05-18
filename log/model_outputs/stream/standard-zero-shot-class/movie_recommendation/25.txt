@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Army of Darkness, Go, The Sixth Sense, Alien:
+Options:
+(A) Cool Hand Luke
+(B) Children of the Corn III
+(C) Ice Guardians
+(D) Cinema Paradiso
+A: (B)

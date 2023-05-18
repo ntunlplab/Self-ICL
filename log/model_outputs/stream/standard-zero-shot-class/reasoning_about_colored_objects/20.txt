@@ -1,0 +1,12 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the nightstand, there is a black necklace, a green fidget spinner, a blue keychain, a yellow sheet of paper, and a red stress ball. How many objects are neither yellow nor green?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (D)

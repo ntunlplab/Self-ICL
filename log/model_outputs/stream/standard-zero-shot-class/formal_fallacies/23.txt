@@ -1,0 +1,8 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: First premise: Whatever is not an ingredient of Shimmer Veil is an ingredient of Snowcastle. Second premise: Every ingredient of Liquid Eye liner is not an ingredient of Love Boat or not an ingredient of Shimmer Veil. Third premise: Being an ingredient of Snowcastle is necessary for not being an ingredient of Love Boat. We may conclude that everything that is an ingredient of Liquid Eye liner is an ingredient of Snowcastle, too."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Because no world needs more kids with trust issues and psychological problems than we already have!
+(B) Because this world needs more kids with trust issues and psychological problems than we already have!
+A: (A)

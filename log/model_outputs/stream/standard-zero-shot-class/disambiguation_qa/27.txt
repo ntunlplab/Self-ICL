@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The secretary corrected the developer because they better understood the problem.
+Options:
+(A) The secretary understood the problem
+(B) The developer understood the problem
+(C) Ambiguous
+A: (B)

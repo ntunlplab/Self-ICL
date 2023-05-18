@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) The two minute wait in line is too long for me, I think i'll just leave
+(B) The two hour wait in line is too long for me, I think i'll just leave
+A: (A)

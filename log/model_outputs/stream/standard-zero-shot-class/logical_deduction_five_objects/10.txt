@@ -1,0 +1,10 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: kiwis, pears, peaches, loquats, and apples. The loquats are more expensive than the kiwis. The pears are more expensive than the peaches. The apples are more expensive than the loquats. The apples are less expensive than the peaches.
+Options:
+(A) The kiwis are the second-cheapest
+(B) The pears are the second-cheapest
+(C) The peaches are the second-cheapest
+(D) The loquats are the second-cheapest
+(E) The apples are the second-cheapest
+A: (C)

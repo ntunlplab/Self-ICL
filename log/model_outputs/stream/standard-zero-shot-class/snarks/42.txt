@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm just going to leave it to endlessly pile up until my email count goes off the screen and then it becomes a server threatening issue
+(B) I'm just going to leave it to endlessly pile up until my email count goes off the screen and then it becomes a life threatening issue
+A: (A)

@@ -1,0 +1,7 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the floor, there is a purple pencil, a green cat toy, and a mauve booklet. Is the booklet mauve?
+Options:
+(A) yes
+(B) no
+A: (A)

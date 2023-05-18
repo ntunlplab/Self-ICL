@@ -1,0 +1,4 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "DJ Chark caught the back shoulder fade in the NFC divisional round."
+A: Yes,

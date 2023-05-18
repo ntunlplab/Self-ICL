@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The mechanic disliked the cashier because he is arrogant.
+Options:
+(A) The mechanic is arrogant
+(B) The cashier is arrogant
+(C) Ambiguous
+A: (B)

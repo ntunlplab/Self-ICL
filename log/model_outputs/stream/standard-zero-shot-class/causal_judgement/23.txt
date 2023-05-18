@@ -1,0 +1,8 @@
+Task description: Answer questions about causal attribution.
+
+Q: How would a typical person answer each of the following questions about causation?
+Representatives from the research and development department of a company reported to the board and said, "We are thinking of starting a new program. It will help us increase profits, and it will also help the environment." The reply from the board was, "We don't care at all about helping the environment. We just want to make as much profit as we can. Let's start the new program." Sure enough, the program helped the environment. Did the board intentionally help the environment?
+Options:
+- Yes
+- No
+A: No

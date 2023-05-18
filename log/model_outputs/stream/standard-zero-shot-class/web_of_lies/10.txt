@@ -1,0 +1,4 @@
+Task description: Evaluate a random boolean function expressed as a word problem.
+
+Q: Question: Jerry lies. Millicent says Jerry tells the truth. Sal says Millicent tells the truth. Amberly says Sal tells the truth. Shenna says Amberly lies. Does Shenna tell the truth?
+A: No,

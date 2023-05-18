@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yeah, let's crucify this nonprofit for making money, they shouldn't be doing that
+(B) Yeah, let's crucify this company for making money, they shouldn't be doing that
+A: (A)

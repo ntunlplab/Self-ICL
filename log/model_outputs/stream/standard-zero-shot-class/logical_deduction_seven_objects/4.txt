@@ -1,0 +1,12 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells seven fruits: kiwis, plums, mangoes, watermelons, pears, peaches, and oranges. The pears are the third-cheapest. The kiwis are the second-most expensive. The pears are more expensive than the plums. The oranges are less expensive than the kiwis. The mangoes are the third-most expensive. The peaches are the second-cheapest.
+Options:
+(A) The kiwis are the second-cheapest
+(B) The plums are the second-cheapest
+(C) The mangoes are the second-cheapest
+(D) The watermelons are the second-cheapest
+(E) The pears are the second-cheapest
+(F) The peaches are the second-cheapest
+(G) The oranges are the second-cheapest
+A: (F)

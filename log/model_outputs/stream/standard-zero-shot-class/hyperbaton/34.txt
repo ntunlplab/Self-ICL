@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) snorkeling iron prismlike orange midsize knife
+(B) midsize prismlike orange iron snorkeling knife
+A: (B)

@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Toy Story, The Mask, Batman, The Lion King:
+Options:
+(A) Exit Wounds
+(B) Punch-Drunk Love
+(C) Seeking Justice
+(D) Pretty Woman
+A: (A)

@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) One of the worst things to do working in retail was pushing a trolley of returns around the store putting them back
+(B) One of the enjoyable things to do working in retail was pushing a trolley of returns around the store putting them back
+A: (A)

@@ -1,0 +1,12 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are seven birds: a robin, an owl, a quail, a falcon, a hummingbird, a cardinal, and a crow. The hummingbird is to the left of the falcon. The crow is to the right of the cardinal. The cardinal is the second from the right. The quail is the third from the right. The falcon is to the left of the robin. The owl is the second from the left.
+Options:
+(A) The robin is the fourth from the left
+(B) The owl is the fourth from the left
+(C) The quail is the fourth from the left
+(D) The falcon is the fourth from the left
+(E) The hummingbird is the fourth from the left
+(F) The cardinal is the fourth from the left
+(G) The crow is the fourth from the left
+A: (B)

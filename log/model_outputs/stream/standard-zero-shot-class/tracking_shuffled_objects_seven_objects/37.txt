@@ -1,0 +1,13 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a pink ball, Bob has a white ball, Claire has a brown ball, Dave has a blue ball, Eve has a yellow ball, Fred has a black ball, and Gertrude has a purple ball.
+As the game progresses, pairs of players trade balls. First, Fred and Gertrude swap balls. Then, Gertrude and Bob swap balls. Then, Fred and Claire swap balls. Then, Claire and Dave swap balls. Then, Claire and Eve swap balls. Then, Alice and Bob swap balls. Finally, Claire and Eve swap balls. At the end of the game, Eve has the
+Options:
+(A) pink ball
+(B) white ball
+(C) brown ball
+(D) blue ball
+(E) yellow ball
+(F) black ball
+(G) purple ball
+A: (E)

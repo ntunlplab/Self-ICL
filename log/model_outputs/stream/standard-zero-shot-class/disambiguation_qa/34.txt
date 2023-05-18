@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The designer showed the cook a blueprint and asked him for feedback.
+Options:
+(A) Asked the designer
+(B) Asked the cook
+(C) Ambiguous
+A: (B)

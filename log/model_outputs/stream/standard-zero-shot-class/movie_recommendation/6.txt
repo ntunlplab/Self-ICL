@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Raiders of the Lost Ark, The Shawshank Redemption, Inception, Pulp Fiction:
+Options:
+(A) Beyond the Poseidon Adventure
+(B) The Chorus
+(C) Forrest Gump
+(D) Scouts Guide to the Zombie Apocalypse
+A: (A)

@@ -1,0 +1,4 @@
+Task description: Evaluate the result of a random Boolean expression.
+
+Q: not not True and not True or True is
+A: True

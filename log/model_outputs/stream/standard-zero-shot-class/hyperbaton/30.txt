@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small grey square cloth Japanese shoe
+(B) small square grey Japanese cloth shoe
+A: (B)

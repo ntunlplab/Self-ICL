@@ -1,0 +1,7 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the desk, I see a purple sheet of paper, a burgundy necklace, a magenta pen, a green paperclip, and a brown notebook. Is the paperclip fuchsia?
+Options:
+(A) yes
+(B) no
+A: (B)

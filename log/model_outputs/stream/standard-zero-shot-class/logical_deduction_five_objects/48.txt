@@ -1,0 +1,10 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: an owl, a crow, a raven, a robin, and a cardinal. The raven is to the right of the owl. The raven is the second from the left. The robin is to the left of the crow. The robin is the second from the right.
+Options:
+(A) The owl is the leftmost
+(B) The crow is the leftmost
+(C) The raven is the leftmost
+(D) The robin is the leftmost
+(E) The cardinal is the leftmost
+A: (E)

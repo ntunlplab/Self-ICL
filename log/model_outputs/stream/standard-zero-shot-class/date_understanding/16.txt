@@ -1,0 +1,11 @@
+Task description: Infer the date from context.
+
+Q: May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date today in MM/DD/YYYY?
+Options:
+(A) 05/06/2095
+(B) 05/06/1935
+(C) 05/06/1912
+(D) 08/06/2002
+(E) 05/06/2002
+(F) 05/06/1964
+A: (E)

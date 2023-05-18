@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Pulp Fiction, The Shawshank Redemption, Schindler's List, Dances with Wolves:
+Options:
+(A) Easter Parade
+(B) Captain America The First Avenger
+(C) Braveheart
+(D) Manic
+A: (C)

@@ -1,0 +1,17 @@
+Task description: Task description: Answer questions about which times certain events could have occurred.
+
+Q: Today, James went to the beach. Between what times could they have gone?
+We know that:
+James woke up at 5am.
+Sean saw James walking towards the Statue of Liberty from 5am to 6am.
+Michael saw James driving to the water park from 6am to 7am.
+Anthony saw James reading at the library from 7am to 3pm.
+William saw James getting a coffee at the cafe from 4pm to 9pm.
+The beach was closed after 9pm.
+Between what times could James have gone to the beach?
+Options:
+(A) 7am to 3pm
+(B) 5am to 6am
+(C) 4pm to 9pm
+(D) 3pm to 4pm
+A: (C)

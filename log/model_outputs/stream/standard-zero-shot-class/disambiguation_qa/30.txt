@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The salesperson tried to fool the writer and sold them some garbage.
+Options:
+(A) Sold the salesperson some garbage
+(B) Sold the writer some garbage
+(C) Ambiguous
+A: (B)

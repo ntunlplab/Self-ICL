@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The educator was meeting with a student to discuss his grading policy.
+Options:
+(A) It was the educator's grading policy
+(B) It was the student's grading policy
+(C) Ambiguous
+A: (A)

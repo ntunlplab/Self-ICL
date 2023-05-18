@@ -1,0 +1,9 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'star wars'?
+Options:
+(A) stpr wars
+(B) start wars
+(C) star warts
+(D) star warws
+A: (C)

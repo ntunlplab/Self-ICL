@@ -1,0 +1,12 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells seven fruits: loquats, cantaloupes, watermelons, apples, oranges, pears, and mangoes. The oranges are the second-cheapest. The apples are less expensive than the pears. The mangoes are more expensive than the cantaloupes. The mangoes are the third-cheapest. The watermelons are the second-most expensive. The loquats are the third-most expensive.
+Options:
+(A) The loquats are the second-most expensive
+(B) The cantaloupes are the second-most expensive
+(C) The watermelons are the second-most expensive
+(D) The apples are the second-most expensive
+(E) The oranges are the second-most expensive
+(F) The pears are the second-most expensive
+(G) The mangoes are the second-most expensive
+A: (C)

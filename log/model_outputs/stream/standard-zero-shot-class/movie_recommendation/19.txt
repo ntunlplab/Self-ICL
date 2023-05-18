@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Beauty and the Beast, Independence Day, Forrest Gump, Jurassic Park:
+Options:
+(A) The Bag Man
+(B) The Silence of the Lambs
+(C) Extreme Measures
+(D) Kicking Off
+A: (A)

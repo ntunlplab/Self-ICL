@@ -1,0 +1,22 @@
+Task description: Answer extremely simple questions about the colors of objects on a surface.
+
+Q: On the table, you see three green bracelets, one teal dog leash, one green dog leash, and three green paperclips. If I remove all the teal items from the table, how many paperclips remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (D)

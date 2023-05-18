@@ -1,0 +1,8 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First, being an ancestor of Christy is necessary for being a daughter of Denise. Second, not being a cousin of Maryann is sufficient for not being an ancestor of Christy. We may conclude that whoever is not a daughter of Denise is a cousin of Maryann."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

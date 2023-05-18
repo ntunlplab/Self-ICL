@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) People never foment wars to relinquish territory
+(B) People never foment wars to conquer territory
+A: (A)

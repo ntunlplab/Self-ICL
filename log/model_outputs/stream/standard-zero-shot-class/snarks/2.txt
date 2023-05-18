@@ -1,0 +1,7 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Just memeing about being racist, that's what keeps it okay
+(B) Just memeing about being racist, that's what keeps it toxic
+A: (A)

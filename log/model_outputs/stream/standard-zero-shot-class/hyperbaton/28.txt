@@ -1,0 +1,7 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) enormous brand-new German drinking motorcycle
+(B) brand-new drinking German enormous motorcycle
+A: (B)

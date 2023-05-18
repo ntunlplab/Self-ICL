@@ -1,0 +1,9 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to Stargate, The Fugitive, Pulp Fiction, Dances with Wolves:
+Options:
+(A) Forrest Gump
+(B) Kevin Smith Too Fat For 40
+(C) Scorched
+(D) Stand and Deliver
+A: (A)

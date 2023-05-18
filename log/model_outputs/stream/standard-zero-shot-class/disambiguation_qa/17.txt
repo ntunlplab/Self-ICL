@@ -1,0 +1,9 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The supervisor gave the employee feedback on his stellar performance.
+Options:
+(A) It was the supervisor's performance
+(B) It was the employee's performance
+(C) Ambiguous
+A: (B)

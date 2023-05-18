@@ -1,0 +1,10 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a cardinal, a crow, a falcon, a robin, and a blue jay. The robin is to the right of the cardinal. The cardinal is to the right of the blue jay. The blue jay is the second from the left. The crow is the rightmost.
+Options:
+(A) The cardinal is the rightmost
+(B) The crow is the rightmost
+(C) The falcon is the rightmost
+(D) The robin is the rightmost
+(E) The blue jay is the rightmost
+A: (B)

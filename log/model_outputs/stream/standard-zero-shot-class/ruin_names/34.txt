@@ -1,0 +1,9 @@
+Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'the moody blues'?
+Options:
+(A) the mfody blues
+(B) the moody blueds
+(C) the moody blueus
+(D) the moldy blues
+A: (D)
