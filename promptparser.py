@@ -7,7 +7,7 @@ class PromptParser(object):
         self._num_demos = num_demos
         
     def split_demo_inputs(self, full_demo_inputs: str):
-        sep_demo_inputs = re.findall(pattern=r"tance \d:\s+Q:\s(.*?)(?:\n*New ins|\Z)", string=full_demo_inputs, flags=re.DOTALL)
+        sep_demo_inputs = re.findall(pattern=r"tance \d:\s+Q:\s*(.*?)(?:\n*New ins|\Z)", string=full_demo_inputs, flags=re.DOTALL)
         if len(sep_demo_inputs) != self._num_demos:
             raise ValueError(f"Number of demos in full_demo_inputs ({len(sep_demo_inputs)}) does not match num_demos ({self._num_demos})")
         return sep_demo_inputs
