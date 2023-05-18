@@ -1,0 +1,29 @@
+Task description: Answer questions about causal attribution.
+
+Q: How would a typical person answer each of the following questions about causation?
+A family is living in a house that is located near a factory. The factory is emitting toxic fumes that are causing the family to become ill. The family decides to move away from the factory, but the factory continues to emit the same amount of toxic fumes. Did the factory intentionally harm the family?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+A company is producing a product that is known to be dangerous. The company is aware of the danger, but continues to produce the product and sell it to consumers. As a result, many people are injured or killed by the product. Did the company intentionally harm the consumers?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+A government passes a law that increases taxes on the wealthy. As a result, the wealthy are forced to pay more in taxes and their wealth is reduced. Did the government intentionally harm the wealthy?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+The CEO of a company is sitting in his office when his Vice President of R&D comes in and says, 'We are thinking of starting a new programme. It will help us increase profits, but it will also harm the environment.' The CEO responds that he doesn't care about harming the environment and just wants to make as much profit as possible. The programme is carried out, profits are made and the environment is harmed. Did the CEO intentionally harm the environment?
+Options:
+- Yes
+- No
+A: Yes

@@ -1,0 +1,12 @@
+Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Is the following sentence plausible? "Carson Wentz took to the ice."
+
+New instance 1:
+Q: Is the following sentence plausible? "LeBron James scored a goal in a soccer match."
+
+New instance 2:
+Q: Is the following sentence plausible? "Tom Brady won a gold medal in the long jump."
+
+New instance 3:
+Q: Is the following sentence plausible? "Serena Williams hit a home run in a baseball game."

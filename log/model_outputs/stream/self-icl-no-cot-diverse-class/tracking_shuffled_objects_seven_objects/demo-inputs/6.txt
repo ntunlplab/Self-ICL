@@ -1,0 +1,45 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Patrick, Claire is dancing with Karl, Dave is dancing with Rodrigo, Eve is dancing with Izzi, Fred is dancing with Helga, and Gertrude is dancing with Jamie.
+Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Gertrude and Alice switch partners. Then, Bob and Alice switch partners. Then, Eve and Gertrude switch partners. Then, Fred and Claire switch partners. Then, Fred and Bob switch partners. Finally, Dave and Fred switch partners. At the end of the dance, Fred is dancing with
+Options:
+(A) Ophelia
+(B) Patrick
+(C) Karl
+(D) Rodrigo
+(E) Izzi
+(F) Helga
+(G) Jamie
+
+New instance 1:
+Q: At a game of musical chairs, 8 players are competing. At the start of the game, they are arranged in a circle in the following order: Alex, Ben, Charlie, David, Emma, Fiona, George, and Henry. Throughout the game, the players often switch chairs. First, Alex and Ben switch chairs. Then, Charlie and David switch chairs. Then, Emma and Fiona switch chairs. Then, George and Henry switch chairs. Then, Alex and Charlie switch chairs. Then, Ben and David switch chairs. Finally, Emma and George switch chairs. At the end of the game, Alex is sitting in which chair?
+Options:
+(A) Ben
+(B) Charlie
+(C) David
+(D) Emma
+(E) Fiona
+(F) George
+(G) Henry
+
+New instance 2:
+Q: At a game of tag, 8 players are competing. At the start of the game, they are arranged in a circle in the following order: Jack, Kate, Liam, Mia, Noah, Olivia, Peter, and Quinn. Throughout the game, the players often switch roles. First, Jack and Kate switch roles. Then, Liam and Mia switch roles. Then, Noah and Olivia switch roles. Then, Peter and Quinn switch roles. Then, Jack and Liam switch roles. Then, Kate and Mia switch roles. Finally, Noah and Peter switch roles. At the end of the game, Jack is playing which role?
+Options:
+(A) Kate
+(B) Liam
+(C) Mia
+(D) Noah
+(E) Olivia
+(F) Peter
+(G) Quinn
+
+New instance 3:
+Q: At a game of hide and seek, 8 players are competing. At the start of the game, they are arranged in a circle in the following order: Rachel, Sam, Tom, Ursula, Victor, Wendy, Xavier, and Yolanda. Throughout the game, the players often switch hiding spots. First, Rachel and Sam switch hiding spots. Then, Tom and Ursula switch hiding spots. Then, Victor and Wendy switch hiding spots. Then, Xavier and Yolanda switch hiding spots. Then, Rachel and Tom switch hiding spots. Then, Sam and Ursula switch hiding spots. Finally, Victor and Xavier switch hiding spots. At the end of the game, Rachel is hiding in which spot?
+Options:
+(A) Sam
+(B) Tom
+(C) Ursula
+(D) Victor
+(E) Wendy
+(F) Xavier
+(G) Yolanda

@@ -1,0 +1,7 @@
+Q: Which of the following is a humorous edit of this artist or movie name: 'the rolling stones'?
+Options:
+(A) the rolling stons
+(B) the rolling stanes
+(C) the rolling stunes
+(D) the rolling stoners
+A: (D)

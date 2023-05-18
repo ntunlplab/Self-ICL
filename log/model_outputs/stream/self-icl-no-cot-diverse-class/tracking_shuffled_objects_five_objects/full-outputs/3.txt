@@ -1,0 +1,41 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Five friends, Alex, Ben, Charlie, David, and Emma, are all avid board game players. At the start of the summer, they each buy one new game: Alex gets Monopoly, Ben gets Scrabble, Charlie gets Risk, David gets Clue, and Emma gets Catan.
+As the summer progresses, they start trading around the new games. First, Emma and Alex swap games. Then, Alex and Charlie swap games. Then, Alex and Ben swap games. Then, David and Alex swap games. Finally, David and Charlie swap games. At the end of the summer, David has
+Options:
+(A) Monopoly
+(B) Scrabble
+(C) Risk
+(D) Clue
+(E) Catan
+A: (D)
+
+Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all passionate cooks. At the start of the year, they each buy one new cookbook: Fiona gets The Joy of Cooking, George gets The Flavor Bible, Harry gets The Art of French Cooking, Isabel gets The Professional Chef, and Jack gets The Vegetarian Cookbook.
+As the year progresses, they start trading around the new cookbooks. First, Jack and Fiona swap books. Then, Fiona and Harry swap books. Then, Fiona and George swap books. Then, Isabel and Fiona swap books. Finally, Isabel and Harry swap books. At the end of the year, Isabel has
+Options:
+(A) The Joy of Cooking
+(B) The Flavor Bible
+(C) The Art of French Cooking
+(D) The Professional Chef
+(E) The Vegetarian Cookbook
+A: (D)
+
+Q: Five friends, Karen, Larry, Mary, Nick, and Olivia, are all passionate musicians. At the start of the month, they each buy one new instrument: Karen gets a guitar, Larry gets a saxophone, Mary gets a piano, Nick gets a drum set, and Olivia gets a trumpet.
+As the month progresses, they start trading around the new instruments. First, Olivia and Karen swap instruments. Then, Karen and Mary swap instruments. Then, Karen and Larry swap instruments. Then, Nick and Karen swap instruments. Finally, Nick and Mary swap instruments. At the end of the month, Nick has
+Options:
+(A) Guitar
+(B) Saxophone
+(C) Piano
+(D) Drum set
+(E) Trumpet
+A: (D)
+
+Q: Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets Hound of the Baskervilles, Claire gets Frankenstein, Dave gets The Pearl, and Eve gets The Fellowship of the Ring.
+As the semester proceeds, they start trading around the new books. First, Eve and Alice swap books. Then, Alice and Claire swap books. Then, Alice and Bob swap books. Then, Dave and Alice swap books. Finally, Dave and Claire swap books. At the end of the semester, Dave has
+Options:
+(A) Catch-22
+(B) Hound of the Baskervilles
+(C) Frankenstein
+(D) The Pearl
+(E) The Fellowship of the Ring
+A: (C)

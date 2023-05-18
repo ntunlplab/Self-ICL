@@ -1,0 +1,8 @@
+Q: Sarah graduated from college on May 10, 2018. 1095 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 05/10/2017
+(B) 05/20/2017
+(C) 06/01/2017
+(D) 06/12/2017
+(E) 06/30/2017
+A: (A)

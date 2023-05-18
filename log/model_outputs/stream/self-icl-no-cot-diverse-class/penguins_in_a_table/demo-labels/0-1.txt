@@ -1,0 +1,15 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg)
+Rudy, 3, 35, 6
+Oskar, 5, 40, 7
+Heinz, 7, 45, 8
+Werner, 9, 50, 9
+We now add a penguin to the table:
+Friedrich, 11, 55, 10
+Which is the tallest penguin?
+Options:
+(A) Rudy
+(B) Oskar
+(C) Heinz
+(D) Werner
+(E) Friedrich
+A: (E)

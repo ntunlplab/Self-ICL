@@ -1,0 +1,10 @@
+Q: In a spelling bee, there were seven contestants: Alex, Ben, Charlie, David, Emma, Frank, and Grace. Charlie finished third. Alex finished above David. Grace finished last. Ben finished below David. Emma finished below Frank. David finished below Emma.
+Options:
+(A) Alex finished third
+(B) Ben finished third
+(C) Charlie finished third
+(D) David finished third
+(E) Emma finished third
+(F) Frank finished third
+(G) Grace finished third
+A: (C)

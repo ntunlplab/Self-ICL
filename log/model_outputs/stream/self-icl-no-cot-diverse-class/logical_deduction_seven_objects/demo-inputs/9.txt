@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are seven books: a brown book, a yellow book, a black book, a white book, a green book, an orange book, and a purple book. The purple book is the rightmost. The yellow book is the leftmost. The orange book is the second from the right. The brown book is to the left of the green book. The brown book is to the right of the black book. The white book is the fourth from the left.
+Options:
+(A) The brown book is the leftmost
+(B) The yellow book is the leftmost
+(C) The black book is the leftmost
+(D) The white book is the leftmost
+(E) The green book is the leftmost
+(F) The orange book is the leftmost
+(G) The purple book is the leftmost
+
+New instance 1:
+Q: On a shelf, there are seven cups: a red cup, a blue cup, a yellow cup, a green cup, a black cup, an orange cup, and a purple cup. The purple cup is the rightmost. The yellow cup is the leftmost. The orange cup is the second from the right. The red cup is to the left of the green cup. The red cup is to the right of the black cup. The blue cup is the fourth from the left.
+Options:
+(A) The red cup is the leftmost
+(B) The yellow cup is the leftmost
+(C) The black cup is the leftmost
+(D) The blue cup is the leftmost
+(E) The green cup is the leftmost
+(F) The orange cup is the leftmost
+(G) The purple cup is the leftmost
+
+New instance 2:
+Q: On a shelf, there are seven toys: a red toy, a blue toy, a yellow toy, a green toy, a black toy, an orange toy, and a purple toy. The purple toy is the rightmost. The yellow toy is the leftmost. The orange toy is the second from the right. The red toy is to the left of the green toy. The red toy is to the right of the black toy. The blue toy is the fourth from the left.
+Options:
+(A) The red toy is the leftmost
+(B) The yellow toy is the leftmost
+(C) The black toy is the leftmost
+(D) The blue toy is the leftmost
+(E) The green toy is the leftmost
+(F) The orange toy is the leftmost
+(G) The purple toy is the leftmost
+
+New instance 3:
+Q: On a shelf, there are seven fruits: a red apple, a blueberry, a yellow banana, a green grape, a blackberry, an orange, and a purple plum. The purple plum is the rightmost. The yellow banana is the leftmost. The orange is the second from the right. The red apple is to the left of the green grape. The red apple is to the right of the blackberry. The blueberry is the fourth from the left.
+Options:
+(A) The red apple is the leftmost
+(B) The yellow banana is the leftmost
+(C) The blackberry is the leftmost
+(D) The blueberry is the leftmost
+(E) The green grape is the leftmost
+(F) The orange is the leftmost
+(G) The purple plum is the leftmost

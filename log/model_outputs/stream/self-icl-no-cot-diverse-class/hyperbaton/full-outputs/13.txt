@@ -1,0 +1,25 @@
+Task description: Order adjectives correctly in English sentences.
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small fluffy white dog
+(B) white fluffy small dog
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall wooden brown table
+(B) brown wooden tall table
+A: (B)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow plastic cup
+(B) yellow bright plastic cup
+A: (A)
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) silver square red chair
+(B) square red silver chair
+A: (A)

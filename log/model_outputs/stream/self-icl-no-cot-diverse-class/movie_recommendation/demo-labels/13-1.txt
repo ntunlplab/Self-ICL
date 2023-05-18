@@ -1,0 +1,7 @@
+Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Hobbit: An Unexpected Journey:
+Options:
+(A) The Hobbit: The Desolation of Smaug
+(B) The Hobbit: The Battle of the Five Armies
+(C) The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+(D) Harry Potter and the Philosopher's Stone
+A: (A)

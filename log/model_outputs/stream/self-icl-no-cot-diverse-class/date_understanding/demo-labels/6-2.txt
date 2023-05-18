@@ -1,0 +1,9 @@
+Q: On December 25th, 2016, Mark bought a bag of apples. He ate one every day. Today he ran out of apples. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 12/31/2016
+(B) 01/01/2017
+(C) 12/30/2016
+(D) 12/29/2016
+(E) 12/28/2016
+(F) 01/02/2017
+A: (B)

@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) midsize old grey Brazilian sweater
+(B) midsize grey Brazilian old sweater
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small round wooden Italian table
+(B) round Italian small wooden table
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) large soft furry pink pillow
+(B) pink large furry soft pillow
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright yellow plastic rectangular bowl
+(B) yellow rectangular plastic bright bowl

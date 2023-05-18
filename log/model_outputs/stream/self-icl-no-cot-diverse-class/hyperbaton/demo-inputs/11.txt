@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) terrible tiny new square Egyptian typing sock
+(B) new typing square Egyptian tiny terrible sock
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful soft furry blue striped cotton scarf
+(B) blue furry striped soft cotton beautiful scarf
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious juicy ripe red juicy apple
+(B) red ripe juicy juicy delicious apple
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) shiny bright silver metallic round watch
+(B) silver bright round shiny metallic watch

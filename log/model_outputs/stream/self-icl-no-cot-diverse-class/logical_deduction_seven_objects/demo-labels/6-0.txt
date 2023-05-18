@@ -1,0 +1,10 @@
+Q: In a cooking competition, there were seven chefs: John, Paul, George, Ringo, Mary, Jane, and Susan. Susan finished third. Ringo finished last. Mary finished first. Jane finished below George. George finished above Susan. Paul finished third-to-last.
+Options:
+(A) John finished last
+(B) Paul finished last
+(C) George finished last
+(D) Ringo finished last
+(E) Mary finished last
+(F) Jane finished last
+(G) Susan finished last
+A: (D)

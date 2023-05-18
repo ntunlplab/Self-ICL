@@ -1,0 +1,10 @@
+Q: A bakery sells seven types of bread: rye, sourdough, wheat, pumpernickel, oat, multigrain, and baguette. The rye is the fifth-cheapest. The sourdough is the second-most expensive. The rye is more expensive than the wheat. The baguette is less expensive than the sourdough. The multigrain is the third-most expensive. The oat is the second-cheapest.
+Options:
+(A) The rye is the second-cheapest
+(B) The wheat is the second-cheapest
+(C) The sourdough is the second-cheapest
+(D) The pumpernickel is the second-cheapest
+(E) The oat is the second-cheapest
+(F) The multigrain is the second-cheapest
+(G) The baguette is the second-cheapest
+A: (E)

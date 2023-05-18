@@ -1,0 +1,9 @@
+Q: The new semester begins on 01/15/2022. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 02/15/2022
+(B) 02/14/2022
+(C) 01/14/2022
+(D) 02/16/2022
+(E) 01/16/2022
+(F) 03/15/2022
+A: (B)

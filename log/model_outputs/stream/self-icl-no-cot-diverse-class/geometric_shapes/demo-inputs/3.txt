@@ -1,0 +1,56 @@
+Following is an example instance for the task: Name geometric shapes from their SVG paths. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: This SVG path element <path d="M 12.64,60.32 L 16.36,27.35"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+
+New instance 1:
+Q: This SVG path element <path d="M 10.45,20.32 L 16.36,27.35 L 22.45,20.32"/> draws a
+Options:
+(A) ellipse
+(B) heptagon
+(C) hexagon
+(D) octagon
+(E) parallelogram
+(F) pentagon
+(G) rhombus
+(H) sector
+(I) trapezoid
+(J) triangle
+
+New instance 2:
+Q: This SVG path element <path d="M 10.45,20.32 L 16.36,27.35 L 22.45,20.32 L 16.36,13.45"/> draws a
+Options:
+(A) ellipse
+(B) heptagon
+(C) hexagon
+(D) octagon
+(E) parallelogram
+(F) pentagon
+(G) rhombus
+(H) sector
+(I) trapezoid
+(J) quadrilateral
+
+New instance 3:
+Q: This SVG path element <path d="M 10.45,20.32 L 16.36,27.35 L 22.45,20.32 L 16.36,13.45 L 10.45,20.32 L 16.36,27.35"/> draws a
+Options:
+(A) ellipse
+(B) heptagon
+(C) hexagon
+(D) octagon
+(E) parallelogram
+(F) pentagon
+(G) rhombus
+(H) sector
+(I) trapezoid
+(J) star

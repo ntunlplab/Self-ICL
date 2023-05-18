@@ -1,0 +1,10 @@
+Q: At a pet show, there are seven animals: a parrot, a hamster, a rabbit, a turtle, a guinea pig, a ferret, and a chinchilla. The guinea pig is the second-oldest. The turtle is the fourth-newest. The hamster is older than the rabbit. The rabbit is older than the parrot. The ferret is the third-oldest. The chinchilla is newer than the parrot.
+Options:
+(A) The parrot is the oldest
+(B) The hamster is the oldest
+(C) The rabbit is the oldest
+(D) The turtle is the oldest
+(E) The guinea pig is the oldest
+(F) The ferret is the oldest
+(G) The chinchilla is the oldest
+A: (B)

@@ -1,0 +1,6 @@
+Q: "Here comes a perfectly valid argument: First, being a citizen of the United Kingdom is sufficient for being a resident of Europe. Second, whoever is a resident of Europe is not a resident of Africa. Third, every citizen of the United Kingdom who is a resident of Africa is also a resident of Asia. We may conclude: Being a citizen of the United Kingdom is sufficient for being a resident of Asia."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

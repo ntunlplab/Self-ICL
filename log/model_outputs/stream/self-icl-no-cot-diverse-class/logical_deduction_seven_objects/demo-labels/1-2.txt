@@ -1,0 +1,10 @@
+Q: At a toy store, there are seven dolls: a Barbie, a Ken, a G.I. Joe, a Bratz, a Polly Pocket, a My Little Pony, and a Hot Wheels. The Bratz is the fourth-newest. The Ken is newer than the My Little Pony. The Bratz is older than the Polly Pocket. The G.I. Joe is newer than the Polly Pocket. The Barbie is newer than the G.I. Joe. The My Little Pony is newer than the Hot Wheels.
+Options:
+(A) The Barbie is the third-oldest
+(B) The Ken is the third-oldest
+(C) The G.I. Joe is the third-oldest
+(D) The Bratz is the third-oldest
+(E) The Polly Pocket is the third-oldest
+(F) The My Little Pony is the third-oldest
+(G) The Hot Wheels is the third-oldest
+A: (D)

@@ -1,0 +1,20 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg)
+Molly, 4, 80, 0.5
+Bert, 6, 90, 0.7
+Lily, 2, 70, 0.4
+Sandy, 8, 100, 0.9
+For example: the age of Molly is 4, the weight of Sandy is 0.9 kg, the wingspan of Bert is 90 cm. 
+And here is a similar table, but listing cats:
+name, age, wingspan (cm), weight (kg)
+Toby, 5, 30, 4
+Mia, 10, 25, 3
+Max, 2, 20, 2
+Oscar, 9, 35, 5
+How many cats are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (B)

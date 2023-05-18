@@ -1,0 +1,10 @@
+Q: The members of a theater troupe are assigned to roles at the start of the play. Alan is playing the lead actor, Beth is playing the lead actress, Carl is playing the supporting actor, Diane is playing the supporting actress, Eric is playing the director, Fiona is playing the stage manager, and Gary is playing the lighting technician. As the play progresses, pairs of players occasionally swap roles. First, Alan and Beth trade roles. Then, Carl and Diane trade roles. Then, Eric and Fiona trade roles. Then, Gary and Alan trade roles. Then, Diane and Eric trade roles. Then, Fiona and Gary trade roles. Finally, Beth and Fiona trade roles. At the end of the play, Beth is playing
+Options:
+(A) lead actor
+(B) lead actress
+(C) supporting actor
+(D) supporting actress
+(E) director
+(F) stage manager
+(G) lighting technician
+A: (B)

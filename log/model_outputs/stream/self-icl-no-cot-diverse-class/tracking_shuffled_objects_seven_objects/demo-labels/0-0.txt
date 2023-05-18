@@ -1,0 +1,11 @@
+Q: Seven students are in a debate tournament. At the start of the tournament, they are each assigned to a position: Alex is playing the opening speaker, Ben is playing the closing speaker, Charlie is playing the first rebuttal speaker, David is playing the second rebuttal speaker, Emma is playing the third rebuttal speaker, Fiona is playing the fourth rebuttal speaker, and George is playing the timekeeper.
+As the tournament progresses, pairs of students occasionally swap positions. First, Alex and Ben trade positions. Then, Charlie and David trade positions. Then, Emma and Fiona trade positions. Then, George and Alex trade positions. Then, Ben and Charlie trade positions. Then, David and Emma trade positions. Finally, Fiona and George trade positions. At the end of the tournament, Alex is playing
+Options:
+(A) opening speaker
+(B) closing speaker
+(C) first rebuttal speaker
+(D) second rebuttal speaker
+(E) third rebuttal speaker
+(F) fourth rebuttal speaker
+(G) timekeeper
+A: (A)

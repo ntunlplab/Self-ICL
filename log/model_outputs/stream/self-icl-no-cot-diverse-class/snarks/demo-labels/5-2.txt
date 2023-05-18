@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) That's so impressive, I've never seen a movie with such bad special effects before!
+(B) That's so impressive, I've never seen a movie with such good special effects before!
+A: (A)

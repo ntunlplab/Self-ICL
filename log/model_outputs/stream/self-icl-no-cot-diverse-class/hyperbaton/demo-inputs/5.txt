@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) midsize ancient spherical knife
+(B) spherical ancient midsize knife
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small furry white rabbit
+(B) white furry small rabbit
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall wooden old chair
+(B) old wooden tall chair
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright shiny metallic car
+(B) metallic shiny bright car

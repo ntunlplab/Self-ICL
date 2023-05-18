@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg) Finley, 7, 20, 0.2 Barry, 5, 15, 0.1 Gary, 9, 25, 0.3 Wendy, 8, 18, 0.4  For example: the age of Finley is 7, the weight of Wendy is 0.4 kg, the length of Barry is 15 cm.  And here is a similar table, but listing turtles:
+name, age, length (cm), weight (kg)
+Sam, 5, 10, 0.5
+Tom, 10, 12, 0.6
+Ollie, 2, 8, 0.4
+Sally, 9, 11, 0.7
+What is the name of the last turtle sorted by alphabetic order?
+Options:
+(A) Sam
+(B) Tom
+(C) Ollie
+(D) Sally
+(E) Gary
+A: (D)

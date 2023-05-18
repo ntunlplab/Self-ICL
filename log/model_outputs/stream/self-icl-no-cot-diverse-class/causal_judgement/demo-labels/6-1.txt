@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A company is producing a product that is known to be dangerous. The company is aware of the danger, but continues to produce the product and sell it to consumers. As a result, many people are injured or killed by the product. Did the company intentionally harm the consumers?
+Options:
+- Yes
+- No
+A: No

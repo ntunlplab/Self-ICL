@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) pyramidal American glass exercise surfboard
+(B) glass exercise American pyramidal surfboard
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious Italian creamy parmesan cheese
+(B) creamy parmesan Italian delicious cheese
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) vibrant yellow orange abstract painting
+(B) abstract orange vibrant yellow painting
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) cozy cotton flannel plaid blanket
+(B) plaid flannel cotton cozy blanket

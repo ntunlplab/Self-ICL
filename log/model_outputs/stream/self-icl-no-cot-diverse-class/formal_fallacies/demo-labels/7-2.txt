@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is possible to predict the outcome of a football game: If the home team has a strong defense, then the away team will have a weak offense. The home team has a strong defense. From this follows: The away team will have a weak offense."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

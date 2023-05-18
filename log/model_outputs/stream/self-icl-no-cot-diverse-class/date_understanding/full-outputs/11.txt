@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: Today is Jan 15, 2020. John's birthday is 5 days later. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 12/15/2019
+(B) 12/10/2019
+(C) 11/15/2019
+(D) 11/10/2019
+(E) 10/15/2019
+(F) 10/10/2019
+A: (C)
+
+Q: Today is Mar 25, 2021. The school year will end in 2 days. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 03/25/2020
+(B) 03/23/2020
+(C) 02/25/2020
+(D) 02/23/2020
+(E) 01/25/2020
+(F) 01/23/2020
+A: (A)
+
+Q: Today is Aug 12, 2019. The summer vacation will end in 4 days. What is the date one month ago from today in MM/DD/YYYY?
+Options:
+(A) 07/12/2019
+(B) 07/08/2019
+(C) 06/12/2019
+(D) 06/08/2019
+(E) 05/12/2019
+(F) 05/08/2019
+A: (D)
+
+Q: Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 05/13/1985
+(B) 04/03/1985
+(C) 03/10/1986
+(D) 04/01/1985
+(E) 04/13/1985
+(F) 04/12/1986
+A: (D)

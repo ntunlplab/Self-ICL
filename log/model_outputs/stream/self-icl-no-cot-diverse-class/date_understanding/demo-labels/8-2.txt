@@ -1,0 +1,9 @@
+Q: It is currently December 25th, 2019. What was the date one year ago in MM/DD/YYYY?
+Options:
+(A) 12/25/2018
+(B) 12/30/2018
+(C) 12/15/2018
+(D) 12/25/2019
+(E) 12/01/2018
+(F) 12/30/2018
+A: (A)

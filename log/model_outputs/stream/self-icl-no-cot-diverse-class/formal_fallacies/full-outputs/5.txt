@@ -1,0 +1,29 @@
+Task description: Distinguish deductively valid arguments from formal fallacies.
+
+Q: "Here comes a perfectly valid argument: First premise: All cats are animals. Second premise: All animals have four legs. It follows that all cats have four legs."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: First premise: All dogs are mammals. Second premise: All mammals have fur. It follows that all dogs have fur."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: First premise: All birds can fly. Second premise: All penguins are birds. It follows that all penguins can fly."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid
+
+Q: "Here comes a perfectly valid argument: First premise: No son of Alexander who is an ancestor of Ahmed is a great-grandfather of Ronny. It follows that no great-grandfather of Ronny is an ancestor of Ahmed or a son of Alexander."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

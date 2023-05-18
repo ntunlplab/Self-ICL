@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+A family is living in a house that is located near a factory. The factory is emitting toxic fumes that are causing the family to become ill. The family decides to move away from the factory, but the factory continues to emit the same amount of toxic fumes. Did the factory intentionally harm the family?
+Options:
+- Yes
+- No
+A: No

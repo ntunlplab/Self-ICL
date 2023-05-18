@@ -1,0 +1,11 @@
+Q: Seven friends are playing a game of rock-paper-scissors. At the start of the game, each friend is holding a different item: Friend A is holding a rock, Friend B is holding a paper, Friend C is holding a pair of scissors, Friend D is holding a pencil, Friend E is holding a rubber band, Friend F is holding a coin, and Friend G is holding a marble.
+As the game progresses, pairs of friends swap items. First, Friend A and Friend B swap items. Then, Friend C and Friend D swap items. Then, Friend E and Friend F swap items. Then, Friend A and Friend C swap items. Then, Friend D and Friend G swap items. Then, Friend B and Friend F swap items. Finally, Friend E and Friend G swap items. At the end of the game, Friend A is holding a 
+Options:
+(A) rock
+(B) paper
+(C) pair of scissors
+(D) pencil
+(E) rubber band
+(F) coin
+(G) marble
+A: (B)

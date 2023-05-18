@@ -1,0 +1,10 @@
+Q: At a game of chess, 8 pieces are arranged on a board. At the start of the game, they are arranged in the following order: Piece 1 is next to Piece 2, Piece 2 is next to Piece 3, Piece 3 is next to Piece 4, Piece 4 is next to Piece 5, Piece 5 is next to Piece 6, Piece 6 is next to Piece 7, and Piece 7 is next to Piece 8. Throughout the game, the pieces often switch positions. First, Piece 1 and Piece 3 switch positions. Then, Piece 4 and Piece 6 switch positions. Then, Piece 5 and Piece 8 switch positions. Then, Piece 2 and Piece 7 switch positions. Then, Piece 3 and Piece 5 switch positions. Then, Piece 6 and Piece 8 switch positions. Finally, Piece 1 and Piece 4 switch positions. At the end of the game, Piece 1 is next to
+Options:
+(A) Piece 2
+(B) Piece 3
+(C) Piece 4
+(D) Piece 5
+(E) Piece 6
+(F) Piece 7
+(G) Piece 8
+A: (B)

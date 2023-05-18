@@ -1,0 +1,6 @@
+Q: On a shelf, there are three books: a novel, a dictionary, and a cookbook. The dictionary is to the right of the novel. The cookbook is to the left of the novel.
+Options:
+(A) The novel is the second from the left
+(B) The dictionary is the second from the left
+(C) The cookbook is the second from the left
+A: (B)

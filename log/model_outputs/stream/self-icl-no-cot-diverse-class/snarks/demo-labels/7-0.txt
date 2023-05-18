@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) We should definitely keep the old, inefficient system
+(B) We should definitely upgrade to the new, efficient system
+A: (A)

@@ -1,0 +1,16 @@
+Q: Today, Jane went to the aquarium. Between what times could they have gone?
+We know that:
+Jane woke up at 6am.
+Tom saw Jane buying a new bike at the bike shop from 6am to 8am.
+Linda saw Jane walking her dog at the park from 8am to 10am.
+George saw Jane eating breakfast at the diner from 10am to 12pm.
+Samantha saw Jane shopping for clothes at the mall from 12pm to 2pm.
+John saw Jane playing video games at the arcade from 2pm to 5pm.
+The aquarium was closed after 9pm.
+Between what times could Jane have gone to the aquarium?
+Options:
+(A) 6am to 8am
+(B) 2pm to 5pm
+(C) 10am to 12pm
+(D) 5pm to 9pm
+A: (D)

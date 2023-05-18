@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) medium-size archaic prismlike purple American car
+(B) archaic purple prismlike American medium-size car
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small, furry, white, stuffed teddy bear
+(B) white, stuffed, furry, small teddy bear
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) tall, wooden, antique, bookcase
+(B) antique, wooden, tall, bookcase
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) bright, yellow, plastic, beach ball
+(B) plastic, yellow, bright, beach ball

@@ -1,0 +1,2 @@
+Q: Question: David says he never lies. Rachel says David lies. Tom says Rachel tells the truth. Jane says Tom lies. Does Jane tell the truth?
+A: No,

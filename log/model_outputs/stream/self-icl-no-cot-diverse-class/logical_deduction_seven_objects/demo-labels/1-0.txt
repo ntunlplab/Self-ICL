@@ -1,0 +1,10 @@
+Q: At a pet store, there are seven animals: a hamster, a parrot, a rabbit, a guinea pig, a turtle, a fish, and a snake. The guinea pig is the fourth-newest. The parrot is newer than the fish. The guinea pig is older than the rabbit. The turtle is newer than the rabbit. The hamster is newer than the turtle. The fish is newer than the snake.
+Options:
+(A) The hamster is the third-oldest
+(B) The parrot is the third-oldest
+(C) The rabbit is the third-oldest
+(D) The guinea pig is the third-oldest
+(E) The turtle is the third-oldest
+(F) The fish is the third-oldest
+(G) The snake is the third-oldest
+A: (D)

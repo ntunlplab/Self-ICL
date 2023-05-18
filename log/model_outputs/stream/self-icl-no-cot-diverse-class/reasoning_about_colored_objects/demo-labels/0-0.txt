@@ -1,0 +1,20 @@
+Q: On the floor, there is one yellow ball, two green balls, three blue balls, two yellow blocks, three blue blocks, three red balls, and one green block. If I remove all the blocks from the floor, how many blue objects remain on it?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+(H) seven
+(I) eight
+(J) nine
+(K) ten
+(L) eleven
+(M) twelve
+(N) thirteen
+(O) fourteen
+(P) fifteen
+(Q) sixteen
+A: (D)

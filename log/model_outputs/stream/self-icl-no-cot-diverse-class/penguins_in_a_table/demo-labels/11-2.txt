@@ -1,0 +1,20 @@
+Q: Here is a table where the first line is a header and each subsequent line is a mammal:  name, age, height (cm), weight (kg)
+Toby, 4, 50, 11
+Bella, 6, 80, 13
+Max, 2, 60, 11
+Daisy, 8, 70, 15
+For example: the age of Toby is 4, the weight of Daisy is 15 kg, the height of Bella is 80 cm. 
+And here is a similar table, but listing dogs:
+name, age, height (cm), weight (kg)
+Fido, 5, 30, 10
+Buddy, 10, 25, 8
+Spot, 2, 20, 6
+Rover, 9, 35, 12
+How many dogs are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (B)

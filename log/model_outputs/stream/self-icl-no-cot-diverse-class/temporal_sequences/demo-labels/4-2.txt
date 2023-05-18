@@ -1,0 +1,14 @@
+Q: Today, David went to the museum. Between what times could they have gone?
+We know that:
+David left his house at 11am.
+Samantha saw David getting a sandwich at the cafe from 11am to 1pm.
+Tom saw David walking towards the art gallery from 4pm to 6pm.
+Karen saw David buying a souvenir at the store from 6pm to 8pm.
+The museum was closed after 9pm.
+Between what times could David have gone to the museum?
+Options:
+(A) 1pm to 4pm
+(B) 11am to 1pm
+(C) 6pm to 8pm
+(D) 4pm to 6pm
+A: (D)

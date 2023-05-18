@@ -1,0 +1,45 @@
+Following is an example instance for the task: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Melissa, Claire is dancing with Jamie, Dave is dancing with Sam, Eve is dancing with Patrick, Fred is dancing with Rodrigo, and Gertrude is dancing with Karl.
+Throughout the song, the dancers often trade partners. First, Dave and Claire switch partners. Then, Alice and Eve switch partners. Then, Eve and Bob switch partners. Then, Claire and Bob switch partners. Then, Fred and Eve switch partners. Then, Gertrude and Dave switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Dave is dancing with
+Options:
+(A) Ophelia
+(B) Melissa
+(C) Jamie
+(D) Sam
+(E) Patrick
+(F) Rodrigo
+(G) Karl
+
+New instance 1:
+Q: At a game of musical chairs, 8 players are seated in a circle. At the start of the game, they are seated in the following order: Player 1 is seated next to Player 2, Player 2 is seated next to Player 3, Player 3 is seated next to Player 4, Player 4 is seated next to Player 5, Player 5 is seated next to Player 6, Player 6 is seated next to Player 7, and Player 7 is seated next to Player 8. Throughout the game, the players often switch seats. First, Player 1 and Player 3 switch seats. Then, Player 4 and Player 6 switch seats. Then, Player 5 and Player 8 switch seats. Then, Player 2 and Player 7 switch seats. Then, Player 3 and Player 5 switch seats. Then, Player 6 and Player 8 switch seats. Finally, Player 1 and Player 4 switch seats. At the end of the game, Player 1 is seated next to
+Options:
+(A) Player 2
+(B) Player 3
+(C) Player 4
+(D) Player 5
+(E) Player 6
+(F) Player 7
+(G) Player 8
+
+New instance 2:
+Q: At a game of tag, 8 children are running around a playground. At the start of the game, they are running in the following order: Child 1 is running next to Child 2, Child 2 is running next to Child 3, Child 3 is running next to Child 4, Child 4 is running next to Child 5, Child 5 is running next to Child 6, Child 6 is running next to Child 7, and Child 7 is running next to Child 8. Throughout the game, the children often switch positions. First, Child 1 and Child 3 switch positions. Then, Child 4 and Child 6 switch positions. Then, Child 5 and Child 8 switch positions. Then, Child 2 and Child 7 switch positions. Then, Child 3 and Child 5 switch positions. Then, Child 6 and Child 8 switch positions. Finally, Child 1 and Child 4 switch positions. At the end of the game, Child 1 is running next to
+Options:
+(A) Child 2
+(B) Child 3
+(C) Child 4
+(D) Child 5
+(E) Child 6
+(F) Child 7
+(G) Child 8
+
+New instance 3:
+Q: At a game of chess, 8 pieces are arranged on a board. At the start of the game, they are arranged in the following order: Piece 1 is next to Piece 2, Piece 2 is next to Piece 3, Piece 3 is next to Piece 4, Piece 4 is next to Piece 5, Piece 5 is next to Piece 6, Piece 6 is next to Piece 7, and Piece 7 is next to Piece 8. Throughout the game, the pieces often switch positions. First, Piece 1 and Piece 3 switch positions. Then, Piece 4 and Piece 6 switch positions. Then, Piece 5 and Piece 8 switch positions. Then, Piece 2 and Piece 7 switch positions. Then, Piece 3 and Piece 5 switch positions. Then, Piece 6 and Piece 8 switch positions. Finally, Piece 1 and Piece 4 switch positions. At the end of the game, Piece 1 is next to
+Options:
+(A) Piece 2
+(B) Piece 3
+(C) Piece 4
+(D) Piece 5
+(E) Piece 6
+(F) Piece 7
+(G) Piece 8

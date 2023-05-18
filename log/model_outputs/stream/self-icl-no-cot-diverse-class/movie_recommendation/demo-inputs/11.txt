@@ -1,0 +1,32 @@
+Following is an example instance for the task: Recommend movies similar to the given list of movies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Find a movie similar to Forrest Gump, The Fugitive, The Shawshank Redemption, Pulp Fiction:
+Options:
+(A) Anchors Aweigh
+(B) Looney Tunes Back in Action
+(C) Porky's Revenge
+(D) Dances with Wolves
+
+New instance 1:
+Q: Find a movie similar to The Godfather, The Dark Knight, The Departed, Inception:
+Options:
+(A) The Prestige
+(B) The Town
+(C) The Aviator
+(D) Goodfellas
+
+New instance 2:
+Q: Find a movie similar to The Lion King, Beauty and the Beast, Aladdin, The Little Mermaid:
+Options:
+(A) Hercules
+(B) Mulan
+(C) Pocahontas
+(D) Tangled
+
+New instance 3:
+Q: Find a movie similar to The Hangover, Superbad, Knocked Up, Bridesmaids:
+Options:
+(A) The 40-Year-Old Virgin
+(B) Wedding Crashers
+(C) Step Brothers
+(D) Old School

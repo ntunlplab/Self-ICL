@@ -1,0 +1,6 @@
+Q: What caused the power outage in the office building?
+The office building had a power outage last week. The building manager noticed that the circuit breaker had tripped and that the lights had gone out. He also noticed that the air conditioning had stopped working. After further investigation, he found that the circuit breaker had been overloaded due to a faulty air conditioning unit. Did the faulty air conditioning unit cause the power outage?
+Options:
+- Yes
+- No
+A: Yes

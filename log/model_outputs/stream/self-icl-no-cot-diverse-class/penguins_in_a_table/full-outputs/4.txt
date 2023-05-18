@@ -1,0 +1,52 @@
+Task description: Answer questions about a table of penguins and their attributes.
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, species, habitat, diet 
+Miles, Adelie, Antarctic, Krill 
+Oscar, Emperor, Arctic, Fish 
+Lola, Gentoo, Sub-Antarctic, Squid 
+For example: the species of Miles is Adelie, the habitat of Oscar is Arctic, the diet of Lola is Squid. 
+Which penguin has a diet of Krill?
+Options:
+(A) Miles
+(B) Oscar
+(C) Lola
+(D) Adelie
+(E) Emperor
+A: (A)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, color, wingspan (cm), swimming speed (km/h) 
+Ralph, Black, 80, 5 
+Sandy, White, 70, 6 
+Toby, Grey, 90, 4 
+For example: the color of Ralph is Black, the wingspan of Sandy is 70 cm, the swimming speed of Toby is 4 km/h. 
+Which penguin has the longest wingspan?
+Options:
+(A) Ralph
+(B) Sandy
+(C) Toby
+(D) Black
+(E) White
+A: (C)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) 
+Nina, 6, 45, 10 
+Olivia, 4, 75, 12 
+Paul, 8, 55, 9 
+For example: the age of Nina is 6, the weight of Olivia is 12 kg, the height of Paul is 55 cm. 
+Which penguin is the lightest?
+Options:
+(A) Nina
+(B) Olivia
+(C) Paul
+(D) 6
+(E) 75
+A: (A)
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is older than Gwen?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: (C)

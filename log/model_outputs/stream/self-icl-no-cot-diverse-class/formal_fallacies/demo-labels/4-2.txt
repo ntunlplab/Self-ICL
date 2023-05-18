@@ -1,0 +1,6 @@
+Q: "Some people prefer to travel by car, while others prefer to travel by train. But what is the best way to travel? The following argument pertains to this question: First premise: Traveling by car is sufficient for not traveling by train. Second premise: Every person who travels by car is not traveling by train. Therefore, whoever travels by car is not traveling by train."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

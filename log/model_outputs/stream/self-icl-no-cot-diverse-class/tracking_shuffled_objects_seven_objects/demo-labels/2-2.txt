@@ -1,0 +1,12 @@
+Q: At a game of tag, 8 players are running around. At the start of the game, each player is in a different area: Player 1 is in Area A, Player 2 is in Area B, Player 3 is in Area C, Player 4 is in Area D, Player 5 is in Area E, Player 6 is in Area F, Player 7 is in Area G, and Player 8 is in Area H.
+Throughout the game, the players often switch areas. First, Player 1 and Player 4 switch areas. Then, Player 5 and Player 8 switch areas. Then, Player 3 and Player 6 switch areas. Then, Player 2 and Player 7 switch areas. Then, Player 1 and Player 5 switch areas. Then, Player 4 and Player 8 switch areas. Finally, Player 3 and Player 7 switch areas. At the end of the game, Player 1 is in
+Options:
+(A) Area A
+(B) Area B
+(C) Area C
+(D) Area D
+(E) Area E
+(F) Area F
+(G) Area G
+(H) Area H
+A: (D)

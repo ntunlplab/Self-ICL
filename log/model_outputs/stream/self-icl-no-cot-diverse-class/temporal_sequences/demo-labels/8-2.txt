@@ -1,0 +1,16 @@
+Q: Today, Mark went to the planetarium. Between what times could they have gone?
+We know that:
+Mark woke up at 4am.
+Sally saw Mark walking in the park from 4am to 5am.
+Mark saw Mark buying a new book at the bookstore from 5am to 6am.
+David saw Mark buying a new game console at the game store from 6am to 7am.
+Karen saw Mark taking photos near the Great Wall of China from 7am to 10am.
+Linda saw Mark taking photos near the Taj Mahal from 3pm to 5pm.
+The planetarium was closed after 7pm.
+Between what times could Mark have gone to the planetarium?
+Options:
+(A) 10am to 3pm
+(B) 4am to 5am
+(C) 6am to 7am
+(D) 3pm to 5pm
+A: (A)

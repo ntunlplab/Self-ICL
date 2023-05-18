@@ -1,0 +1,8 @@
+Q: On a shelf, there are five cups: a red cup, a yellow cup, a green cup, a blue cup, and a purple cup. The yellow cup is to the left of the green cup. The yellow cup is the second from the right. The red cup is to the right of the purple cup. The blue cup is the second from the left.
+Options:
+(A) The red cup is the leftmost
+(B) The yellow cup is the leftmost
+(C) The green cup is the leftmost
+(D) The blue cup is the leftmost
+(E) The purple cup is the leftmost
+A: (E)

@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) That's so convenient, I've never had to wait in line for more than an hour before!
+(B) That's so convenient, I've never had to wait in line for less than an hour before!
+A: (A)

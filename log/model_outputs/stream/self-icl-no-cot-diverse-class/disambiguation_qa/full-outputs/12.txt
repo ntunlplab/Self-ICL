@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The student asked the teacher for help and they agreed.
+Options:
+(A) The student agreed
+(B) The teacher agreed
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The couple went to the store and bought it.
+Options:
+(A) The couple bought the store
+(B) The couple bought something from the store
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was struggling and they needed help.
+Options:
+(A) The team needed help
+(B) Someone else needed help
+(C) Ambiguous
+A: (A)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The writer tried to fool the salesperson and told them a fake story.
+Options:
+(A) Told the writer a fake story
+(B) Told the salesperson a fake story
+(C) Ambiguous
+A: (B)

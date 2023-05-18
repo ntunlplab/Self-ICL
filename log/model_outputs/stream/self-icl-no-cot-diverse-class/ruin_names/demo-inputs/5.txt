@@ -1,0 +1,32 @@
+Following is an example instance for the task: Select the humorous edit that 'ruins' the input movie or musical artist name. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which of the following is a humorous edit of this artist or movie name: 'paul revere and the raiders'?
+Options:
+(A) paul rfevere and the raiders
+(B) paul severe and the raiders
+(C) mpaul revere and the raiders
+(D) paul erevere and the raiders
+
+New instance 1:
+Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?
+Options:
+(A) the beagles
+(B) the beatels
+(C) the beetles
+(D) the beatees
+
+New instance 2:
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lion kong
+(B) the lion kling
+(C) the lion kang
+(D) the lion kwing
+
+New instance 3:
+Q: Which of the following is a humorous edit of this artist or movie name: 'the rolling stones'?
+Options:
+(A) the rolling stons
+(B) the rolling stanes
+(C) the rolling stunes
+(D) the rolling stoners

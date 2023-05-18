@@ -1,0 +1,11 @@
+Q: Seven musicians are in a band. At the start of the band, they are each assigned to an instrument: Alan is playing the guitar, Barbara is playing the bass, Charles is playing the drums, David is playing the keyboard, Emily is playing the saxophone, Frank is playing the trumpet, and George is playing the tambourine.
+As the band progresses, pairs of musicians occasionally swap instruments. First, Alan and Barbara trade instruments. Then, Charles and David trade instruments. Then, Emily and Frank trade instruments. Then, George and Alan trade instruments. Then, Barbara and Charles trade instruments. Then, David and Emily trade instruments. Finally, Frank and George trade instruments. At the end of the band, Alan is playing
+Options:
+(A) guitar
+(B) bass
+(C) drums
+(D) keyboard
+(E) saxophone
+(F) trumpet
+(G) tambourine
+A: (A)

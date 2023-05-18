@@ -1,0 +1,2 @@
+Q: Question: Frank says that Gina tells the truth. Harry says that Frank lies. Ian says that Harry tells the truth. Jane says that Ian lies. Does Jane tell the truth?
+A: No,

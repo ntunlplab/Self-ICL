@@ -1,0 +1,10 @@
+Q: A bakery sells seven types of bread: rye, wheat, sourdough, pumpernickel, baguette, focaccia, and ciabatta. The rye is the cheapest. The wheat is more expensive than the sourdough. The pumpernickel is the second-most expensive. The baguette is more expensive than the pumpernickel. The focaccia is less expensive than the ciabatta. The sourdough is the third-cheapest.
+Options:
+(A) The rye is the third-most expensive
+(B) The wheat is the third-most expensive
+(C) The sourdough is the third-most expensive
+(D) The pumpernickel is the third-most expensive
+(E) The baguette is the third-most expensive
+(F) The focaccia is the third-most expensive
+(G) The ciabatta is the third-most expensive
+A: (C)

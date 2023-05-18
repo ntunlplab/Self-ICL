@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Ana, Eve, Ada, Dan, Rob, Amy, and Joe. Dan finished third. Ana finished above Ada. Amy finished last. Dan finished below Rob. Eve finished below Ada. Rob finished below Joe.
+Options:
+(A) Ana finished third
+(B) Eve finished third
+(C) Ada finished third
+(D) Dan finished third
+(E) Rob finished third
+(F) Amy finished third
+(G) Joe finished third
+
+New instance 1:
+Q: In a cooking competition, there were seven chefs: John, Paul, George, Ringo, Mary, Jane, and Susan. Mary finished third. John finished above Ringo. Jane finished last. George finished below Ringo. Paul finished below Susan. Ringo finished below Jane.
+Options:
+(A) John finished third
+(B) Paul finished third
+(C) George finished third
+(D) Ringo finished third
+(E) Mary finished third
+(F) Jane finished third
+(G) Susan finished third
+
+New instance 2:
+Q: In a spelling bee, there were seven contestants: Alex, Ben, Charlie, David, Emma, Frank, and Grace. Charlie finished third. Alex finished above David. Grace finished last. Ben finished below David. Emma finished below Frank. David finished below Emma.
+Options:
+(A) Alex finished third
+(B) Ben finished third
+(C) Charlie finished third
+(D) David finished third
+(E) Emma finished third
+(F) Frank finished third
+(G) Grace finished third
+
+New instance 3:
+Q: In a chess tournament, there were seven players: Jack, Jill, Peter, Wendy, Tom, Harry, and Sarah. Tom finished third. Jack finished above Peter. Harry finished last. Jill finished below Peter. Wendy finished below Harry. Peter finished below Wendy.
+Options:
+(A) Jack finished third
+(B) Jill finished third
+(C) Peter finished third
+(D) Wendy finished third
+(E) Tom finished third
+(F) Harry finished third
+(G) Sarah finished third

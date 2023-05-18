@@ -1,0 +1,33 @@
+Task description: Clarify the meaning of sentences with ambiguous pronouns.
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The teacher asked the student to turn in their assignment, but they refused.
+Options:
+(A) The teacher refused
+(B) The student refused
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team captain asked the players to practice their skills, but they were too tired.
+Options:
+(A) The team captain was too tired
+(B) The players were too tired
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager asked the employees to finish the project, but they didn't have enough time.
+Options:
+(A) The manager didn't have enough time
+(B) The employees didn't have enough time
+(C) Ambiguous
+A: (B)
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The investigator wanted to interview the witness in person, but she was too late.
+Options:
+(A) The investigator was too late
+(B) The witness was too late
+(C) Ambiguous
+A: (B)

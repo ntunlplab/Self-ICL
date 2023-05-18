@@ -1,0 +1,9 @@
+Q: Mark has been going to the library every Thursday since the beginning of August in 2017. Today is his 11th visit. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 08/03/2016
+(B) 07/28/2016
+(C) 07/21/2016
+(D) 08/11/2016
+(E) 07/14/2016
+(F) 08/18/2016
+A: (B)

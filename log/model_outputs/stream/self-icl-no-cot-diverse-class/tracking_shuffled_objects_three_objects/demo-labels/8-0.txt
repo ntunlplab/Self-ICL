@@ -1,0 +1,7 @@
+Q: Jack, Jill, and John are playing a game. At the start of the game, they are each holding a card: Jack has a black card, Jill has a blue card, and John has a green card.
+As the game progresses, pairs of players trade cards. First, John and Jill swap cards. Then, Jill and Jack swap cards. Finally, John and Jack swap cards. At the end of the game, Jill has the
+Options:
+(A) black card
+(B) blue card
+(C) green card
+A: (A)

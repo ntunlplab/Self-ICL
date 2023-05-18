@@ -1,0 +1,24 @@
+Following is an example instance for the task: Order adjectives correctly in English sentences. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) nice American computer
+(B) American nice computer
+
+New instance 1:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) small red car
+(B) red small car
+
+New instance 2:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) delicious Italian pizza
+(B) Italian delicious pizza
+
+New instance 3:
+Q: Which sentence has the correct adjective order:
+Options:
+(A) beautiful wooden table
+(B) wooden beautiful table

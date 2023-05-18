@@ -1,0 +1,9 @@
+Q: On April 1st, 2019, John bought a dozen donuts. He ate one every day. Today he ran out of donuts. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 04/25/2019
+(B) 04/26/2019
+(C) 04/27/2019
+(D) 04/24/2019
+(E) 04/23/2019
+(F) 04/22/2019
+A: (B)

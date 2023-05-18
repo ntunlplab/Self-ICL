@@ -1,0 +1,10 @@
+Q: On a shelf, there are seven tools: a red tool, a white tool, a black tool, a yellow tool, an orange tool, a blue tool, and a green tool. The yellow tool is the rightmost. The blue tool is to the left of the orange tool. The green tool is to the right of the white tool. The blue tool is to the right of the green tool. The black tool is the fourth from the left. The red tool is the third from the right.
+Options:
+(A) The red tool is the fourth from the left
+(B) The white tool is the fourth from the left
+(C) The black tool is the fourth from the left
+(D) The yellow tool is the fourth from the left
+(E) The orange tool is the fourth from the left
+(F) The blue tool is the fourth from the left
+(G) The green tool is the fourth from the left
+A: (C)

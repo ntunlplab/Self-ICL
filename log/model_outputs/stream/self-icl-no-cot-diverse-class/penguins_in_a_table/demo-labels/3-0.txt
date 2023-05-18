@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (kg) Daisy, 4, 80, 2.5 Fred, 6, 90, 3.2 Sam, 8, 100, 4.1 Lucy, 10, 110, 5.2  For example: the age of Daisy is 4, the weight of Lucy is 5.2 kg, the wingspan of Fred is 90 cm.  And here is a similar table, but listing butterflies:
+name, age, wingspan (cm), weight (kg)
+Molly, 3, 10, 0.2
+Gina, 5, 12, 0.3
+Sandy, 7, 14, 0.4
+Tina, 9, 16, 0.5
+How many animals have a wingspan of more than 12 cm?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (C)

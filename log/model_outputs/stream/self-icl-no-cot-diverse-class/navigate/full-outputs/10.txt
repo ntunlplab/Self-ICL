@@ -1,0 +1,25 @@
+Task description: Given a series of navigation instructions, determine whether one would end up back at the starting point.
+
+Q: If you follow these instructions, do you return to the starting point? Take a left turn. Take a right turn. Take a left turn. Take a right turn.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Take a bus to the next stop. Take a train to the next station. Take a taxi to the next destination. Take a bus to the next stop.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Take a left turn. Take a right turn. Take a left turn. Take a right turn. Take a left turn.
+Options:
+- Yes
+- No
+A: Yes
+
+Q: If you follow these instructions, do you return to the starting point? Take 8 steps. Take 5 steps. Take 5 steps. Take 10 steps. Take 5 steps.
+Options:
+- Yes
+- No
+A: No

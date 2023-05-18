@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The Chicago Bulls won the NBA championship with a buzzer-beater shot."
+A: Yes,
+
+Q: Is the following sentence plausible? "The New England Patriots won the Super Bowl with a Hail Mary pass."
+A: Yes,
+
+Q: Is the following sentence plausible? "The Los Angeles Lakers won the NBA Finals with a half-court shot."
+A: No,
+
+Q: Is the following sentence plausible? "Bryce Harper hit the back shoulder fade."
+A: Yes.

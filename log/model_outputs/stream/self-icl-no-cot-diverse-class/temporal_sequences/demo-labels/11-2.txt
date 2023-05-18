@@ -1,0 +1,15 @@
+Q: Today, Jessica went to the theater. Between what times could they have gone?
+We know that:
+Jessica woke up at 9am.
+Ethan saw Jessica playing tennis at the court from 11am to 1pm.
+Frank saw Jessica eating lunch at the cafe from 2pm to 4pm.
+Gina saw Jessica shopping at the mall from 5pm to 7pm.
+Harry saw Jessica walking her dog at the park from 8pm to 10pm.
+The theater was closed after 11pm.
+Between what times could Jessica have gone to the theater?
+Options:
+(A) 9am to 11am
+(B) 4pm to 5pm
+(C) 7pm to 8pm
+(D) 10pm to 11pm
+A: (D)

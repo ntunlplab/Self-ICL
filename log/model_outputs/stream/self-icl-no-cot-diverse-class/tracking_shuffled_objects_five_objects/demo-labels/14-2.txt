@@ -1,0 +1,9 @@
+Q: Five teams are competing in a relay race. At the start of the race, they each have a runner: Alice is running for Team 1, Bob is running for Team 2, Claire is running for Team 3, Dave is running for Team 4, and Eve is running for Team 5.
+Throughout the race, the runners often switch teams. First, Claire and Bob switch teams. Then, Claire and Eve switch teams. Then, Bob and Dave switch teams. Then, Claire and Eve switch teams. Finally, Alice and Eve switch teams. At the end of the race, Dave is running for
+Options:
+(A) Team 1
+(B) Team 2
+(C) Team 3
+(D) Team 4
+(E) Team 5
+A: (E)

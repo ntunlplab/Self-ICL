@@ -1,0 +1,9 @@
+Q: Today is 07/04/2020. What is the date one month ago in MM/DD/YYYY?
+Options:
+(A) 06/04/2020
+(B) 06/03/2020
+(C) 06/02/2020
+(D) 06/01/2020
+(E) 05/31/2020
+(F) 05/30/2020
+A: (B)

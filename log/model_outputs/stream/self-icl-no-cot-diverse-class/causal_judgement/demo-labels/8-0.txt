@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+Imagine that there is a woman driving down a highway late at night. She is tired and not paying attention to the road. Suddenly, she notices a deer in the middle of the road. She slams on the brakes, but it is too late. The deer is hit and killed by the car. Did the woman intentionally hit the deer?
+Options:
+- Yes
+- No
+A: No

@@ -1,0 +1,8 @@
+Q: John started his new job on Aug 15, 2019. 437 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
+Options:
+(A) 08/15/2018
+(B) 08/30/2018
+(C) 09/12/2018
+(D) 09/20/2018
+(E) 09/30/2018
+A: (A)

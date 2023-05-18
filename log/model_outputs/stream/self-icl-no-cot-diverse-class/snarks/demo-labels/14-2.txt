@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to be stuck in the same routine every day
+(B) I'm so excited to be doing something new every day
+A: (A)

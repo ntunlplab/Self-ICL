@@ -1,0 +1,32 @@
+Following is an example instance for the task: Select the humorous edit that 'ruins' the input movie or musical artist name. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?
+Options:
+(A) the bdeatles
+(B) the beatless
+(C) thp beatles
+(D) tce beatles
+
+New instance 1:
+Q: Which of the following is a humorous edit of this artist or movie name: 'titanic'?
+Options:
+(A) tiatanic
+(B) tiatnic
+(C) tiatnoc
+(D) tiatnix
+
+New instance 2:
+Q: Which of the following is a humorous edit of this artist or movie name: 'the lion king'?
+Options:
+(A) the lioon king
+(B) the lioon kong
+(C) the lioon kang
+(D) the lioon kung
+
+New instance 3:
+Q: Which of the following is a humorous edit of this artist or movie name: 'star wars'?
+Options:
+(A) staar wars
+(B) starr wars
+(C) staar worrs
+(D) starr worrs

@@ -1,0 +1,19 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, color, location 
+
+Oscar, 4, black, South America 
+
+Lily, 6, white, South America 
+
+Ralph, 8, black, South America 
+
+Sandy, 10, white, South America 
+
+For example: the age of Oscar is 4, the color of Ralph is black, the location of Lily is South America. How many penguins are more than 6 years old?
+
+Options:
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4
+A: (C)

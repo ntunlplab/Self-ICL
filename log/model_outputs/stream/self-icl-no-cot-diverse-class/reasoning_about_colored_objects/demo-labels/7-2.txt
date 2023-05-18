@@ -1,0 +1,21 @@
+Q: On the desk, I see a blue pen, a silver laptop, an orange folder, and a black mouse. What color is the pen?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+A: (E)

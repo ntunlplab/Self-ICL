@@ -1,0 +1,8 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The team was excited to win the game and celebrate with their families.
+Options:
+(A) They were the team's families
+(B) They were the families' families
+(C) They were the game's families
+(D) Ambiguous
+A: (D)

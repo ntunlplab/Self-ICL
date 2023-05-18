@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) She's so smart, she must have studied all night
+(B) She's so smart, she must have cheated
+A: (B)

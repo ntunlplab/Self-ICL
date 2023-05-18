@@ -1,0 +1,9 @@
+Q: Today is 07/04/2019. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 08/04/2019
+(B) 07/31/2019
+(C) 08/31/2019
+(D) 07/04/2020
+(E) 08/31/2020
+(F) 06/04/2019
+A: (C)

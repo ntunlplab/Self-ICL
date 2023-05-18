@@ -1,0 +1,7 @@
+Q: Sarah, Tom, and Tyler are playing a game. At the start of the game, they are each holding a coin: Sarah has a penny, Tom has a nickel, and Tyler has a dime.
+As the game progresses, pairs of players trade coins. First, Tyler and Sarah swap coins. Then, Tom and Sarah swap coins. Finally, Tom and Tyler swap coins. At the end of the game, Tom has the
+Options:
+(A) penny
+(B) nickel
+(C) dime
+A: (B)

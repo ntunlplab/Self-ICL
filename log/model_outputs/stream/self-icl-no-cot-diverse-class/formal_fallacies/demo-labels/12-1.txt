@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not a certain type of car is reliable: All of the cars of this type are made with quality parts. No cars of this type are made with faulty parts. We may conclude: All of the cars of this type are reliable."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

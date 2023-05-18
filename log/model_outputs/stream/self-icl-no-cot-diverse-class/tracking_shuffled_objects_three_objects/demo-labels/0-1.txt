@@ -1,0 +1,6 @@
+Q: Three friends, George, Henry, and Irene, are playing a game of cards. At the start of the game, George has the Ace of Spades, Henry has the King of Hearts, and Irene has the Queen of Clubs. As the game progresses, they decide to switch cards. First, George and Henry swap cards. Then, Henry and Irene swap cards. Finally, George and Henry swap cards. At the end of the game, Henry has
+Options:
+(A) Ace of Spades
+(B) King of Hearts
+(C) Queen of Clubs
+A: (B)

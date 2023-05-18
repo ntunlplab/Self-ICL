@@ -1,0 +1,5 @@
+Q: Did the fact that Drew unexpectedly ordered coffee on Tuesday cause the coffee shop to make a profit that day?
+Options:
+- Yes
+- No
+A: No

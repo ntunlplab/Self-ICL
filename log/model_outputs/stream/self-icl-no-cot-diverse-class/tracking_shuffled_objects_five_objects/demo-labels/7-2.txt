@@ -1,0 +1,9 @@
+Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each person is holding a different item: Alice is holding a rock, Bob is holding a paper, Claire is holding a scissors, Dave is holding a pencil, and Eve is holding a ruler.
+As the game progresses, pairs of people swap items. First, Eve and Bob swap items. Then, Claire and Alice swap items. Then, Bob and Eve swap items. Then, Dave and Claire swap items. Finally, Alice and Eve swap items. At the end of the game, Claire is holding a
+Options:
+(A) rock
+(B) paper
+(C) scissors
+(D) pencil
+(E) ruler
+A: (A)

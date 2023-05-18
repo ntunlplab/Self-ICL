@@ -1,0 +1,2 @@
+Q: Question: George says he always tells the truth. Jessica says George lies. Nick says Jessica tells the truth. Olivia says Nick lies. Does Olivia tell the truth?
+A: No,

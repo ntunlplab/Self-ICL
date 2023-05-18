@@ -1,0 +1,9 @@
+Q: The first day of summer was June 21st, 2021. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 07/21/2021
+(B) 07/22/2021
+(C) 08/21/2021
+(D) 08/22/2021
+(E) 09/21/2021
+(F) 09/22/2021
+A: (D)

@@ -1,0 +1,15 @@
+Q: Today, Mark went to the zoo. Between what times could they have gone?
+We know that:
+Mark woke up at 4am.
+Karen saw Mark feeding the giraffes from 8am to 10am.
+Paul saw Mark watching the sea lions from 10am to 1pm.
+Emily saw Mark taking photos of the elephants from 1pm to 3pm.
+Brian saw Mark playing with the monkeys from 3pm to 5pm.
+The zoo was closed after 5pm.
+Between what times could Mark have gone to the zoo?
+Options:
+(A) 8am to 10am
+(B) 4am to 8am
+(C) 1pm to 3pm
+(D) 3pm to 5pm
+A: (B)

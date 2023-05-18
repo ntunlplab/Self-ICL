@@ -1,0 +1,45 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: In a cooking competition, there were seven contestants: John, Sarah, Paul, Mary, David, Emma, and Alex. Emma finished above Alex. Paul finished second. David finished below Sarah. Sarah finished third-to-last. Mary finished last. Alex finished third.
+Options:
+(A) John finished last
+(B) Paul finished last
+(C) Sarah finished last
+(D) Mary finished last
+(E) David finished last
+(F) Emma finished last
+(G) Alex finished last
+A: (A)
+
+Q: In a spelling bee, there were seven contestants: Jack, Lily, Peter, Sam, Henry, Olivia, and Jake. Olivia finished above Jake. Peter finished second. Henry finished below Lily. Lily finished third-to-last. Sam finished last. Jake finished third.
+Options:
+(A) Jack finished last
+(B) Peter finished last
+(C) Lily finished last
+(D) Sam finished last
+(E) Henry finished last
+(F) Olivia finished last
+(G) Jake finished last
+A: (F)
+
+Q: In a chess tournament, there were seven players: Mark, Rachel, George, Tom, David, Jessica, and Ben. Jessica finished above Ben. George finished second. David finished below Rachel. Rachel finished third-to-last. Tom finished last. Ben finished third.
+Options:
+(A) Mark finished last
+(B) George finished last
+(C) Rachel finished last
+(D) Tom finished last
+(E) David finished last
+(F) Jessica finished last
+(G) Ben finished last
+A: (D)
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Joe, Dan, Ana, Mel, Ada, Eve, and Amy. Eve finished above Amy. Dan finished second. Ada finished below Ana. Ana finished third-to-last. Mel finished last. Amy finished third.
+Options:
+(A) Joe finished last
+(B) Dan finished last
+(C) Ana finished last
+(D) Mel finished last
+(E) Ada finished last
+(F) Eve finished last
+(G) Amy finished last
+A: (D)

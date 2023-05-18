@@ -1,0 +1,21 @@
+Q: On the bedroom floor, you see a set of objects arranged in a row: a black shoe, a pink sock, and a brown teddy bear. What is the color of the object furthest from the brown object?
+Options:
+(A) brown
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) black
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) white
+(P) grey
+(Q) purple
+(R) pink
+A: (R)

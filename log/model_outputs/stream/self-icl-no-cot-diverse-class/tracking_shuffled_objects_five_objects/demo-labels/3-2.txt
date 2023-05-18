@@ -1,0 +1,9 @@
+Q: Five friends, Karen, Larry, Mary, Nick, and Olivia, are all passionate musicians. At the start of the month, they each buy one new instrument: Karen gets a guitar, Larry gets a saxophone, Mary gets a piano, Nick gets a drum set, and Olivia gets a trumpet.
+As the month progresses, they start trading around the new instruments. First, Olivia and Karen swap instruments. Then, Karen and Mary swap instruments. Then, Karen and Larry swap instruments. Then, Nick and Karen swap instruments. Finally, Nick and Mary swap instruments. At the end of the month, Nick has
+Options:
+(A) Guitar
+(B) Saxophone
+(C) Piano
+(D) Drum set
+(E) Trumpet
+A: (D)

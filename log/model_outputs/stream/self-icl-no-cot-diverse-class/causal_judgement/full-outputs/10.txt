@@ -1,0 +1,29 @@
+Task description: Answer questions about causal attribution.
+
+Q: How would a typical person answer each of the following questions about causation?
+John is driving his car on a highway. He is driving at the speed limit when a deer suddenly runs across the road. John slams on the brakes and swerves to avoid hitting the deer. He is able to avoid hitting the deer, but his car skids off the road and crashes into a tree. Did the car crash into the tree because John slammed on the brakes?
+Options:
+- Yes
+- No
+A: No.
+
+Q: How would a typical person answer each of the following questions about causation?
+Jill is walking down the street when she notices a man in a hoodie walking in the opposite direction. She notices that the man is carrying a large bag and she becomes suspicious. She decides to cross the street to avoid the man. As she crosses the street, she trips on a crack in the sidewalk and falls. Did Jill trip because she crossed the street?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+Tom is playing a game of basketball with his friends. He takes a shot and the ball goes in the hoop. After the ball goes in the hoop, Tom's friend cheers and claps. Did the ball go in the hoop because Tom's friend cheered and clapped?
+Options:
+- Yes
+- No
+A: No
+
+Q: How would a typical person answer each of the following questions about causation?
+Sara has an electric guitar that she plays through an amplifier. The guitar will play through the amplifier if either the amplifier is set to channel A or the power mixer is turned on. Today, the amplifier is set to channel A. Sara checks to see if the power mixer is on. She sees that the power mixer is turned on, and she does not turn off the power mixer or adjust it at all. Because the guitar will play through the amplifier if either the amplifier is set to channel A or the power mixer is turned on, Sara's guitar plays through the amplifier. Did the guitar play through the amplifier because Sara did not turn off the power mixer?
+Options:
+- Yes
+- No
+A: No

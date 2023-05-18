@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "LeBron James scored a goal in a soccer match."
+A: No,
+
+Q: Is the following sentence plausible? "Tom Brady won a gold medal in the long jump."
+A: No,
+
+Q: Is the following sentence plausible? "Serena Williams hit a home run in a baseball game."
+A: No,
+
+Q: Is the following sentence plausible? "Carson Wentz took to the ice."
+A: Yes,

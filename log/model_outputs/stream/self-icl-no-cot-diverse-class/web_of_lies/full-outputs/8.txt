@@ -1,0 +1,13 @@
+Task description: Evaluate a random boolean function expressed as a word problem.
+
+Q: Question: John says he always tells the truth. Sarah says John tells the truth. Mark says Sarah tells the truth. Lisa says Mark lies. Does Lisa tell the truth?
+A: No,
+
+Q: Question: David says he never lies. Rachel says David lies. Tom says Rachel tells the truth. Jane says Tom lies. Does Jane tell the truth?
+A: No,
+
+Q: Question: Sam says he always tells the truth. Emma says Sam lies. Nick says Emma tells the truth. Alex says Nick lies. Does Alex tell the truth?
+A: No,
+
+Q: Question: Fletcher tells the truth. Conception says Fletcher tells the truth. Bernita says Conception tells the truth. Jamey says Bernita tells the truth. Teressa says Jamey lies. Does Teressa tell the truth?
+A: No.

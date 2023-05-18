@@ -1,0 +1,2 @@
+Q: Question: Bob says that the sun is yellow. Alice says that Bob is wrong. Tom says that Alice is wrong. Jane says that Tom is wrong. Does Jane tell the truth?
+A: No,

@@ -1,0 +1,6 @@
+Q: What is the cause of the following situation?
+Jane and Mark are in a car when they hear a loud bang. They look out the window and see that a tire has blown out. Did Mark cause the tire to blow out?
+Options:
+- Yes
+- No
+A: No,

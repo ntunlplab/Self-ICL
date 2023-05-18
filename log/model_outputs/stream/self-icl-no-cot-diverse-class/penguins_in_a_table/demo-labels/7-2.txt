@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a mammal:  name, age, height (cm), weight (kg) Max, 7, 50, 11 Lucy, 5, 80, 13 Jack, 9, 60, 11 Jane, 8, 70, 15  For example: the age of Max is 7, the weight of Jane is 15 kg, the height of Lucy is 80 cm.  And here is a similar table, but listing dogs:
+name, age, height (cm), weight (kg)
+Fido, 5, 30, 10
+Buddy, 10, 40, 12
+Rover, 2, 20, 8
+Lassie, 9, 35, 11
+What is the name of the last dog sorted by alphabetic order?
+Options:
+(A) Fido
+(B) Buddy
+(C) Rover
+(D) Lassie
+(E) Jack
+A: (D)

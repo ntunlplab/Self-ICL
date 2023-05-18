@@ -1,0 +1,5 @@
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad it's raining
+(B) I'm so glad it's snowing
+A: (A)

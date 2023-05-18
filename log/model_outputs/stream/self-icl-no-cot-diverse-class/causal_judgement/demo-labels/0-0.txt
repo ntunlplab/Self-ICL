@@ -1,0 +1,5 @@
+Q: A person is driving a car and runs a red light. As a result, the car crashes into another car. Did the person running the red light cause the crash?
+Options:
+- Yes
+- No
+A: Yes

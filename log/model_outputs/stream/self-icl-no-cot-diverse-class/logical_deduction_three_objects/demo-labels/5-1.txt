@@ -1,0 +1,6 @@
+Q: A store sells three types of jewelry: necklaces, earrings, and bracelets. The necklaces are the most expensive. The earrings are less expensive than the bracelets.
+Options:
+(A) The necklaces are the second-most expensive
+(B) The earrings are the second-most expensive
+(C) The bracelets are the second-most expensive
+A: (C)

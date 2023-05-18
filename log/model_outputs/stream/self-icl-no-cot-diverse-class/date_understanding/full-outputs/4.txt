@@ -1,0 +1,41 @@
+Task description: Infer the date from context.
+
+Q: The new school year starts on 09/03/2021. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 10/03/2021
+(B) 10/04/2021
+(C) 09/04/2021
+(D) 09/30/2021
+(E) 10/30/2021
+(F) 11/03/2021
+A: (C)
+
+Q: The new semester begins on 01/15/2022. What is the date one month from today in MM/DD/YYYY?
+Options:
+(A) 02/15/2022
+(B) 02/14/2022
+(C) 01/14/2022
+(D) 02/16/2022
+(E) 01/16/2022
+(F) 03/15/2022
+A: (B)
+
+Q: The new year starts on 12/31/2021. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 01/07/2022
+(B) 01/06/2022
+(C) 12/24/2021
+(D) 12/31/2021
+(E) 01/08/2022
+(F) 12/25/2021
+A: (B)
+
+Q: Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 10/22/1944
+(B) 10/22/1924
+(C) 10/07/1924
+(D) 10/21/1924
+(E) 08/22/1925
+(F) 11/21/1924
+A: (D)

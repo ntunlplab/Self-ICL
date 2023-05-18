@@ -1,0 +1,9 @@
+Q: Five friends, Alex, Ben, Charlie, David, and Emma, are all avid board game players. At the start of the summer, they each buy one new game: Alex gets Catan, Ben gets Ticket to Ride, Charlie gets Carcassonne, David gets Pandemic, and Emma gets Dominion.
+As the summer progresses, they start trading around the new games. First, Alex and Charlie swap games. Then, Alex and Emma swap games. Then, David and Charlie swap games. Then, David and Ben swap games. Finally, David and Alex swap games. At the end of the summer, Alex has
+Options:
+(A) Catan
+(B) Ticket to Ride
+(C) Carcassonne
+(D) Pandemic
+(E) Dominion
+A: (B)

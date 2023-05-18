@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I got to do all this work
+(B) I'm so glad I got to do all this work, it was so much fun
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) That was a great idea
+(B) That was a great idea, you should be proud of yourself
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad I got to stay up all night
+(B) I'm so glad I got to stay up all night, it was so worth it
+A: (B)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Hey just be happy then you won't be depressed anymore
+(B) Hey just be happy that you won't be depressed anymore
+A: (A)

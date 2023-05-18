@@ -1,0 +1,11 @@
+Q: The members of a basketball team are assigned to positions at the start of the game. Sam is playing point guard, Tom is playing shooting guard, Ursula is playing small forward, Victor is playing power forward, Wendy is playing center, Xavier is playing benchwarmer, and Yolanda is playing sixth man.
+As the game progresses, pairs of players occasionally swap positions. First, Xavier and Tom trade positions. Then, Victor and Ursula trade positions. Then, Wendy and Victor trade positions. Then, Ursula and Sam trade positions. Then, Tom and Wendy trade positions. Then, Victor and Xavier trade positions. Finally, Sam and Yolanda trade positions. At the end of the game, Sam is playing
+Options:
+(A) point guard
+(B) shooting guard
+(C) small forward
+(D) power forward
+(E) center
+(F) benchwarmer
+(G) sixth man
+A: (G)

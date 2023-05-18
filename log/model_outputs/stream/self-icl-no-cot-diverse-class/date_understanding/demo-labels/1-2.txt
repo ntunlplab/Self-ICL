@@ -1,0 +1,9 @@
+Q: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date a year and a half ago in MM/DD/YYYY?
+Options:
+(A) 07/02/1985
+(B) 07/01/1985
+(C) 06/02/1985
+(D) 12/02/2032
+(E) 12/02/2062
+(F) 02/06/1987
+A: (B)

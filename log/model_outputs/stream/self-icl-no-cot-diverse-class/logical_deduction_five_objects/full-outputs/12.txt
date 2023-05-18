@@ -1,0 +1,37 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: On a shelf, there are five toys: a red toy, a blue toy, a yellow toy, a green toy, and a purple toy. The yellow toy is to the left of the purple toy. The red toy is the third from the left. The purple toy is the second from the right. The blue toy is to the left of the green toy.
+Options:
+(A) The red toy is the third from the left
+(B) The yellow toy is the third from the left
+(C) The blue toy is the third from the left
+(D) The green toy is the third from the left
+(E) The purple toy is the third from the left
+A: (A)
+
+Q: On a shelf, there are five cups: a white cup, a black cup, a pink cup, a silver cup, and a gold cup. The silver cup is to the left of the gold cup. The white cup is the third from the left. The gold cup is the second from the right. The black cup is to the left of the silver cup.
+Options:
+(A) The white cup is the third from the left
+(B) The black cup is the third from the left
+(C) The pink cup is the third from the left
+(D) The silver cup is the third from the left
+(E) The gold cup is the third from the left
+A: (C)
+
+Q: On a shelf, there are five animals: a lion, a tiger, a bear, a wolf, and a fox. The bear is to the left of the fox. The lion is the third from the left. The fox is the second from the right. The tiger is to the left of the wolf.
+Options:
+(A) The lion is the third from the left
+(B) The tiger is the third from the left
+(C) The bear is the third from the left
+(D) The wolf is the third from the left
+(E) The fox is the third from the left
+A: (C)
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are five books: a brown book, a yellow book, an orange book, a green book, and a gray book. The green book is to the left of the gray book. The brown book is the third from the left. The gray book is the second from the right. The yellow book is to the left of the green book.
+Options:
+(A) The brown book is the third from the left
+(B) The yellow book is the third from the left
+(C) The orange book is the third from the left
+(D) The green book is the third from the left
+(E) The gray book is the third from the left
+A: (A)

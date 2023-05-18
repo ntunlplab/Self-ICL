@@ -1,0 +1,20 @@
+Q: Here is a table where the first line is a header and each subsequent line is a fish:  name, age, length (cm), weight (kg)
+Nemo, 4, 20, 0.2
+Dory, 6, 25, 0.3
+Marlin, 2, 15, 0.1
+Bubbles, 8, 30, 0.4
+For example: the age of Nemo is 4, the weight of Bubbles is 0.4 kg, the length of Dory is 25 cm. 
+And here is a similar table, but listing turtles:
+name, age, length (cm), weight (kg)
+Shelly, 5, 10, 0.5
+Squirt, 10, 12, 0.6
+Crush, 2, 8, 0.4
+Raphael, 9, 11, 0.5
+How many turtles are more than 5 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: (B)

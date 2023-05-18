@@ -1,0 +1,37 @@
+Task description: A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: At a pet store, there are five animals: a parrot, a hamster, a cat, a dog, and a rabbit. The parrot is the oldest. The hamster is the second-oldest. The cat is the third-oldest. The dog is younger than the rabbit.
+Options:
+(A) The parrot is the youngest
+(B) The hamster is the youngest
+(C) The cat is the youngest
+(D) The dog is the youngest
+(E) The rabbit is the youngest
+A: (E)
+
+Q: At a library, there are five books: a novel, a biography, a cookbook, a children's book, and a textbook. The novel is the oldest. The biography is the second-oldest. The cookbook is the third-oldest. The children's book is newer than the textbook.
+Options:
+(A) The novel is the youngest
+(B) The biography is the youngest
+(C) The cookbook is the youngest
+(D) The children's book is the youngest
+(E) The textbook is the youngest
+A: (E)
+
+Q: At a museum, there are five paintings: a landscape, a portrait, an abstract, a still life, and a seascape. The landscape is the oldest. The portrait is the second-oldest. The abstract is the third-oldest. The still life is newer than the seascape.
+Options:
+(A) The landscape is the youngest
+(B) The portrait is the youngest
+(C) The abstract is the youngest
+(D) The still life is the youngest
+(E) The seascape is the youngest
+A: (E)
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are five vehicles: a convertible, a bus, a minivan, a truck, and a sedan. The convertible is newer than the truck. The minivan is the newest. The bus is the third-newest. The truck is newer than the sedan.
+Options:
+(A) The convertible is the newest
+(B) The bus is the newest
+(C) The minivan is the newest
+(D) The truck is the newest
+(E) The sedan is the newest
+A: (E)

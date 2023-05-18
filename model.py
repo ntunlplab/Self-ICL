@@ -1,6 +1,8 @@
 import os
 import time
 import openai
+import tiktoken
+from typing import Set, Tuple
 from prompt import StreamPrompt, BatchPrompt
 from colorama import Fore, Style
 from argparse import Namespace
@@ -11,6 +13,8 @@ class Model(object):
 
     def __init__(self, config: Namespace):
         self._config = config
+        self._tokenizer = tiktoken.encoding_for_model(self._config.model)
+        self._original_max_tokens = self._config.max_tokens
         openai.api_key = os.getenv("OPENAI_API_KEY")
         
     def retry_with_exponential_backoff(
@@ -51,9 +55,27 @@ class Model(object):
         return wrapper
 
     @retry_with_exponential_backoff
-    def complete(self, prompt: str) -> dict:
+    def complete(self, prompt: str, label_set: Set[str] = set()) -> Tuple[str, str]:
         time.sleep(Model.api_interval)
-        return openai.Completion.create(prompt=prompt, **vars(self._config))
+        params = vars(self._config)
+        if label_set:
+            max_tokens = 0
+            for label in label_set:
+                tokens = label
+                if '(' == tokens[0]:
+                    tokens = tokens[1:] # remove parentheses
+                    if prompt[-1] != '(':
+                        prompt += " ("
+                token_ids = self._tokenizer.encode(tokens)
+                max_tokens = max(max_tokens, len(token_ids))
+            if max_tokens > 0:
+                # params["logit_bias"] = logit_bias
+                if prompt[-1] != '(':
+                    max_tokens += 1 # +1 for whitespace
+                params["max_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = self._original_max_tokens
+        return prompt, openai.Completion.create(prompt=prompt, **params)["choices"][0]["text"]
     
     def set_api_key(self, key: str) -> None:
         openai.api_key = key
@@ -69,33 +91,29 @@ if __name__ == "__main__":
     )
     model_api = Model(config)
     
-    # prompt
-    tasks = {
-        "boolean_expressions": {
-            "task_desc": "Evaluate the result of a random Boolean expression.",
-            "inputs": "not ( True ) and ( True ) is"
-        },
-        "causal_judgement": {
-            "task_desc": "Answer questions about causal attribution.",
-            "inputs": "How would a typical person answer each of the following questions about causation?\nA machine is set up in such a way that it will short circuit if both the black wire and the red wire touch the battery at the same time. The machine will not short circuit if just one of these wires touches the battery. The black wire is designated as the one that is supposed to touch the battery, while the red wire is supposed to remain in some other part of the machine. One day, the black wire and the red wire both end up touching the battery at the same time. There is a short circuit. Did the black wire cause the short circuit?\nOptions:\n- Yes\n- No"
-        },
-        "date_understanding": {
-            "task_desc": "Infer the date from context.",
-            "inputs": "Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 12/11/1937\n(B) 12/25/1937\n(C) 01/04/1938\n(D) 12/04/1937\n(E) 12/25/2006\n(F) 07/25/1937"
-        }
-    }
-    num_demos = 3
-    zero_shots = []
-
-    task_name = "date_understanding"
-    stream_prompt = StreamPrompt(
-        task_desc=tasks[task_name]["task_desc"],
-        inputs=tasks[task_name]["inputs"],
-        num_demos=num_demos,
-        shots=zero_shots
+    # tasks
+    from task import TaskGenerator
+    
+    task_gen = TaskGenerator(
+        task_input_path="./bbh/BIG-Bench-Hard/bbh/",
+        task_desc_path="./bbh/bbh_task_description.json",
+        batch_size=1
     )
-
-    prompt = stream_prompt.gen_demo_inputs()
-    res_text = model_api.complete(prompt)["choices"][0]["text"]
-    full_text = prompt + res_text
-    print(full_text)
+    task_names = ["boolean_expressions", "causal_judgement", "date_understanding", "formal_fallacies", "sports_understanding"]
+    
+    # prompt
+    for task_name in task_names:
+        task = task_gen.get_task(task_name)
+        task_inputs = task.get_new_inputs()
+        stream_prompt = StreamPrompt(
+            task_desc=task.task_desc,
+            inputs=task_inputs,
+            num_demos=3,
+            shots=[]
+        )
+        
+        pred_prompt = stream_prompt.gen_prediction()
+        print(f"Generating prediction from label set: {task.label_set} ->")
+        pred_prompt, res_text = model_api.complete(pred_prompt, task.label_set)
+        full_text = pred_prompt + res_text
+        print(f"full text: {full_text}")

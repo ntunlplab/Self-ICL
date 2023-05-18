@@ -1,0 +1,28 @@
+Following is an example instance for the task: Distinguish deductively valid arguments from formal fallacies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: "Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First of all, no member of Juventus is an expert of Getafe CF. Next, somebody is a follower of West Ham United FC and an expert of Getafe CF. So, necessarily, not every follower of West Ham United FC is a member of Juventus."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 1:
+Q: "Is John a fan of the New York Yankees? Are supporters of the Boston Red Sox devotees of the Chicago Cubs? In Major League Baseball, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First of all, no member of the Los Angeles Dodgers is an expert of the San Francisco Giants. Next, somebody is a follower of the New York Mets and an expert of the San Francisco Giants. So, necessarily, not every follower of the New York Mets is a member of the Los Angeles Dodgers."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 2:
+Q: "Is Sarah a fan of the Golden State Warriors? Are supporters of the Los Angeles Lakers devotees of the Houston Rockets? In the NBA, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First of all, no member of the Portland Trail Blazers is an expert of the Oklahoma City Thunder. Next, somebody is a follower of the Utah Jazz and an expert of the Oklahoma City Thunder. So, necessarily, not every follower of the Utah Jazz is a member of the Portland Trail Blazers."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+
+New instance 3:
+Q: "Is Tom a fan of the Dallas Cowboys? Are supporters of the Philadelphia Eagles devotees of the Washington Redskins? In the NFL, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First of all, no member of the New York Giants is an expert of the New England Patriots. Next, somebody is a follower of the Atlanta Falcons and an expert of the New England Patriots. So, necessarily, not every follower of the Atlanta Falcons is a member of the New York Giants."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid

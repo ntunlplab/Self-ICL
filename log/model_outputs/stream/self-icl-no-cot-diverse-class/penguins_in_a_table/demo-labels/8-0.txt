@@ -1,0 +1,21 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, color, wingspan (cm), habitat 
+
+Mandy, black, 80, Antarctic
+
+Ralph, white, 70, Arctic
+
+Sandy, gray, 90, Sub-Antarctic
+
+For example: the color of Mandy is black, the habitat of Ralph is Arctic, the wingspan of Sandy is 90 cm. We now add a penguin to the table:
+
+Toby, brown, 75, Sub-Antarctic
+
+What is the average wingspan of the penguins in the table?
+
+Options:
+(A) 75 cm
+(B) 80 cm
+(C) 85 cm
+(D) 90 cm
+(E) 95 cm
+A: (C)

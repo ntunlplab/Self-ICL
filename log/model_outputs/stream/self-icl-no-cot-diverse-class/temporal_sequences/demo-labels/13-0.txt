@@ -1,0 +1,15 @@
+Q: Today, John went to the museum. Between what times could they have gone?
+We know that:
+John woke up at 6am.
+Mary saw John buying groceries at the store from 6am to 8am.
+David saw John playing basketball at the park from 8am to 11am.
+Samantha saw John eating lunch at the diner from 11am to 1pm.
+John saw John getting a haircut at the barber shop from 4pm to 6pm.
+The museum was closed after 8pm.
+Between what times could John have gone to the museum?
+Options:
+(A) 1pm to 4pm
+(B) 4pm to 6pm
+(C) 6am to 8am
+(D) 8am to 11am
+A: (A)

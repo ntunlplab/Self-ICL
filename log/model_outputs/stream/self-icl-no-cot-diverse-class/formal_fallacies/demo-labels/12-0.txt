@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is safe to eat food from a certain restaurant: All of the food from this restaurant is cooked in a clean kitchen. No food from this restaurant is cooked in an unclean kitchen. We may conclude: All of the food from this restaurant is safe to eat."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

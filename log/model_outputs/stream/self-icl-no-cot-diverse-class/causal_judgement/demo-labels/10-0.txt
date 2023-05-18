@@ -1,0 +1,6 @@
+Q: How would a typical person answer each of the following questions about causation?
+John is driving his car on a highway. He is driving at the speed limit when a deer suddenly runs across the road. John slams on the brakes and swerves to avoid hitting the deer. He is able to avoid hitting the deer, but his car skids off the road and crashes into a tree. Did the car crash into the tree because John slammed on the brakes?
+Options:
+- Yes
+- No
+A: No.

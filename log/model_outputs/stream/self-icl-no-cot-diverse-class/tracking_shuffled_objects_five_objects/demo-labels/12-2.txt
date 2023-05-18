@@ -1,0 +1,9 @@
+Q: Five cars are participating in a race. At the start of the race, they each have a starting position: Alex is in position 1, Ben is in position 2, Charlie is in position 3, David is in position 4, and Emily is in position 5.
+Throughout the race, the cars often switch positions. First, Alex and Ben switch positions. Then, Charlie and David switch positions. Then, Alex and Charlie switch positions. Then, Ben and Emily switch positions. Finally, Emily and Alex switch positions. At the end of the race, Ben is in
+Options:
+(A) Position 1
+(B) Position 2
+(C) Position 3
+(D) Position 4
+(E) Position 5
+A: (B)

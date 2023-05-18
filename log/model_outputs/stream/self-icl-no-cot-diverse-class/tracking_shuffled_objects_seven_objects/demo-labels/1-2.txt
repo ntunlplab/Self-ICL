@@ -1,0 +1,11 @@
+Q: Seven siblings are playing a game. At the start of the game, they are each holding a snack: Anna has a cookie, Brad has a pretzel, Carl has a cracker, Diane has a popcorn, Eric has a candy, Fiona has a chips, and Gary has a fruit.
+As the game progresses, pairs of siblings trade snacks. First, Anna and Brad swap snacks. Then, Carl and Diane swap snacks. Then, Eric and Fiona swap snacks. Then, Eric and Gary swap snacks. Then, Anna and Diane swap snacks. Finally, Eric and Fiona swap snacks. At the end of the game, Eric has the
+Options:
+(A) cookie
+(B) pretzel
+(C) cracker
+(D) popcorn
+(E) candy
+(F) chips
+(G) fruit
+A: (E)

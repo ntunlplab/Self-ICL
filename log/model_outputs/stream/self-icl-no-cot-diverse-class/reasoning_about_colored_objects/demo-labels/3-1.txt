@@ -1,0 +1,10 @@
+Q: On the shelf, you see several items arranged in a row: a white vase, a purple pen, a black book, a teal clock, and a gray box. How many non-orange items do you see to the right of the black item?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: (C)

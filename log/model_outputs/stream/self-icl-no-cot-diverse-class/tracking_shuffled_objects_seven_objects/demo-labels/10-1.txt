@@ -1,0 +1,10 @@
+Q: The members of a debate team are assigned to positions at the start of the debate. Alex is playing the affirmative speaker, Ben is playing the first negative speaker, Charlie is playing the second negative speaker, Danielle is playing the third negative speaker, Emma is playing the moderator, Frank is playing the timekeeper, and George is playing the audience. As the debate progresses, pairs of players occasionally swap positions. First, Alex and Ben trade positions. Then, Charlie and Danielle trade positions. Then, Emma and Frank trade positions. Then, George and Alex trade positions. Then, Danielle and Emma trade positions. Then, Frank and George trade positions. Finally, Ben and Frank trade positions. At the end of the debate, Ben is playing
+Options:
+(A) affirmative speaker
+(B) first negative speaker
+(C) second negative speaker
+(D) third negative speaker
+(E) moderator
+(F) timekeeper
+(G) audience
+A: (B)

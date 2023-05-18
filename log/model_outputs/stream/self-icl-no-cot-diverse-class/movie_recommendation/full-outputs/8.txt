@@ -1,0 +1,33 @@
+Task description: Recommend movies similar to the given list of movies.
+
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Departed:
+Options:
+(A) The Prestige
+(B) Inception
+(C) The Green Mile
+(D) The Aviator
+A: (A)
+
+Q: Find a movie similar to The Lion King, Toy Story, Finding Nemo, Up:
+Options:
+(A) Monsters, Inc.
+(B) Inside Out
+(C) WALL-E
+(D) Ratatouille
+A: (A)
+
+Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Hobbit: An Unexpected Journey, Harry Potter and the Sorcerer's Stone, Star Wars: A New Hope:
+Options:
+(A) The Empire Strikes Back
+(B) The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+(C) The Matrix
+(D) Indiana Jones and the Raiders of the Lost Ark
+A: (A)
+
+Q: Find a movie similar to Jurassic Park, The Silence of the Lambs, Schindler's List, Braveheart:
+Options:
+(A) A Hard Day's Night
+(B) Showtime
+(C) Forrest Gump
+(D) Eddie the Eagle
+A: (C)

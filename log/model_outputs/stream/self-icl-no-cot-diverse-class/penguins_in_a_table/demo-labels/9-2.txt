@@ -1,0 +1,14 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, color, favorite food 
+Herbie, 4, black, shrimp 
+Chet, 6, white, fish 
+Sonny, 8, gray, squid 
+Duke, 10, brown, krill 
+For example: the age of Herbie is 4, the color of Sonny is gray, the favorite food of Duke is krill. 
+Which penguin has the first name of a famous jazzman?
+Options:
+(A) Herbie
+(B) Chet
+(C) Sonny
+(D) Duke
+(E) Miles
+A: (A)

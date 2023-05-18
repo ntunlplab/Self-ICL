@@ -1,0 +1,9 @@
+Q: The members of a chess team are assigned to positions at the start of the game. Alex is playing white knight, Ben is playing black knight, Charlie is playing white bishop, David is playing black bishop, Emma is playing white rook, and Frank is playing black rook. As the game progresses, pairs of players occasionally swap positions. First, Frank and Alex trade positions. Then, Frank and Ben trade positions. Then, Alex and Charlie trade positions. Then, Ben and David trade positions. Then, Charlie and Emma trade positions. Finally, David and Frank trade positions. At the end of the game, Frank is playing
+Options:
+(A) white knight
+(B) black knight
+(C) white bishop
+(D) black bishop
+(E) white rook
+(F) black rook
+A: (F)

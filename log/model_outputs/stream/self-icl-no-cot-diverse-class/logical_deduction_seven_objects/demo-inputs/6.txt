@@ -1,0 +1,44 @@
+Following is an example instance for the task: A logical deduction task which requires deducing the order of a sequence of objects. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Amy, Eve, Ada, Rob, Dan, Mel, and Joe. Joe finished third. Dan finished last. Eve finished first. Mel finished below Rob. Ada finished above Joe. Rob finished third-to-last.
+Options:
+(A) Amy finished last
+(B) Eve finished last
+(C) Ada finished last
+(D) Rob finished last
+(E) Dan finished last
+(F) Mel finished last
+(G) Joe finished last
+
+New instance 1:
+Q: In a cooking competition, there were seven chefs: John, Paul, George, Ringo, Mary, Jane, and Susan. Susan finished third. Ringo finished last. Mary finished first. Jane finished below George. George finished above Susan. Paul finished third-to-last.
+Options:
+(A) John finished last
+(B) Paul finished last
+(C) George finished last
+(D) Ringo finished last
+(E) Mary finished last
+(F) Jane finished last
+(G) Susan finished last
+
+New instance 2:
+Q: In a spelling bee, there were seven contestants: Alex, Sam, Sarah, Tom, Lucy, Jack, and Emma. Emma finished third. Tom finished last. Alex finished first. Jack finished below Sarah. Sarah finished above Emma. Sam finished third-to-last.
+Options:
+(A) Alex finished last
+(B) Sam finished last
+(C) Sarah finished last
+(D) Tom finished last
+(E) Lucy finished last
+(F) Jack finished last
+(G) Emma finished last
+
+New instance 3:
+Q: In a chess tournament, there were seven players: Peter, David, Mark, Paul, John, Andrew, and Stephen. Stephen finished third. Paul finished last. Peter finished first. Andrew finished below Mark. Mark finished above Stephen. David finished third-to-last.
+Options:
+(A) Peter finished last
+(B) David finished last
+(C) Mark finished last
+(D) Paul finished last
+(E) John finished last
+(F) Andrew finished last
+(G) Stephen finished last

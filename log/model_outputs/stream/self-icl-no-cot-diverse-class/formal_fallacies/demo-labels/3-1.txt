@@ -1,0 +1,6 @@
+Q: "Some people prefer to watch movies in the theater, while others prefer to watch movies at home. But what is the best option for a quality viewing experience? The following argument pertains to this question: First, watching movies at home is more comfortable than watching movies in the theater. Second, watching movies in the theater is more immersive than watching movies at home. Third, to be immersive is necessary for having a quality viewing experience. Hence, having a quality viewing experience is more comfortable than watching movies in the theater."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Invalid

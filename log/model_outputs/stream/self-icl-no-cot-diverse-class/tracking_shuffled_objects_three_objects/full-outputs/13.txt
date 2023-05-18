@@ -1,0 +1,33 @@
+Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+Q: Three friends, David, Emma, and Frank, are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: David has a blue token, Emma has a green token, and Frank has a yellow token.
+As the game progresses, pairs of players swap tokens. First, Emma and Frank swap their tokens. Then, David and Frank swap their tokens. Finally, Emma and David swap their tokens. At the end of the game, Emma has the
+Options:
+(A) blue token
+(B) green token
+(C) yellow token
+A: (A)
+
+Q: Three siblings, George, Helen, and Ian, are playing a game of hide-and-seek. At the start of the game, each player has a different colored hat: George has a black hat, Helen has a white hat, and Ian has a red hat.
+As the game progresses, pairs of players swap hats. First, Helen and Ian swap their hats. Then, George and Ian swap their hats. Finally, Helen and George swap their hats. At the end of the game, Helen has the
+Options:
+(A) black hat
+(B) white hat
+(C) red hat
+A: (A)
+
+Q: Three students, Jack, Kate, and Luke, are playing a game of tag. At the start of the game, each player has a different colored marker: Jack has a pink marker, Kate has a green marker, and Luke has a blue marker.
+As the game progresses, pairs of players swap markers. First, Kate and Luke swap their markers. Then, Jack and Luke swap their markers. Finally, Kate and Jack swap their markers. At the end of the game, Kate has the
+Options:
+(A) pink marker
+(B) green marker
+(C) blue marker
+A: (A)
+
+Q: Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a orange ball, Bob has a purple present, and Claire has a red present.
+As the event progresses, pairs of people swap gifts. First, Claire and Bob swap their gifts. Then, Alice and Bob swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Claire has the
+Options:
+(A) orange ball
+(B) purple present
+(C) red present
+A: (B)

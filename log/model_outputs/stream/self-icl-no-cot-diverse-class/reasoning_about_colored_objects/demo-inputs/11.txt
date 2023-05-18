@@ -1,0 +1,88 @@
+Following is an example instance for the task: Answer extremely simple questions about the colors of objects on a surface. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: On the table, you see several objects arranged in a row: a gold pen, a mauve mug, a teal envelope, a red keychain, and a turquoise fidget spinner. What is the color of the object directly to the left of the teal object?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+
+New instance 1:
+Q: On the kitchen counter, you see several objects arranged in a row: a black coffee mug, a yellow banana, a green apple, a pink plate, and a white bowl. What is the color of the object directly to the left of the green object?
+Options:
+(A) black
+(B) yellow
+(C) orange
+(D) red
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) white
+(P) grey
+(Q) purple
+(R) pink
+
+New instance 2:
+Q: On the bookshelf, you see several objects arranged in a row: a silver laptop, a purple book, a blue pencil case, a brown notebook, and a gold pen. What is the color of the object directly to the left of the blue object?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+
+New instance 3:
+Q: On the desk, you see several objects arranged in a row: a pink eraser, a grey mouse, a yellow ruler, a black stapler, and a white paperclip. What is the color of the object directly to the left of the yellow object?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink

@@ -1,0 +1,6 @@
+Q: On a shelf, there are three boxes: a green box, a blue box, and a yellow box. The blue box is to the left of the yellow box. The green box is to the left of the blue box.
+Options:
+(A) The green box is the leftmost
+(B) The blue box is the leftmost
+(C) The yellow box is the leftmost
+A: (B)

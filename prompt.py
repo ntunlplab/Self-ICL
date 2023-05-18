@@ -89,7 +89,7 @@ class StreamPrompt(Prompt):
 
         New instance 1:
         """
-        diverse_prompt = " and diverse" if diversity else ""
+        diverse_prompt = " , diverse, and creative" if diversity else ""
         return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
 
 class BatchPrompt(Prompt):

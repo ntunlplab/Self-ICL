@@ -1,0 +1,32 @@
+Following is an example instance for the task: Recommend movies similar to the given list of movies. Please come up with 3 new , diverse, and creative instances for the task.
+Example instance:
+Q: Find a movie similar to Schindler's List, Braveheart, The Silence of the Lambs, Tombstone:
+Options:
+(A) Orlando
+(B) Guilty of Romance
+(C) Forrest Gump
+(D) All the Real Girls
+
+New instance 1:
+Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Departed, The Dark Knight:
+Options:
+(A) The Prestige
+(B) The Usual Suspects
+(C) Inception
+(D) The Green Mile
+
+New instance 2:
+Q: Find a movie similar to The Lion King, Beauty and the Beast, Aladdin, Mulan:
+Options:
+(A) The Princess and the Frog
+(B) Tangled
+(C) Pocahontas
+(D) The Little Mermaid
+
+New instance 3:
+Q: Find a movie similar to The Hangover, Superbad, Knocked Up, Step Brothers:
+Options:
+(A) Pineapple Express
+(B) This Is the End
+(C) The World's End
+(D) Role Models

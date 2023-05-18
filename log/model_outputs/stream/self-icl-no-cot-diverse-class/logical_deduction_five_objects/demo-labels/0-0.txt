@@ -1,0 +1,8 @@
+Q: In a row of five cars, the first car is a Ferrari, the second car is a Lamborghini, the third car is a Porsche, the fourth car is a Maserati, and the fifth car is a Jaguar. The Ferrari is the leftmost. The Jaguar is to the left of the Maserati. The Lamborghini is the rightmost. The Porsche is the third from the left.
+Options:
+(A) The Ferrari is the rightmost
+(B) The Lamborghini is the rightmost
+(C) The Porsche is the rightmost
+(D) The Maserati is the rightmost
+(E) The Jaguar is the rightmost
+A: (E)

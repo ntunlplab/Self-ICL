@@ -1,0 +1,25 @@
+Task description: Determine which of two sentences is sarcastic.
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so excited to go to the dentist
+(B) I'm so excited to go to the movies
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so glad it's raining
+(B) I'm so glad it's sunny
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) I'm so happy to be stuck in traffic
+(B) I'm so happy to be on time for work
+A: (A)
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yes, the game is over after the second half
+(B) Yes, the game is over after the first half
+A: (B)

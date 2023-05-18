@@ -1,0 +1,11 @@
+Q: Seven friends, Olivia, Paul, Quinn, Rachel, Sam, Tom, and Ursula, are all avid movie-goers. At the start of the semester, they each buy one new movie: Olivia gets The Godfather, Paul gets Star Wars, Quinn gets The Lord of the Rings, Rachel gets The Matrix, Sam gets The Dark Knight, Tom gets Inception, and Ursula gets The Shawshank Redemption.
+As the semester proceeds, they start trading around the new movies. First, Quinn and Ursula swap movies. Then, Paul and Quinn swap movies. Then, Olivia and Paul swap movies. Then, Sam and Quinn swap movies. Then, Paul and Sam swap movies. Then, Quinn and Paul swap movies. Finally, Rachel and Sam swap movies. At the end of the semester, Rachel has
+Options:
+(A) The Godfather
+(B) Star Wars
+(C) The Lord of the Rings
+(D) The Matrix
+(E) The Dark Knight
+(F) Inception
+(G) The Shawshank Redemption
+A: (E)

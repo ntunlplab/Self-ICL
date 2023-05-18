@@ -1,0 +1,10 @@
+Q: In a swimming competition, there were seven swimmers: Jack, Jill, Mike, Joe, Amy, Rob, and Ann. Ann finished above Amy. Jack finished below Joe. Jack finished above Jill. Ann finished second-to-last. Mike finished third. Rob finished fourth.
+Options:
+(A) Jack finished third-to-last
+(B) Jill finished third-to-last
+(C) Mike finished third-to-last
+(D) Joe finished third-to-last
+(E) Amy finished third-to-last
+(F) Rob finished third-to-last
+(G) Ann finished third-to-last
+A: (B)

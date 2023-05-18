@@ -1,0 +1,7 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The doctor told the patient to take their medicine.
+Options:
+(A) Told the doctor
+(B) Told the patient
+(C) Ambiguous
+A: (B)

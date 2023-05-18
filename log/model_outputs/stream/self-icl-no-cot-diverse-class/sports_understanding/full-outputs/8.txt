@@ -1,0 +1,13 @@
+Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
+
+Q: Is the following sentence plausible? "The goalkeeper made a diving save to stop the penalty kick."
+A: Yes,
+
+Q: Is the following sentence plausible? "The referee awarded a free kick for a handball in the penalty area."
+A: Yes,
+
+Q: Is the following sentence plausible? "The striker scored a bicycle kick from outside the box."
+A: Yes,
+
+Q: Is the following sentence plausible? "Carles Puyol did a maradona on the defender."
+A: No,

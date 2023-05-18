@@ -1,0 +1,14 @@
+Q: Today, Mark went to the park. Between what times could they have gone?
+We know that:
+Mark left his house at 8am.
+Karen saw Mark getting a snack at the cafe from 8am to 10am.
+Steve saw Mark walking towards the lake from 12pm to 2pm.
+Rachel saw Mark buying a Frisbee at the store from 3pm to 5pm.
+The park was closed after 6pm.
+Between what times could Mark have gone to the park?
+Options:
+(A) 10am to 12pm
+(B) 8am to 10am
+(C) 3pm to 5pm
+(D) 12pm to 2pm
+A: (D)

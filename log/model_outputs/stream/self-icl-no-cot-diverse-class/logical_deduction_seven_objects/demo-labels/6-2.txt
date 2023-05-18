@@ -1,0 +1,10 @@
+Q: In a chess tournament, there were seven players: Peter, David, Mark, Paul, John, Andrew, and Stephen. Stephen finished third. Paul finished last. Peter finished first. Andrew finished below Mark. Mark finished above Stephen. David finished third-to-last.
+Options:
+(A) Peter finished last
+(B) David finished last
+(C) Mark finished last
+(D) Paul finished last
+(E) John finished last
+(F) Andrew finished last
+(G) Stephen finished last
+A: (B)

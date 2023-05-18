@@ -1,0 +1,6 @@
+Q: "The following argument pertains to the question of whether or not it is safe to eat processed foods: First, processed foods can contain preservatives. Second, preservatives can cause health problems. Therefore, it is not safe to eat processed foods."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid 
+- invalid
+A: Valid

@@ -1,0 +1,10 @@
+Q: A pet store sells seven types of fish: guppies, tetras, goldfish, angelfish, cichlids, mollies, and barbs. The tetras are the sixth-cheapest. The goldfish are the second-most expensive. The tetras are more expensive than the guppies. The barbs are less expensive than the goldfish. The cichlids are the third-most expensive. The mollies are the second-cheapest.
+Options:
+(A) The tetras are the second-cheapest
+(B) The guppies are the second-cheapest
+(C) The goldfish are the second-cheapest
+(D) The angelfish are the second-cheapest
+(E) The cichlids are the second-cheapest
+(F) The mollies are the second-cheapest
+(G) The barbs are the second-cheapest
+A: (F)
