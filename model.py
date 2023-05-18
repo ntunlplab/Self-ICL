@@ -15,6 +15,7 @@ class Model(object):
         self._config = config
         self._tokenizer = tiktoken.encoding_for_model(self._config.model)
         self._original_max_tokens = self._config.max_tokens
+        self._original_temperature = self._config.temperature
         openai.api_key = os.getenv("OPENAI_API_KEY")
         
     def retry_with_exponential_backoff(
@@ -22,7 +23,7 @@ class Model(object):
         initial_delay: float = 5,
         exponential_base: float = 2,
         max_retries: int = 5,
-        errors: tuple = (openai.error.RateLimitError,),
+        errors: tuple = (openai.error.RateLimitError, openai.error.APIError),
     ):
         """Retry a function with exponential backoff."""
     
@@ -55,7 +56,7 @@ class Model(object):
         return wrapper
 
     @retry_with_exponential_backoff
-    def complete(self, prompt: str, label_set: Set[str] = set()) -> Tuple[str, str]:
+    def complete(self, prompt: str, label_set: Set[str] = set(), temperature: float = None) -> Tuple[str, str]:
         time.sleep(Model.api_interval)
         params = vars(self._config)
         if label_set:
@@ -75,6 +76,12 @@ class Model(object):
                 params["max_tokens"] = max_tokens
         else:
             params["max_tokens"] = self._original_max_tokens
+        
+        if temperature is not None:
+            params["temperature"] = temperature
+        else:
+            params["temperature"] = self._original_temperature
+        print(f"Predicting with temperature: {params['temperature']}, max_tokens: {params['max_tokens']}")
         return prompt, openai.Completion.create(prompt=prompt, **params)["choices"][0]["text"]
     
     def set_api_key(self, key: str) -> None:
