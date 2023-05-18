@@ -11,6 +11,6 @@ max_tokens: 1024
 model: text-davinci-003
 num_demos: 3
 temperature: 0.0
-test_sample_size: 15
+test_sample_size: 50
 top_p: 1.0
 use_cot: false
