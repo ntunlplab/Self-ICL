@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a student of Harvard is sufficient for being a student of an Ivy League school. We may conclude that whoever is a student of Harvard is a student of an Ivy League school."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

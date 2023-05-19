@@ -1,5 +1,0 @@
-Q: A doctor prescribes a medication to a patient that is known to have serious side effects. The doctor is aware of the risks associated with the medication, but prescribes it to the patient anyway. Is the doctor responsible for the harm caused by the medication?
-Options:
-- Yes
-- No
-A: Yes

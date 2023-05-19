@@ -1,9 +1,0 @@
-Q: Five children are playing a game of tag. At the start of the game, they each have a starting position: Amy is standing at the front door, Brian is standing at the back door, Carl is standing at the left window, Dan is standing at the right window, and Emily is standing at the center of the room.
-Throughout the game, the children often switch positions. First, Amy and Brian switch positions. Then, Amy and Carl switch positions. Then, Brian and Carl switch positions. Then, Dan and Emily switch positions. Finally, Amy and Brian switch positions. At the end of the game, Amy is standing at
-Options:
-(A) The front door
-(B) The back door
-(C) The left window
-(D) The right window
-(E) The center of the room
-A: (B)

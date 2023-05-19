@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'the dark knight rises'?
-Options:
-(A) the bark knight rises
-(B) thetdark knight rises
-(C) the dork knight rises
-(D) the dark kniggt rises
-A: (C)

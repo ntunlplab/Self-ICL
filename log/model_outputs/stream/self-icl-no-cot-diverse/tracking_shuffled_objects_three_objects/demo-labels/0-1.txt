@@ -1,6 +1,0 @@
-Q: Tom, Jerry, and Mary are friends and avid movie watchers. At the start of the semester, they each buy one new movie: Tom gets The Godfather, Jerry gets The Shawshank Redemption, and Mary gets The Dark Knight. As the semester proceeds, they start trading around the new movies. First, Mary and Jerry swap movies. Then, Jerry and Tom swap movies. Finally, Mary and Jerry swap movies. At the end of the semester, Jerry has 
-Options:
-(A) The Godfather
-(B) The Shawshank Redemption
-(C) The Dark Knight
-A: (A) The Godfather

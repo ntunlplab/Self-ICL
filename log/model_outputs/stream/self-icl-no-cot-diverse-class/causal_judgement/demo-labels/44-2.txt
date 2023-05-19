@@ -1,6 +1,0 @@
-Q: Was John's job responsible for his death?
-John was a 55-year-old man who had been working in a factory for the past 30 years. He had been exposed to a variety of hazardous chemicals and materials over the years, including asbestos. After years of exposure, John was diagnosed with a rare form of cancer. Despite treatment, the cancer spread and John eventually died from the disease. Did John's job contribute to his death?
-Options:
-- Yes
-- No
-A: Yes

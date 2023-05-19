@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Forrest Gump, The Silence of the Lambs, Mission Impossible, Jurassic Park:
-Options:
-(A) Joe Somebody
-(B) Dogfight
-(C) Independence Day
-(D) Twin Peaks Fire Walk with Me
-A: (A)

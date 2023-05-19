@@ -1,8 +1,0 @@
-Q: A pet store sells five types of fish: guppies, tetras, angelfish, mollies, and cichlids. The tetras are less expensive than the cichlids. The tetras are more expensive than the guppies. The angelfish are more expensive than the cichlids. The mollies are the most expensive.
-Options:
-(A) The guppies are the cheapest
-(B) The tetras are the cheapest
-(C) The angelfish are the cheapest
-(D) The mollies are the cheapest
-(E) The cichlids are the cheapest
-A: (B)

@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) wonderful big circular orange Pakistani smoking car
-(B) circular wonderful smoking Pakistani big orange car
-A: (B)

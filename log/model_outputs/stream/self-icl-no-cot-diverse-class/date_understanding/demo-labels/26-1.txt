@@ -1,9 +1,0 @@
-Q: The meeting is scheduled for October 31, 2021, which is 4 months away from now. What is the date one week ago from today in MM/DD/YYYY?
-Options:
-(A) 09/23/2020
-(B) 08/13/2021
-(C) 09/24/2021
-(D) 09/23/2054
-(E) 09/23/1940
-(F) 09/23/2021
-A: (F)

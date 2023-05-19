@@ -1,5 +1,0 @@
-Q: Mary was walking to school when she noticed a large branch had fallen from a nearby tree. Mary stepped around the branch, but her friend, who was walking behind her, tripped over it. Did Mary cause her friend to trip?
-Options:
-- Yes
-- No
-A: No

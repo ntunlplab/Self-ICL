@@ -1,9 +1,0 @@
-Q: Today is Jan 15, 2020. John's birthday is 5 days later. What is the date one month ago from today in MM/DD/YYYY?
-Options:
-(A) 12/15/2019
-(B) 12/10/2019
-(C) 11/15/2019
-(D) 11/10/2019
-(E) 10/15/2019
-(F) 10/10/2019
-A: (C)

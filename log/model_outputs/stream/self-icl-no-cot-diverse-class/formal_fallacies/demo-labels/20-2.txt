@@ -1,6 +1,0 @@
-Q: "Is Tom a fan of the Philadelphia Eagles? Are supporters of the New York Giants devotees of the Washington Redskins? In the National Football League, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: Every supporter of the Pittsburgh Steelers is not an expert of the New England Patriots and not a backer of the Miami Dolphins. Every backer of the Miami Dolphins who is an expert of the New England Patriots is a supporter of the Pittsburgh Steelers or a devotee of the Atlanta Falcons. In consequence, everyone who is not both an expert of the New England Patriots and a backer of the Miami Dolphins is a devotee of the Atlanta Falcons."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

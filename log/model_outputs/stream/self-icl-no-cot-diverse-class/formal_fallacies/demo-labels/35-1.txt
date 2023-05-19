@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to be a successful athlete: First premise: Being a successful athlete is necessary for having a high salary. Second premise: Having a high salary is sufficient for being a successful athlete. It follows that having a high salary is necessary for being a successful athlete."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

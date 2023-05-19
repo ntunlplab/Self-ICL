@@ -1,8 +1,0 @@
-Q: On a shelf, there are five toys: a wooden toy, a plastic toy, a metal toy, a cloth toy, and a rubber toy. The plastic toy is to the left of the wooden toy. The metal toy is to the left of the cloth toy. The rubber toy is to the right of the cloth toy. The rubber toy is to the left of the plastic toy.
-Options:
-(A) The wooden toy is the rightmost
-(B) The plastic toy is the rightmost
-(C) The metal toy is the rightmost
-(D) The cloth toy is the rightmost
-(E) The rubber toy is the rightmost
-A: (E)

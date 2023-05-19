@@ -1,2 +1,0 @@
-Q: Question: Sam says that Rachel is lying. Rachel says that Sam is telling the truth. Nick says that Rachel is telling the truth. Jake says that Nick is lying. Does Jake tell the truth?
-A: No,

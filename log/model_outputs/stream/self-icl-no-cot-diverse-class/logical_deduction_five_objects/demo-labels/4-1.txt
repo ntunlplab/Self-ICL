@@ -1,8 +1,0 @@
-Q: On a shelf, there are five toys: a red toy, a blue toy, a white toy, a black toy, and a green toy. The red toy is the rightmost. The blue toy is to the left of the white toy. The green toy is to the right of the black toy. The green toy is to the left of the blue toy.
-Options:
-(A) The red toy is the second from the right
-(B) The blue toy is the second from the right
-(C) The white toy is the second from the right
-(D) The black toy is the second from the right
-(E) The green toy is the second from the right
-A: (E)

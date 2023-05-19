@@ -1,8 +1,0 @@
-Q: On a shelf, there are five stones: a red stone, a blue stone, a white stone, a green stone, and a yellow stone. The white stone is the rightmost. The red stone is to the left of the green stone. The blue stone is to the left of the yellow stone. The green stone is the second from the left.
-Options:
-(A) The red stone is the second from the right
-(B) The blue stone is the second from the right
-(C) The white stone is the second from the right
-(D) The green stone is the second from the right
-(E) The yellow stone is the second from the right
-A: (E)

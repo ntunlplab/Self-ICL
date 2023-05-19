@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Schindler's List, Jurassic Park, The Silence of the Lambs, Forrest Gump:
-Options:
-(A) Batman
-(B) Alien Resurrection
-(C) A Tale of Two Cities
-(D) The Quiet American
-A: (B)

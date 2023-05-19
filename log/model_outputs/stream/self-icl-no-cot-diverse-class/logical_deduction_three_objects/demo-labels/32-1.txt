@@ -1,6 +1,0 @@
-Q: At a restaurant, there are three dishes: a salad, a soup, and a sandwich. The salad is the lightest. The soup is heavier than the sandwich.
-Options:
-(A) The salad is the second-heaviest
-(B) The soup is the second-heaviest
-(C) The sandwich is the second-heaviest
-A: (C)

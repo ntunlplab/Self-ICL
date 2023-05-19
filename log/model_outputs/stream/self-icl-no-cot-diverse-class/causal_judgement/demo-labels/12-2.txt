@@ -1,6 +1,0 @@
-Q: What caused the power outage?
-The power went out in the neighborhood. When the electricians arrived, they found that a tree had fallen on the power lines. Did the power outage happen because of the fallen tree?
-Options:
-- Yes
-- No
-A: Yes

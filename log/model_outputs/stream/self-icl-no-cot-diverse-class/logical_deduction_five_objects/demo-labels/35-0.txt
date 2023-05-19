@@ -1,8 +1,0 @@
-Q: On a shelf, there are five cups: a white cup, a black cup, a yellow cup, a pink cup, and a purple cup. The white cup is to the left of the yellow cup. The black cup is to the left of the pink cup. The white cup is to the right of the pink cup. The purple cup is the leftmost.
-Options:
-(A) The white cup is the second from the left
-(B) The black cup is the second from the left
-(C) The yellow cup is the second from the left
-(D) The pink cup is the second from the left
-(E) The purple cup is the second from the left
-A: (E)

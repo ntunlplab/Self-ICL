@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) I'm so lucky I have to do this project
-(B) I'm so lucky I have to do this project, not
-A: (A)

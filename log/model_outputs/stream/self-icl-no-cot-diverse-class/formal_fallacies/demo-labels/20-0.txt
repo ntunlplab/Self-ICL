@@ -1,6 +1,0 @@
-Q: "Is John a fan of the New York Yankees? Are supporters of the Boston Red Sox devotees of the Chicago Cubs? In Major League Baseball, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: Every supporter of the Los Angeles Dodgers is not an expert of the San Francisco Giants and not a backer of the Houston Astros. Every backer of the Houston Astros who is an expert of the San Francisco Giants is a supporter of the Los Angeles Dodgers or a devotee of the St. Louis Cardinals. In consequence, everyone who is not both an expert of the San Francisco Giants and a backer of the Houston Astros is a devotee of the St. Louis Cardinals."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

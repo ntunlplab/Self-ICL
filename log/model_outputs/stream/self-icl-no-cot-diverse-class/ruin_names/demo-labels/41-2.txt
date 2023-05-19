@@ -1,7 +1,0 @@
-Q: Which of the following is a humorous edit of this artist or movie name: 'frozen'?
-Options:
-(A) frozenn
-(B) frozeng
-(C) frozent
-(D) frozeny
-A: (D)

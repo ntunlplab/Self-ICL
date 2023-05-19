@@ -1,9 +1,0 @@
-Q: Five employees, Karen, Larry, Mike, Nancy, and Olivia, are attending a meeting. At the start of the meeting, they are each assigned to a seat: Karen is in seat 1, Larry is in seat 2, Mike is in seat 3, Nancy is in seat 4, and Olivia is in seat 5.
-As the meeting progresses, pairs of employees occasionally swap seats. First, Mike and Olivia trade seats. Then, Mike and Karen trade seats. Then, Karen and Larry trade seats. Then, Nancy and Olivia trade seats. Finally, Karen and Mike trade seats. At the end of the meeting, Mike is in
-Options:
-(A) seat 1
-(B) seat 2
-(C) seat 3
-(D) seat 4
-(E) seat 5
-A: (A)

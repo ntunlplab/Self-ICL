@@ -1,7 +1,0 @@
-Task description: Given a series of navigation instructions, determine whether one would end up back at the starting point.
-
-Q: If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps backward. Take 9 steps forward. Take 4 steps forward. Take 2 steps left. Take 4 steps forward. Take 6 steps forward. Take 10 steps backward. Take 8 steps right. Take 1 step left.
-Options:
-- Yes
-- No
-A: Yes

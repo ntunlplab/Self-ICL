@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) ancient mysterious yellow walking cat
-(B) mysterious ancient yellow walking cat
-A: (B)

@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Alice and Zoe are both students at the same school. Alice is a senior and Zoe is a freshman. One day, Alice is walking to class and notices that Zoe is not wearing a school uniform. Alice stops and tells Zoe that she needs to wear the school uniform or she will get in trouble. Zoe reluctantly agrees and goes to her locker to get her uniform. When she opens her locker, a fire alarm goes off. Did Alice cause the fire alarm to go off?
-Options:
-- Yes
-- No
-A: No

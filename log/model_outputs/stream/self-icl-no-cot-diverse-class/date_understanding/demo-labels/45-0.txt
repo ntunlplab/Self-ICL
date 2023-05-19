@@ -1,9 +1,0 @@
-Q: The first day of school was scheduled to be on 09/02/2021, but was delayed by one week to today. What is the date one week ago in MM/DD/YYYY?
-Options:
-(A) 08/26/2021
-(B) 09/09/2021
-(C) 09/02/2020
-(D) 08/19/2021
-(E) 08/12/2021
-(F) 09/02/2021
-A: (A)

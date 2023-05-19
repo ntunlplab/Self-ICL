@@ -1,9 +1,0 @@
-Task description: A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
-
-Q: Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a purple ball, Bob has a yellow ball, and Claire has a orange ball.
-As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the
-Options:
-(A) purple ball
-(B) yellow ball
-(C) orange ball
-A: (A)

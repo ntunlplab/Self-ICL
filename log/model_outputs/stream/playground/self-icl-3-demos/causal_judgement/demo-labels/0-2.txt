@@ -1,5 +1,0 @@
-Q: A person is playing a game of chess when their opponent makes a move that leads to their defeat. Did the opponent's move cause the person to lose the game?
-Options:
-- Yes
-- No
-A: Yes

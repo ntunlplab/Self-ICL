@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a member of the Democratic Party is sufficient for being a voter in the United States. Second, whoever is a voter in the United States is not a voter in Canada. Third, every member of the Democratic Party who is a voter in Canada is also a voter in Mexico. We may conclude: Being a member of the Democratic Party is sufficient for being a voter in Mexico."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

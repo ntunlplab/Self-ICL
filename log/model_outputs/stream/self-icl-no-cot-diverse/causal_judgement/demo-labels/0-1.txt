@@ -1,5 +1,0 @@
-Q: A person is walking down the street when they suddenly slip and fall. The sidewalk had recently been treated with a de-icing solution. Did the de-icing solution cause the person to slip and fall?
-Options:
-- Yes
-- No
-A: Yes

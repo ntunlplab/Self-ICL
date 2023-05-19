@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) It's so nice that the traffic is so light today
-(B) It's so nice that the traffic is so light this week
-A: (B)

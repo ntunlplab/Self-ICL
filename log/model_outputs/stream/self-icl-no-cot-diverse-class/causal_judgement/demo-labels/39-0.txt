@@ -1,5 +1,0 @@
-Q: A person, Joe, is playing a game of chance where he flips a coin. He wins a dollar if and only if the coin lands on heads. Joe flips the coin and it lands on heads. Did Joe's flip of the coin cause him to win a dollar?
-Options:
-- Yes
-- No
-A: Yes

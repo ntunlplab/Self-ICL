@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Godfather Part II, The Dark Knight, The Departed:
-Options:
-(A) The Town
-(B) The Untouchables
-(C) The Prestige
-(D) The Aviator
-A: (B)

@@ -1,5 +1,0 @@
-Q: A student was studying for a test in the library when a group of friends came in and started talking loudly. The student asked them to be quiet, but they refused. As a result, the student was unable to concentrate and failed the test. Did the group of friends cause the problem?
-Options:
-- Yes
-- No
-A: Yes

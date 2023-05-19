@@ -1,6 +1,0 @@
-Q: In a toy store, there are three dolls: a Barbie, a Ken, and a G.I. Joe. The Barbie is older than the Ken. The G.I. Joe is older than the Barbie.
-Options:
-(A) The Barbie is the youngest
-(B) The Ken is the youngest
-(C) The G.I. Joe is the youngest
-A: (B)

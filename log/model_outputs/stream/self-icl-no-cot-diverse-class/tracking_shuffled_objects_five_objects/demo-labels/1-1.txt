@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a hand sign: Fred is showing rock, George is showing paper, Harry is showing scissors, Ian is showing rock, and Jane is showing paper.
-Throughout the game, the friends often switch hand signs. First, Fred and George switch hand signs. Then, Fred and Harry switch hand signs. Then, George and Ian switch hand signs. Then, Harry and Jane switch hand signs. Finally, Fred and George switch hand signs again. At the end of the game, Fred is showing 
-Options:
-(A) Rock
-(B) Paper
-(C) Scissors
-(D) Rock
-(E) Paper
-A: (E)

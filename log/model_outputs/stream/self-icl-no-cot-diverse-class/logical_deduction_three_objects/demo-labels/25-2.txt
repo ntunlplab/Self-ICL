@@ -1,6 +1,0 @@
-Q: In a spelling bee, there were three participants: Emma, Noah, and Tyler. Tyler finished below Emma. Tyler finished above Noah.
-Options:
-(A) Emma finished second
-(B) Noah finished second
-(C) Tyler finished second
-A: (B)

@@ -1,5 +1,0 @@
-Q: A person is walking down the street when they slip on a patch of ice. Did the ice cause the person to slip?
-Options:
-- Yes
-- No
-A: Yes

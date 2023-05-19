@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Working at a restaurant has made me an amazing chef
-(B) Working at a McDonald's has made me an amazing chef
-A: (A)

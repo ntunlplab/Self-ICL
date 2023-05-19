@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) leather wonderful Pakistani white medium-size monkey
-(B) wonderful medium-size white Pakistani leather monkey
-A: (B)

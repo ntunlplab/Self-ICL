@@ -1,5 +1,0 @@
-Q: If you follow these instructions, do you return to the starting point? Always face north. Take 5 steps east. Take 2 steps south. Take 5 steps west. Take 3 steps north. Take 5 steps east. Take 10 steps west.
-Options:
-- Yes
-- No
-A: Yes

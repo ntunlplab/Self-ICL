@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) The best way to defeat a stronger/larger and better regimented force is by fighting on their terms
-(B) The best way to defeat a stronger/larger and better regimented force is by fighting on your terms
-A: (B)

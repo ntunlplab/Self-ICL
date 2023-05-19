@@ -1,8 +1,0 @@
-Q: A pet store sells five types of fish: guppies, tetras, angelfish, mollies, and cichlids. The guppies are more colorful than the tetras. The angelfish are more colorful than the mollies. The mollies are more colorful than the cichlids. The cichlids are more colorful than the guppies.
-Options:
-(A) The tetras are the least colorful
-(B) The guppies are the least colorful
-(C) The angelfish are the least colorful
-(D) The mollies are the least colorful
-(E) The cichlids are the least colorful
-A: (B)

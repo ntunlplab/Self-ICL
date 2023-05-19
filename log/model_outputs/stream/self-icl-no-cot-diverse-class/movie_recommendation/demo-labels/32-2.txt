@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lord of the Rings, The Hobbit, Harry Potter, Star Wars:
-Options:
-(A) Avatar
-(B) The Chronicles of Narnia
-(C) The Hunger Games
-(D) Guardians of the Galaxy
-A: (B)

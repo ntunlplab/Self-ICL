@@ -1,7 +1,0 @@
-Q: David, Emma, and Fiona are playing a game. At the start of the game, they are each holding a stone: David has a pink stone, Emma has a purple stone, and Fiona has an orange stone.
-As the game progresses, pairs of players trade stones. First, Fiona and Emma swap stones. Then, Emma and David swap stones. Finally, Fiona and David swap stones. At the end of the game, Emma has the
-Options:
-(A) pink stone
-(B) purple stone
-(C) orange stone
-A: (B)

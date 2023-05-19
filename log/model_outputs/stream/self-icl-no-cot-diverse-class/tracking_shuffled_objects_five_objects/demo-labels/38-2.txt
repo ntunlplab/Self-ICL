@@ -1,9 +1,0 @@
-Q: Five siblings, Quinn, Rachel, Sarah, Tom, and Ursula, are playing a game of hide-and-seek. At the start of the game, each sibling has a different colored hiding spot: Quinn has a red hiding spot, Rachel has a yellow hiding spot, Sarah has a blue hiding spot, Tom has a green hiding spot, and Ursula has a purple hiding spot.
-As the game progresses, pairs of siblings swap hiding spots. First, Quinn and Rachel swap their hiding spots. Then, Sarah and Tom swap their hiding spots. Then, Ursula and Quinn swap their hiding spots. Then, Rachel and Sarah swap their hiding spots. Finally, Tom and Ursula swap their hiding spots. At the end of the game, Quinn has the
-Options:
-(A) red hiding spot
-(B) yellow hiding spot
-(C) blue hiding spot
-(D) green hiding spot
-(E) purple hiding spot
-A: (E)

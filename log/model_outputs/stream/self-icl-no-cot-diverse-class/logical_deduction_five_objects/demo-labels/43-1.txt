@@ -1,8 +1,0 @@
-Q: In a row of five cars, the first car is a Ford, the second car is a Honda, the third car is a Toyota, the fourth car is a Nissan, and the fifth car is a Chevrolet. The Honda is to the right of the Ford. The Nissan is the second from the left. The Chevrolet is to the left of the Toyota. The Chevrolet is the second from the right.
-Options:
-(A) The Ford is the third from the left
-(B) The Honda is the third from the left
-(C) The Toyota is the third from the left
-(D) The Nissan is the third from the left
-(E) The Chevrolet is the third from the left
-A: (B)

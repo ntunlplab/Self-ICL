@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) I'm so glad I got an A on my test
-(B) I'm so glad I got an F on my test
-A: (B)

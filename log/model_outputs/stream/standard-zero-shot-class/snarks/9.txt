@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) He's over six feet, so he must be tall
-(B) He's over six feet, so he must be wonderful
-A: (A)

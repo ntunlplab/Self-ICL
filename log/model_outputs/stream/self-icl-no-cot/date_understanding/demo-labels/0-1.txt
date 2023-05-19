@@ -1,9 +1,0 @@
-Q: Today is August 3rd, 2019. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 08/04/2019
-(B) 08/03/2020
-(C) 09/03/2019
-(D) 09/04/2019
-(E) 08/03/2021
-(F) 07/04/2019
-A: (A) 08/04/2019

@@ -1,8 +1,0 @@
-Q: A pet store sells five types of pets: cats, dogs, hamsters, birds, and fish. The fish are more expensive than the hamsters. The birds are more expensive than the dogs. The cats are the most expensive. The dogs are more expensive than the fish.
-Options:
-(A) The cats are the cheapest
-(B) The dogs are the cheapest
-(C) The hamsters are the cheapest
-(D) The birds are the cheapest
-(E) The fish are the cheapest
-A: (C)

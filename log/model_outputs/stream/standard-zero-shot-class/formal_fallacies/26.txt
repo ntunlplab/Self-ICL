@@ -1,8 +1,0 @@
-Task description: Distinguish deductively valid arguments from formal fallacies.
-
-Q: "Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To begin with, Jose is an admirer of AEK Athens FC. Moreover, every admirer of AEK Athens FC is an expert of Feyenoord. All this entails that Jose is an expert of Feyenoord."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

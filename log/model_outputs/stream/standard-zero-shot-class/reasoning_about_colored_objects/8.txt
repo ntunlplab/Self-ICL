@@ -1,7 +1,0 @@
-Task description: Answer extremely simple questions about the colors of objects on a surface.
-
-Q: On the table, there is a red crayon, a pink notebook, a yellow jug, and a magenta mug. Is the mug grey?
-Options:
-(A) yes
-(B) no
-A: (B)

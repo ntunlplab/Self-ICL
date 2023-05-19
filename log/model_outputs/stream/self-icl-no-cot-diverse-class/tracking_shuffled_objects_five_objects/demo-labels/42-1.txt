@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are playing a board game. At the start of the game, they are each assigned to a spot: Fiona is in spot 1, George is in spot 2, Harry is in spot 3, Isabel is in spot 4, and Jack is in spot 5.
-As the game progresses, pairs of friends occasionally swap spots. First, Jack and Harry trade spots. Then, Fiona and Isabel trade spots. Then, Harry and George trade spots. Then, Jack and Fiona trade spots. Finally, Harry and Jack trade spots. At the end of the game, Harry is in
-Options:
-(A) spot 1
-(B) spot 2
-(C) spot 3
-(D) spot 4
-(E) spot 5
-A: (E)

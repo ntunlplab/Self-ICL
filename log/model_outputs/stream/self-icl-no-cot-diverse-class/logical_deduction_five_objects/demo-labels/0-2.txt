@@ -1,8 +1,0 @@
-Q: In a row of five musical instruments, the first instrument is a guitar, the second instrument is a piano, the third instrument is a flute, the fourth instrument is a drum, and the fifth instrument is a trumpet. The guitar is the leftmost. The trumpet is to the left of the drum. The piano is the rightmost. The flute is the third from the left.
-Options:
-(A) The guitar is the rightmost
-(B) The piano is the rightmost
-(C) The flute is the rightmost
-(D) The drum is the rightmost
-(E) The trumpet is the rightmost
-A: (B)

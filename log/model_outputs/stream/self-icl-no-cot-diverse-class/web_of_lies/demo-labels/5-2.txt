@@ -1,2 +1,0 @@
-Q: Question: Sam says the sun is hot. Nick says Sam tells the truth. Jake says Nick lies. Lucy says Jake tells the truth. Rachel says Lucy lies. Does Rachel tell the truth?
-A: No,

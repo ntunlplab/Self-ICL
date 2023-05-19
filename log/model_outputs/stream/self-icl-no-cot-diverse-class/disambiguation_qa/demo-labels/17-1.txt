@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: They both agreed to the terms of the contract.
-Options:
-(A) Both parties agreed to the terms of the contract
-(B) Both individuals agreed to the terms of the contract
-(C) Ambiguous
-A: (A)

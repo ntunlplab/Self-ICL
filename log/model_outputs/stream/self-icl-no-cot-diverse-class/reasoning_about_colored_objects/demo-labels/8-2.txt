@@ -1,5 +1,0 @@
-Q: On the shelf, there is a gold clock, a teal book, a maroon lamp, and a beige vase. Is the vase yellow?
-Options:
-(A) yes
-(B) no
-A: (B)

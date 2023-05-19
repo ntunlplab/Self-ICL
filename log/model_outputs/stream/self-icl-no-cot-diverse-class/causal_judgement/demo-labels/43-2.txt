@@ -1,5 +1,0 @@
-Q: Did the new policy implemented by the school cause the improvement in student performance?
-Options:
-- Yes
-- No
-A: It depends

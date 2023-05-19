@@ -1,8 +1,0 @@
-Q: On a shelf, there are five cups: a white cup, a black cup, a pink cup, a silver cup, and a gold cup. The silver cup is to the left of the gold cup. The white cup is the third from the left. The gold cup is the second from the right. The black cup is to the left of the silver cup.
-Options:
-(A) The white cup is the third from the left
-(B) The black cup is the third from the left
-(C) The pink cup is the third from the left
-(D) The silver cup is the third from the left
-(E) The gold cup is the third from the left
-A: (C)

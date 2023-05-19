@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: To begin with, whatever is both an ingredient of Hair Repair Shampoo and an ingredient of Hair Repair Conditioner is an ingredient of Hair Repair Mask or an ingredient of Hair Repair Serum. Moreover, being an ingredient of Hair Repair Serum is necessary for being an ingredient of Hair Repair Mask. Finally, everything that is an ingredient of Hair Repair Conditioner is an ingredient of Hair Repair Serum, too. Therefore, whatever is an ingredient of Hair Repair Shampoo and an ingredient of Hair Repair Conditioner is also an ingredient of Hair Repair Mask."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

@@ -1,8 +1,0 @@
-Q: At a pet store, there are five animals: a parrot, a hamster, a cat, a dog, and a rabbit. The parrot is the oldest. The hamster is the second-oldest. The cat is the third-oldest. The dog is younger than the rabbit.
-Options:
-(A) The parrot is the youngest
-(B) The hamster is the youngest
-(C) The cat is the youngest
-(D) The dog is the youngest
-(E) The rabbit is the youngest
-A: (E)

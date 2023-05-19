@@ -1,7 +1,0 @@
-Following is an example instance for the task: Determine whether an artificially constructed sentence relating to sports is plausible or not. Please come up with 3 new instances for the task.
-Example instance:
-Is the following sentence plausible? "Elias Lindholm beat the buzzer."
-
-New instance 1: Is the following sentence plausible? "The pitcher threw a perfect game."
-New instance 2: Is the following sentence plausible? "The basketball team scored a three-pointer at the last second."
-New instance 3: Is the following sentence plausible? "The soccer team won the championship in overtime."

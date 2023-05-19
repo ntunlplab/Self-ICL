@@ -1,2 +1,0 @@
-Q: Question: Jack says that Jill is telling the truth. Sam says that Jack is lying. Emma says that Sam is telling the truth. Ryan says that Emma is lying. Does Ryan tell the truth?
-A: No,

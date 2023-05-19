@@ -1,8 +1,0 @@
-Q: On a shelf, there are five animals: a lion, a tiger, a bear, a wolf, and a fox. The lion is to the right of the fox. The bear is to the left of the fox. The bear is the third from the left. The tiger is the leftmost.
-Options:
-(A) The lion is the third from the left
-(B) The tiger is the third from the left
-(C) The bear is the third from the left
-(D) The wolf is the third from the left
-(E) The fox is the third from the left
-A: (C)

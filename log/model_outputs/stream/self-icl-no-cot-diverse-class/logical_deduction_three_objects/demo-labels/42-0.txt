@@ -1,6 +1,0 @@
-Q: A bakery sells three types of pastries: croissants, éclairs, and tarts. The tarts are the least expensive. The éclairs are more expensive than the croissants.
-Options:
-(A) The croissants are the most expensive
-(B) The éclairs are the most expensive
-(C) The tarts are the most expensive
-A: (C)

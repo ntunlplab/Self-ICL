@@ -1,6 +1,0 @@
-Q: In a row of three chairs, there is a red chair, a blue chair, and a green chair. The red chair is to the left of the blue chair. The blue chair is to the right of the green chair.
-Options:
-(A) The red chair is the leftmost
-(B) The blue chair is the leftmost
-(C) The green chair is the leftmost
-A: (B)

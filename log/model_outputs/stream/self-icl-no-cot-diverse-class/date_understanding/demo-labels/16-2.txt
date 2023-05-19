@@ -1,9 +1,0 @@
-Q: It has been exactly seven years since the day that the new bridge was opened. What is the date today in MM/DD/YYYY?
-Options:
-(A) 05/06/2028
-(B) 05/06/2013
-(C) 05/06/2035
-(D) 08/06/2020
-(E) 05/06/2020
-(F) 05/06/2042
-A: (E)

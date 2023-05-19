@@ -1,7 +1,0 @@
-Q: David, Emma, and Fiona are playing a game. At the start of the game, they are each holding a stone: David has a white stone, Emma has a black stone, and Fiona has a grey stone.
-As the game progresses, pairs of players trade stones. First, Fiona and David swap stones. Then, David and Emma swap stones. Finally, Emma and Fiona swap stones. At the end of the game, David has the
-Options:
-(A) white stone
-(B) black stone
-(C) grey stone
-A: (A)

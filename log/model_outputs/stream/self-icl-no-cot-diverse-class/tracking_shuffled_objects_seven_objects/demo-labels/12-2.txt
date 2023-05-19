@@ -1,6 +1,0 @@
-Q: The members of a tennis team are assigned to positions at the start of the match. Sam is playing singles, Tom is playing doubles, Sarah is playing mixed doubles, Tyler is playing singles, and Uma is playing doubles. As the match progresses, pairs of players occasionally swap positions. First, Uma and Sam trade positions. Then, Uma and Tom trade positions. Then, Sam and Sarah trade positions. Then, Tom and Tyler trade positions. Then, Sarah and Uma trade positions. Finally, Tyler and Sam trade positions. At the end of the match, Uma is playing
-Options:
-(A) singles
-(B) doubles
-(C) mixed doubles
-A: (B)

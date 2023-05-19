@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Departed:
-Options:
-(A) The Usual Suspects
-(B) The Silence of the Lambs
-(C) The Prestige
-(D) The Green Mile
-A: (A)

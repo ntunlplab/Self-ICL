@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Matrix, Star Wars: A New Hope, The Terminator:
-Options:
-(A) Aliens
-(B) Blade Runner
-(C) The Fifth Element
-(D) The Lion King
-A: (A)

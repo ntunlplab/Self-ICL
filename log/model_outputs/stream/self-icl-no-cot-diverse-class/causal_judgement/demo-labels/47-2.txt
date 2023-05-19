@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Bob is a carpenter who recently decided to try a new type of wood sealant called X-Sealant. He applied the X-Sealant to all of his wood projects, but then noticed that some of the wood was starting to rot. He wondered if the X-Sealant was the cause of the rotting wood.
-Options:
-- Yes
-- No
-A: No,

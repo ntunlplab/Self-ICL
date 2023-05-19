@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: All cats are animals. Therefore, all animals are cats."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

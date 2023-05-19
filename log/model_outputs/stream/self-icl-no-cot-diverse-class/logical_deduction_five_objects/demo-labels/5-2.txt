@@ -1,8 +1,0 @@
-Q: On a shelf, there are five fruits: an apple, a banana, an orange, a pear, and a grape. The orange is to the right of the grape. The pear is the second from the right. The banana is to the right of the apple. The banana is to the left of the grape.
-Options:
-(A) The apple is the third from the left
-(B) The pear is the third from the left
-(C) The banana is the third from the left
-(D) The orange is the third from the left
-(E) The grape is the third from the left
-A: (B)

@@ -1,2 +1,0 @@
-Q: Question: John says that Mary is lying. Sarah says that John is telling the truth. Bill says that Sarah is lying. Tom says that Bill is telling the truth. Does Tom tell the truth?
-A: Yes,

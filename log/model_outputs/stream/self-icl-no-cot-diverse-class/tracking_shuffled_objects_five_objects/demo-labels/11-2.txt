@@ -1,9 +1,0 @@
-Q: Five friends, Larry, Mary, Nathan, Olivia, and Peter, are playing a game. At the start of the game, they are each holding a stone: Larry has a quartz stone, Mary has a jade stone, Nathan has a granite stone, Olivia has a marble stone, and Peter has an obsidian stone.
-As the game progresses, pairs of players trade stones. First, Larry and Mary swap stones. Then, Nathan and Olivia swap stones. Then, Mary and Nathan swap stones. Then, Peter and Olivia swap stones. Finally, Larry and Peter swap stones. At the end of the game, Nathan has the
-Options:
-(A) quartz stone
-(B) jade stone
-(C) granite stone
-(D) marble stone
-(E) obsidian stone
-A: (C)

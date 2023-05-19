@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Tom is playing a video game and notices that his reflexes are improving. He decides to take a break and go for a run. After the run, he finds that his reflexes are even better. Was Tom's improved reflexes due to going for a run?
-Options:
-- Yes
-- No
-A: No

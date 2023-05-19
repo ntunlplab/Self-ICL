@@ -1,6 +1,0 @@
-Q: Three siblings, Jake, Emma, and Sam, are playing a game of hide-and-seek. At the start of the game, each sibling has a different hiding spot: Jake is hiding behind the couch, Emma is hiding in the closet, and Sam is hiding under the bed. As the game progresses, pairs of siblings swap hiding spots. First, Jake and Emma swap their hiding spots. Then, Emma and Sam swap their hiding spots. Finally, Sam and Jake swap their hiding spots. At the end of the game, Jake is hiding
-Options:
-(A) behind the couch
-(B) in the closet
-(C) under the bed
-A: (A)

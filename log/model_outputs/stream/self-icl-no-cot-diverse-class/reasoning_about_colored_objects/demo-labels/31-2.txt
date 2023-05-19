@@ -1,5 +1,0 @@
-Q: On the dresser, I see a coral scarf, a silver bracelet, a gold necklace, a peach comb, and an aqua hairbrush. Is the comb indigo?
-Options:
-(A) yes
-(B) no
-A: (B)

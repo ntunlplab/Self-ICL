@@ -1,6 +1,0 @@
-Q: Three students, Alex, Ben, and Charlie, are playing a game of tag. At the start of the game, Alex is "it", Ben is running away, and Charlie is hiding. Throughout the game, the players often switch roles. First, Alex and Ben switch roles. Then, Alex and Charlie switch roles. Finally, Ben and Charlie switch roles. At the end of the game, Alex is 
-Options:
-(A) "It"
-(B) Running away
-(C) Hiding
-A: (A)

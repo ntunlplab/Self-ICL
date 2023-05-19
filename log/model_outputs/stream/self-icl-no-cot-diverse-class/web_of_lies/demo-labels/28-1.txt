@@ -1,2 +1,0 @@
-Q: Question: Mary says that the sun is yellow. Tom says that Mary is wrong. Alex says that Tom is wrong. Jane says that Alex is wrong. Does Jane tell the truth?
-A: No,

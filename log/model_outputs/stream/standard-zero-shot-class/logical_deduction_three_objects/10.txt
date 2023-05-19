@@ -1,8 +1,0 @@
-Task description: A logical deduction task which requires deducing the order of a sequence of objects.
-
-Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are three books: a gray book, a purple book, and a red book. The purple book is to the left of the red book. The gray book is to the left of the purple book.
-Options:
-(A) The gray book is the leftmost
-(B) The purple book is the leftmost
-(C) The red book is the leftmost
-A: (B)

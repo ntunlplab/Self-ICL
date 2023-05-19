@@ -1,9 +1,0 @@
-Q: Today is April 15th, 2020. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 04/16/2020
-(B) 04/17/2020
-(C) 05/15/2020
-(D) 05/16/2020
-(E) 04/15/2021
-(F) 04/30/2020
-A: (B) 04/17/2020

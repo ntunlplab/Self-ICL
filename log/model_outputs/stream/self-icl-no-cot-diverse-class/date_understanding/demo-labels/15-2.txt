@@ -1,9 +1,0 @@
-Q: The wedding is set for Saturday, June 15th, 2035. What is the date the day before in MM/DD/YYYY?
-Options:
-(A) 06/14/2035
-(B) 06/15/2035
-(C) 06/16/2035
-(D) 06/17/2035
-(E) 06/18/2035
-(F) 06/19/2035
-A: (A)

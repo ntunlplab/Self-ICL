@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The professor was pleased with the results of the experiment because they were better than expected.
-Options:
-(A) The professor was pleased with the results
-(B) The experiment was better than expected
-(C) Ambiguous
-A: (C)

@@ -1,5 +1,0 @@
-Q: A person is playing a game of basketball and shoots the ball. The ball goes in the hoop. Did the person cause the ball to go in the hoop?
-Options:
-- Yes
-- No
-A: Yes

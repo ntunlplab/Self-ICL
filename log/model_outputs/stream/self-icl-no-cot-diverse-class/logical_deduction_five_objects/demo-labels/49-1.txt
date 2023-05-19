@@ -1,8 +1,0 @@
-Q: In a row of five cars, the first car is a Ferrari, the second car is a Lamborghini, the third car is a Porsche, the fourth car is a Mercedes, and the fifth car is a BMW. The Lamborghini is to the right of the Ferrari. The Mercedes is to the left of the BMW. The Porsche is the second from the left. The BMW is the second from the right.
-Options:
-(A) The Ferrari is the leftmost
-(B) The Lamborghini is the leftmost
-(C) The Porsche is the leftmost
-(D) The Mercedes is the leftmost
-(E) The BMW is the leftmost
-A: (C)

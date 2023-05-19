@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) medium-size archaic prismlike purple American car
-(B) archaic purple prismlike American medium-size car
-A: (B)

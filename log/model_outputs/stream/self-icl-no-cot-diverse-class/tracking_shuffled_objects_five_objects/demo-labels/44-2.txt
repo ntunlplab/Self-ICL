@@ -1,9 +1,0 @@
-Q: Five students are playing a game of tag. At the start of the game, they each have a partner: Alex is chasing Ben, Charlie is chasing David, and Emily is chasing Fred.
-Throughout the game, the players often switch partners. First, Emily and Ben switch partners. Then, Alex and Ben switch partners. Then, David and Emily switch partners. Then, Emily and Charlie switch partners. Finally, Alex and Charlie switch partners. At the end of the game, Emily is chasing
-Options:
-(A) Alex
-(B) Ben
-(C) Charlie
-(D) David
-(E) Fred
-A: (E)

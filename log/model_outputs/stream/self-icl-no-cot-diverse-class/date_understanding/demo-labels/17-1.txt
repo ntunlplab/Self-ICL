@@ -1,9 +1,0 @@
-Q: Sarah graduated from college on April 10, 2018. 990 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 01/02/2021
-(B) 12/31/2020
-(C) 01/02/2058
-(D) 11/13/2020
-(E) 02/22/2021
-(F) 01/02/2085
-A: (A)

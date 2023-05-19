@@ -1,6 +1,0 @@
-Q: Did the car accident cause the death of the driver?
-A few weeks ago, a young man was driving his car on a highway when he suddenly lost control of the vehicle and crashed into a tree. The driver was killed instantly. The police investigation revealed that the car had a faulty brake system, which had been installed by a mechanic a few days before the accident. Did the faulty brake system cause the driver's death?
-Options:
-- Yes
-- No
-A: Yes

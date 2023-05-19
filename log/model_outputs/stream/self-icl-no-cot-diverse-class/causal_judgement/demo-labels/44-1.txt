@@ -1,6 +1,0 @@
-Q: Was John's lifestyle responsible for his death?
-John was a 45-year-old man who had been living a healthy lifestyle for many years. He ate a balanced diet, exercised regularly, and never smoked. One day, he was diagnosed with a rare form of cancer. After months of treatment, the cancer spread and John eventually died from the disease. Did John's lifestyle contribute to his death?
-Options:
-- Yes
-- No
-A: No.

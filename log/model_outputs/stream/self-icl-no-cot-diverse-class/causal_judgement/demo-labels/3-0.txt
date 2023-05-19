@@ -1,6 +1,0 @@
-Q: Was the death of Mrs. Smith caused by her own actions?
-Mrs. Smith was a successful businesswoman who had recently been promoted to a high-level position in her company. She was known for her hard work and dedication to her job. One day, Mrs. Smith was driving home from work when she noticed a car following her. She tried to speed up and lose the car, but it kept up with her. Eventually, Mrs. Smith pulled over and the car stopped behind her. A man got out of the car and approached her. He was carrying a gun and demanded that she give him her purse. Mrs. Smith refused and the man shot her. Mrs. Smith died at the scene. Did Mrs. Smith's death result from her own actions?
-Options:
-- Yes
-- No
-A: No

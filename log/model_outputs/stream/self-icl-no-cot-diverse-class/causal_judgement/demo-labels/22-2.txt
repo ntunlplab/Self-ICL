@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Tom is a construction worker. He was working on a building when he noticed that the scaffolding was not properly secured. He quickly secured the scaffolding, but the building still collapsed a few days later. Did Tom's quick action to secure the scaffolding cause the building to collapse?
-Options:
-- Yes
-- No
-A: No

@@ -1,8 +1,0 @@
-Q: A group of students are taking a test. At the start of the test, they are each assigned to a section: Anna is taking the math section, Ben is taking the science section, Charlie is taking the English section, Dave is taking the history section, and Emily is taking the geography section. As the test progresses, pairs of students occasionally swap sections. First, Anna and Ben trade sections. Then, Charlie and Dave trade sections. Then, Emily and Anna trade sections. Then, Ben and Charlie trade sections. Then, Dave and Emily trade sections. Finally, Anna and Ben trade sections. At the end of the test, Charlie is taking:
-Options:
-(A) math
-(B) science
-(C) English
-(D) history
-(E) geography
-A: (B) science

@@ -1,8 +1,0 @@
-Q: In a row of five cars, the first car is a red Ferrari, the second car is a blue Lamborghini, the third car is a yellow Porsche, the fourth car is a green Maserati, and the fifth car is a black Aston Martin. The red Ferrari is to the left of the blue Lamborghini. The yellow Porsche is to the right of the blue Lamborghini. The green Maserati is to the left of the black Aston Martin. The yellow Porsche is to the right of the green Maserati.
-Options:
-(A) The red Ferrari is the rightmost
-(B) The blue Lamborghini is the rightmost
-(C) The yellow Porsche is the rightmost
-(D) The green Maserati is the rightmost
-(E) The black Aston Martin is the rightmost
-A: (E)

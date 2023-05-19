@@ -1,5 +1,0 @@
-Q: If you follow these instructions, do you return to the starting point? Always face south. Take 7 steps left. Take 3 steps forward. Take 5 steps right. Take 9 steps backward.
-Options:
-- Yes
-- No
-A: Yes

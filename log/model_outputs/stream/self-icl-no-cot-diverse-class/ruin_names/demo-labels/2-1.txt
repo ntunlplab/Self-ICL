@@ -1,7 +1,0 @@
-Q: Which of the following is a humorous edit of this artist or movie name: 'the dark knight'?
-Options:
-(A) the dark knave
-(B) the dark knightmare
-(C) the dark knightly
-(D) the dark knaught
-A: (B)

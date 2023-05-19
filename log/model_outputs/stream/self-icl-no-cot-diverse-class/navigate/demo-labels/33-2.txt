@@ -1,5 +1,0 @@
-Q: If you follow these instructions, do you return to the starting point? Take 7 steps. Turn left. Take 4 steps. Turn right. Take 3 steps. Turn around. Take 6 steps. Turn right. Take 2 steps.
-Options:
-- Yes
-- No
-A: Yes

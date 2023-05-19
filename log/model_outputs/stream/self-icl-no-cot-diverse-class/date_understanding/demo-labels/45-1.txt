@@ -1,9 +1,0 @@
-Q: The wedding was scheduled to be on 11/14/2022, but was delayed by two months to today. What is the date two months ago in MM/DD/YYYY?
-Options:
-(A) 09/14/2022
-(B) 11/14/2023
-(C) 11/14/2020
-(D) 09/14/2021
-(E) 09/14/2020
-(F) 11/14/2022
-A: (D)

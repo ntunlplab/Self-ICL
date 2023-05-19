@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to be a fan of two teams at the same time: All supporters of Juventus are fans of AC Milan. Now, all supporters of Juventus are fans of AC Milan or supporters of Inter Milan. Therefore, all supporters of Juventus are supporters of Inter Milan."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

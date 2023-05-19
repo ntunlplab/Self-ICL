@@ -1,9 +1,0 @@
-Q: The new school year starts on 09/03/2021. What is the date one month from today in MM/DD/YYYY?
-Options:
-(A) 10/03/2021
-(B) 10/04/2021
-(C) 09/04/2021
-(D) 09/30/2021
-(E) 10/30/2021
-(F) 11/03/2021
-A: (C)

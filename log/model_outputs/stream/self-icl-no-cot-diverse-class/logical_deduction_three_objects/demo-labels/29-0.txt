@@ -1,6 +1,0 @@
-Q: On a shelf, there are three cups: a blue cup, a green cup, and a red cup. The blue cup is to the right of the green cup. The green cup is to the right of the red cup.
-Options:
-(A) The blue cup is the rightmost
-(B) The green cup is the rightmost
-(C) The red cup is the rightmost
-A: (C)

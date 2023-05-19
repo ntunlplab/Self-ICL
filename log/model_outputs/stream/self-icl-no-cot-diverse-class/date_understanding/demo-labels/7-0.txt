@@ -1,9 +1,0 @@
-Q: Today is 12/25/2019. What is the date two days ago in MM/DD/YYYY?
-Options:
-(A) 12/23/2019
-(B) 12/21/2019
-(C) 12/20/2019
-(D) 12/19/2019
-(E) 12/18/2019
-(F) 12/17/2019
-A: (A)

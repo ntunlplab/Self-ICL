@@ -1,8 +1,0 @@
-Q: In a spelling bee, there were five contestants: Jack, Emma, Ryan, Olivia, and Tyler. Jack finished below Tyler. Ryan finished second. Ryan finished above Olivia. Olivia finished above Tyler.
-Options:
-(A) Jack finished second
-(B) Emma finished second
-(C) Ryan finished second
-(D) Olivia finished second
-(E) Tyler finished second
-A: (C)

@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First premise: All birds can fly. Second premise: All penguins are birds. It follows that all penguins can fly."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

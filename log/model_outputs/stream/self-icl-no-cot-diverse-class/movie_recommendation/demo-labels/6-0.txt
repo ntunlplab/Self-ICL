@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Dark Knight, The Lord of the Rings: The Return of the King, The Silence of the Lambs:
-Options:
-(A) The Departed
-(B) The Prestige
-(C) The Green Mile
-(D) The Truman Show
-A: (A)

@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: Alex tells us that they could not meet.
-Options:
-(A) Alex could not meet
-(B) We could not meet
-(C) Ambiguous
-A: (A)

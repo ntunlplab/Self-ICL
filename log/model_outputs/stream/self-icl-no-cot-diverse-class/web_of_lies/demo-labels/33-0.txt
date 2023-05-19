@@ -1,2 +1,0 @@
-Q: Question: John says that the sky is blue. Sarah says that John is wrong. Mark says that Sarah is wrong. Lisa says that Mark is right. Does Lisa tell the truth?
-A: Yes,

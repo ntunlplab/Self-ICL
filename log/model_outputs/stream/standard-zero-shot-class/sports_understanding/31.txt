@@ -1,4 +1,0 @@
-Task description: Determine whether an artificially constructed sentence relating to sports is plausible or not.
-
-Q: Is the following sentence plausible? "Malcolm Brogdon banked the shot in."
-A: Yes,

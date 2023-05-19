@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) We should definitely keep the old, outdated software
-(B) We should definitely upgrade to the new, cutting-edge software
-A: (A)

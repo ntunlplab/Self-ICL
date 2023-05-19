@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lion King, Aladdin, Beauty and the Beast, Mulan:
-Options:
-(A) The Little Mermaid
-(B) Pocahontas
-(C) The Princess and the Frog
-(D) Tangled
-A: (A)

@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a resident of California is sufficient for being a resident of the United States. Second, nothing is neither a resident of Mexico nor a resident of California. We may conclude: Being a resident of Mexico is sufficient for not being a resident of the United States."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

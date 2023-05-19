@@ -1,6 +1,0 @@
-Q: Three friends, John, Mary, and Paul, are playing a game of chess. At the start of the game, John is playing white, Mary is playing black, and Paul is playing red. As the game progresses, pairs of players occasionally swap colors. First, John and Mary trade colors. Then, John and Paul trade colors. Finally, Mary and Paul trade colors. At the end of the game, Paul is playing
-Options:
-(A) white
-(B) black
-(C) red
-A: (A)

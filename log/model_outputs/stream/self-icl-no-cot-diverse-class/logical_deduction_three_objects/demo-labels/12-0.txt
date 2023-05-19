@@ -1,6 +1,0 @@
-Q: In a row of five chairs, there are three people sitting: a teacher, a student, and a parent. The student is to the right of the teacher. The parent is to the left of the teacher.
-Options:
-(A) The teacher is the second from the left
-(B) The student is the second from the left
-(C) The parent is the second from the left
-A: (A)

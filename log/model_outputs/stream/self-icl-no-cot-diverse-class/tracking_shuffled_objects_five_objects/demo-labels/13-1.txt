@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of Monopoly. At the start of the game, they are each assigned to a token: Friend A is playing with the top hat token, Friend B is playing with the car token, Friend C is playing with the thimble token, Friend D is playing with the battleship token, and Friend E is playing with the shoe token.
-As the game progresses, pairs of friends occasionally swap tokens. First, Friend A and Friend B trade tokens. Then, Friend C and Friend D trade tokens. Then, Friend A and Friend C trade tokens. Then, Friend E and Friend A trade tokens. Finally, Friend D and Friend B trade tokens. At the end of the game, Friend C is playing with
-Options:
-(A) the top hat token
-(B) the car token
-(C) the thimble token
-(D) the battleship token
-(E) the shoe token
-A: (A)

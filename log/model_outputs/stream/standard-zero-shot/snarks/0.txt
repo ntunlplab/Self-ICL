@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) He's a generous person, trying to promote a charity stream that has raised millions to help kids in need
-(B) He's a terrible person, trying to promote a charity stream that has raised millions to help kids in need
-A: (A) He's a generous person, trying to promote a charity stream that has raised millions to help kids in need

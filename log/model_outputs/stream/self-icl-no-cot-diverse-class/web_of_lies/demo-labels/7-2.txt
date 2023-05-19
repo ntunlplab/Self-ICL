@@ -1,2 +1,0 @@
-Q: Question: Paul says that the grass is purple. Mary says that Paul is wrong. Steve says that Mary is wrong. Susan says that Steve is wrong. Does Susan tell the truth?
-A: No,

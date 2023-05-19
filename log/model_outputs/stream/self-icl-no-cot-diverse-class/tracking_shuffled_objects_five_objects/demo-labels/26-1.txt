@@ -1,9 +1,0 @@
-Q: Five students are playing a game of musical chairs. At the start of the game, each student has a different item: Alice has a blue book, Bob has a red book, Claire has a green book, Dave has a yellow book, and Eve has a black book.
-As the game progresses, pairs of students swap items. First, Alice and Dave swap their items. Then, Dave and Eve swap their items. Then, Dave and Alice swap their items. Then, Bob and Claire swap their items. Finally, Bob and Eve swap their items. At the end of the game, Bob has the
-Options:
-(A) blue book
-(B) red book
-(C) green book
-(D) yellow book
-(E) black book
-A: (B)

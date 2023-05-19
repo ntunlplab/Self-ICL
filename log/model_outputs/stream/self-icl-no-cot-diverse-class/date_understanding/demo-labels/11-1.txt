@@ -1,9 +1,0 @@
-Q: Today is Mar 25, 2021. The school year will end in 2 days. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 03/25/2020
-(B) 03/23/2020
-(C) 02/25/2020
-(D) 02/23/2020
-(E) 01/25/2020
-(F) 01/23/2020
-A: (A)

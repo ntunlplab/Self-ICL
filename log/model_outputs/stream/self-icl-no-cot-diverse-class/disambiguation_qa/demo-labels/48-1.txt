@@ -1,8 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The students were required to read the book and discuss it with their teachers.
-Options:
-(A) They were the students' teachers
-(B) They were the teachers' teachers
-(C) They were the book's teachers
-(D) Ambiguous
-A: (D)

@@ -1,8 +1,0 @@
-Q: On a shelf, there are five toys: a blue toy, a green toy, a yellow toy, a pink toy, and a white toy. The green toy is the leftmost. The yellow toy is to the right of the pink toy. The blue toy is to the left of the white toy. The pink toy is the second from the right.
-Options:
-(A) The blue toy is the second from the right
-(B) The green toy is the second from the right
-(C) The yellow toy is the second from the right
-(D) The pink toy is the second from the right
-(E) The white toy is the second from the right
-A: (D)

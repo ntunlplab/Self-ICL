@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Just healthy meals wouldn't cut it for his active lifestyle
-(B) Just healthy meals cut it for his active lifestyle
-A: (A)

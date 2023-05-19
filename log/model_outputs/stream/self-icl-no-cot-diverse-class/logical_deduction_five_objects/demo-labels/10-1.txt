@@ -1,8 +1,0 @@
-Q: A bakery sells five types of bread: rye, wheat, sourdough, pumpernickel, and focaccia. The rye is sweeter than the wheat. The sourdough is sweeter than the pumpernickel. The focaccia is sweeter than the rye. The pumpernickel is sweeter than the focaccia.
-Options:
-(A) The wheat is the least sweet
-(B) The rye is the least sweet
-(C) The sourdough is the least sweet
-(D) The pumpernickel is the least sweet
-(E) The focaccia is the least sweet
-A: (E)

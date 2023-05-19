@@ -1,2 +1,0 @@
-Q: Question: Tom says that the grass is green. Jane says that Tom is wrong. Paul says that Jane is wrong. Mary says that Paul is right. Does Mary tell the truth?
-A: Yes,

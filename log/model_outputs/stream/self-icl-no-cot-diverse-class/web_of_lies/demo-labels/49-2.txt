@@ -1,2 +1,0 @@
-Q: Question: If Alice says that Bob says that Alice is wrong, is Alice wrong?
-A: No,

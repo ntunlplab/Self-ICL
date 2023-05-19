@@ -1,9 +1,0 @@
-Q: On October 31st, 2021, the day after tomorrow will be November 2nd, 2021. What is the date today in MM/DD/YYYY?
-Options:
-(A) 10/29/2021
-(B) 10/30/2021
-(C) 10/31/2021
-(D) 11/01/2021
-(E) 11/02/2021
-(F) 11/03/2021
-A: (B)

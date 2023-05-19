@@ -1,9 +1,0 @@
-Q: Today is the day of the year that is the same as the last two digits of the year. What is the date a month ago in MM/DD/YYYY?
-Options:
-(A) 01/01/2020
-(B) 01/02/2020
-(C) 10/02/2019
-(D) 11/05/2019
-(E) 01/02/2021
-(F) 01/03/2020
-A: (C)

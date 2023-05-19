@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) But America is a more free country because they have democracy to protect them from that sort of tyranny
-(B) But America is a more free country because they have guns to protect them from that sort of tyranny
-A: (B)

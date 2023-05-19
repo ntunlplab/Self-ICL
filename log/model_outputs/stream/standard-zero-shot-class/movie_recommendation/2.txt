@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Schindler's List, Braveheart, The Silence of the Lambs, Tombstone:
-Options:
-(A) Orlando
-(B) Guilty of Romance
-(C) Forrest Gump
-(D) All the Real Girls
-A: (C)

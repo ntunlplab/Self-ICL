@@ -1,9 +1,0 @@
-Q: Five students are taking a test in a classroom. At the start of the test, they are each assigned to a seat: Student A is sitting in seat 1, Student B is sitting in seat 2, Student C is sitting in seat 3, Student D is sitting in seat 4, and Student E is sitting in seat 5.
-As the test progresses, pairs of students occasionally swap seats. First, Student A and Student B trade seats. Then, Student C and Student D trade seats. Then, Student A and Student E trade seats. Then, Student B and Student C trade seats. Finally, Student D and Student E trade seats. At the end of the test, Student A is sitting in
-Options:
-(A) seat 1
-(B) seat 2
-(C) seat 3
-(D) seat 4
-(E) seat 5
-A: (A)

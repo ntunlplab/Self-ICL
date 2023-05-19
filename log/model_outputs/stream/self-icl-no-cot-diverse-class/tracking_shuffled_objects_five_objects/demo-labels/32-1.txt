@@ -1,9 +1,0 @@
-Q: Five students are taking a test. At the start of the test, each student has a different colored pencil: Alice has a red pencil, Bob has a blue pencil, Claire has a yellow pencil, Dave has a green pencil, and Eve has a purple pencil.
-As the test progresses, pairs of students swap pencils. First, Bob and Dave swap their pencils. Then, Bob and Eve swap their pencils. Then, Dave and Claire swap their pencils. Then, Dave and Bob swap their pencils. Finally, Alice and Dave swap their pencils. At the end of the test, Bob has the
-Options:
-(A) red pencil
-(B) blue pencil
-(C) yellow pencil
-(D) green pencil
-(E) purple pencil
-A: (B)

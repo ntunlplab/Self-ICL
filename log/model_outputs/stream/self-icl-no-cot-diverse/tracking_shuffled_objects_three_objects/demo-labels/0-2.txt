@@ -1,6 +1,0 @@
-Q: Jack, Jill, and Peter are friends and avid video game players. At the start of the semester, they each buy one new video game: Jack gets Grand Theft Auto, Jill gets Call of Duty, and Peter gets Mario Kart. As the semester proceeds, they start trading around the new video games. First, Jill and Peter swap games. Then, Peter and Jack swap games. Finally, Jill and Peter swap games. At the end of the semester, Peter has 
-Options:
-(A) Grand Theft Auto
-(B) Call of Duty
-(C) Mario Kart
-A: (A) Grand Theft Auto

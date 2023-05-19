@@ -1,2 +1,0 @@
-Q: Question: Alex says he always tells the truth. Sam says Alex lies. Dave says Sam tells the truth. Emma says Dave lies. Does Emma tell the truth?
-A: No, Emma does not tell the truth.

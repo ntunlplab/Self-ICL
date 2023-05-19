@@ -1,8 +1,0 @@
-Q: In a row of five books, the first book is a novel, the second book is a biography, the third book is a cookbook, the fourth book is a dictionary, and the fifth book is a textbook. The novel is to the left of the biography. The cookbook is to the right of the biography. The dictionary is to the left of the textbook. The cookbook is to the right of the dictionary.
-Options:
-(A) The novel is the rightmost
-(B) The biography is the rightmost
-(C) The cookbook is the rightmost
-(D) The dictionary is the rightmost
-(E) The textbook is the rightmost
-A: (E)

@@ -1,2 +1,0 @@
-Q: Question: Mark says the grass is green. Jane says Mark is wrong. Paul says Jane is wrong. Susan says Paul is right. Does Susan tell the truth?
-A: Yes,

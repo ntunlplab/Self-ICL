@@ -1,9 +1,0 @@
-Q: Today is 10/15/2019. What is the date one month from today in MM/DD/YYYY?
-Options:
-(A) 11/15/2019
-(B) 10/30/2019
-(C) 11/30/2019
-(D) 10/15/2020
-(E) 11/30/2020
-(F) 09/15/2019
-A: (C)

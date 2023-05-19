@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Apollo 13, Jurassic Park, Die Hard With a Vengeance, Forrest Gump:
-Options:
-(A) Killer Movie
-(B) Stealth
-(C) The Last Man on Earth
-(D) True Lies
-A: (D)

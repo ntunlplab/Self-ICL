@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a member of the Democratic Party is sufficient for being a member of the United States Congress. Second, nothing is neither a member of the Republican Party nor a member of the Democratic Party. We may conclude: Being a member of the Republican Party is sufficient for not being a member of the United States Congress."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

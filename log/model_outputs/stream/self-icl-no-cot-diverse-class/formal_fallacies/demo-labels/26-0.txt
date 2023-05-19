@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to predict the future: If we can predict the future, then we can know what will happen in the future. But we cannot know what will happen in the future. Therefore, we cannot predict the future."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

@@ -1,2 +1,0 @@
-Q: Today is the first day of school in 2019. What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 09/02/2019\n(B) 09/03/2019\n(C) 09/04/2019\n(D) 09/05/2019\n(E) 09/06/2019\n(F) 09/07/2019
-A: (B) 09/03/2019

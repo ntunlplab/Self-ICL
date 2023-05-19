@@ -1,9 +1,0 @@
-Q: Today is 11/30/2020. What is the date two months ago in MM/DD/YYYY?
-Options:
-(A) 09/30/2020
-(B) 09/01/2020
-(C) 10/30/2020
-(D) 10/01/2020
-(E) 11/01/2020
-(F) 11/30/2019
-A: (D)

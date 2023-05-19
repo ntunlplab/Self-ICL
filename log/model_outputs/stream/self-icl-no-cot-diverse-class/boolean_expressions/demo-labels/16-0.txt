@@ -1,2 +1,0 @@
-Q: True and False or False is
-A: False

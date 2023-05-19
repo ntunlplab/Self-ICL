@@ -1,4 +1,0 @@
-Task description: Solve multi-step arithmetic problems.
-
-Q: ((-1 + 2 + 9 * 5) - (-2 + -4 + -4 * -7)) =
-A: 68

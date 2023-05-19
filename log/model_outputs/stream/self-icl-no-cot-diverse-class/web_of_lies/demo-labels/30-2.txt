@@ -1,2 +1,0 @@
-Q: Question: Jake says that Lisa is lying. Nick says that Jake is telling the truth. Oliver says that Nick is lying. Paula says that Oliver is telling the truth. Does Paula tell the truth?
-A: Yes,

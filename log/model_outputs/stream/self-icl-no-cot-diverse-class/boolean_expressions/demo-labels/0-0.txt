@@ -1,2 +1,0 @@
-Q: ( False ) or ( False ) and ( True ) is
-A: False

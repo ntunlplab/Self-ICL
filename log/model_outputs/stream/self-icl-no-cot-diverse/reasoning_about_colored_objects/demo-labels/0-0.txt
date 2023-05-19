@@ -1,2 +1,0 @@
-Q: On the floor, there is one yellow cat toy, two green cat toys, three blue cat toys, two yellow notebooks, three blue notebooks, three orange cat toys, and one green notebook. If I remove all the notebooks from the floor, how many blue objects remain on it?
-A: Five blue objects remain on the floor.

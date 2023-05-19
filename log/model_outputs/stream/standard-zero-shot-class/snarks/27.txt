@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Without the river there's no water and no electricity. Blocking it is such a smart move!
-(B) Without the river there's no water and no electricity. Blocking it is such a terrible move!
-A: (A)

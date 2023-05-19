@@ -1,6 +1,0 @@
-Q: In a cooking competition, there were three chefs: John, Sarah, and Mark. John finished first. Sarah finished second.
-Options:
-(A) John finished first
-(B) Sarah finished first
-(C) Mark finished first
-A: (A)

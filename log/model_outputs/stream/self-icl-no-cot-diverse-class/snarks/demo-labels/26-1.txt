@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) I'm sure you'll do great on the test.
-(B) I'm sure you'll do great on the test. Yeah, right.
-A: (B)

@@ -1,8 +1,0 @@
-Q: On a shelf, there are five toys: a red toy, a blue toy, a yellow toy, a green toy, and a purple toy. The yellow toy is to the left of the purple toy. The red toy is the third from the left. The purple toy is the second from the right. The blue toy is to the left of the green toy.
-Options:
-(A) The red toy is the third from the left
-(B) The yellow toy is the third from the left
-(C) The blue toy is the third from the left
-(D) The green toy is the third from the left
-(E) The purple toy is the third from the left
-A: (A)

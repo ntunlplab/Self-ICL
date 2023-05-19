@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is safe to eat raw eggs: First, raw eggs can contain salmonella. Second, salmonella can cause food poisoning. Therefore, it is not safe to eat raw eggs."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

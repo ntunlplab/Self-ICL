@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to predict the future: First, if the future is predetermined, then it is impossible to change it. Second, if the future is not predetermined, then it is possible to change it. Third, it is impossible to change the future. We may conclude: The future is predetermined."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

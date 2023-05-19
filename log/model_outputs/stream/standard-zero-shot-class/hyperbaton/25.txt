@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) rectangular silver ancient green ridiculous big knife
-(B) ridiculous big ancient rectangular green silver knife
-A: (B)

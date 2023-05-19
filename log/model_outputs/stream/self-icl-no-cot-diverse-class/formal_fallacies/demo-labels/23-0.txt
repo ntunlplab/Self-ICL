@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to predict the weather: First premise: If the barometric pressure is high, then the temperature will be low. Second premise: The barometric pressure is low. Third premise: Therefore, the temperature will be high.
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

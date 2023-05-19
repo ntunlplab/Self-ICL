@@ -1,6 +1,0 @@
-Q: On a table, there are three cups: a red cup, a blue cup, and a green cup. The red cup is to the right of the blue cup. The blue cup is to the left of the green cup.
-Options:
-(A) The red cup is the rightmost
-(B) The blue cup is the rightmost
-(C) The green cup is the rightmost
-A: (C)

@@ -1,9 +1,0 @@
-Q: Mark was born on the first day of December in 2005. Today is his 12-year-old birthday. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 12/02/2017
-(B) 12/02/2037
-(C) 12/01/2017
-(D) 11/30/2017
-(E) 12/03/2017
-(F) 12/02/2077
-A: (A)

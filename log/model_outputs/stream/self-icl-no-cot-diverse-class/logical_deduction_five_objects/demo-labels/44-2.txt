@@ -1,8 +1,0 @@
-Q: At a library, there are five books: a mystery novel, a romance novel, a science fiction novel, a biography, and a cookbook. The cookbook is the oldest. The biography is the second-oldest. The science fiction novel is the third-oldest. The romance novel is the fourth-oldest. The mystery novel is the youngest.
-Options:
-(A) The mystery novel is the third-oldest
-(B) The romance novel is the third-oldest
-(C) The science fiction novel is the third-oldest
-(D) The biography is the third-oldest
-(E) The cookbook is the third-oldest
-A: (C)

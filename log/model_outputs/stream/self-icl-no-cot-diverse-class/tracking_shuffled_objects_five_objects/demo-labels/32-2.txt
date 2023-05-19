@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of chess. At the start of the game, each player has a different colored piece: Alice has a red piece, Bob has a blue piece, Claire has a yellow piece, Dave has a green piece, and Eve has a purple piece.
-As the game progresses, pairs of players swap pieces. First, Bob and Dave swap their pieces. Then, Bob and Eve swap their pieces. Then, Dave and Claire swap their pieces. Then, Dave and Bob swap their pieces. Finally, Alice and Dave swap their pieces. At the end of the game, Bob has the
-Options:
-(A) red piece
-(B) blue piece
-(C) yellow piece
-(D) green piece
-(E) purple piece
-A: (B)

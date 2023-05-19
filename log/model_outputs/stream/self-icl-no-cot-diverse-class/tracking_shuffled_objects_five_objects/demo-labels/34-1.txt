@@ -1,9 +1,0 @@
-Q: Five students are taking a test. At the start of the test, each student has a different answer sheet: Alice has a sheet with all A's, Bob has a sheet with all B's, Claire has a sheet with all C's, Dave has a sheet with all D's, and Eve has a sheet with all E's.
-As the test progresses, pairs of students swap answer sheets. First, Bob and Claire swap their sheets. Then, Dave and Eve swap their sheets. Then, Bob and Claire swap their sheets. Then, Claire and Alice swap their sheets. Finally, Eve and Dave swap their sheets. At the end of the test, Bob has the
-Options:
-(A) sheet with all A's
-(B) sheet with all B's
-(C) sheet with all C's
-(D) sheet with all D's
-(E) sheet with all E's
-A: (B)

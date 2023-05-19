@@ -1,6 +1,0 @@
-Q: Sentence: She was so excited to get the job that she couldn't sleep.
-Options:
-(A) She was excited to get the job
-(B) Someone else was excited to get the job
-(C) Ambiguous
-A: (A) She was excited to get the job

@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to The Fugitive, Braveheart, Schindler's List, The Lion King:
-Options:
-(A) Mad City
-(B) The Scorpion King
-(C) The Shawshank Redemption
-(D) City of Men
-A: (C)

@@ -1,2 +1,0 @@
-Q: Question: Sam says that Dave is lying. Jake says that Sam is telling the truth. Tyler says that Jake is lying. Kelly says that Tyler is telling the truth. Does Kelly tell the truth?
-A: Yes,

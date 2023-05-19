@@ -1,9 +1,0 @@
-Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, tuxedo color, habitat Steve, 5, black, Antarctic Ocean Mary, 7, white, Arctic Ocean Joe, 9, gray, Pacific Ocean Jane, 11, brown, Indian Ocean We then delete the penguin named Joe from the table.
-How many penguins are there in the table?
-Options:
-(A) 1
-(B) 2
-(C) 3
-(D) 4
-(E) 5
-A: (D)

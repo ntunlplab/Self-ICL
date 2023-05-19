@@ -1,6 +1,0 @@
-Q: "Is John a brother of Sarah? Is Mark related to Paul? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: To start with, everyone who is a neighbor of Mary is a son of Robert, too. Now, being a son of Robert is sufficient for not being an uncle of David. Therefore, no neighbor of Mary is an uncle of David."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

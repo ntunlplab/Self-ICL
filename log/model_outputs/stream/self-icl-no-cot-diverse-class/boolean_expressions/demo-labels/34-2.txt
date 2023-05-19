@@ -1,2 +1,0 @@
-Q: not not not False xor True is
-A: False

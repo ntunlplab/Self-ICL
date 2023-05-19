@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-A student was studying for an exam when a power outage occurred. The student was unable to finish studying and failed the exam. Did the student intentionally cause the power outage?
-Options:
-- Yes
-- No
-A: No

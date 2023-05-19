@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) I'm sure the CEO of the company will be more than happy to take a pay cut
-(B) I'm sure the CEO of the company won't be more than happy to take a pay cut
-A: (A)

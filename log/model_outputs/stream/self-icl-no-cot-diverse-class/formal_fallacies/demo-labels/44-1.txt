@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: To begin with, whatever is both an ingredient of Super Shine Nail Polish and an ingredient of Glittery Nail Art is an ingredient of Nail Strengthener or an ingredient of Nail Art Glue. Moreover, being an ingredient of Nail Art Glue is necessary for being an ingredient of Nail Strengthener. Finally, everything that is an ingredient of Glittery Nail Art is an ingredient of Nail Art Glue, too. Therefore, whatever is an ingredient of Super Shine Nail Polish and an ingredient of Glittery Nail Art is also an ingredient of Nail Strengthener."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

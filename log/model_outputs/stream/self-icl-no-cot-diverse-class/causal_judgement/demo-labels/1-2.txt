@@ -1,6 +1,0 @@
-Q: Did the faulty air conditioning unit cause the power outage?
-A few days ago, a city experienced a massive power outage. The power company investigation revealed that the outage was caused by a faulty air conditioning unit in one of the buildings. The unit had been installed by a technician a few weeks before the outage. Did the faulty air conditioning unit cause the power outage?
-Options:
-- Yes
-- No
-A: Yes

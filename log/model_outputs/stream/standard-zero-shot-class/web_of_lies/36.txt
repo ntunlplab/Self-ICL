@@ -1,4 +1,0 @@
-Task description: Evaluate a random boolean function expressed as a word problem.
-
-Q: Question: Fidel lies. Fletcher says Fidel tells the truth. Yoland says Fletcher lies. Raymond says Yoland lies. Leda says Raymond lies. Does Leda tell the truth?
-A: No,

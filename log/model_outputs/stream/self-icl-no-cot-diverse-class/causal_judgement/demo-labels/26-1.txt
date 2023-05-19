@@ -1,6 +1,0 @@
-Q: Did the driver's negligence cause the car accident?
-John is driving on a highway when he suddenly notices that the car in front of him has stopped abruptly. He slams on the brakes, but it is too late and he crashes into the car. The driver of the car in front of him claims that John was driving too fast and was not paying attention to the road. Did John's negligence cause the car accident?
-Options:
-- Yes
-- No
-A: Yes

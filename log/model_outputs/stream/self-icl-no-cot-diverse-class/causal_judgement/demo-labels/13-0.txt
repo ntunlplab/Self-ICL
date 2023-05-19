@@ -1,6 +1,0 @@
-Q: Was the drunk driver responsible for the accident that injured Joe's son?
-Joe was driving home from work when he noticed a car stopped on the side of the road. He pulled over to help the driver, who had run out of gas. Joe gave the driver a ride to the nearest gas station and waited for him to fill up his tank. While Joe was waiting, a drunk driver crashed into the car that Joe had been driving. Joe's son, who was in the car with him, was the only one seriously injured. Did the drunk driver cause the accident that injured Joe's son?
-Options:
-- Yes
-- No
-A: Yes

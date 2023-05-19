@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are playing a board game. At the start of the game, they are each assigned to a piece: Fiona is playing the knight, George is playing the rook, Harry is playing the bishop, Isabel is playing the queen, and Jack is playing the king.
-As the game progresses, pairs of players occasionally swap pieces. First, Isabel and Harry trade pieces. Then, Jack and George trade pieces. Then, Isabel and Jack trade pieces. Then, Fiona and Harry trade pieces. Finally, George and Isabel trade pieces. At the end of the game, Harry is playing
-Options:
-(A) the knight
-(B) the rook
-(C) the bishop
-(D) the queen
-(E) the king
-A: (E)

@@ -1,8 +1,0 @@
-Q: It is currently the middle of August 2020. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 08/14/2019
-(B) 07/03/2019
-(C) 12/04/2018
-(D) 06/02/2019
-(E) 05/04/2019
-A: (A)

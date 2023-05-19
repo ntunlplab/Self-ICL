@@ -1,6 +1,0 @@
-Q: Three friends, Jake, Kate, and Luke, are playing a game of checkers. At the start of the game, Jake has the red pieces, Kate has the black pieces, and Luke has the white pieces. As the game progresses, they decide to switch pieces. First, Jake and Kate switch pieces. Then, Luke and Jake switch pieces. Finally, Kate and Luke switch pieces. At the end of the game, Luke has
-Options:
-(A) Red pieces
-(B) Black pieces
-(C) White pieces
-A: (A)

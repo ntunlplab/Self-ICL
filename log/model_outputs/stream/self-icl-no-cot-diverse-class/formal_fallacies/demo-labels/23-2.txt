@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to predict the outcome of a sporting event: First premise: If the home team is favored, then the away team will lose. Second premise: The away team is favored. Third premise: Therefore, the home team will win.
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

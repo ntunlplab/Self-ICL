@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all avid video game players. At the start of the year, they each buy one new game: Fiona gets Mario Kart, George gets Fortnite, Harry gets Call of Duty, Isabel gets Overwatch, and Jack gets Minecraft.
-As the year progresses, they start trading around the new games. First, George and Harry swap games. Then, Harry and Isabel swap games. Then, Isabel and Fiona swap games. Then, Isabel and George swap games. Finally, Jack and Isabel swap games. At the end of the year, Isabel has
-Options:
-(A) Mario Kart
-(B) Fortnite
-(C) Call of Duty
-(D) Overwatch
-(E) Minecraft
-A: (D)

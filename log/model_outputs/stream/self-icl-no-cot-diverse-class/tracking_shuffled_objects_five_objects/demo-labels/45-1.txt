@@ -1,9 +1,0 @@
-Q: Five students, Karen, Larry, Mike, Nancy, and Olivia, are playing a game. At the start of the game, they are each holding a coin: Karen has a penny, Larry has a nickel, Mike has a dime, Nancy has a quarter, and Olivia has a half-dollar.
-As the game progresses, pairs of players trade coins. First, Larry and Mike swap coins. Then, Nancy and Larry swap coins. Then, Mike and Larry swap coins. Then, Larry and Karen swap coins. Finally, Olivia and Larry swap coins. At the end of the game, Larry has the
-Options:
-(A) penny
-(B) nickel
-(C) dime
-(D) quarter
-(E) half-dollar
-A: (E)

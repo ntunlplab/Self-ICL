@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Sally is a student at a local university. The university is offering a scholarship to students who have a GPA of 3.5 or higher. Sally has a GPA of 3.4. She decides to take an extra course to raise her GPA to 3.5. She successfully raises her GPA to 3.5 and receives the scholarship. Did Sally receive the scholarship because she took the extra course?
-Options:
-- Yes
-- No
-A: Yes

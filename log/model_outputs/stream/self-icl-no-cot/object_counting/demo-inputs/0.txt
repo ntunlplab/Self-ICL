@@ -1,9 +1,0 @@
-Following is an example instance for the task: Questions that involve enumerating objects and asking the model to count them. Please come up with 3 new instances for the task.
-Example instance:
-I have a flute, a piano, a trombone, four stoves, a violin, an accordion, a clarinet, a drum, two lamps, and a trumpet. How many musical instruments do I have?
-
-New instance 1: I have a guitar, a saxophone, a banjo, three chairs, a mandolin, a harp, a flute, a trumpet, five tables, and a drum. How many musical instruments do I have?
-
-New instance 2: I have a violin, a cello, a harp, four bookshelves, a trumpet, a clarinet, a saxophone, a drum, two desks, and a flute. How many musical instruments do I have?
-
-New instance 3: I have a piano, a trombone, a guitar, five windows, a trumpet, a flute, a saxophone, a drum, three couches, and an accordion. How many musical instruments do I have?

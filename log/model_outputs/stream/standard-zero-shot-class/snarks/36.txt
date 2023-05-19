@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Hey genocide is clearly the most rational decision
-(B) Hey compromise is clearly the most rational decision
-A: (A)

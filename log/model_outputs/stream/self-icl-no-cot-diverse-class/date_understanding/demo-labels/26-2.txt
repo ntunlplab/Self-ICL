@@ -1,9 +1,0 @@
-Q: The project is due on December 25, 2021, which is 6 months away from now. What is the date one month ago from today in MM/DD/YYYY?
-Options:
-(A) 11/25/2020
-(B) 10/25/2021
-(C) 11/25/2021
-(D) 11/25/2054
-(E) 11/25/1940
-(F) 11/25/2021
-A: (F)

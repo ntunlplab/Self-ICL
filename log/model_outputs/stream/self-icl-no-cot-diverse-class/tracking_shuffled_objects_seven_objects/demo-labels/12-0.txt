@@ -1,9 +1,0 @@
-Q: The members of a basketball team are assigned to positions at the start of the game. Jack is playing point guard, Jill is playing shooting guard, John is playing small forward, Jane is playing power forward, Joe is playing center, and Jim is playing coach. As the game progresses, pairs of players occasionally swap positions. First, Jim and Jack trade positions. Then, Jim and Jill trade positions. Then, Jack and John trade positions. Then, Jill and Jane trade positions. Then, John and Joe trade positions. Finally, Jane and Jim trade positions. At the end of the game, Jim is playing
-Options:
-(A) point guard
-(B) shooting guard
-(C) small forward
-(D) power forward
-(E) center
-(F) coach
-A: (F)

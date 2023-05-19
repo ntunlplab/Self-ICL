@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to predict the future: If the future is uncertain, then it is impossible to predict the future. We may conclude that it is impossible to predict the future."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

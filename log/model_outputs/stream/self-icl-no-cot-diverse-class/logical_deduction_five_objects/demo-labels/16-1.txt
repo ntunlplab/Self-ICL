@@ -1,8 +1,0 @@
-Q: At a music festival, there are five bands: a jazz band, a rock band, a classical band, a pop band, and a folk band. The classical band is newer than the jazz band. The folk band is the second-newest. The rock band is older than the jazz band. The pop band is the second-oldest.
-Options:
-(A) The jazz band is the second-oldest
-(B) The rock band is the second-oldest
-(C) The classical band is the second-oldest
-(D) The pop band is the second-oldest
-(E) The folk band is the second-oldest
-A: (C)

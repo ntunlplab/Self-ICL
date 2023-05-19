@@ -1,9 +1,0 @@
-Q: Five siblings, Olivia, Peter, Rachel, Sam, and Tom, are playing a game. At the start of the game, they are each holding a book: Olivia has a science book, Peter has a math book, Rachel has a history book, Sam has a geography book, and Tom has a literature book.
-As the game progresses, pairs of players trade books. First, Olivia and Sam swap books. Then, Peter and Rachel swap books. Then, Rachel and Sam swap books. Then, Sam and Peter swap books. Finally, Olivia and Tom swap books. At the end of the game, Tom has the
-Options:
-(A) science book
-(B) math book
-(C) history book
-(D) geography book
-(E) literature book
-A: (E)

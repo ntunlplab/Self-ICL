@@ -1,5 +1,0 @@
-Q: Was the nurse's misadministration of medication the cause of John's premature death?
-Options:
-- Yes
-- No
-A: Yes

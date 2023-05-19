@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) new white lead walking surfboard
-(B) walking lead new white surfboard
-A: (B)

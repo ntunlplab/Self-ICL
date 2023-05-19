@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a hand sign: Alex is showing rock, Ben is showing paper, Charlie is showing scissors, David is showing rock, and Emily is showing paper.
-Throughout the game, the friends often switch hand signs. First, Alex and Ben switch hand signs. Then, Ben and Charlie switch hand signs. Then, Charlie and David switch hand signs. Then, David and Emily switch hand signs. Finally, Alex and Emily switch hand signs. At the end of the game, Charlie is showing
-Options:
-(A) Rock
-(B) Paper
-(C) Scissors
-(D) Rock
-(E) Paper
-A: (C)

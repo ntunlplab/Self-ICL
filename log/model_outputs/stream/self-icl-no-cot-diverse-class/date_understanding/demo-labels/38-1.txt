@@ -1,9 +1,0 @@
-Q: Today is 07/31/2021. What is the date three months ago in MM/DD/YYYY?
-Options:
-(A) 04/30/2021
-(B) 04/01/2021
-(C) 05/31/2021
-(D) 05/01/2021
-(E) 06/30/2021
-(F) 06/01/2021
-A: (B)

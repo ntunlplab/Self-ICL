@@ -1,2 +1,0 @@
-Q: Question: John says he is an honest person. Sarah says John is honest. Mark says Sarah lies. Lisa says Mark tells the truth. Does Lisa tell the truth?
-A: No,

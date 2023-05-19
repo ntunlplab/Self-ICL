@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have an opponent: Alex is playing against Ophelia, Ben is playing against Jamie, Charlie is playing against Sam, David is playing against Melissa, and Emily is playing against Rodrigo.
-Throughout the game, the players often switch opponents. First, Emily and David switch opponents. Then, Alex and Ben switch opponents. Then, David and Ben switch opponents. Then, Ben and Alex switch opponents. Finally, Alex and Charlie switch opponents. At the end of the game, Ben is playing against
-Options:
-(A) Ophelia
-(B) Jamie
-(C) Sam
-(D) Melissa
-(E) Rodrigo
-A: (B)

@@ -1,8 +1,0 @@
-Q: At a toy store, there are five dolls: a Barbie, a Ken, a G.I. Joe, a Cabbage Patch Kid, and a Bratz. The G.I. Joe is older than the Ken. The Ken is older than the Barbie. The Cabbage Patch Kid is the second-youngest. The Bratz is older than the G.I. Joe.
-Options:
-(A) The Barbie is the second-oldest
-(B) The Ken is the second-oldest
-(C) The G.I. Joe is the second-oldest
-(D) The Cabbage Patch Kid is the second-oldest
-(E) The Bratz is the second-oldest
-A: (B)

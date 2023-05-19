@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Schindler's List, Pulp Fiction, Braveheart, The Usual Suspects:
-Options:
-(A) 12 Angry Men
-(B) Mo' Better Blues
-(C) Mindhunters
-(D) The Shawshank Redemption
-A: (D)

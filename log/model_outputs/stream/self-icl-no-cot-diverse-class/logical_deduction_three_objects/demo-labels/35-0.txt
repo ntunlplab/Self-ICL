@@ -1,6 +1,0 @@
-Q: In a pet store, there are three animals: a parrot, a hamster, and a turtle. The turtle is older than the parrot. The parrot is older than the hamster.
-Options:
-(A) The parrot is the second-newest
-(B) The hamster is the second-newest
-(C) The turtle is the second-newest
-A: (C)

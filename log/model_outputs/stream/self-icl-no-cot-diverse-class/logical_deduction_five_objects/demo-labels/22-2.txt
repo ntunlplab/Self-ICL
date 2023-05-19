@@ -1,8 +1,0 @@
-Q: In a spelling bee, there were five contestants: Emma, Jake, David, Lucy, and Peter. Jake finished below David. Peter finished below Emma. Peter finished above Lucy. David finished below Lucy.
-Options:
-(A) Emma finished last
-(B) Jake finished last
-(C) David finished last
-(D) Lucy finished last
-(E) Peter finished last
-A: (B)

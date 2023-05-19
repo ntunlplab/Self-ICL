@@ -1,8 +1,0 @@
-Q: It is currently the beginning of April 2021. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 04/14/2020
-(B) 03/03/2020
-(C) 12/04/2019
-(D) 06/02/2020
-(E) 05/04/2020
-A: (A)

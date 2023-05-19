@@ -1,2 +1,0 @@
-Q: Question: Sarah says that her neighbor lies. Her neighbor's father says that Sarah tells the truth. Her neighbor's mother says that her neighbor's father lies. Her neighbor's brother says that her neighbor's mother tells the truth. Does Sarah tell the truth?
-A: Yes,

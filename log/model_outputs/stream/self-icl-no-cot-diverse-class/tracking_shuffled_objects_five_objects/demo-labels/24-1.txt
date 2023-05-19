@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are playing a game of tag. At the start of the game, they each have a starting position: Fiona is at position 1, George is at position 2, Harry is at position 3, Isabel is at position 4, and Jack is at position 5.
-Throughout the game, the friends often switch positions. First, Fiona and Harry switch positions. Then, Fiona and Jack switch positions. Then, George and Harry switch positions. Then, George and Isabel switch positions. Finally, Harry and Isabel switch positions. At the end of the game, Jack is at
-Options:
-(A) Position 1
-(B) Position 2
-(C) Position 3
-(D) Position 4
-(E) Position 5
-A: (E)

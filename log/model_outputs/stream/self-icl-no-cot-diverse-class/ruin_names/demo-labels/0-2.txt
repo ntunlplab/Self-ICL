@@ -1,7 +1,0 @@
-Q: Which of the following is a humorous edit of this artist or movie name: 'The Godfather'?
-Options:
-(A) The Godfadda
-(B) The Godfatha
-(C) The Godfathah
-(D) The Godfathur
-A: (A)

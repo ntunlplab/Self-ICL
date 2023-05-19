@@ -1,2 +1,0 @@
-Q: ( False and not not not False ) is
-A: False

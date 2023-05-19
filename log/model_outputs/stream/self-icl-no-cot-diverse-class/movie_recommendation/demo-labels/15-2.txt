@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Hangover, Superbad, Step Brothers, Knocked Up:
-Options:
-(A) Pineapple Express
-(B) The 40-Year-Old Virgin
-(C) Wedding Crashers
-(D) Old School
-A: (A)

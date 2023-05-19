@@ -1,6 +1,0 @@
-Q: What caused the fire in the warehouse?
-The warehouse caught fire last week. After further investigation, it was found that the fire had been caused by a faulty electrical wiring system. Did the faulty electrical wiring system cause the fire?
-Options:
-- Yes
-- No
-A: Yes

@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of musical chairs. At the start of the game, each person is sitting in a chair of a different color: Alice is sitting in a red chair, Bob is sitting in a yellow chair, Claire is sitting in a blue chair, Dave is sitting in a green chair, and Eve is sitting in a purple chair.
-As the game progresses, pairs of people swap chairs. First, Eve and Bob swap chairs. Then, Claire and Alice swap chairs. Then, Bob and Eve swap chairs. Then, Dave and Claire swap chairs. Finally, Alice and Eve swap chairs. At the end of the game, Claire is sitting in a
-Options:
-(A) red chair
-(B) yellow chair
-(C) blue chair
-(D) green chair
-(E) purple chair
-A: (C)

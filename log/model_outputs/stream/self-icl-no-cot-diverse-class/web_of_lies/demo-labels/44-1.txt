@@ -1,2 +1,0 @@
-Q: Question: Mark says that his brother is lying. His brother says that Mark is telling the truth. His sister says that Mark is lying. His mother says that his sister is telling the truth. Is his mother telling the truth?
-A: No,

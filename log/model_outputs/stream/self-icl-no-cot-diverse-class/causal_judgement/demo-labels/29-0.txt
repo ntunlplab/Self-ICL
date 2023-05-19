@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John is driving his car on a sunny day. He notices that the temperature gauge is rising and decides to turn on the air conditioning. After a few minutes, the temperature gauge returns to normal. Was the temperature gauge returning to normal because John turned on the air conditioning?
-Options:
-- Yes
-- No
-A: Yes

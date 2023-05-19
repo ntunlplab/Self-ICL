@@ -1,9 +1,0 @@
-Q: On April 4th, 2019, Sarah bought a dozen apples. She ate one per day. Today she ran out of apples. What is the date one week from today in MM/DD/YYYY?
-Options:
-(A) 04/11/2019
-(B) 04/12/2019
-(C) 04/13/2019
-(D) 04/14/2019
-(E) 04/15/2019
-(F) 04/16/2019
-A: (F)

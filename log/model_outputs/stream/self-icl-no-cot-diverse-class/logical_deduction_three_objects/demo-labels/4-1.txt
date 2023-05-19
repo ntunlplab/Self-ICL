@@ -1,6 +1,0 @@
-Q: On a kitchen counter, there are three plates: a yellow plate, a white plate, and a pink plate. The white plate is the rightmost. The pink plate is to the right of the yellow plate. Which of the following is true?
-Options:
-(A) The yellow plate is the rightmost
-(B) The white plate is the rightmost
-(C) The pink plate is the rightmost
-A: (B)

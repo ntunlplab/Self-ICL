@@ -1,9 +1,0 @@
-Q: It's been exactly two weeks since the start of the new semester. What is the date in MM/DD/YYYY?
-Options:
-(A) 01/14/2020
-(B) 01/15/2020
-(C) 01/13/2020
-(D) 01/16/2020
-(E) 01/01/2020
-(F) 01/31/2020
-A: (B)

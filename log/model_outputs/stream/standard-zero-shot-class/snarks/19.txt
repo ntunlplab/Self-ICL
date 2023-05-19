@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Violence is a perfect way to unleash your frustrations
-(B) Exercise is a perfect way to unleash your frustrations
-A: (A)

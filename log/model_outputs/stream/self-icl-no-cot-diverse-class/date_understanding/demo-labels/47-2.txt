@@ -1,8 +1,0 @@
-Q: The first day of the summer season was June 21st, 2021. What is the date 10 days ago in MM/DD/YYYY?
-Options:
-(A) 06/10/2021
-(B) 06/11/2021
-(C) 06/15/2021
-(D) 06/20/2021
-(E) 06/21/2021
-A: (D)

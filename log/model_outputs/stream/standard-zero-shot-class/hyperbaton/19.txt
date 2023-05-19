@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) repulsive big rectangular pink steel exercise shoe
-(B) pink big exercise repulsive steel rectangular shoe
-A: (B)

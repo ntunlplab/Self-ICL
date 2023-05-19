@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Sally is a student in a science class. She was given an experiment to conduct, but she did not follow the instructions correctly. As a result, the experiment failed. Did Sally's failure to follow the instructions cause the experiment to fail?
-Options:
-- Yes
-- No
-A: Yes

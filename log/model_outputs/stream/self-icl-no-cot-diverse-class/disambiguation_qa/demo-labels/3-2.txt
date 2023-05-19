@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The dog barked at the cat, and it ran away.
-Options:
-(A) The dog ran away
-(B) The cat ran away
-(C) Ambiguous
-A: (B)

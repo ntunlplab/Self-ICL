@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) So he's planning to continue leaving useless space junk in orbit literally just because he can. What a horrible person
-(B) So he's planning to continue leaving useless space junk in orbit literally just because he can. What a brilliant person
-A: (A)

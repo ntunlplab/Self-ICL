@@ -1,7 +1,0 @@
-Q: Which of the following is a humorous edit of this artist or movie name: 'bohemian rhapsody'?
-Options:
-(A) bohemian rapsody
-(B) bohemian rapsodie
-(C) bohemian rapsodize
-(D) bohemian rapsodizzle
-A: (D)

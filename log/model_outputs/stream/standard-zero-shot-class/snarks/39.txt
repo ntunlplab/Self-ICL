@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) An NFL Head coach with a losing record that hasn't been on a field on ten years? This is gonna go great
-(B) An NFL Head coach with a losing record that hasn't been on a field on ten years? This is gonna go terribly
-A: (A)

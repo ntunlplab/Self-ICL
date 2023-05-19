@@ -1,9 +1,0 @@
-Q: The first day of 2022 is a Friday, and today is the first Thursday of 2022. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 01/05/2021
-(B) 01/06/2021
-(C) 01/01/2021
-(D) 01/07/2021
-(E) 05/05/2020
-(F) 11/01/2020
-A: (A)

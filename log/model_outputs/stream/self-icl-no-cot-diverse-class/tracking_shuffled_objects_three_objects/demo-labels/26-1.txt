@@ -1,7 +1,0 @@
-Q: Three siblings, Jack, Kate, and Lucy, are playing a game of hide-and-seek. At the start of the game, each player has a different colored hat: Jack has a red hat, Kate has a blue hat, and Lucy has a yellow hat.
-As the game progresses, pairs of players swap hats. First, Jack and Kate swap their hats. Then, Kate and Lucy swap their hats. Finally, Jack and Lucy swap their hats. At the end of the game, Jack has the
-Options:
-(A) red hat
-(B) blue hat
-(C) yellow hat
-A: (A)

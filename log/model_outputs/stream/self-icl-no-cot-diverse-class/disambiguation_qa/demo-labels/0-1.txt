@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The team won the game because they had the most points.
-Options:
-(A) The team had the most points
-(B) The game had the most points
-(C) Ambiguous
-A: (A)

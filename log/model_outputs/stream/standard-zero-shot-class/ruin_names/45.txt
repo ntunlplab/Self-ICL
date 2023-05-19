@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'get shorty'?
-Options:
-(A) wet shorty
-(B) get shirty
-(C) get shovrty
-(D) get sbhorty
-A: (B)

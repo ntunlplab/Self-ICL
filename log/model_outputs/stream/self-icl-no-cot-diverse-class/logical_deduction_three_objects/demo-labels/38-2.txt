@@ -1,6 +1,0 @@
-Q: On a plate, there are three pieces of fruit: an apple, an orange, and a banana. The orange is to the right of the apple. The banana is the rightmost.
-Options:
-(A) The apple is the second from the left
-(B) The orange is the second from the left
-(C) The banana is the second from the left
-A: (B)

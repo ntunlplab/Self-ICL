@@ -1,6 +1,0 @@
-Q: "Is Tom a father of Lisa? Is Jack related to Jill? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: To start with, everyone who is a classmate of Sam is a brother of Karen, too. Now, being a brother of Karen is sufficient for not being a grandparent of Emily. Therefore, no classmate of Sam is a grandparent of Emily."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

@@ -1,5 +1,0 @@
-Q: There is a woman who works in a factory that produces a chemical that is known to be toxic to humans. She is aware of the dangers of the chemical, but continues to work in the factory and produce the chemical. Is the woman responsible for the harm caused by the chemical?
-Options:
-- Yes
-- No
-A: No,

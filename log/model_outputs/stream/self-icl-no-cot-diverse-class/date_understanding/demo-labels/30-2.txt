@@ -1,9 +1,0 @@
-Q: On December 25th, 2020, Mark bought a dozen oranges. He ate one per day. Today he ran out of oranges. What is the date one week from today in MM/DD/YYYY?
-Options:
-(A) 12/31/2020
-(B) 01/01/2021
-(C) 01/02/2021
-(D) 01/03/2021
-(E) 01/04/2021
-(F) 01/05/2021
-A: (B)

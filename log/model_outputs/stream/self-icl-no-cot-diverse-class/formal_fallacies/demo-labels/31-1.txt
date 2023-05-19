@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: To start with, no employee of the company is both a citizen of the country and a shareholder of the firm. Now, whoever is not a shareholder of the firm is a shareholder of the trust. Moreover, nobody is neither a citizen of the country nor a shareholder of the trust. Hence, everyone who is an employee of the company is a shareholder of the trust, too."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

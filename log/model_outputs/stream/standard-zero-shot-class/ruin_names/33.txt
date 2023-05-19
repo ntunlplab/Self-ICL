@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'die another day'?
-Options:
-(A) die anothpr day
-(B) diet another day
-(C) dies another day
-(D) die another ay
-A: (B)

@@ -1,9 +1,0 @@
-Q: Five students are taking a test. At the start of the test, each student is sitting in a seat of a different number: Alice is in seat 1, Bob is in seat 2, Claire is in seat 3, Dave is in seat 4, and Eve is in seat 5.
-As the test progresses, pairs of students swap seats. First, Eve and Bob swap seats. Then, Claire and Alice swap seats. Then, Bob and Eve swap seats. Then, Dave and Claire swap seats. Finally, Alice and Eve swap seats. At the end of the test, Dave is sitting in seat 
-Options:
-(A) 1
-(B) 2
-(C) 3
-(D) 4
-(E) 5
-A: (D)

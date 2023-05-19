@@ -1,8 +1,0 @@
-Q: Sarah moved to her new house on April 1, 2020. 97 days have passed since then. What is the date today in MM/DD/YYYY?
-Options:
-(A) 09/12/2020
-(B) 11/12/2020
-(C) 12/12/2020
-(D) 09/12/1961
-(E) 09/17/2020
-A: (E)

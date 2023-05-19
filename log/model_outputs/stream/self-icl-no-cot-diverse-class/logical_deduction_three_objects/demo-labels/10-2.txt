@@ -1,6 +1,0 @@
-Q: On a shelf, there are three dolls: a brown doll, a red doll, and a blue doll. The red doll is to the left of the blue doll. The brown doll is to the left of the red doll.
-Options:
-(A) The brown doll is the leftmost
-(B) The red doll is the leftmost
-(C) The blue doll is the leftmost
-A: (B)

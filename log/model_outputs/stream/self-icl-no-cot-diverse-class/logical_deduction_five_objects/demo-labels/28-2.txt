@@ -1,8 +1,0 @@
-Q: In a math competition, there were five competitors: Jack, Sam, Mia, Ben, and Zoe. Ben finished third. Ben finished below Jack. Sam finished second-to-last. Zoe finished last.
-Options:
-(A) Jack finished first
-(B) Sam finished first
-(C) Mia finished first
-(D) Ben finished first
-(E) Zoe finished first
-A: (A)

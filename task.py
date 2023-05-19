@@ -61,6 +61,12 @@ class Task(object):
                 self._counter += 1
         return labels if self._batch_size > 1 else labels[0]
     
+    def get_inputs(self, sample_ids: List[int]) -> Union[str, List[str]]:
+        inputs = []
+        for sample_id in sample_ids:
+            inputs.append(self._samples[sample_id]["input"])
+        return inputs if len(sample_ids) > 1 else inputs[0]
+    
     def set_counter(self, counter: int) -> None:
         self._counter = counter
 

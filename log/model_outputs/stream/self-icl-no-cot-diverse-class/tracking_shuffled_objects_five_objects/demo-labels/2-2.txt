@@ -1,9 +1,0 @@
-Q: Five chefs are competing in a cooking competition. At the start of the competition, each chef is assigned a dish to prepare: Alex is preparing a soup, Ben is preparing a salad, Charlie is preparing a main course, David is preparing a dessert, and Emily is preparing an appetizer.
-Throughout the competition, the chefs often switch dishes. First, Alex and Ben switch dishes. Then, Charlie and Alex switch dishes. Then, David and Charlie switch dishes. Then, David and Emily switch dishes. Finally, Ben and Emily switch dishes. At the end of the competition, Emily is preparing
-Options:
-(A) Soup
-(B) Salad
-(C) Main course
-(D) Dessert
-(E) Appetizer
-A: (E)

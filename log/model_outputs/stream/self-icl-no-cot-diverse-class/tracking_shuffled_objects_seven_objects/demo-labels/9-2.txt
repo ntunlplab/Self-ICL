@@ -1,5 +1,0 @@
-Q: At a game of tag, 8 players are competing. At the start of the game, they are arranged in a circle with each player designated as either "it" or "not it". Throughout the game, the players often switch roles. First, Player 1 and Player 8 switch roles. Then, Player 2 and Player 7 switch roles. Then, Player 3 and Player 6 switch roles. Then, Player 4 and Player 5 switch roles. Finally, Player 5 and Player 8 switch roles. At the end of the game, Player 8 is designated as which role?
-Options:
-(A) It
-(B) Not it
-A: (A)

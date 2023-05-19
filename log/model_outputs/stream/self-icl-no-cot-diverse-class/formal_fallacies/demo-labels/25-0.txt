@@ -1,6 +1,0 @@
-Q: "Is John a friend of Sarah? Is Mary related to John? In large social circles, it is sometimes difficult to keep track of all one's acquaintances. The following argument seeks to clarify some such relations: First premise: Nobody is neither a neighbor of David nor a colleague of Emma. We may conclude: Being a neighbor of David is necessary for not being a colleague of Emma."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

@@ -1,9 +1,0 @@
-Q: Five friends, Kevin, Larry, Mike, Nick, and Olivia, are all passionate musicians. At the start of the month, they each buy one new instrument: Kevin gets a guitar, Larry gets a saxophone, Mike gets a trumpet, Nick gets a drum set, and Olivia gets a keyboard.
-As the month progresses, they start trading around the new instruments. First, Kevin and Larry swap instruments. Then, Mike and Larry swap instruments. Then, Nick and Mike swap instruments. Then, Olivia and Nick swap instruments. Finally, Larry and Olivia swap instruments. At the end of the month, Olivia has
-Options:
-(A) Guitar
-(B) Saxophone
-(C) Trumpet
-(D) Drum set
-(E) Keyboard
-A: (B)

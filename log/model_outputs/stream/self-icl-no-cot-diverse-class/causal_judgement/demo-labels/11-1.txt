@@ -1,5 +1,0 @@
-Q: Did the fact that Kylie and Oliver usually order coffee on Tuesdays cause the coffee shop to make a profit that day?
-Options:
-- Yes
-- No
-A: No

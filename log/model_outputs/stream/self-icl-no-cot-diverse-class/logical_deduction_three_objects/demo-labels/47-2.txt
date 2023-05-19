@@ -1,6 +1,0 @@
-Q: In a spelling bee, there were three contestants: Alex, Emma, and Ryan. Emma finished above Alex. Ryan finished below Alex.
-Options:
-(A) Alex finished first
-(B) Emma finished first
-(C) Ryan finished first
-A: (B)

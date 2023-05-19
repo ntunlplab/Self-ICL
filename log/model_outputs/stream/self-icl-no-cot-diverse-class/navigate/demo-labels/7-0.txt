@@ -1,5 +1,0 @@
-Q: If you follow these instructions, do you return to the starting point? Always face left. Take 5 steps forward. Take 4 steps to the right. Take 3 steps backward. Take 2 steps to the left.
-Options:
-- Yes
-- No
-A: Yes

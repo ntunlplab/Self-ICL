@@ -1,6 +1,0 @@
-Q: Did the new marketing campaign cause an increase in sales?
-A small business recently launched a new marketing campaign to promote their products. After the campaign was launched, the business saw an increase in sales. Did the new marketing campaign cause the increase in sales?
-Options:
-- Yes
-- No
-A: Yes

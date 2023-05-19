@@ -1,9 +1,0 @@
-Q: Five friends, Karen, Larry, Mary, Nick, and Olivia, are all passionate about art. At the start of the month, they each buy one new painting: Karen gets Van Gogh's Starry Night, Larry gets Monet's Water Lilies, Mary gets Picasso's Guernica, Nick gets Renoir's Dance at Le Moulin de la Galette, and Olivia gets Klimt's The Kiss.
-As the month progresses, they start trading around the new paintings. First, Olivia and Nick swap paintings. Then, Mary and Karen swap paintings. Then, Nick and Olivia swap paintings. Then, Larry and Mary swap paintings. Finally, Karen and Larry swap paintings. At the end of the month, Olivia has
-Options:
-(A) Van Gogh's Starry Night
-(B) Monet's Water Lilies
-(C) Picasso's Guernica
-(D) Renoir's Dance at Le Moulin de la Galette
-(E) Klimt's The Kiss
-A: (E)

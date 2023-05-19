@@ -1,5 +1,0 @@
-Q: A driver was driving on a highway when a deer suddenly ran across the road. The driver had to swerve to avoid hitting the deer, but ended up crashing into a guardrail. Did the deer cause the problem?
-Options:
-- Yes
-- No
-A: No,

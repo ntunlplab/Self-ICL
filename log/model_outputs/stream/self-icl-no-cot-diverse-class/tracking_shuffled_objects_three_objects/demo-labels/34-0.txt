@@ -1,6 +1,0 @@
-Q: Three friends, David, Emma, and Frank, are playing a game of chess. At the start of the game, David has the white pieces, Emma has the black pieces, and Frank has the red pieces. As the game progresses, they decide to switch pieces. First, David and Emma swap pieces. Then, David and Frank swap pieces. Finally, Emma and Frank swap pieces. At the end of the game, David has
-Options:
-(A) White pieces
-(B) Black pieces
-(C) Red pieces
-A: (C)

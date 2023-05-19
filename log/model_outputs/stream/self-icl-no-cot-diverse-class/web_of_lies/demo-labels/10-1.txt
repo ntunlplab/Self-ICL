@@ -1,2 +1,0 @@
-Q: Question: Tom says he never lies. Rachel says Tom tells the truth. Jake says Rachel lies. Emma says Jake tells the truth. Does Emma tell the truth?
-A: No,

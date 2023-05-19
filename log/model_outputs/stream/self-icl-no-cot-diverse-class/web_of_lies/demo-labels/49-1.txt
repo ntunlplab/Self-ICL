@@ -1,2 +1,0 @@
-Q: Question: If Jack says that Jill says that Peter says that Jack is lying, is Jack lying?
-A: No,

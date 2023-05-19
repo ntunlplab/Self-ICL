@@ -1,7 +1,0 @@
-Q: Three students, Mike, Nancy, and Owen, are playing a game of tag. At the start of the game, each player has a different colored shirt: Mike has a purple shirt, Nancy has a black shirt, and Owen has a white shirt.
-As the game progresses, pairs of players swap shirts. First, Mike and Nancy swap their shirts. Then, Nancy and Owen swap their shirts. Finally, Mike and Owen swap their shirts. At the end of the game, Mike has the
-Options:
-(A) purple shirt
-(B) black shirt
-(C) white shirt
-A: (C)

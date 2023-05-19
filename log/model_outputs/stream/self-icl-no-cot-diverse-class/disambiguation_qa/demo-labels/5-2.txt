@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The lawyer advised the client to take the settlement because he thought it was the best option.
-Options:
-(A) The lawyer thought it was the best option
-(B) The client thought it was the best option
-(C) Ambiguous
-A: (A)

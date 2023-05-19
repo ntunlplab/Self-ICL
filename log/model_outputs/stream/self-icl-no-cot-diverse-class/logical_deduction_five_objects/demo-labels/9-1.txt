@@ -1,8 +1,0 @@
-Q: At a toy store, there are five dolls: a princess, a superhero, a ballerina, a fairy, and a mermaid. The superhero is older than the fairy. The superhero is younger than the mermaid. The princess is older than the ballerina. The princess is the second-youngest.
-Options:
-(A) The princess is the second-oldest
-(B) The superhero is the second-oldest
-(C) The ballerina is the second-oldest
-(D) The fairy is the second-oldest
-(E) The mermaid is the second-oldest
-A: (C)

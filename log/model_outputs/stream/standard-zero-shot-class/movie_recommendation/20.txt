@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to The Shawshank Redemption, Forrest Gump, Dances with Wolves, Mr Holland's Opus:
-Options:
-(A) PK
-(B) The Great Gatsby
-(C) Philadelphia
-(D) Casper Meets Wendy
-A: (C)

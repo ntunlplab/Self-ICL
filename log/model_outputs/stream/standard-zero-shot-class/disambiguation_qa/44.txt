@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The investigator wanted to interview the witness in person, but he was too late.
-Options:
-(A) The investigator was too late
-(B) The witness was too late
-(C) Ambiguous
-A: (B)

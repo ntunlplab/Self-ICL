@@ -1,8 +1,0 @@
-Q: In a spelling bee, there were five contestants: Alex, Ryan, Emma, Jack, and Zoe. Alex finished above Ryan. Emma finished below Zoe. Alex finished second. Zoe finished below Jack.
-Options:
-(A) Alex finished first
-(B) Ryan finished first
-(C) Emma finished first
-(D) Jack finished first
-(E) Zoe finished first
-A: (B)

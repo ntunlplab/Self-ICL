@@ -1,8 +1,0 @@
-Q: In a kitchen, there are five utensils: a spoon, a fork, a knife, a ladle, and a spatula. The spoon is the leftmost. The ladle is to the left of the knife. The fork is the rightmost. The knife is the third from the left.
-Options:
-(A) The fork is the second from the right
-(B) The spoon is the second from the right
-(C) The knife is the second from the right
-(D) The ladle is the second from the right
-(E) The spatula is the second from the right
-A: (C)

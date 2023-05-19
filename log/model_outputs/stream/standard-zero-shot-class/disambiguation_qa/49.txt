@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The mechanic greets the receptionist because she is standing in front of the door.
-Options:
-(A) The mechanic is standing in front of the door
-(B) The receptionist is standing in front of the door
-(C) Ambiguous
-A: (B)

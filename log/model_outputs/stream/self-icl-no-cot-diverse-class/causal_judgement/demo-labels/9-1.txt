@@ -1,6 +1,0 @@
-Q: What caused the car accident?
-John was driving his car on the highway when he suddenly lost control of the vehicle and crashed into a tree. After further investigation, it was found that the brakes had failed due to a faulty brake line. Did the faulty brake line cause the car accident?
-Options:
-- Yes
-- No
-A: Yes

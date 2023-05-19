@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'raiders of the lost ark'?
-Options:
-(A) raiders of the last ark
-(B) raiders of the lost irk
-(C) raidems of the lost ark
-(D) raiuders of the lost ark
-A: (B)

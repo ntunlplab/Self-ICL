@@ -1,6 +1,0 @@
-Q: In a bakery, there are three cakes: a chocolate cake, a vanilla cake, and a strawberry cake. The chocolate cake is sweeter than the vanilla cake. The strawberry cake is sweeter than the chocolate cake.
-Options:
-(A) The chocolate cake is the least sweet
-(B) The vanilla cake is the least sweet
-(C) The strawberry cake is the least sweet
-A: (B)

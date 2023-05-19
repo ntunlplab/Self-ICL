@@ -1,8 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The family went on vacation and enjoyed themselves.
-Options:
-(A) The family enjoyed each other
-(B) The family enjoyed the vacation
-(C) The family enjoyed the destination
-(D) Ambiguous
-A: (B)

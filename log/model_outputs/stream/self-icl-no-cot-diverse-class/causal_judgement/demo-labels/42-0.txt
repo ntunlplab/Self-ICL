@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John and his brother Mark are playing a game of basketball. John is a skilled player and Mark is not. Mark is determined to win the game and has been practicing for weeks. As the game progresses, John is in the lead. With only a few seconds left, Mark takes a shot from the three-point line. The ball swishes through the net and Mark wins the game. Did Mark make the shot intentionally?
-Options:
-- Yes
-- No
-A: Yes

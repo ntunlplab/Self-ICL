@@ -1,2 +1,0 @@
-Q: Question: Tom says he always tells the truth. Mary says Tom lies. Steve says Mary tells the truth. Rachel says Steve lies. Does Rachel tell the truth?
-A: No, Rachel does not tell the truth.

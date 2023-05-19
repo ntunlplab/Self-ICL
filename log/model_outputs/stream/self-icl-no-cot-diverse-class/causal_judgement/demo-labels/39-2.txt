@@ -1,5 +1,0 @@
-Q: A person, Joe, is playing a game of chance where he draws a card from a deck. He wins a dollar if and only if the card is an ace. Joe draws a card and it is an ace. Did Joe's draw of the card cause him to win a dollar?
-Options:
-- Yes
-- No
-A: Yes

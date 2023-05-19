@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all avid movie watchers. At the start of the weekend, they each rent one new movie: Fiona gets The Godfather, George gets The Shawshank Redemption, Harry gets The Dark Knight, Isabel gets The Matrix, and Jack gets Inception.
-As the weekend progresses, they start trading around the new movies. First, George and Harry swap movies. Then, Harry and Isabel swap movies. Then, Isabel and Fiona swap movies. Then, Isabel and George swap movies. Finally, Jack and Isabel swap movies. At the end of the weekend, Harry has
-Options:
-(A) The Godfather
-(B) The Shawshank Redemption
-(C) The Dark Knight
-(D) The Matrix
-(E) Inception
-A: (C)
