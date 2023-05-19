@@ -1,8 +1,0 @@
-Q: In a spelling bee, there were five contestants: Alex, Emma, Ryan, Jake, and Mia. Alex finished below Ryan. Jake finished first. Ryan finished below Mia. Emma finished above Mia.
-Options:
-(A) Alex finished third
-(B) Emma finished third
-(C) Jake finished third
-(D) Ryan finished third
-(E) Mia finished third
-A: (B)

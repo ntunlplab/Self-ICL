@@ -1,2 +1,0 @@
-Q: Question: Mark says the grass is green. Lisa says Mark says the grass is green. David says Lisa says the grass is green. Rachel says David says the grass is green. Jake says Rachel says the grass is green. Does Jake say the grass is green?
-A: Yes,

@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Spider-Man, Spider-Man 2, The Matrix, Independence Day:
-Options:
-(A) Jurassic World Fallen Kingdom
-(B) The Fifth Element
-(C) Across the Universe
-(D) Insomnia
-A: (B)

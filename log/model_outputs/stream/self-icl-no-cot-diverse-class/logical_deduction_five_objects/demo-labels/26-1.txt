@@ -1,8 +1,0 @@
-Q: In a spelling bee, there were five contestants: Jack, Lily, Sam, Mia, and Ryan. Sam finished second. Sam finished below Jack. Lily finished second-to-last. Ryan finished last.
-Options:
-(A) Jack finished last
-(B) Lily finished last
-(C) Sam finished last
-(D) Mia finished last
-(E) Ryan finished last
-A: (E)

@@ -1,6 +1,0 @@
-Q: At a museum, there are three paintings: a landscape, a portrait, and an abstract. The landscape is the oldest. The portrait is newer than the abstract.
-Options:
-(A) The landscape is the second-newest
-(B) The portrait is the second-newest
-(C) The abstract is the second-newest
-A: (B)

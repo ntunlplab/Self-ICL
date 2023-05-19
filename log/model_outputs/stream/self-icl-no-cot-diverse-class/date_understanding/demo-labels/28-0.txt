@@ -1,9 +1,0 @@
-Q: Today is May 5, 2021. What is the date one month ago from today in MM/DD/YYYY?
-Options:
-(A) 04/05/2021
-(B) 03/05/2021
-(C) 04/15/2021
-(D) 05/15/2021
-(E) 03/15/2021
-(F) 04/25/2021
-A: (B)

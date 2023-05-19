@@ -1,9 +1,0 @@
-Q: John started his new job on Jan 15, 2021. 45 days have passed since then. What is the date 24 hours later in MM/DD/YYYY?
-Options:
-(A) 02/28/2021
-(B) 02/29/2021
-(C) 03/01/2021
-(D) 03/02/2021
-(E) 03/03/2021
-(F) 03/04/2021
-A: (C)

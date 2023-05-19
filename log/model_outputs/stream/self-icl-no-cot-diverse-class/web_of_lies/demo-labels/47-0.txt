@@ -1,2 +1,0 @@
-Q: Question: John says that Mary is lying. Mary says that John is telling the truth. Sarah says that Mary is telling the truth. David says that Sarah is lying. Does David tell the truth?
-A: No,

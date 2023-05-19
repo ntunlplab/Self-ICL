@@ -1,4 +1,0 @@
-Task description: Evaluate a random boolean function expressed as a word problem.
-
-Q: Question: Shalonda lies. Jaymie says Shalonda tells the truth. Raymond says Jaymie lies. Audrie says Raymond lies. Sherrie says Audrie lies. Does Sherrie tell the truth?
-A: No,

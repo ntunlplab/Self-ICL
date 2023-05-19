@@ -1,9 +1,0 @@
-Q: Five chefs, Kevin, Larry, Mary, Nancy, and Owen, are competing in a cooking competition. At the start of the competition, they each have a station: Kevin is at station 1, Larry is at station 2, Mary is at station 3, Nancy is at station 4, and Owen is at station 5.
-Throughout the competition, the chefs often switch stations. First, Kevin and Nancy switch stations. Then, Kevin and Owen switch stations. Then, Larry and Nancy switch stations. Then, Larry and Mary switch stations. Finally, Nancy and Mary switch stations. At the end of the competition, Owen is at
-Options:
-(A) Station 1
-(B) Station 2
-(C) Station 3
-(D) Station 4
-(E) Station 5
-A: (E)

@@ -1,8 +1,0 @@
-Q: On December 25th, 2020, the world celebrated the birth of Jesus Christ. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 12/25/2019
-(B) 12/24/2019
-(C) 12/26/2019
-(D) 12/25/2018
-(E) 12/24/2018
-A: (D)

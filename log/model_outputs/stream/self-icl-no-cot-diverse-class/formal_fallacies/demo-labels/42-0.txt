@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First premise: Every student in the class is either a senior or a freshman. So, necessarily, whatever is none of this: a senior or a freshman, is not a student in the class."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

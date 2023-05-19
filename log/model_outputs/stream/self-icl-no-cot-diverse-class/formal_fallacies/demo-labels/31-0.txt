@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: To start with, no student of the school is both a resident of the city and a member of the club. Now, whoever is not a member of the club is a member of the association. Moreover, nobody is neither a resident of the city nor a member of the association. Hence, everyone who is a student of the school is a member of the association, too."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

@@ -1,6 +1,0 @@
-Q: In a race, there were three runners: Tom, Joe, and Sam. Tom finished first. Joe finished second.
-Options:
-(A) Tom finished first
-(B) Joe finished first
-(C) Sam finished first
-A: (A)

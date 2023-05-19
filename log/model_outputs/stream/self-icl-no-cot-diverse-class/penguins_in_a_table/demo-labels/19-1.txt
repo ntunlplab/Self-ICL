@@ -1,9 +1,0 @@
-Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, dive depth (m), swim speed (km/h) Alex, 5, 30, 10 Ben, 7, 40, 15 Charlie, 9, 50, 20 David, 8, 35, 18  For example: the age of Alex is 5, the swim speed of David is 18 km/h, the dive depth of Ben is 40 m.  We then delete the penguin named Charlie from the table.
-Which is the deepest diving penguin?
-Options:
-(A) Alex
-(B) Ben
-(C) Charlie
-(D) David
-(E) James
-A: (B)

@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The teacher gave the student an A because she worked hard.
-Options:
-(A) The teacher worked hard
-(B) The student worked hard
-(C) Ambiguous
-A: (B)

@@ -1,2 +1,0 @@
-Q: Question: Alex says that Ben is lying. Ben says that Alex is telling the truth. Claire says that Ben is telling the truth. David says that Claire is lying. Does David tell the truth?
-A: No,

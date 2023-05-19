@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Her wheel wobbling several millimeters in either direction wasn't enough to suggest that the bike was unsafe
-(B) Her wheel wobbling several feet in either direction wasn't enough to suggest that the bike was unsafe
-A: (B)

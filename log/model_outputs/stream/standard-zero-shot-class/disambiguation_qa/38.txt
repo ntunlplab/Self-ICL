@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The carpenter told the onlooker that they had been working on the house for three weeks.
-Options:
-(A) The carpenter had been working on the house
-(B) The onlooker had been working on the house
-(C) Ambiguous
-A: (A)

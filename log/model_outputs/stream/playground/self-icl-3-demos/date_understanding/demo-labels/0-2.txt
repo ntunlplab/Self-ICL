@@ -1,2 +1,0 @@
-Q: Today is the last day of summer vacation in 2021. What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 09/01/2021\n(B) 09/02/2021\n(C) 09/03/2021\n(D) 09/04/2021\n(E) 09/05/2021\n(F) 09/06/2021
-A: (A) 09/01/2021

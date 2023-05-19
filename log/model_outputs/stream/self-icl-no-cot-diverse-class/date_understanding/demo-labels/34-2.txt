@@ -1,9 +1,0 @@
-Q: The first day of 2022 is a Friday, and today is the first Thursday of 2022. What is the date 24 hours later in MM/DD/YYYY?
-Options:
-(A) 01/08/1960
-(B) 01/01/2022
-(C) 02/08/2021
-(D) 01/08/2022
-(E) 10/22/2021
-(F) 01/08/2046
-A: (D)

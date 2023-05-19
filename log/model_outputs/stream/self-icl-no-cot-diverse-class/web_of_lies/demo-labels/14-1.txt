@@ -1,2 +1,0 @@
-Q: Question: Tom says that Jane tells the truth. Alex says that Tom lies. Rachel says that Alex tells the truth. Nick says that Rachel lies. Does Nick tell the truth?
-A: No,

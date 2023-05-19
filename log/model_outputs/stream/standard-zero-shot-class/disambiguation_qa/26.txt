@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The carpenter collaborated with the designer and gave him a prototype.
-Options:
-(A) Gave the carpenter a prototype
-(B) Gave the designer a prototype
-(C) Ambiguous
-A: (B)

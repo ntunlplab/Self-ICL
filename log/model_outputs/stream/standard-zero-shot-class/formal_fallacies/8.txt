@@ -1,8 +1,0 @@
-Task description: Distinguish deductively valid arguments from formal fallacies.
-
-Q: "Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First of all, not being an opponent to FC Utrecht is sufficient for not being an admirer of St Johnstone FC. All this entails that everyone who is an admirer of St Johnstone FC is an opponent to FC Utrecht, too."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

@@ -1,6 +1,0 @@
-Q: Three students, Alex, Emma, and Tyler, are playing a game of tag. At the start of the game, Alex is "it", Emma is running, and Tyler is hiding. Throughout the game, the players often switch roles. First, Emma and Tyler switch roles. Then, Tyler and Alex switch roles. Finally, Emma and Alex switch roles. At the end of the game, Tyler is:
-Options:
-(A) "It"
-(B) Running
-(C) Hiding
-A: (A)

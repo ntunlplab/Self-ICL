@@ -1,9 +1,0 @@
-Q: It's been exactly one month since the start of the new year. What is the date in MM/DD/YYYY?
-Options:
-(A) 01/31/2020
-(B) 02/01/2020
-(C) 01/30/2020
-(D) 02/29/2020
-(E) 01/01/2020
-(F) 02/30/2020
-A: (B)

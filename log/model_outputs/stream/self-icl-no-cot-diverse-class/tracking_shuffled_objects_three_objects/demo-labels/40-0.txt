@@ -1,7 +1,0 @@
-Q: Three friends, John, Sarah, and David, are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: John has a yellow token, Sarah has a blue token, and David has a red token.
-As the game progresses, pairs of players swap tokens. First, John and Sarah swap their tokens. Then, David and Sarah swap their tokens. Finally, John and David swap their tokens. At the end of the game, David has the
-Options:
-(A) yellow token
-(B) blue token
-(C) red token
-A: (A)

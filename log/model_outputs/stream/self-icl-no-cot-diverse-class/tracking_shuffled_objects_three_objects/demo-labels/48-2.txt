@@ -1,6 +1,0 @@
-Q: Three siblings, Jack, Jill, and Sam, are playing a game of tag. At the start of the game, Jack is "it", Jill is running around the backyard, and Sam is hiding in the bushes. As the game progresses, pairs of players occasionally swap roles. First, Jack and Jill trade roles. Then, Jill and Sam trade roles. Finally, Jack and Jill trade roles. At the end of the game, Sam is
-Options:
-(A) "it"
-(B) running around the backyard
-(C) hiding in the bushes
-A: (A)

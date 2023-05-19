@@ -1,6 +1,0 @@
-Q: "The following argument seeks to clarify the relationship between the number of hours of sleep and academic performance: To begin with, no student who gets less than 6 hours of sleep per night has an A average. Moreover, no student who gets more than 8 hours of sleep per night has an A average. Finally, every student who gets between 6 and 8 hours of sleep per night has an A average. We may conclude: Getting between 6 and 8 hours of sleep per night is necessary for having an A average."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

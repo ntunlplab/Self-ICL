@@ -1,9 +1,0 @@
-Q: It is the first day of the month of April in the year 1789. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 04/02/1789
-(B) 03/31/1789
-(C) 04/01/1790
-(D) 03/01/1789
-(E) 12/31/2006
-(F) 07/01/1789
-A: (C)

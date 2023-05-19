@@ -1,9 +1,0 @@
-Q: Five chefs are competing in a cooking competition. At the start of the competition, they each have a dish: Kevin is making a lasagna, Lisa is making a pizza, Mike is making a salad, Nick is making a soup, and Olivia is making a sandwich.
-Throughout the competition, the chefs often switch dishes. First, Kevin and Lisa switch dishes. Then, Kevin and Mike switch dishes. Then, Lisa and Nick switch dishes. Then, Mike and Olivia switch dishes. Finally, Kevin and Lisa switch dishes again. At the end of the competition, Kevin is making 
-Options:
-(A) Lasagna
-(B) Pizza
-(C) Salad
-(D) Soup
-(E) Sandwich
-A: (B)

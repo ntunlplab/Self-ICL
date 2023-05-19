@@ -1,9 +1,0 @@
-Q: It is currently October 5th, 2019. What was the date one month ago in MM/DD/YYYY?
-Options:
-(A) 09/05/2019
-(B) 09/30/2019
-(C) 09/15/2019
-(D) 10/05/2019
-(E) 09/01/2019
-(F) 10/30/2019
-A: (A)

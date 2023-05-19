@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Great Gatsby, The Wolf of Wall Street, Catch Me If You Can, American Hustle:
-Options:
-(A) The Aviator
-(B) Ocean's Eleven
-(C) Goodfellas
-(D) The Big Short
-A: (A)

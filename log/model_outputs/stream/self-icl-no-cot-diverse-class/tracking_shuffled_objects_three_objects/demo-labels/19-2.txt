@@ -1,6 +1,0 @@
-Q: Three friends, Jack, Karen, and Larry, are playing a game of checkers. At the start of the game, Jack has the red pieces, Karen has the black pieces, and Larry has the white pieces. As the game progresses, they start swapping pieces. First, Jack and Karen swap pieces. Then, Larry and Karen swap pieces. Finally, Karen and Jack swap pieces. At the end of the game, Jack has
-Options:
-(A) Red pieces
-(B) Black pieces
-(C) White pieces
-A: (A)

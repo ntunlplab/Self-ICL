@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all passionate cooks. At the start of the year, they each buy one new cookbook: Fiona gets The Joy of Cooking, George gets The Flavor Bible, Harry gets The French Laundry Cookbook, Isabel gets The Art of French Cooking, and Jack gets The Silver Spoon.
-As the year progresses, they start trading around the new cookbooks. First, Fiona and George swap books. Then, Fiona and Harry swap books. Then, Fiona and Isabel swap books. Then, George and Jack swap books. Finally, Fiona and Harry swap books. At the end of the year, Isabel has
-Options:
-(A) The Joy of Cooking
-(B) The Flavor Bible
-(C) The French Laundry Cookbook
-(D) The Art of French Cooking
-(E) The Silver Spoon
-A: (D)

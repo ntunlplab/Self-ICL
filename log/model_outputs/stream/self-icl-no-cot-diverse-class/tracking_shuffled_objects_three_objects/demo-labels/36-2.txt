@@ -1,7 +1,0 @@
-Q: Alex, Beth, and Charlie are playing a game. At the start of the game, they are each holding a stone: Alex has a black stone, Beth has a grey stone, and Charlie has a white stone.
-As the game progresses, pairs of players trade stones. First, Alex and Charlie swap stones. Then, Beth and Charlie swap stones. Finally, Alex and Beth swap stones. At the end of the game, Alex has the
-Options:
-(A) black stone
-(B) grey stone
-(C) white stone
-A: (A)

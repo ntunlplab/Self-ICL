@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a member of the Democratic Party is sufficient for being a supporter of progressive policies. We may conclude that whoever is a member of the Democratic Party is a supporter of progressive policies."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

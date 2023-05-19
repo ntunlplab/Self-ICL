@@ -1,2 +1,0 @@
-Q: (True and False) xor (False and True) is
-A: False

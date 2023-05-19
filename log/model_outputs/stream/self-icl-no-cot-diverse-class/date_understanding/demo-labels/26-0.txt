@@ -1,9 +1,0 @@
-Q: The event is scheduled for August 15, 2021, which is 6 weeks away from now. What is the date one month ago from today in MM/DD/YYYY?
-Options:
-(A) 06/15/2020
-(B) 07/15/2021
-(C) 06/15/2021
-(D) 06/15/2054
-(E) 06/15/1940
-(F) 06/15/2021
-A: (F)

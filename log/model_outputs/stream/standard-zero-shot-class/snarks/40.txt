@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Protein supplements are way more expensive than $1 breakfast gruel
-(B) Protein supplements are way more expensive than $1 breakfast burritos
-A: (A)

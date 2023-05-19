@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Good thing things aren't more expensive now than they were eight years ago
-(B) Good thing things aren't more expensive now than they were eight days ago
-A: (A)

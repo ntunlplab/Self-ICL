@@ -1,6 +1,0 @@
-Q: Three friends, John, Jane, and Joe, are playing a game of hide-and-seek. At the start of the game, John is hiding, Jane is counting, and Joe is seeking. Throughout the game, the players often switch roles. First, Jane and John switch roles. Then, Joe and Jane switch roles. Finally, John and Jane switch roles. At the end of the game, Jane is 
-Options:
-(A) Hiding
-(B) Counting
-(C) Seeking
-A: (A)

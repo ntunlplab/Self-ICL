@@ -1,8 +1,0 @@
-Task description: Distinguish deductively valid arguments from formal fallacies.
-
-Q: "Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: Every ingredient of Sahara Saphire is both an ingredient of Pink Lotion Soap and an ingredient of Brushless Mascara. Cocamide is an ingredient of Pink Lotion Soap. Therefore, Cocamide is an ingredient of Sahara Saphire."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

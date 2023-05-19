@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to be successful without hard work: If hard work is necessary for success, then it is not possible to be successful without hard work. But, if hard work is not necessary for success, then it is possible to be successful without hard work. Therefore, it is not possible to be successful without hard work."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

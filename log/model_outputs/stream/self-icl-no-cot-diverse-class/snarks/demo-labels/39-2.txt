@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) I'm so thrilled to have to do the dishes
-(B) I'm so thrilled to have to do the dishes...not
-A: (B)

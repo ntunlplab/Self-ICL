@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each person has a partner: Fred is playing against Gail, Harry is playing against Irene, Jack is playing against Karen, Larry is playing against Mary, and Nate is playing against Olivia.
-Throughout the game, the players often switch partners. First, Fred and Harry switch partners. Then, Fred and Jack switch partners. Then, Harry and Jack switch partners. Then, Larry and Nate switch partners. Finally, Fred and Harry switch partners. At the end of the game, Fred is playing against
-Options:
-(A) Gail
-(B) Irene
-(C) Karen
-(D) Mary
-(E) Olivia
-A: (B) Irene

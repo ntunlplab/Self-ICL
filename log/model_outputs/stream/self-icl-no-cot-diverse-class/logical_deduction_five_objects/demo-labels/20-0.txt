@@ -1,8 +1,0 @@
-Q: A toy store sells five stuffed animals: bears, cats, dogs, elephants, and monkeys. The bears are the most expensive. The cats are less expensive than the elephants. The dogs are the second-cheapest. The monkeys are less expensive than the cats.
-Options:
-(A) The bears are the second-cheapest
-(B) The cats are the second-cheapest
-(C) The dogs are the second-cheapest
-(D) The elephants are the second-cheapest
-(E) The monkeys are the second-cheapest
-A: (C)

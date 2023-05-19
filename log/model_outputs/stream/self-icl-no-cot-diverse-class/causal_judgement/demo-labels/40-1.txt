@@ -1,6 +1,0 @@
-Q: Did the new safety regulations cause fewer workplace accidents?
-A large company recently implemented new safety regulations in their workplace. After the regulations were implemented, the company saw a decrease in workplace accidents. Did the new safety regulations cause the decrease in workplace accidents?
-Options:
-- Yes
-- No
-A: Yes

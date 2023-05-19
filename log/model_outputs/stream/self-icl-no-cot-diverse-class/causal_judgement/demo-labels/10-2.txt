@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Tom is playing a game of basketball with his friends. He takes a shot and the ball goes in the hoop. After the ball goes in the hoop, Tom's friend cheers and claps. Did the ball go in the hoop because Tom's friend cheered and clapped?
-Options:
-- Yes
-- No
-A: No

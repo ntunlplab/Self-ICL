@@ -1,6 +1,0 @@
-Q: At a music festival, there are three bands: a jazz band, a rock band, and a classical band. The jazz band is louder than the classical band. The rock band is quieter than the jazz band.
-Options:
-(A) The classical band is the loudest
-(B) The jazz band is the loudest
-(C) The rock band is the loudest
-A: (B)

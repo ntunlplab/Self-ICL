@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'breaking benjamin'?
-Options:
-(A) breaking benjamins
-(B) breaking benjaqmin
-(C) reaking benjamin
-(D) breaking oenjamin
-A: (B)

@@ -1,2 +1,0 @@
-Q: Question: Alex says that Bob is lying. Charlie says that Alex is telling the truth. David says that Charlie is lying. Emily says that David is telling the truth. Does Emily tell the truth?
-A: Yes,

@@ -1,6 +1,0 @@
-Q: At a library, there are three books: a novel, a biography, and a cookbook. The biography is thicker than the novel. The cookbook is thicker than the biography.
-Options:
-(A) The novel is the thinnest
-(B) The biography is the thinnest
-(C) The cookbook is the thinnest
-A: (C)

@@ -1,8 +1,0 @@
-Q: In a spelling bee, there were five contestants: Tom, Jane, Mike, Sam, and Alex. Jane finished above Alex. Alex finished above Sam. Mike finished below Sam. Tom finished second.
-Options:
-(A) Tom finished last
-(B) Jane finished last
-(C) Mike finished last
-(D) Sam finished last
-(E) Alex finished last
-A: (E)

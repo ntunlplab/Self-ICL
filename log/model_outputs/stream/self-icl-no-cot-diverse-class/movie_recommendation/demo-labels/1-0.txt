@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Dark Knight, The Silence of the Lambs, Inception:
-Options:
-(A) The Departed
-(B) The Prestige
-(C) The Usual Suspects
-(D) Memento
-A: (A)

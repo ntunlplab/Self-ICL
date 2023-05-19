@@ -1,9 +1,0 @@
-Q: Five friends, Karen, Larry, Mary, Nick, and Olivia, are all avid movie watchers. At the start of the month, they each buy one new movie: Karen gets The Godfather, Larry gets The Shawshank Redemption, Mary gets The Dark Knight, Nick gets The Lord of the Rings, and Olivia gets The Matrix.
-As the month progresses, they start trading around the new movies. First, Nick and Mary swap movies. Then, Larry and Mary swap movies. Then, Mary and Olivia swap movies. Then, Larry and Mary swap movies. Finally, Karen and Mary swap movies. At the end of the month, Nick has
-Options:
-(A) The Godfather
-(B) The Shawshank Redemption
-(C) The Dark Knight
-(D) The Lord of the Rings
-(E) The Matrix
-A: (D)

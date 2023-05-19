@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is safe to drink tap water: First, tap water can contain lead. Second, lead can cause health problems. Therefore, it is not safe to drink tap water."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

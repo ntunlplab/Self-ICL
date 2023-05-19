@@ -1,5 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to be a successful athlete: All successful athletes have a strong work ethic. Therefore, if someone wants to be a successful athlete, they must have a strong work ethic. Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

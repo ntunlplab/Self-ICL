@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The patient was referred to the specialist because he is an expert on rare skin conditions.
-Options:
-(A) The patient is an expert
-(B) The specialist is an expert
-(C) Ambiguous
-A: (B)

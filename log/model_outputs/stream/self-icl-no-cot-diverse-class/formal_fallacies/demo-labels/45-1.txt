@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to be both a Democrat and a Republican: First premise: Supporting the Democratic Party is incompatible with supporting the Republican Party. All this entails that it is impossible to be both a Democrat and a Republican."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

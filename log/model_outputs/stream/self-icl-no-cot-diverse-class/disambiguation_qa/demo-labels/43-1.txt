@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The coach gave the team their instructions for the game.
-Options:
-(A) It was the coach's instructions
-(B) It was the team's instructions
-(C) Ambiguous
-A: (B)

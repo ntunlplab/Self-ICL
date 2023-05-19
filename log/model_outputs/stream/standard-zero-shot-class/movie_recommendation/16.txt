@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Pulp Fiction, Braveheart, The Shawshank Redemption, Crimson Tide:
-Options:
-(A) Goon Last of the Enforcers
-(B) A Very Harold & Kumar 3D Christmas
-(C) The Fugitive
-(D) A Separation
-A: (C)

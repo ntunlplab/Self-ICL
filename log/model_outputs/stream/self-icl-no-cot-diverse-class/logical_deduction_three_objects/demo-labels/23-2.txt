@@ -1,6 +1,0 @@
-Q: A bakery sells three types of cakes: chocolate, vanilla, and strawberry. The strawberry cake is the most expensive. The chocolate cake is less expensive than the vanilla cake.
-Options:
-(A) The chocolate cake is the cheapest
-(B) The vanilla cake is the cheapest
-(C) The strawberry cake is the cheapest
-A: (C)

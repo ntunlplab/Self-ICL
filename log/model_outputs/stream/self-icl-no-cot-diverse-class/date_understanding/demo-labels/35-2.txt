@@ -1,9 +1,0 @@
-Q: It is the first day of the month of April in the year 2021. What is the date one month from today in MM/DD/YYYY?
-Options:
-(A) 05/01/2021
-(B) 05/31/2021
-(C) 04/30/2021
-(D) 05/30/2021
-(E) 04/01/2022
-(F) 05/15/2021
-A: (D)

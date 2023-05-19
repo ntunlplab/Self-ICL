@@ -1,9 +1,0 @@
-Q: It is currently October 3rd, 2019. What is the date one week from today in MM/DD/YYYY?
-Options:
-(A) 10/10/2019
-(B) 10/17/2019
-(C) 11/07/2019
-(D) 10/04/2019
-(E) 10/11/2019
-(F) 10/18/2019
-A: (B)

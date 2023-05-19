@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First premise: All birds are animals. Second premise: No animals are rocks. Therefore, no birds are rocks."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

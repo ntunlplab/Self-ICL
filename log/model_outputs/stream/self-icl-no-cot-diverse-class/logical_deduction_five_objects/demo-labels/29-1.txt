@@ -1,8 +1,0 @@
-Q: In a basketball tournament, there were five teams: Lakers, Celtics, Bulls, Rockets, and Mavericks. Celtics finished below Bulls. Lakers finished first. Rockets finished above Bulls. Mavericks finished last.
-Options:
-(A) Lakers finished second
-(B) Celtics finished second
-(C) Bulls finished second
-(D) Rockets finished second
-(E) Mavericks finished second
-A: (C)

@@ -1,2 +1,0 @@
-Q: Question: Mark says that the sky is green. Paul says that Mark is wrong. Rachel says that Paul is right. David says that Rachel is wrong. Does David tell the truth?
-A: No,

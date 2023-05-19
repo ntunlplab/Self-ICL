@@ -1,6 +1,0 @@
-Q: On a shelf, there are three books: a novel, a dictionary, and an encyclopedia. The dictionary is to the right of the novel. The encyclopedia is the second from the left.
-Options:
-(A) The novel is the rightmost
-(B) The dictionary is the rightmost
-(C) The encyclopedia is the rightmost
-A: (B)

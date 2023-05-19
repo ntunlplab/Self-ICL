@@ -1,6 +1,0 @@
-Q: A toy store sells three types of toys: dolls, cars, and puzzles. The puzzles are the least expensive. The cars are more expensive than the dolls.
-Options:
-(A) The dolls are the most expensive
-(B) The cars are the most expensive
-(C) The puzzles are the most expensive
-A: (B)

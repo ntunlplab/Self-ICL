@@ -1,8 +1,0 @@
-Q: The first day of school is September 3rd, 2019. What is the date one week before in MM/DD/YYYY?
-Options:
-(A) 08/27/2019
-(B) 08/26/2019
-(C) 09/02/2019
-(D) 09/03/2019
-(E) 08/25/2019
-A: (B)

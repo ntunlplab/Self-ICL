@@ -1,8 +1,0 @@
-Q: In a row of five musical instruments, the first instrument is a violin, the second instrument is a cello, the third instrument is a flute, the fourth instrument is a clarinet, and the fifth instrument is a trumpet. The trumpet is the second from the left. The violin is the leftmost. The flute is to the left of the clarinet. The clarinet is the third from the left.
-Options:
-(A) The violin is the rightmost
-(B) The cello is the rightmost
-(C) The flute is the rightmost
-(D) The clarinet is the rightmost
-(E) The trumpet is the rightmost
-A: (E)

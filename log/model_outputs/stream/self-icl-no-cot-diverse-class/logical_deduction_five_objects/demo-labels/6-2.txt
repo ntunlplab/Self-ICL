@@ -1,8 +1,0 @@
-Q: At a museum, there are five paintings: a landscape, a portrait, an abstract, a still life, and a seascape. The landscape is the oldest. The portrait is the second-oldest. The abstract is the third-oldest. The still life is newer than the seascape.
-Options:
-(A) The landscape is the youngest
-(B) The portrait is the youngest
-(C) The abstract is the youngest
-(D) The still life is the youngest
-(E) The seascape is the youngest
-A: (E)

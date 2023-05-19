@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to The Lord of the Rings The Two Towers, The Lord of the Rings The Fellowship of the Ring, Star Wars Episode IV - A New Hope, The Matrix:
-Options:
-(A) The Return
-(B) The Hidden Fortress
-(C) Schindler's List
-(D) The End of the Affair
-A: (B)

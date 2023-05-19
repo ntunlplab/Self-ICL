@@ -1,9 +1,0 @@
-Q: Five cars are participating in a race. At the start of the race, they each have a lane: Alex is in lane 1, Ben is in lane 2, Charlie is in lane 3, David is in lane 4, and Emily is in lane 5.
-Throughout the race, the drivers often switch lanes. First, Emily and David switch lanes. Then, Alex and Ben switch lanes. Then, David and Ben switch lanes. Then, Ben and Alex switch lanes. Finally, Alex and Charlie switch lanes. At the end of the race, Ben is in
-Options:
-(A) Lane 1
-(B) Lane 2
-(C) Lane 3
-(D) Lane 4
-(E) Lane 5
-A: (B)

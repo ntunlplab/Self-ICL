@@ -1,6 +1,0 @@
-Q: Did the new tax law cause an increase in government revenue?
-A government recently passed a new tax law that increased the tax rate for certain individuals. After the law was passed, the government saw an increase in revenue. Did the new tax law cause the increase in government revenue?
-Options:
-- Yes
-- No
-A: Yes

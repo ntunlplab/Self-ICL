@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lion King, Toy Story, Finding Nemo, Up:
-Options:
-(A) Inside Out
-(B) Monsters, Inc.
-(C) WALL-E
-(D) Ratatouille
-A: (A)

@@ -1,2 +1,0 @@
-Q: Question: Emma says the sun is bright. Noah says Emma says the sun is bright. Olivia says Noah says the sun is bright. Tyler says Olivia says the sun is bright. Alex says Tyler says the sun is bright. Does Alex say the sun is bright?
-A: Yes,

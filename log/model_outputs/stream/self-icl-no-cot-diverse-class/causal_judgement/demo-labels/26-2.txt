@@ -1,6 +1,0 @@
-Q: Did the faulty wiring cause the fire?
-A house catches fire and the fire department is called to investigate. After examining the scene, they determine that the fire was caused by faulty wiring in the house. The wiring had not been inspected or maintained in years and was in a state of disrepair. Did the faulty wiring cause the fire?
-Options:
-- Yes
-- No
-A: Yes

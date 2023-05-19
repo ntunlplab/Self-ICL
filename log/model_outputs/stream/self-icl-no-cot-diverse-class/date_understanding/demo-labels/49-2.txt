@@ -1,8 +1,0 @@
-Q: The first day of summer was June 21st, 2021. What is the date two weeks prior in MM/DD/YYYY?
-Options:
-(A) 06/07/2021
-(B) 06/14/2021
-(C) 06/21/2021
-(D) 06/28/2021
-(E) 05/31/2021
-A: (B)

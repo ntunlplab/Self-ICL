@@ -1,2 +1,0 @@
-Q: Question: Sam says he always tells the truth. Karen says Sam lies. Tyler says Karen tells the truth. Brian says Tyler lies. Rachel says Brian tells the truth. Does Rachel tell the truth?
-A: No,

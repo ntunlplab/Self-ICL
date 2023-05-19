@@ -1,6 +1,0 @@
-Q: "Is Sarah a sister of Tom? Is Paul related to Peter? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First of all, some grandparent of Sarah is a colleague of Peter. Next, everyone who is both a grandparent of Tom and a grandparent of Paul is not a colleague of Peter. All this entails that some grandparent of Sarah is not a grandparent of Tom or not a grandparent of Paul."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

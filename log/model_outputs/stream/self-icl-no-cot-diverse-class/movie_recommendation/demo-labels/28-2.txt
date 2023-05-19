@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Matrix, Inception, The Terminator, Blade Runner:
-Options:
-(A) The Fifth Element
-(B) Minority Report
-(C) Total Recall
-(D) Aliens
-A: (A)

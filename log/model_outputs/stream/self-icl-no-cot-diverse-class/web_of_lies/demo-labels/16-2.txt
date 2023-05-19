@@ -1,2 +1,0 @@
-Q: Question: Alex says that Sam is lying. Sam says that Alex is telling the truth. Dave says that Sam is telling the truth. Karen says that Dave is lying. Does Karen tell the truth?
-A: No,

@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Jill is walking down the street when she notices a man in a hoodie walking in the opposite direction. She notices that the man is carrying a large bag and she becomes suspicious. She decides to cross the street to avoid the man. As she crosses the street, she trips on a crack in the sidewalk and falls. Did Jill trip because she crossed the street?
-Options:
-- Yes
-- No
-A: No

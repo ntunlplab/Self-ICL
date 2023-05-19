@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Hangover, Bridesmaids, Superbad, Knocked Up:
-Options:
-(A) Step Brothers
-(B) Pineapple Express
-(C) This Is The End
-(D) The World's End
-A: (B) Pineapple Express

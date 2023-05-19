@@ -1,2 +1,0 @@
-Q: Question: Alex says that Bob lies. Charlie says that Alex tells the truth. Diane says that Charlie lies. Eric says that Diane tells the truth. Does Eric tell the truth?
-A: No,

@@ -1,2 +1,0 @@
-Q: Question: Alex says the grass is purple. Mary says the grass is green. Steve says Mary is wrong. Dave says Steve is wrong. Tim says Dave is right. Is Tim right?
-A: No,

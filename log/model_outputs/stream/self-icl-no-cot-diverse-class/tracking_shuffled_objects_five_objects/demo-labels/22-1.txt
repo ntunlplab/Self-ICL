@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Isabel, and Jack, are all passionate about music. At the start of the year, they each buy one new album: Fiona gets Taylor Swift's 1989, George gets The Beatles' Abbey Road, Harry gets Kendrick Lamar's To Pimp a Butterfly, Isabel gets Adele's 25, and Jack gets Beyonce's Lemonade.
-As the year progresses, they start trading around the new albums. First, Jack and Isabel swap albums. Then, Harry and Fiona swap albums. Then, Isabel and Jack swap albums. Then, George and Harry swap albums. Finally, Fiona and George swap albums. At the end of the year, Jack has
-Options:
-(A) Taylor Swift's 1989
-(B) The Beatles' Abbey Road
-(C) Kendrick Lamar's To Pimp a Butterfly
-(D) Adele's 25
-(E) Beyonce's Lemonade
-A: (E)

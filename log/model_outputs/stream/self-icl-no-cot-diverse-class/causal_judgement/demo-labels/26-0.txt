@@ -1,6 +1,0 @@
-Q: Who is responsible for the malfunction of a computer system?
-John is a computer technician who is responsible for maintaining the computer system in a large office building. He is the only one who has access to the system and is responsible for making sure it is running properly. One day, John notices that the system is not working properly and he decides to take a look at it. He finds that the system has a virus and he is able to remove it. However, the system still does not work properly. John then discovers that the system was not properly updated and he updates it. Did John not updating the system cause it to malfunction?
-Options:
-- Yes
-- No
-A: Yes

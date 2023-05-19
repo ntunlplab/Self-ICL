@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) We should definitely trust the government
-(B) We should definitely not trust the government
-A: (B)

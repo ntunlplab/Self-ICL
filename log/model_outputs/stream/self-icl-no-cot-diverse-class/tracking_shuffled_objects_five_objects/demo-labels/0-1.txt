@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, they each have a hand sign: Adam is showing rock, Brad is showing paper, Carl is showing scissors, Dan is showing rock, and Eric is showing paper.
-Throughout the game, the friends often switch hand signs. First, Adam and Brad switch hand signs. Then, Adam and Carl switch hand signs. Then, Brad and Carl switch hand signs. Then, Dan and Eric switch hand signs. Finally, Adam and Brad switch hand signs. At the end of the game, Adam is showing
-Options:
-(A) Rock
-(B) Paper
-(C) Scissors
-(D) Rock
-(E) Paper
-A: (E)

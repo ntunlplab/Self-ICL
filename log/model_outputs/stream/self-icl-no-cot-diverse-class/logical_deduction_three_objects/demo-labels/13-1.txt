@@ -1,6 +1,0 @@
-Q: At a restaurant, there are three dishes: a salad, a soup, and a sandwich. The soup is spicier than the sandwich. The salad is spicier than the soup.
-Options:
-(A) The sandwich is the least spicy
-(B) The soup is the least spicy
-(C) The salad is the least spicy
-A: (C)

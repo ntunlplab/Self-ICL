@@ -1,9 +1,0 @@
-Q: Five students are playing a game of musical chairs. At the start of the game, they each have a chair: Alex is sitting in chair 1, Ben is sitting in chair 2, Charlie is sitting in chair 3, David is sitting in chair 4, and Emily is sitting in chair 5.
-Throughout the game, the students often switch chairs. First, Alex and Ben switch chairs. Then, Charlie and David switch chairs. Then, Alex and Charlie switch chairs. Then, Ben and Emily switch chairs. Finally, Emily and Alex switch chairs. At the end of the game, Ben is sitting in
-Options:
-(A) Chair 1
-(B) Chair 2
-(C) Chair 3
-(D) Chair 4
-(E) Chair 5
-A: (B)

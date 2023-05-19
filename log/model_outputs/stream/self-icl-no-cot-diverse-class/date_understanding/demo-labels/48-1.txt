@@ -1,9 +1,0 @@
-Q: Today is the day of the year that is the same as the first two digits of the year. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 01/20/2021
-(B) 12/19/2020
-(C) 01/19/2021
-(D) 12/18/2020
-(E) 11/17/2020
-(F) 12/16/2020
-A: (C)

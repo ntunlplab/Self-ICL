@@ -1,9 +1,0 @@
-Q: The first day of 2021 is a Thursday, and today is the first Wednesday of 2021. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 01/06/2020
-(B) 01/07/2020
-(C) 01/01/2020
-(D) 01/08/2020
-(E) 05/06/2019
-(F) 10/31/2019
-A: (B)

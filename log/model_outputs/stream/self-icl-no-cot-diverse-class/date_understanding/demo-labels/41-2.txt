@@ -1,9 +1,0 @@
-Q: It is currently December 12th, 2019. What is the date one week from today in MM/DD/YYYY?
-Options:
-(A) 12/19/2019
-(B) 12/26/2019
-(C) 01/02/2020
-(D) 12/13/2019
-(E) 12/20/2019
-(F) 12/27/2019
-A: (F)

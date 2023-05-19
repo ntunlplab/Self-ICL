@@ -1,2 +1,0 @@
-Q: Question: Alex says the grass is yellow. Rachel says the grass is green. Paul says Rachel is wrong. Nick says Paul is wrong. Dave says Nick is right. Is Dave right?
-A: No,

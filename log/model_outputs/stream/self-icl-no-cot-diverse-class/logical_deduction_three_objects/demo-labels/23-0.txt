@@ -1,6 +1,0 @@
-Q: A restaurant serves three types of soup: tomato, mushroom, and lentil. The tomato soup is the most expensive. The mushroom soup is less expensive than the lentil soup.
-Options:
-(A) The tomato soup is the cheapest
-(B) The mushroom soup is the cheapest
-(C) The lentil soup is the cheapest
-A: (B)

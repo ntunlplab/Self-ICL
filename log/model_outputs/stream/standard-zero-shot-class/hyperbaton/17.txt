@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) lovely midsize green Filipino sock
-(B) Filipino midsize lovely green sock
-A: (B)

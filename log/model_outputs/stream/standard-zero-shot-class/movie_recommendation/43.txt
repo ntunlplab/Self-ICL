@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to The Usual Suspects, Interview with the Vampire The Vampire Chronicles, The Shawshank Redemption, Pulp Fiction:
-Options:
-(A) Toy Soldiers
-(B) The Fugitive
-(C) The Wasp Woman
-(D) Baxter
-A: (A)

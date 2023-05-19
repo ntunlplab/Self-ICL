@@ -1,9 +1,0 @@
-Q: It is currently August 15th, 2019. What was the date two weeks ago in MM/DD/YYYY?
-Options:
-(A) 07/30/2019
-(B) 08/01/2019
-(C) 07/15/2019
-(D) 08/15/2019
-(E) 07/01/2019
-(F) 08/30/2019
-A: (C)

@@ -1,2 +1,0 @@
-Q: Question: Alex says that the moon is made of cheese. Ben says that Alex is wrong. Claire says that Ben is right. Emma says that Claire is wrong. Does Emma tell the truth?
-A: No,

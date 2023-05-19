@@ -1,2 +1,0 @@
-Q: Question: Tom says he always tells the truth. Jane says Tom lies. Bob says Jane tells the truth. Mary says Bob lies. Does Mary tell the truth?
-A: No,

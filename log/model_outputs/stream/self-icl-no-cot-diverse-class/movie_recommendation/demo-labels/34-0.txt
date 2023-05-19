@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Shawshank Redemption, The Godfather, The Dark Knight, Inception:
-Options:
-(A) The Prestige
-(B) The Departed
-(C) The Silence of the Lambs
-(D) Fight Club
-A: (A)

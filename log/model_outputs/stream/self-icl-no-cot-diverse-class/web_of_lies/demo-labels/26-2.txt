@@ -1,2 +1,0 @@
-Q: Question: Alex says that Bob is lying. Bob says that Alex is telling the truth. Claire says that Bob is telling the truth. Eric says that Claire is lying. Does Eric tell the truth?
-A: No,

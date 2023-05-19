@@ -1,5 +1,0 @@
-Q: A man is walking down the street and notices a wallet on the ground. He picks up the wallet and finds that it is full of money. He takes the wallet home and keeps the money. Did the man intentionally find the wallet?
-Options:
-- Yes
-- No
-A: No

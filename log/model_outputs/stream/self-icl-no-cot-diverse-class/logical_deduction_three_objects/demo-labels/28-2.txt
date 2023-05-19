@@ -1,6 +1,0 @@
-Q: In a row of four cars, there are three colors: red, blue, and green. The blue car is to the left of the red car. The green car is the second from the right.
-Options:
-(A) The red car is the rightmost
-(B) The blue car is the rightmost
-(C) The green car is the rightmost
-A: (C)

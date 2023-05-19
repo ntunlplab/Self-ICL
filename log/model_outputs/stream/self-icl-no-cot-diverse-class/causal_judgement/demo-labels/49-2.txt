@@ -1,5 +1,0 @@
-Q: A person is playing a game of chess and makes a wrong move. As a result, they lose the game. Did the fact that the person made the wrong move cause them to lose the game?
-Options:
-- Yes
-- No
-A: Yes

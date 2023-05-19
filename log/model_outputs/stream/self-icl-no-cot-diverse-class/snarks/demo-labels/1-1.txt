@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) That was a great idea
-(B) That was a great idea, you should be proud of yourself
-A: (B)

@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again.
-Options:
-(A) The janitor would have to mop
-(B) The child would have to mop
-(C) Ambiguous
-A: (B)

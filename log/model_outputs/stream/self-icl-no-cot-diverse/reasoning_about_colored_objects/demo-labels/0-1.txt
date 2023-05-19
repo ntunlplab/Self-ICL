@@ -1,2 +1,0 @@
-Q: On the floor, there is one pink cat toy, two red cat toys, three black cat toys, two pink notebooks, three black notebooks, three white cat toys, and one red notebook. If I remove all the notebooks from the floor, how many black objects remain on it?
-A: Six black objects remain on the floor.

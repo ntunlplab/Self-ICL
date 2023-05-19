@@ -1,9 +1,0 @@
-Q: Five teams are playing a game of tug-of-war. At the start of the game, each team is facing off against another team: Team A is facing off against Team B, Team C is facing off against Team D, Team E is facing off against Team F, Team G is facing off against Team H, and Team I is facing off against Team J.
-Throughout the game, the teams often switch opponents. First, Team A and Team C switch opponents. Then, Team A and Team E switch opponents. Then, Team C and Team E switch opponents. Then, Team G and Team I switch opponents. Finally, Team A and Team C switch opponents. At the end of the game, Team A is facing off against
-Options:
-(A) Team B
-(B) Team D
-(C) Team F
-(D) Team H
-(E) Team J
-A: (B) Team D

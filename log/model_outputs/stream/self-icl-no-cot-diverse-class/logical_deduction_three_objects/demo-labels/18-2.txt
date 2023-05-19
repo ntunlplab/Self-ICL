@@ -1,6 +1,0 @@
-Q: In a spelling bee, there were three contestants: Emma, Jake, and Lucy. Lucy finished below Emma. Jake finished above Emma.
-Options:
-(A) Emma finished last
-(B) Jake finished last
-(C) Lucy finished last
-A: (B)

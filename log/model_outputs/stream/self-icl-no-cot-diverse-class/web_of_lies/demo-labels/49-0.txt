@@ -1,2 +1,0 @@
-Q: Question: John says that Sarah says that Tom says that Mary says that John is wrong. Is John wrong?
-A: No,

@@ -1,9 +1,0 @@
-Q: The first day of 2020 is a Wednesday, and today is the first Tuesday of 2020. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 01/07/2019
-(B) 01/08/2019
-(C) 01/01/2019
-(D) 01/09/2019
-(E) 05/07/2018
-(F) 10/30/2018
-A: (C)

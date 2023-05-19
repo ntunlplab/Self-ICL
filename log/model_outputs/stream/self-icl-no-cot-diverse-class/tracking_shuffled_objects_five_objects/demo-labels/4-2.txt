@@ -1,9 +1,0 @@
-Q: Five friends, Karen, Larry, Mike, Nancy, and Olivia, are all avid video game players. At the start of the month, they each buy one new game: Karen gets Super Mario Bros., Larry gets The Legend of Zelda, Mike gets Halo, Nancy gets Grand Theft Auto, and Olivia gets Call of Duty.
-As the month progresses, they start trading around the new games. First, Larry and Mike swap games. Then, Mike and Nancy swap games. Then, Nancy and Karen swap games. Then, Nancy and Larry swap games. Finally, Olivia and Nancy swap games. At the end of the month, Mike has
-Options:
-(A) Super Mario Bros.
-(B) The Legend of Zelda
-(C) Halo
-(D) Grand Theft Auto
-(E) Call of Duty
-A: (C)

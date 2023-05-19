@@ -1,9 +1,0 @@
-Q: Five students, Fiona, Greg, Harry, Ian, and Jane, are playing a game of rock-paper-scissors. At the start of the game, each of them is holding a different item: Fiona is holding a pencil, Greg is holding a paper, Harry is holding a rock, Ian is holding a scissors, and Jane is holding a ruler.
-As the game progresses, pairs of people swap items. First, Greg and Jane swap items. Then, Greg and Harry swap items. Then, Ian and Fiona swap items. Then, Greg and Jane swap items. Finally, Fiona and Greg swap items. At the end of the game, Greg is holding a
-Options:
-(A) pencil
-(B) paper
-(C) rock
-(D) scissors
-(E) ruler
-A: (A)

@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lord of the Rings, The Hobbit, Harry Potter and the Sorcerer's Stone, The Chronicles of Narnia:
-Options:
-(A) The Princess Bride
-(B) Stardust
-(C) The NeverEnding Story
-(D) Willow
-A: (B)

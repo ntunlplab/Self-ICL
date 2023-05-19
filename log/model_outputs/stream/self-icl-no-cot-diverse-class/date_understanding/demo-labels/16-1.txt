@@ -1,9 +1,0 @@
-Q: It has been exactly five years since the day that the company was founded. What is the date today in MM/DD/YYYY?
-Options:
-(A) 05/06/2025
-(B) 05/06/2015
-(C) 05/06/2030
-(D) 08/06/2020
-(E) 05/06/2020
-(F) 05/06/2035
-A: (E)

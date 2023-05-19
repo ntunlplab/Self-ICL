@@ -1,2 +1,0 @@
-Q: Is the following sentence plausible? "LeBron James scored a goal in a soccer match."
-A: No,

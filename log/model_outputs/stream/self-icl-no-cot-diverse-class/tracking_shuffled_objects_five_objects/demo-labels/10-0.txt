@@ -1,9 +1,0 @@
-Q: Five friends, Fred, George, Harry, Ian, and Jack, are playing a game. At the start of the game, they are each holding a card: Fred has a green card, George has a purple card, Harry has an orange card, Ian has a white card, and Jack has a pink card.
-As the game progresses, pairs of players trade cards. First, Fred and George swap cards. Then, Harry and Ian swap cards. Then, George and Jack swap cards. Then, Fred and Ian swap cards. Finally, Harry and Jack swap cards. At the end of the game, Harry has the
-Options:
-(A) green card
-(B) purple card
-(C) orange card
-(D) white card
-(E) pink card
-A: (E)

@@ -1,8 +1,0 @@
-Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), beak length (cm) Terence, 4, 40, 8 Rupert, 6, 50, 10 Nigel, 8, 60, 12 Gertrude, 7, 70, 14  For example: the age of Terence is 4, the beak length of Gertrude is 14 cm, the wingspan of Rupert is 50 cm.  Which penguin has a Scottish name?
-Options:
-(A) Terence
-(B) Rupert
-(C) Nigel
-(D) Gertrude
-(E) Angus
-A: (B)

@@ -1,8 +1,0 @@
-Q: In a robotics competition, there were five robots: Alpha, Beta, Gamma, Delta, and Omega. Alpha finished below Gamma. Delta finished first. Gamma finished below Omega. Beta finished above Omega.
-Options:
-(A) Alpha finished third
-(B) Beta finished third
-(C) Gamma finished third
-(D) Delta finished third
-(E) Omega finished third
-A: (B)

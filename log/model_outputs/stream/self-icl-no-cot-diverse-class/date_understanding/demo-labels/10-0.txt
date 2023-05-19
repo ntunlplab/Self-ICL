@@ -1,9 +1,0 @@
-Q: On April 15th, 2019, the day after tomorrow will be April 17th, 2019. What is the date today in MM/DD/YYYY?
-Options:
-(A) 04/13/2019
-(B) 04/14/2019
-(C) 04/15/2019
-(D) 04/16/2019
-(E) 04/17/2019
-(F) 04/18/2019
-A: (B)

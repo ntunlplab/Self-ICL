@@ -1,5 +1,0 @@
-Q: John and his brother were playing a game of basketball in the driveway. John was dribbling the ball and his brother was standing nearby. Suddenly, the ball slipped out of John's hands and rolled into the street. A car drove by and ran over the ball. Did John's brother cause the ball to be run over?
-Options:
-- Yes
-- No
-A: No

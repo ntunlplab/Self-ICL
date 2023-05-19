@@ -1,8 +1,0 @@
-Q: In a classroom, there are five students: a girl, a boy, a teacher, a principal, and a janitor. The girl is the leftmost. The principal is to the left of the teacher. The boy is the rightmost. The teacher is the third from the left.
-Options:
-(A) The boy is the second from the right
-(B) The girl is the second from the right
-(C) The teacher is the second from the right
-(D) The principal is the second from the right
-(E) The janitor is the second from the right
-A: (C)

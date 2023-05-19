@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The scientist will collaborate with the artist, and he will share a story.
-Options:
-(A) The scientist will share a story
-(B) The artist will share a story
-(C) Ambiguous
-A: (B)

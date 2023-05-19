@@ -1,7 +1,0 @@
-Q: John, Sarah, and David are friends and avid gamers who occasionally trade video games. At the start of the summer, they each buy one new game: John gets Grand Theft Auto, Sarah gets Call of Duty, and David gets Mario Kart.
-As the summer proceeds, they start trading around the new games. First, David and Sarah swap games. Then, Sarah and John swap games. Finally, David and Sarah swap games. At the end of the summer, Sarah has
-Options:
-(A) Grand Theft Auto
-(B) Call of Duty
-(C) Mario Kart
-A: (C) Mario Kart

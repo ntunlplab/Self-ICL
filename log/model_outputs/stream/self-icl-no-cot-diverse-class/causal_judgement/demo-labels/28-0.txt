@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John is a farmer who grows corn on his farm. He has been using the same fertilizer for years, but this year he decided to try something new. He bought a new fertilizer called X-Fertilizer, which was supposed to be more effective than his old fertilizer. After a few weeks, John noticed that the corn in his fields was growing much faster than usual. He was very pleased with the results, but he also noticed that some of the corn was starting to wilt and die. He wondered if the new fertilizer could be the cause of the wilting. Did the use of X-Fertilizer cause the corn to wilt?
-Options:
-- Yes
-- No
-A: No,

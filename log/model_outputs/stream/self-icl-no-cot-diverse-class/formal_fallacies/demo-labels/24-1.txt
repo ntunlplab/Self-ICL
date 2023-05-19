@@ -1,6 +1,0 @@
-Q: "The following argument seeks to clarify the relationship between the number of hours of exercise and physical health: To begin with, no person who exercises less than 3 hours per week is in good physical health. Moreover, no person who exercises more than 5 hours per week is in good physical health. Finally, every person who exercises between 3 and 5 hours per week is in good physical health. We may conclude: Exercising between 3 and 5 hours per week is necessary for being in good physical health."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

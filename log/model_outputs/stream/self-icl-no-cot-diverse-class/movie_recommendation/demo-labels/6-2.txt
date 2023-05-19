@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Matrix, The Terminator, Aliens, Blade Runner:
-Options:
-(A) Total Recall
-(B) RoboCop
-(C) The Fifth Element
-(D) Terminator 2: Judgment Day
-A: (D)

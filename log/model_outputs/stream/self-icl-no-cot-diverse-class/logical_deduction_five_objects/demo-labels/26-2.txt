@@ -1,8 +1,0 @@
-Q: In a math competition, there were five students: Alex, David, Tom, Emma, and Jane. Tom finished second. Tom finished below Alex. David finished second-to-last. Jane finished last.
-Options:
-(A) Alex finished last
-(B) David finished last
-(C) Tom finished last
-(D) Emma finished last
-(E) Jane finished last
-A: (B)

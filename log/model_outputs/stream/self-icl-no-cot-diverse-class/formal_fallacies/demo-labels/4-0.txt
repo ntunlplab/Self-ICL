@@ -1,6 +1,0 @@
-Q: "Some people prefer to watch movies in the theater, while others prefer to watch them at home. But what is the best way to watch a movie? The following argument pertains to this question: First premise: Watching a movie in the theater is sufficient for not watching it at home. Second premise: Every person who watches a movie in the theater is not watching it at home. Therefore, whoever watches a movie in the theater is not watching it at home."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

@@ -1,6 +1,0 @@
-Q: At a library, there are three books: a novel, a biography, and a cookbook. The biography is older than the cookbook. The novel is the second-newest.
-Options:
-(A) The novel is the second-newest
-(B) The biography is the second-newest
-(C) The cookbook is the second-newest
-A: (C)

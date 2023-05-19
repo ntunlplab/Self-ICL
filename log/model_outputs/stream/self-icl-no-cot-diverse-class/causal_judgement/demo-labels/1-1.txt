@@ -1,6 +1,0 @@
-Q: Did the faulty wiring cause the fire in the house?
-Last week, a family's house caught fire. The fire department investigation revealed that the fire was caused by faulty wiring in the house. The wiring had been installed by an electrician a few months before the fire. Did the faulty wiring cause the fire in the house?
-Options:
-- Yes
-- No
-A: Yes

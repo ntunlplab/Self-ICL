@@ -1,2 +1,0 @@
-Q: Question: Mark tells the truth. Steve says Mark lies. Rachel says Steve lies. Jake says Rachel tells the truth. Eric says Jake lies. Does Eric tell the truth?
-A: No,

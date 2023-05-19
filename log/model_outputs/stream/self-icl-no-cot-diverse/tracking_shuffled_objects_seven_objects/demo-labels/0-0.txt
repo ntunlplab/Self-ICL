@@ -1,8 +1,0 @@
-Q: John, Paul, George, Ringo, and Yoko are in a band. At the start of the performance, they are each assigned to a position: John is playing lead guitar, Paul is playing bass guitar, George is playing rhythm guitar, Ringo is playing drums, and Yoko is playing keyboard. As the performance progresses, pairs of players occasionally swap positions. First, John and Paul trade positions. Then, Ringo and Yoko trade positions. Then, George and Paul trade positions. Then, John and Ringo trade positions. Then, Paul and Yoko trade positions. Finally, George and John trade positions. At the end of the performance, Ringo is playing:
-Options:
-(A) lead guitar
-(B) bass guitar
-(C) rhythm guitar
-(D) drums
-(E) keyboard
-A: (D) drums

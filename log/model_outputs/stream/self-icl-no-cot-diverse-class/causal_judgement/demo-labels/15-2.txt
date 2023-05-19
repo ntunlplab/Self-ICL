@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Alice and Zoe are both employees at the same company. Alice is in charge of the company's website and Zoe is in charge of the company's social media accounts. One day, Alice makes a change to the website that causes it to crash. Zoe then posts a message on the company's social media accounts warning customers of the website crash. Did Zoe cause the website to crash?
-Options:
-- Yes
-- No
-A: No,

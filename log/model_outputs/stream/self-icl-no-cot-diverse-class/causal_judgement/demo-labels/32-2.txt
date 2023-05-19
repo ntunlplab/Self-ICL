@@ -1,5 +1,0 @@
-Q: A person is playing a game of basketball and they miss a shot. Did the basketball cause the person to miss the shot?
-Options:
-- Yes
-- No
-A: No

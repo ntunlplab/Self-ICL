@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: To start with, whoever is a fan of the New York Yankees is not a fan of the Boston Red Sox. Now, whoever is a fan of the Los Angeles Dodgers is not a fan of the New York Yankees. Hence, no fan of the Los Angeles Dodgers is a fan of the Boston Red Sox."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Silence of the Lambs, Psycho, Seven, Zodiac:
-Options:
-(A) The Shining
-(B) Se7en
-(C) The Sixth Sense
-(D) Gone Girl
-A: (A)

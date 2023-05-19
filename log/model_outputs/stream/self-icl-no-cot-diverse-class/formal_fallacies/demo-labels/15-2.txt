@@ -1,6 +1,0 @@
-Q: "Some people prefer to travel by car, while others prefer to travel by plane. But what is the best way to travel? The following argument pertains to this question: First of all, some people who travel by plane are fans of adventure. Next, being a fan of adventure is sufficient for preferring to travel by plane. Plus, preferring to travel by car is necessary for being a fan of adventure. So, necessarily, there is somebody who prefers to travel by car and is a fan of adventure."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

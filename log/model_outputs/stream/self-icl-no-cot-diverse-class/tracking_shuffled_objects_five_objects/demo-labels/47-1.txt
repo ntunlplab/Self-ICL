@@ -1,9 +1,0 @@
-Q: Five students are taking a test. At the start of the test, each student has a different answer sheet: Alice has a sheet with answers A, B, C, D, and E, Bob has a sheet with answers F, G, H, I, and J, Claire has a sheet with answers K, L, M, N, and O, Dave has a sheet with answers P, Q, R, S, and T, and Eve has a sheet with answers U, V, W, X, and Y.
-As the test progresses, pairs of students swap answer sheets. First, Claire and Eve swap their sheets. Then, Claire and Bob swap their sheets. Then, Alice and Dave swap their sheets. Then, Bob and Claire swap their sheets. Finally, Bob and Alice swap their sheets. At the end of the test, Eve has the
-Options:
-(A) A, B, C, D, and E
-(B) F, G, H, I, and J
-(C) K, L, M, N, and O
-(D) P, Q, R, S, and T
-(E) U, V, W, X, and Y
-A: (E)

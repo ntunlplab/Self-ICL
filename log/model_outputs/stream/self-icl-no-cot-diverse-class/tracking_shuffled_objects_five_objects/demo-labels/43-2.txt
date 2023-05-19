@@ -1,9 +1,0 @@
-Q: Five friends, Karen, Larry, Mike, Nancy, and Olivia, are all passionate about art. At the start of the month, they each buy one new painting: Karen gets Starry Night, Larry gets The Scream, Mike gets The Mona Lisa, Nancy gets The Last Supper, and Olivia gets Girl with a Pearl Earring.
-As the month progresses, they start trading around the new paintings. First, Karen and Olivia swap paintings. Then, Mike and Olivia swap paintings. Then, Karen and Olivia swap paintings. Then, Olivia and Nancy swap paintings. Finally, Karen and Larry swap paintings. At the end of the month, Larry has
-Options:
-(A) Starry Night
-(B) The Scream
-(C) The Mona Lisa
-(D) The Last Supper
-(E) Girl with a Pearl Earring
-A: (A)

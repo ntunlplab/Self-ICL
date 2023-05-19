@@ -1,5 +1,0 @@
-Q: A car is driving down a road and a deer runs out in front of it. The driver slams on the brakes, but the car still hits the deer. Did the driver cause the car to hit the deer?
-Options:
-- Yes
-- No
-A: No, the driver did not cause the car to hit the deer. The deer running out in front of the car was the cause of the car hitting the deer.

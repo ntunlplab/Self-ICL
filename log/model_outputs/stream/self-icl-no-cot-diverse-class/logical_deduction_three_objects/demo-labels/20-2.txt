@@ -1,6 +1,0 @@
-Q: A toy store sells three types of dolls: porcelain, plastic, and cloth. The porcelain dolls are the most expensive. The plastic dolls are less expensive than the cloth dolls.
-Options:
-(A) The porcelain dolls are the cheapest
-(B) The plastic dolls are the cheapest
-(C) The cloth dolls are the cheapest
-A: (C)

@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to travel faster than the speed of light: If the speed of light is the fastest speed possible, then it is impossible to travel faster than the speed of light. We may conclude that it is impossible to travel faster than the speed of light."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

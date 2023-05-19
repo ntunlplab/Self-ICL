@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Tom was playing basketball with his friends when he tripped and fell, breaking his arm. His friends had been playing a game of horse and had been taking turns shooting from different spots on the court. Tom had been the last one to take a shot and had been running back to the center of the court when he tripped. Did Tom's friends cause injury to Tom?
-Options:
-- Yes
-- No
-A: No

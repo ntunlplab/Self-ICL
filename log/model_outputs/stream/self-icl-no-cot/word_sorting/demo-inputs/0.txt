@@ -1,7 +1,0 @@
-Following is an example instance for the task: Sort a list of words. Please come up with 3 new instances for the task.
-Example instance:
-Sort the following words alphabetically: List: syndrome therefrom
-
-New instance 1: Sort the following words alphabetically: List: apple banana
-New instance 2: Sort the following words alphabetically: List: Monday Tuesday
-New instance 3: Sort the following words alphabetically: List: zebra yamaha

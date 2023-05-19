@@ -1,5 +1,0 @@
-Q: A person is playing a game of chess and makes a move that leads to them losing the game. Did the move the person made cause them to lose the game?
-Options:
-- Yes
-- No
-A: Yes

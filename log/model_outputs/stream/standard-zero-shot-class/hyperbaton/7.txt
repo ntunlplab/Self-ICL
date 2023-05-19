@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) wool repulsive prismlike American chair
-(B) repulsive prismlike American wool chair
-A: (B)

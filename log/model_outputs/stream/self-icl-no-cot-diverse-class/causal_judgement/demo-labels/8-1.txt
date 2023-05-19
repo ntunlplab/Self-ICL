@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Imagine that there is a man walking down a street in a busy city. He is in a hurry and not paying attention to his surroundings. Suddenly, he trips over a crack in the sidewalk and falls to the ground. Did the man intentionally trip over the crack?
-Options:
-- Yes
-- No
-A: No

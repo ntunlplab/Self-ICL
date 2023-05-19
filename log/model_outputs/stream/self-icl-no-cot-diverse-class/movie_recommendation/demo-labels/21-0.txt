@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Matrix:
-Options:
-(A) The Departed
-(B) The Silence of the Lambs
-(C) The Prestige
-(D) The Terminator
-A: (A)

@@ -1,6 +1,0 @@
-Q: "Is John a fan of the New York Yankees? Are supporters of the Boston Red Sox devotees of the Chicago Cubs? In Major League Baseball, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First of all, no member of the Los Angeles Dodgers is an expert of the San Francisco Giants. Next, somebody is a follower of the New York Mets and an expert of the San Francisco Giants. So, necessarily, not every follower of the New York Mets is a member of the Los Angeles Dodgers."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

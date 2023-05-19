@@ -1,5 +1,0 @@
-Q: Does the fact that the department budget committee is notorious for turning down almost every application they receive cause the IT committee to approve Prof. Smith's application?
-Options:
-- Yes
-- No
-A: No

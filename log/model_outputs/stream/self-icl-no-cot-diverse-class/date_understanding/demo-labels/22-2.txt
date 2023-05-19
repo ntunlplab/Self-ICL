@@ -1,8 +1,0 @@
-Q: The last day of the year is December 31st, 2021. What is the date one month before in MM/DD/YYYY?
-Options:
-(A) 11/30/2021
-(B) 12/01/2021
-(C) 11/31/2021
-(D) 12/30/2021
-(E) 12/31/2021
-A: (D)

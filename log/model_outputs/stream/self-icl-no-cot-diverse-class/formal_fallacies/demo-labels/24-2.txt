@@ -1,6 +1,0 @@
-Q: "The following argument seeks to clarify the relationship between the number of hours of studying and academic performance: To begin with, no student who studies less than 10 hours per week has an A average. Moreover, no student who studies more than 15 hours per week has an A average. Finally, every student who studies between 10 and 15 hours per week has an A average. We may conclude: Studying between 10 and 15 hours per week is necessary for having an A average."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

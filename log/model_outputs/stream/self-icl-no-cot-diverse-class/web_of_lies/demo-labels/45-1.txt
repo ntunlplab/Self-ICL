@@ -1,2 +1,0 @@
-Q: Question: Tom says the sun is yellow. Jane says the sun is orange. Bob says Jane is wrong. Susan says Bob is wrong. Joe says Susan is right. Is Joe right?
-A: No,

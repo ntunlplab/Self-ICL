@@ -1,9 +1,0 @@
-Q: On December 31, 2021, Mark celebrated his birthday. What is the date 10 days ago in MM/DD/YYYY?
-Options:
-(A) 12/21/2021
-(B) 12/11/2021
-(C) 12/11/2069
-(D) 12/12/2021
-(E) 09/31/2021
-(F) 12/01/2021
-A: (B)

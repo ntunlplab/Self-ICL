@@ -1,8 +1,0 @@
-Q: Sarah moved to a new city on Feb 15, 2021. 32 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
-Options:
-(A) 02/08/2021
-(B) 02/01/2021
-(C) 01/25/2021
-(D) 02/07/2021
-(E) 02/02/2021
-A: (D)

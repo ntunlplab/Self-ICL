@@ -1,8 +1,0 @@
-Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, diet, habitat Louis, 7, fish, Antarctic Bernard, 5, krill, Arctic Vincent, 9, squid, Sub-Antarctic Gwen, 8, shrimp, Sub-Antarctic  For example: the age of Louis is 7, the diet of Gwen is shrimp, the habitat of Bernard is Arctic.  What is the diet of Vincent?
-Options:
-(A) fish
-(B) krill
-(C) squid
-(D) shrimp
-(E) plankton
-A: (C)

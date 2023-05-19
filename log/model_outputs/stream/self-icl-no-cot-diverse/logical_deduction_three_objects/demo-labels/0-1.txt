@@ -1,6 +1,0 @@
-Q: On a shelf, there are three jars: a peanut butter jar, a jelly jar, and a honey jar. The honey jar is to the right of the peanut butter jar. The peanut butter jar is to the right of the jelly jar.
-Options:
-(A) The jelly jar is the second from the left
-(B) The peanut butter jar is the second from the left
-(C) The honey jar is the second from the left
-A: (B) The peanut butter jar is the second from the left.

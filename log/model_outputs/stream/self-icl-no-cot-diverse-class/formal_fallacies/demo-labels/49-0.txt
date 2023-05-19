@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, no one who is a fan of the New York Yankees is a fan of the Boston Red Sox. Second, everyone who lives in New York City is a fan of the New York Yankees. Therefore, everyone who does not live in New York City is not a fan of the Boston Red Sox."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

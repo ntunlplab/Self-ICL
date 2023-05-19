@@ -1,8 +1,0 @@
-Q: A toy store sells five stuffed animals: bears, cats, dogs, rabbits, and monkeys. The cats are bigger than the rabbits. The dogs are bigger than the cats. The monkeys are bigger than the dogs. The bears are bigger than the monkeys.
-Options:
-(A) The rabbits are the smallest
-(B) The cats are the smallest
-(C) The dogs are the smallest
-(D) The monkeys are the smallest
-(E) The bears are the smallest
-A: (A)

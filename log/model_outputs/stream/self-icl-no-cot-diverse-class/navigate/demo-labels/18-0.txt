@@ -1,5 +1,0 @@
-Q: If you follow these instructions, do you return to the starting point? Take a left turn. Take a right turn. Take a left turn.
-Options:
-- Yes
-- No
-A: Yes

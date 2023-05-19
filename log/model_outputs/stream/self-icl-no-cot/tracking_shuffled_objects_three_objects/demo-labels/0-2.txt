@@ -1,7 +1,0 @@
-Q: Tom, Jerry, and Mary are friends and avid hikers who occasionally trade hiking gear. At the start of the season, they each buy one new piece of gear: Tom gets a pair of hiking boots, Jerry gets a hiking backpack, and Mary gets a hiking pole.
-As the season proceeds, they start trading around the new gear. First, Mary and Jerry swap gear. Then, Jerry and Tom swap gear. Finally, Mary and Jerry swap gear. At the end of the season, Jerry has
-Options:
-(A) Pair of hiking boots
-(B) Hiking backpack
-(C) Hiking pole
-A: (B) Hiking backpack

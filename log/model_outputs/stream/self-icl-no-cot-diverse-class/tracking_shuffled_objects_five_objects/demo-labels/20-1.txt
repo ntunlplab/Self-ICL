@@ -1,9 +1,0 @@
-Q: Five friends, Fiona, George, Harry, Ian, and Jane, are all passionate cooks. At the start of the year, they each buy one new cookbook: Fiona gets The Joy of Cooking, George gets The Flavor Bible, Harry gets The Professional Chef, Ian gets The Art of French Cooking, and Jane gets The Silver Spoon.
-As the year progresses, they start trading around the new cookbooks. First, Fiona and George swap books. Then, Harry and George swap books. Then, Ian and Harry swap books. Then, Jane and Ian swap books. Finally, George and Jane swap books. At the end of the year, Jane has
-Options:
-(A) The Joy of Cooking
-(B) The Flavor Bible
-(C) The Professional Chef
-(D) The Art of French Cooking
-(E) The Silver Spoon
-A: (E)

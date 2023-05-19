@@ -1,6 +1,0 @@
-Q: "Is the new vaccine effective against the virus? Which treatments are available to treat the virus? It is important to understand the efficacy of treatments. The following argument seeks to clarify some such relations: Every treatment for the virus is both effective against the virus and approved by the FDA. The new vaccine is approved by the FDA. Therefore, the new vaccine is effective against the virus."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

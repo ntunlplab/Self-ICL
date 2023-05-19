@@ -1,6 +1,0 @@
-Q: "Is the new car fuel efficient? Which cars are fuel efficient? It is important to understand the fuel efficiency of cars. The following argument seeks to clarify some such relations: Every car that is fuel efficient is both certified by the EPA and has a fuel economy rating of at least 30 mpg. The new car has a fuel economy rating of at least 30 mpg. Therefore, the new car is certified by the EPA."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

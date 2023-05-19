@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a resident of California is sufficient for being a citizen of the United States. We may conclude that whoever is a resident of California is a citizen of the United States."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

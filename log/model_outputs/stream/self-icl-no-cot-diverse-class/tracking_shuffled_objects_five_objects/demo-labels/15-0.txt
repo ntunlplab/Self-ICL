@@ -1,9 +1,0 @@
-Q: Five friends, Alex, Ben, Carl, Dan, and Eric, are playing a game. At the start of the game, they are each holding a card: Alex has a red card, Ben has a blue card, Carl has a green card, Dan has a yellow card, and Eric has a purple card.
-As the game progresses, pairs of players trade cards. First, Carl and Alex swap cards. Then, Dan and Ben swap cards. Then, Eric and Ben swap cards. Then, Ben and Alex swap cards. Finally, Eric and Carl swap cards. At the end of the game, Alex has the
-Options:
-(A) red card
-(B) blue card
-(C) green card
-(D) yellow card
-(E) purple card
-A: (B)

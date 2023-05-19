@@ -1,2 +1,0 @@
-Q: Question: John says that Mary is telling the truth. Sarah says that John lies. Mark says that Sarah tells the truth. Lisa says that Mark lies. Does Lisa tell the truth?
-A: No,

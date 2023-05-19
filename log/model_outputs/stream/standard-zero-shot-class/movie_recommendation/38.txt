@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Pulp Fiction, The Shawshank Redemption, Aladdin, The Lion King:
-Options:
-(A) Terminator 2 Judgment Day
-(B) The Next Three Days
-(C) Detachment
-(D) Ruby Sparks
-A: (A)

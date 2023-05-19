@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) I'm so glad I have to stay late tonight
-(B) I'm so glad I have to stay late tonight, not
-A: (A)

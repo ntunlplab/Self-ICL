@@ -1,5 +1,0 @@
-Q: If you follow these instructions, do you return to the starting point? Take a boat across the lake. Take a hike up the mountain. Take a cable car down the mountain.
-Options:
-- Yes
-- No
-A: No

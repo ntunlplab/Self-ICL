@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-A truck driver was driving on a highway when a tire suddenly blew out. The truck driver lost control of the vehicle and crashed into a nearby building, causing significant damage. Did the truck driver intentionally crash into the building?
-Options:
-- Yes
-- No
-A: No

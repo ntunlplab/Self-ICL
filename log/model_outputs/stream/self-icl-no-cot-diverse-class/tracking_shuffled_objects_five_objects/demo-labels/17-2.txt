@@ -1,9 +1,0 @@
-Q: Five friends, Karen, Larry, Mike, Nancy, and Olivia, are all avid video game players. At the start of the semester, they each buy one new game: Karen gets Super Mario Bros., Larry gets Pac-Man, Mike gets Tetris, Nancy gets The Legend of Zelda, and Olivia gets Donkey Kong.
-As the semester proceeds, they start trading around the new games. First, Karen and Larry swap games. Then, Mike and Nancy swap games. Then, Nancy and Karen swap games. Then, Mike and Nancy swap games. Finally, Olivia and Mike swap games. At the end of the semester, Nancy has
-Options:
-(A) Super Mario Bros.
-(B) Pac-Man
-(C) Tetris
-(D) The Legend of Zelda
-(E) Donkey Kong
-A: (E)

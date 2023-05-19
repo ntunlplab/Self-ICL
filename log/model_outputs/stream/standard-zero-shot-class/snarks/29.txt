@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) That's only about $0.15 per mile for a van, perfectly reasonable fuel costs
-(B) That's only about $10 per mile for a van, perfectly reasonable fuel costs
-A: (B)

@@ -1,6 +1,0 @@
-Q: In a garden, there are three plants: a rose, a daisy, and a tulip. The daisy is to the left of the rose. The tulip is the leftmost.
-Options:
-(A) The rose is the second from the right
-(B) The daisy is the second from the right
-(C) The tulip is the second from the right
-A: (C)

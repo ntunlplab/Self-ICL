@@ -1,6 +1,0 @@
-Q: In a bakery, there are three types of cakes: a chocolate cake, a vanilla cake, and a strawberry cake. The strawberry cake is sweeter than the vanilla cake. The chocolate cake is sweeter than the strawberry cake.
-Options:
-(A) The chocolate cake is the sweetest
-(B) The strawberry cake is the sweetest
-(C) The vanilla cake is the sweetest
-A: (B)

@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: To start with, no student in the class is a resident of the same city as their teacher. Now, it is false that John is a resident of the same city as their teacher. Moreover, it is false that John is a student in the class. We may conclude: It is not the case that John is a resident of the same city as their teacher."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

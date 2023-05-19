@@ -1,8 +1,0 @@
-Q: It's been exactly two weeks since the start of the new year. What is the date today in MM/DD/YYYY?
-Options:
-(A) 01/14/2021
-(B) 01/21/2021
-(C) 02/14/2021
-(D) 02/21/2021
-(E) 03/14/2021
-A: (B)

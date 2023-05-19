@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The parents asked the children if they wanted to go to the park.
-Options:
-(A) Asked if the parents wanted to go to the park
-(B) Asked if the children wanted to go to the park
-(C) Ambiguous
-A: (B)

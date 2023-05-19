@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John is a construction worker. He is responsible for building a new bridge. One day, he was working on the bridge when a piece of the scaffolding collapsed. He had not checked the scaffolding before he started working on the bridge. On the other hand, the foreman had checked the scaffolding before John started working on the bridge. If the foreman had not checked the scaffolding, would the piece of scaffolding have collapsed?
-Options:
-- Yes
-- No
-A: No.

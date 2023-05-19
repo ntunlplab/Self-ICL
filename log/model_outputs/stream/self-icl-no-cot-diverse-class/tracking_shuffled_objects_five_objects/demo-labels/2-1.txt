@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each friend is assigned a hand gesture: Alex is using rock, Ben is using paper, Charlie is using scissors, David is using rock, and Emily is using paper.
-Throughout the game, the friends often switch hand gestures. First, Alex and Ben switch hand gestures. Then, Charlie and Alex switch hand gestures. Then, David and Charlie switch hand gestures. Then, David and Emily switch hand gestures. Finally, Ben and Emily switch hand gestures. At the end of the game, Emily is using
-Options:
-(A) Rock
-(B) Paper
-(C) Scissors
-(D) Rock
-(E) Paper
-A: (E)

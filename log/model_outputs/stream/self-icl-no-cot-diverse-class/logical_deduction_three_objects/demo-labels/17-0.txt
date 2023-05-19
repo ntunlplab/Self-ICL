@@ -1,6 +1,0 @@
-Q: On a shelf, there are three cups: a green cup, a yellow cup, and a pink cup. The green cup is the rightmost. The yellow cup is the leftmost.
-Options:
-(A) The green cup is the rightmost
-(B) The yellow cup is the rightmost
-(C) The pink cup is the rightmost
-A: (C)

@@ -1,6 +1,0 @@
-Q: "Is the sun hot? Is the moon cold? The following argument seeks to clarify the answer: First, every star in the sky is hot. Second, every planet in the solar system is not cold. So, necessarily, the sun is hot and the moon is cold."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The manager asked the team to finish their project.
-Options:
-(A) The manager's project
-(B) The team's project
-(C) Ambiguous
-A: (B)

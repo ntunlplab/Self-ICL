@@ -1,2 +1,0 @@
-Q: Question: Alex says the moon is round. Beth says the moon is square. Carl says Beth is wrong. Dave says Carl is wrong. Emily says Dave is right. Is Emily correct?
-A: No,

@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of rock-paper-scissors. At the start of the game, each person has a different item: Alice has a rock, Bob has a paper, Claire has a pair of scissors, Dave has a coin, and Eve has a die.
-As the game progresses, pairs of people swap items. First, Bob and Claire swap their items. Then, Dave and Eve swap their items. Then, Bob and Claire swap their items. Then, Claire and Alice swap their items. Finally, Eve and Dave swap their items. At the end of the game, Bob has the
-Options:
-(A) rock
-(B) paper
-(C) pair of scissors
-(D) coin
-(E) die
-A: (B)

@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Dark Knight, The Silence of the Lambs, The Matrix:
-Options:
-(A) The Departed
-(B) Inception
-(C) Fight Club
-(D) Seven
-A: (A)

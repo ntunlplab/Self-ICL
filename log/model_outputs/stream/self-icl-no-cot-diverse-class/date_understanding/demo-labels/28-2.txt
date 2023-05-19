@@ -1,9 +1,0 @@
-Q: Today is July 15, 2021. What is the date two weeks ago from today in MM/DD/YYYY?
-Options:
-(A) 07/01/2021
-(B) 06/30/2021
-(C) 06/15/2021
-(D) 07/15/2020
-(E) 06/30/2020
-(F) 07/01/2020
-A: (C)

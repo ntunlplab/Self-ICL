@@ -1,6 +1,0 @@
-Q: In a garden, there are three types of flowers: a rose, a daisy, and a lily. The daisy is taller than the lily. The rose is taller than the daisy.
-Options:
-(A) The rose is the tallest
-(B) The daisy is the tallest
-(C) The lily is the tallest
-A: (A)

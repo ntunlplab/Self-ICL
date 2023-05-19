@@ -1,9 +1,0 @@
-Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, wingspan (cm), speed (km/h) John, 4, 80, 20 Mary, 6, 90, 25 Paul, 8, 70, 15 Sarah, 7, 75, 18  For example: the age of John is 4, the speed of Sarah is 18 km/h, the wingspan of Mary is 90 cm.  We then delete the penguin named Paul from the table.
-Which is the fastest penguin?
-Options:
-(A) John
-(B) Mary
-(C) Paul
-(D) Sarah
-(E) James
-A: (B)

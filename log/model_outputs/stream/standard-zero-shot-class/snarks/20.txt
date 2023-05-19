@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) Working the printer is too complex for me
-(B) Working the microprocessor is too complex for me
-A: (A)

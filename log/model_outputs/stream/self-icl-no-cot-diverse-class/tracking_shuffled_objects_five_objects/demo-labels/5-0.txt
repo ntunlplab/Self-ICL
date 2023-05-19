@@ -1,9 +1,0 @@
-Q: Five students, Alex, Ben, Charlie, David, and Emma, are taking a test. At the start of the test, they are each assigned to a seat: Alex is in seat 1, Ben is in seat 2, Charlie is in seat 3, David is in seat 4, and Emma is in seat 5.
-As the test progresses, pairs of students occasionally swap seats. First, Alex and Ben trade seats. Then, Alex and Charlie trade seats. Then, David and Charlie trade seats. Then, Ben and David trade seats. Finally, Charlie and Emma trade seats. At the end of the test, Emma is in
-Options:
-(A) seat 1
-(B) seat 2
-(C) seat 3
-(D) seat 4
-(E) seat 5
-A: (E)

@@ -1,7 +1,0 @@
-Task description: Answer extremely simple questions about the colors of objects on a surface.
-
-Q: On the desk, there is an orange scrunchiephone charger, a turquoise bracelet, a gold sheet of paper, and a red envelope. Is the bracelet turquoise?
-Options:
-(A) yes
-(B) no
-A: (A)

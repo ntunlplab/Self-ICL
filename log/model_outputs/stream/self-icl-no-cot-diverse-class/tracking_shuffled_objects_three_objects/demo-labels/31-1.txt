@@ -1,6 +1,0 @@
-Q: Three students, David, Emma, and Frank, are playing a game of tag. At the start of the game, David is "it", Emma is running away, and Frank is hiding. Throughout the game, the roles often switch. First, David and Emma switch roles. Then, Emma and Frank switch roles. Finally, Frank and David switch roles. At the end of the game, David is 
-Options:
-(A) "It"
-(B) Running away
-(C) Hiding
-A: (A)

@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Matrix, Inception, The Prestige, Interstellar:
-Options:
-(A) Blade Runner
-(B) Ex Machina
-(C) Primer
-(D) Source Code
-A: (A)

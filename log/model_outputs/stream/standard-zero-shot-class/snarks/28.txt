@@ -1,7 +1,0 @@
-Task description: Determine which of two sentences is sarcastic.
-
-Q: Which statement is sarcastic?
-Options:
-(A) What a poor guy, years of work and he only got a $50,000 scholarship
-(B) What a poor guy, years of work and he only got a $50 scholarship
-A: (A)

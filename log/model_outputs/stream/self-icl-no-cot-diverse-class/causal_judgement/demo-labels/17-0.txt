@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John was driving his car on a highway when he suddenly had to swerve to avoid hitting a deer that had run onto the road. Unfortunately, his car collided with another vehicle, causing serious injuries to the other driver. John had been driving at the speed limit and had not been drinking or using drugs. However, he had been distracted by his phone, which he had been using to text his friends. Did John cause injury to the other driver?
-Options:
-- Yes
-- No
-A: Yes

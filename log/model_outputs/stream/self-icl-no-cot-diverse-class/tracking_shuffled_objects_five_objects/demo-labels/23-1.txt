@@ -1,9 +1,0 @@
-Q: Five students, Lisa, Mary, Nathan, Olivia, and Peter, are playing a game. At the start of the game, they are each holding a coin: Lisa has a penny, Mary has a nickel, Nathan has a dime, Olivia has a quarter, and Peter has a half-dollar.
-As the game progresses, pairs of players trade coins. First, Mary and Lisa swap coins. Then, Nathan and Lisa swap coins. Then, Olivia and Peter swap coins. Then, Peter and Mary swap coins. Finally, Lisa and Nathan swap coins. At the end of the game, Mary has the
-Options:
-(A) penny
-(B) nickel
-(C) dime
-(D) quarter
-(E) half-dollar
-A: (E)

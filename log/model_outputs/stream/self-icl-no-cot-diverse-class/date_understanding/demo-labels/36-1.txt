@@ -1,9 +1,0 @@
-Q: Sarah's birthday is on May 5, 2020. She celebrated her birthday for the first time since then on Mar 15, 2021. What is the date 24 hours later in MM/DD/YYYY?
-Options:
-(A) 03/16/2021
-(B) 03/17/2021
-(C) 03/18/2021
-(D) 03/19/2021
-(E) 03/20/2021
-(F) 03/21/2021
-A: (B)

@@ -1,8 +1,0 @@
-Q: Mark moved to a new city on Dec 15, 2016. 2556 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 12/15/2015
-(B) 12/20/2015
-(C) 12/30/2015
-(D) 01/10/2015
-(E) 01/20/2015
-A: (A)

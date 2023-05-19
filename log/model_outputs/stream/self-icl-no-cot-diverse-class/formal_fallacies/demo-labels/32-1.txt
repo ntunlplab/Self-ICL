@@ -1,6 +1,0 @@
-Q: "Is Sarah a fan of the Golden State Warriors? Are supporters of the Los Angeles Lakers devotees of the Houston Rockets? In the NBA, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First, everyone who is both an opponent to the Portland Trail Blazers and an ex-fan of the Oklahoma City Thunder is a follower of the Golden State Warriors, too. Second, being an admirer of the Utah Jazz is sufficient for not being an opponent to the Portland Trail Blazers. Third, whoever is an admirer of the Utah Jazz is not an ex-fan of the Oklahoma City Thunder. In consequence, every admirer of the Utah Jazz is a follower of the Golden State Warriors."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

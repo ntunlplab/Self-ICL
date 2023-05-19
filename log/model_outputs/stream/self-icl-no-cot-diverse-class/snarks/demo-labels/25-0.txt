@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) It's great that the weather is so nice today
-(B) It's great that the weather is so nice this week
-A: (A)

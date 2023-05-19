@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'radiohead'?
-Options:
-(A) radio head
-(B) rawdiohead
-(C) radiodead
-(D) radiohesd
-A: (C)

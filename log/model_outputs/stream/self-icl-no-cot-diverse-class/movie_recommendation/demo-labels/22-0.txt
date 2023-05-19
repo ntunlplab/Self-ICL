@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Godfather, The Shawshank Redemption, The Dark Knight, The Lord of the Rings:
-Options:
-(A) The Silence of the Lambs
-(B) The Departed
-(C) Inception
-(D) Gladiator
-A: (B)

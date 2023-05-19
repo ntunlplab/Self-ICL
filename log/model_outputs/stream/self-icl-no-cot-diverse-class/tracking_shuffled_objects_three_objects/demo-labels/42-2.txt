@@ -1,7 +1,0 @@
-Q: Three chefs, Jack, Jill, and Sam, are competing in a cooking competition. At the start of the competition, they are each assigned to a station: Jack is at station 1, Jill is at station 2, and Sam is at station 3.
-As the competition progresses, pairs of chefs occasionally swap stations. First, Jill and Sam trade stations. Then, Jill and Jack trade stations. Finally, Jill and Sam trade stations. At the end of the competition, Jill is at
-Options:
-(A) station 1
-(B) station 2
-(C) station 3
-A: (C)

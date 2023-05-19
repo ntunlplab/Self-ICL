@@ -1,7 +1,0 @@
-Q: Which of the following is a humorous edit of this artist or movie name: 'The Greatest Showman'?
-Options:
-(A) The Greastest Showman
-(B) The Greatist Showman
-(C) The Greast Showman
-(D) The Greastest Shownan
-A: (D)

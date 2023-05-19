@@ -1,2 +1,0 @@
-Q: Question: Sarah says she is the oldest child. Her brother says she is the youngest. Her mother says her brother is lying. Her father says her mother is telling the truth. Is Sarah the oldest child?
-A: No,

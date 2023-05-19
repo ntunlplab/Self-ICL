@@ -1,6 +1,0 @@
-Q: In a race, there were three runners: Alex, Mark, and David. Mark finished below David. David finished below Alex.
-Options:
-(A) Alex finished first
-(B) Mark finished first
-(C) David finished first
-A: (A)

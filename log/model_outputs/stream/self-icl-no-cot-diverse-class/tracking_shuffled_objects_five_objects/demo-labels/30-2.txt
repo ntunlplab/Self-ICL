@@ -1,9 +1,0 @@
-Q: Five friends are playing a game of tag. At the start of the game, they each have a starting position: Alex is at position 1, Ben is at position 2, Charlie is at position 3, David is at position 4, and Emily is at position 5.
-Throughout the game, the friends often switch positions. First, Alex and Ben switch positions. Then, Ben and Charlie switch positions. Then, Charlie and David switch positions. Then, David and Emily switch positions. Finally, Alex and Emily switch positions. At the end of the game, Charlie is at
-Options:
-(A) Position 1
-(B) Position 2
-(C) Position 3
-(D) Position 4
-(E) Position 5
-A: (E)

@@ -1,2 +1,0 @@
-Q: Question: John says that Mary is wrong. Sarah says that John is right. Tom says that Sarah is wrong. Jane says that Tom is right. Does Jane tell the truth?
-A: Yes,

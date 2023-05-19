@@ -1,9 +1,0 @@
-Task description: Clarify the meaning of sentences with ambiguous pronouns.
-
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The cook is always teaching the assistant new techniques because they like to teach others.
-Options:
-(A) The cook likes to teach
-(B) The assistant likes to teach
-(C) Ambiguous
-A: (C)

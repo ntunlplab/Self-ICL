@@ -1,9 +1,0 @@
-Q: It is the first day of the month of April in the year 2021. What is the date tomorrow in MM/DD/YYYY?
-Options:
-(A) 04/02/2021
-(B) 04/01/2021
-(C) 03/31/2021
-(D) 04/03/2021
-(E) 12/25/2021
-(F) 07/25/2021
-A: (D) 04/03/2021

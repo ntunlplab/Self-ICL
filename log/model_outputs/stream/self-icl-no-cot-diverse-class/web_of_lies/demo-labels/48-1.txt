@@ -1,2 +1,0 @@
-Q: Question: Jack says the sun is hot. Jill says the sun is cold. Tom says Jack is wrong. Mary says Tom is wrong. Steve says Mary is right. Is Steve correct?
-A: Yes,

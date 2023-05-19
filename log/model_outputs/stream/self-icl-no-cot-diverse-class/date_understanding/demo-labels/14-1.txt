@@ -1,9 +1,0 @@
-Q: Today is 12/25/2019. What is the date one year from today in MM/DD/YYYY?
-Options:
-(A) 12/25/2020
-(B) 12/25/2021
-(C) 12/25/2022
-(D) 12/25/2023
-(E) 12/25/2024
-(F) 12/25/2025
-A: (A)

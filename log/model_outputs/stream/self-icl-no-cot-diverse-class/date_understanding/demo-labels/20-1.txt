@@ -1,8 +1,0 @@
-Q: On August 12, 2020, Sarah went on a vacation. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 08/12/2019
-(B) 07/12/2019
-(C) 08/15/2019
-(D) 07/15/2019
-(E) 06/12/2019
-A: (A)

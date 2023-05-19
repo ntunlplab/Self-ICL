@@ -1,5 +1,0 @@
-Q: Sarah was playing a game of tag with her friends in the park. She was running away from them when she tripped and fell. Her friends stopped running and gathered around her to make sure she was okay. Did Sarah's friends cause her to trip?
-Options:
-- Yes
-- No
-A: No

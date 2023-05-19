@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lord of the Rings: The Fellowship of the Ring, The Hobbit: An Unexpected Journey, Harry Potter and the Sorcerer's Stone, The Chronicles of Narnia: The Lion, The Witch and The Wardrobe:
-Options:
-(A) The Hunger Games
-(B) The Princess Bride
-(C) Stardust
-(D) The NeverEnding Story
-A: (C)

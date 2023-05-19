@@ -1,9 +1,0 @@
-Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, flipper length (cm), tuxedo color (shade) George, 4, 20, black Henry, 6, 25, white Jack, 8, 30, gray Olivia, 7, 35, white  For example: the age of George is 4, the tuxedo color of Olivia is white, the flipper length of Henry is 25 cm.  We then delete the penguin named Jack from the table.
-Which is the longest flippered penguin?
-Options:
-(A) George
-(B) Henry
-(C) Jack
-(D) Olivia
-(E) James
-A: (D)

@@ -1,9 +1,0 @@
-Task description: Select the humorous edit that 'ruins' the input movie or musical artist name.
-
-Q: Which of the following is a humorous edit of this artist or movie name: 'paul revere and the raiders'?
-Options:
-(A) paul rfevere and the raiders
-(B) paul severe and the raiders
-(C) mpaul revere and the raiders
-(D) paul erevere and the raiders
-A: (B)

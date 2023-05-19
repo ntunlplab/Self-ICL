@@ -1,6 +1,0 @@
-Q: "Here comes a perfectly valid argument: First, being a student of the University of California is sufficient for being a resident of California. Second, whoever is a resident of California is not a resident of Nevada. Third, every student of the University of California who is a resident of Nevada is also a resident of Arizona. We may conclude: Being a student of the University of California is sufficient for being a resident of Arizona."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

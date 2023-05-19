@@ -1,9 +1,0 @@
-Q: Five friends, Frank, George, Henry, Ian, and Jack, are playing a game of tag. At the start of the game, each friend is standing in a different spot: Frank is in spot 1, George is in spot 2, Henry is in spot 3, Ian is in spot 4, and Jack is in spot 5.
-Throughout the game, the friends often switch spots. First, Frank and George switch spots. Then, Henry and Ian switch spots. Then, George and Jack switch spots. Then, Frank and Henry switch spots. Finally, Ian and Jack switch spots. At the end of the game, Frank is standing in
-Options:
-(A) Spot 1
-(B) Spot 2
-(C) Spot 3
-(D) Spot 4
-(E) Spot 5
-A: (A)

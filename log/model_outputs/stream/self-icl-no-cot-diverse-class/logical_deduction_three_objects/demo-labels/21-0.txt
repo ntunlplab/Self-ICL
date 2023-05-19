@@ -1,6 +1,0 @@
-Q: On a shelf, there are three cups: a red cup, a yellow cup, and a green cup. The yellow cup is to the right of the red cup. The green cup is to the right of the yellow cup.
-Options:
-(A) The red cup is the second from the left
-(B) The yellow cup is the second from the left
-(C) The green cup is the second from the left
-A: (B)

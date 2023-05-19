@@ -1,8 +1,0 @@
-Q: A pet store sells five types of fish: goldfish, guppies, tetras, angelfish, and cichlids. The guppies are the most expensive. The tetras are the second-most expensive. The angelfish are the third-most expensive. The cichlids are the second-cheapest. The goldfish are the cheapest.
-Options:
-(A) The guppies are the second-cheapest
-(B) The tetras are the most expensive
-(C) The angelfish are the second-cheapest
-(D) The cichlids are the most expensive
-(E) The goldfish are the third-most expensive
-A: (B)

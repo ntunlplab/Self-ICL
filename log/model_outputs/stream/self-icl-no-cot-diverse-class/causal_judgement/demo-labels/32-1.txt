@@ -1,5 +1,0 @@
-Q: A person is walking down the street and they trip over a crack in the sidewalk. Did the crack cause the person to trip?
-Options:
-- Yes
-- No
-A: Yes

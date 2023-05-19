@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Batman, The Mask, The Lion King, Pretty Woman:
-Options:
-(A) Los Angeles Plays Itself
-(B) Gintama The Final Chapter - Be Forever Yorozuya
-(C) Doctor Who Last Christmas
-(D) The Fugitive
-A: (D)

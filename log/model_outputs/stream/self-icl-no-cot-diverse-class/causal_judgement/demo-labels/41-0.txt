@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John was driving his car on a highway when he suddenly had to swerve to avoid hitting a deer that had run onto the road. Unfortunately, his car skidded off the road and crashed into a tree. John was seriously injured in the accident. The deer had been running away from a hunter who had been chasing it for several minutes. The hunter had been shooting at the deer with a rifle, and the deer had been running in fear for its life. Did the hunter cause injury to John?
-Options:
-- Yes
-- No
-A: No,

@@ -1,8 +1,0 @@
-Q: In a math competition, there were five students: Amy, Bob, Joe, Tim, and Sue. Bob finished above Sue. Sue finished above Tim. Joe finished below Tim. Amy finished second.
-Options:
-(A) Amy finished last
-(B) Bob finished last
-(C) Joe finished last
-(D) Tim finished last
-(E) Sue finished last
-A: (E)

@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) archaic pink wood Vietnamese cat
-(B) archaic pink Vietnamese wood cat
-A: (B)

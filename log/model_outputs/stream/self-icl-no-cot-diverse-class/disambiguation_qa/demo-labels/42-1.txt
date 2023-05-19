@@ -1,7 +1,0 @@
-Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
-Sentence: The doctor prescribed the patient medication because he was in pain.
-Options:
-(A) The doctor was in pain
-(B) The patient was in pain
-(C) Ambiguous
-A: (B)

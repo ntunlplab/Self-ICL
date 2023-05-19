@@ -1,9 +1,0 @@
-Q: Sarah has been going to the gym every Friday since the beginning of June. Today is her 10th visit. What is the date today in MM/DD/YYYY?
-Options:
-(A) 07/17/2020
-(B) 08/14/2020
-(C) 06/19/2020
-(D) 07/03/2020
-(E) 08/28/2020
-(F) 09/11/2020
-A: (C)

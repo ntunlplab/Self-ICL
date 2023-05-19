@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Breakfast Club, Ferris Bueller's Day Off, Sixteen Candles, Pretty in Pink:
-Options:
-(A) Say Anything
-(B) Can't Buy Me Love
-(C) Some Kind of Wonderful
-(D) Weird Science
-A: (A)

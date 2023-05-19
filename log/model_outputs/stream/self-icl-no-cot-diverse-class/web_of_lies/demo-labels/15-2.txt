@@ -1,2 +1,0 @@
-Q: Question: David says that Karen is lying. Ryan says that David is telling the truth. Sam says that Ryan is lying. Julie says that Sam is telling the truth. Does Julie tell the truth?
-A: No,

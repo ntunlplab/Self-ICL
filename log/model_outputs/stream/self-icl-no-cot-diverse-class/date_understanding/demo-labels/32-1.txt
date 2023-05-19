@@ -1,9 +1,0 @@
-Q: In the US, people usually put the month before the day when formatting the date. Therefore, today is 01/02/1987 to them. What is the date in one month in MM/DD/YYYY?
-Options:
-(A) 01/31/1987
-(B) 02/28/1987
-(C) 03/02/1987
-(D) 03/31/1987
-(E) 04/02/1987
-(F) 04/30/1987
-A: (F)

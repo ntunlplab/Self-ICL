@@ -1,2 +1,0 @@
-Q: Question: Frank says that Gina is wrong. Harry says that Frank is right. Isabelle says that Harry is wrong. Jake says that Isabelle is right. Does Jake tell the truth?
-A: No,

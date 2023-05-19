@@ -1,7 +1,0 @@
-Q: Which of the following is a humorous edit of this artist or movie name: 'the matrix'?
-Options:
-(A) the matric
-(B) the matrrix
-(C) the matrixx
-(D) the matrixxx
-A: (B)

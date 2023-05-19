@@ -1,6 +1,0 @@
-Q: "Some people prefer to eat at home, while others prefer to eat out. But what is the best option for a healthy diet? The following argument pertains to this question: First, eating out is more expensive than eating at home. Second, eating out is less healthy than eating at home. Third, to be healthy is necessary for having a balanced diet. Hence, having a balanced diet is more expensive than eating at home."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Invalid

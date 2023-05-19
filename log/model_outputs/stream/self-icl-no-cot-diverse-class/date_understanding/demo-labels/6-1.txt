@@ -1,9 +1,0 @@
-Q: On August 15th, 2018, Sarah bought a carton of milk. She drank one cup per day. Today she ran out of milk. What is the date 24 hours later in MM/DD/YYYY?
-Options:
-(A) 08/30/2018
-(B) 09/01/2018
-(C) 08/31/2018
-(D) 08/29/2018
-(E) 08/28/2018
-(F) 09/02/2018
-A: (C)

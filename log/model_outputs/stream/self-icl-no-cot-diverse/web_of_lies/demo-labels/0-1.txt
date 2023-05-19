@@ -1,2 +1,0 @@
-Q: Question: Tom says he always tells the truth. Jane says Tom lies. Paul says Jane tells the truth. Mary says Paul lies. Does Mary tell the truth?
-A: No, Mary does not tell the truth.

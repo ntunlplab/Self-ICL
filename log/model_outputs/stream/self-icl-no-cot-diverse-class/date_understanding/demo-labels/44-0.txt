@@ -1,8 +1,0 @@
-Q: On April 15th, 2019, the world was shocked by the news of a devastating fire. What is the date one year ago from today in MM/DD/YYYY?
-Options:
-(A) 04/15/2018
-(B) 04/14/2018
-(C) 04/16/2018
-(D) 04/15/2017
-(E) 04/14/2017
-A: (D)

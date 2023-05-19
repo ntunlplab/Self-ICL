@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-John is a driver for a delivery company. He is responsible for delivering packages to customers. One day, he was driving to a customer's house when he got a flat tire. He had to pull over and change the tire. While he was changing the tire, he noticed that the tire was worn down and had a hole in it. He had not checked the tire before he left the warehouse. On the other hand, the warehouse manager had checked the tire before John left the warehouse. If the warehouse manager had not checked the tire, would John have been able to drive to the customer's house without getting a flat tire?
-Options:
-- Yes
-- No
-A: No

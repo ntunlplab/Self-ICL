@@ -1,9 +1,0 @@
-Q: The launch of the new product was scheduled to be on 04/05/2024, but was delayed by three days to today. What is the date three days ago in MM/DD/YYYY?
-Options:
-(A) 04/02/2024
-(B) 04/08/2024
-(C) 04/05/2023
-(D) 03/30/2024
-(E) 03/27/2024
-(F) 04/05/2024
-A: (E)

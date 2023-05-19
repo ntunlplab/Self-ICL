@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Lion King, Toy Story, The Little Mermaid, Beauty and the Beast:
-Options:
-(A) Aladdin
-(B) Cinderella
-(C) Mulan
-(D) The Princess and the Frog
-A: (A)

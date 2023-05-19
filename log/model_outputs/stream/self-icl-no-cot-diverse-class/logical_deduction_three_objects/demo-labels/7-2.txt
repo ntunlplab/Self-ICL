@@ -1,6 +1,0 @@
-Q: In a spelling bee, there were three contestants: Sam, Emma, and Jake. Emma finished below Jake. Jake finished below Sam.
-Options:
-(A) Sam finished first
-(B) Emma finished first
-(C) Jake finished first
-A: (A)

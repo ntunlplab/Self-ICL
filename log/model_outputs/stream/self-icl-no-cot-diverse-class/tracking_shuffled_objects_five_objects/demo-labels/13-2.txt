@@ -1,9 +1,0 @@
-Q: Five musicians are performing in a band. At the start of the performance, they are each assigned to an instrument: Musician A is playing the guitar, Musician B is playing the drums, Musician C is playing the bass, Musician D is playing the keyboard, and Musician E is playing the saxophone.
-As the performance progresses, pairs of musicians occasionally swap instruments. First, Musician A and Musician B trade instruments. Then, Musician C and Musician D trade instruments. Then, Musician A and Musician C trade instruments. Then, Musician E and Musician A trade instruments. Finally, Musician D and Musician B trade instruments. At the end of the performance, Musician C is playing
-Options:
-(A) the guitar
-(B) the drums
-(C) the bass
-(D) the keyboard
-(E) the saxophone
-A: (A)

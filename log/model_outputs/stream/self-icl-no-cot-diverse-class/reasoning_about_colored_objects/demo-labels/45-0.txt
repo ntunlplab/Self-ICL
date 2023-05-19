@@ -1,5 +1,0 @@
-Q: On the kitchen counter, there is a yellow bowl, a green apple, a purple spoon, and a white plate. Is the spoon purple?
-Options:
-(A) yes
-(B) no
-A: (A)

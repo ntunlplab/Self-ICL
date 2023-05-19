@@ -1,7 +1,0 @@
-Task description: Order adjectives correctly in English sentences.
-
-Q: Which sentence has the correct adjective order:
-Options:
-(A) midsize old grey Brazilian sweater
-(B) midsize grey Brazilian old sweater
-A: (B)

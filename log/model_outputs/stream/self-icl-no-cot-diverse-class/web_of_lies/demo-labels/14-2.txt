@@ -1,2 +1,0 @@
-Q: Question: Sam says that Lisa tells the truth. Paul says that Sam lies. Emma says that Paul tells the truth. Jake says that Emma lies. Does Jake tell the truth?
-A: No,

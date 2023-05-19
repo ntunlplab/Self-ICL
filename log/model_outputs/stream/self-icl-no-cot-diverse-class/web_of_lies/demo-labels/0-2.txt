@@ -1,2 +1,0 @@
-Q: Question: David says he always tells the truth. Emma says David lies. Sam says Emma tells the truth. Claire says Sam lies. Does Claire tell the truth?
-A: No,

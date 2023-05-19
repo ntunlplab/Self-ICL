@@ -1,8 +1,0 @@
-Q: A group of friends are playing a game of charades. At the start of the game, they are each assigned to a role: Alex is acting out a movie, Bob is acting out a book, Charlie is acting out a song, Dave is acting out a TV show, and Emily is acting out a play. As the game progresses, pairs of players occasionally swap roles. First, Alex and Bob trade roles. Then, Charlie and Dave trade roles. Then, Emily and Alex trade roles. Then, Bob and Charlie trade roles. Then, Dave and Emily trade roles. Finally, Alex and Bob trade roles. At the end of the game, Charlie is acting out:
-Options:
-(A) a movie
-(B) a book
-(C) a song
-(D) a TV show
-(E) a play
-A: (C) a song

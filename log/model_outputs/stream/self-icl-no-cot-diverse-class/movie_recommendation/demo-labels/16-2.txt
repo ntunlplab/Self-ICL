@@ -1,7 +1,0 @@
-Q: Find a movie similar to The Matrix, Fight Club, Inception, The Prestige:
-Options:
-(A) Memento
-(B) Donnie Darko
-(C) Eternal Sunshine of the Spotless Mind
-(D) The Truman Show
-A: (A)

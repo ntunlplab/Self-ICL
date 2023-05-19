@@ -1,5 +1,0 @@
-Q: In the early 2000s, a large company was accused of polluting a nearby river. The company's CEO was asked if the company had intentionally polluted the river. The CEO replied: "We have taken all the necessary steps to ensure that our operations do not pollute the river. We have invested in the latest technology and have implemented strict environmental regulations. We are doing everything we can to protect the environment." Did the company intentionally pollute the river?
-Options:
-- Yes
-- No
-A: No

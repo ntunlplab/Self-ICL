@@ -1,6 +1,0 @@
-Q: How would a typical person answer each of the following questions about causation?
-Bob is a gardener who grows vegetables in his garden. He has been using the same pesticide for years, but this year he decided to try something new. He bought a new pesticide called X-Spray, which was supposed to be more effective than his old pesticide. After a few weeks, Bob noticed that the vegetables in his garden were growing much faster than usual. He was very pleased with the results, but he also noticed that some of the vegetables were starting to rot and die. He wondered if the new pesticide could be the cause of the rotting. Did the use of X-Spray cause the vegetables to rot?
-Options:
-- Yes
-- No
-A: No.

@@ -1,9 +1,0 @@
-Task description: Recommend movies similar to the given list of movies.
-
-Q: Find a movie similar to Raiders of the Lost Ark, The Matrix, Gattaca, Gladiator:
-Options:
-(A) Swimming Pool
-(B) Maggie's Plan
-(C) The Fifth Element
-(D) For the Boys
-A: (C)

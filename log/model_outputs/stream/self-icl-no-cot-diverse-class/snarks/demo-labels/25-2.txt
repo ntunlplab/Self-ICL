@@ -1,5 +1,0 @@
-Q: Which statement is sarcastic?
-Options:
-(A) It's great that the economy is doing so well
-(B) It's great that the economy is doing so well this month
-A: (B)

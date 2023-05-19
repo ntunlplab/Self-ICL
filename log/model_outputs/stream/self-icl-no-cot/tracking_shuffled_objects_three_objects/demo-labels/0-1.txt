@@ -1,7 +1,0 @@
-Q: Jack, Jill, and Peter are friends and avid collectors who occasionally trade coins. At the start of the year, they each buy one new coin: Jack gets a silver dollar, Jill gets a gold dollar, and Peter gets a copper penny.
-As the year proceeds, they start trading around the new coins. First, Peter and Jill swap coins. Then, Jill and Jack swap coins. Finally, Peter and Jill swap coins. At the end of the year, Peter has
-Options:
-(A) Silver dollar
-(B) Gold dollar
-(C) Copper penny
-A: (C) Copper penny

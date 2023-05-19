@@ -1,6 +1,0 @@
-Q: "The following argument pertains to the question of whether or not it is possible to predict the future: If we can accurately predict the weather, then we can accurately predict the stock market. We know that the weather can be accurately predicted. We may conclude: The stock market can be accurately predicted."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

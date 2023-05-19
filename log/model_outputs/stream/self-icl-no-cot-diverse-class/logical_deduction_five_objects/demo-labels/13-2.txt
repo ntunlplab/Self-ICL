@@ -1,8 +1,0 @@
-Q: In a math competition, there were five students: Sam, Lily, Ben, Jake, and Mia. Sam finished above Lily. Ben finished below Mia. Sam finished second. Mia finished below Jake.
-Options:
-(A) Sam finished first
-(B) Lily finished first
-(C) Ben finished first
-(D) Jake finished first
-(E) Mia finished first
-A: (A)

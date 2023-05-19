@@ -1,6 +1,0 @@
-Q: "Is Tom a fan of the Philadelphia Eagles? Are supporters of the Dallas Cowboys devotees of the Washington Redskins? In the NFL, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First, everyone who is both an opponent to the New York Giants and an ex-fan of the New England Patriots is a follower of the Philadelphia Eagles, too. Second, being an admirer of the Atlanta Falcons is sufficient for not being an opponent to the New York Giants. Third, whoever is an admirer of the Atlanta Falcons is not an ex-fan of the New England Patriots. In consequence, every admirer of the Atlanta Falcons is a follower of the Philadelphia Eagles."
-Is the argument, given the explicitly stated premises, deductively valid or invalid?
-Options:
-- valid 
-- invalid
-A: Valid

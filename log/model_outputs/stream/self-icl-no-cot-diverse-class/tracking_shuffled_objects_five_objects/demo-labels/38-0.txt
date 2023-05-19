@@ -1,9 +1,0 @@
-Q: Five friends, Fred, George, Harry, Ian, and Jack, are playing a game of rock-paper-scissors. At the start of the game, each player has a different colored token: Fred has a blue token, George has a red token, Harry has a green token, Ian has a yellow token, and Jack has a purple token.
-As the game progresses, pairs of players swap tokens. First, Fred and George swap their tokens. Then, Harry and Ian swap their tokens. Then, Jack and Fred swap their tokens. Then, George and Harry swap their tokens. Finally, Ian and Jack swap their tokens. At the end of the game, Fred has the
-Options:
-(A) blue token
-(B) red token
-(C) green token
-(D) yellow token
-(E) purple token
-A: (B)
