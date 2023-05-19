@@ -81,7 +81,7 @@ class Model(object):
             params["temperature"] = temperature
         else:
             params["temperature"] = self._original_temperature
-        print(f"Predicting with temperature: {params['temperature']}, max_tokens: {params['max_tokens']}")
+        print(Fore.GREEN + f"(Predicting with temperature: {params['temperature']}, max_tokens: {params['max_tokens']})" + Style.RESET_ALL, end='')
         return prompt, openai.Completion.create(prompt=prompt, **params)["choices"][0]["text"]
     
     def set_api_key(self, key: str) -> None:
