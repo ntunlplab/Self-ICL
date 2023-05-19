@@ -76,10 +76,20 @@ class Experiment(object):
         self,
         task_continue_from: str = None,
         sample_start_from: int = 0,
-        label_type: str = None
+        label_type: str = None,
+        lacked_cases_path: Path = None
     ) -> None:
+        # handle passed arguments
         if label_type and (label_type not in set(TaskGenerator.task2label_type.values())):
             raise ValueError(f"Invalid label_type: {label_type}")
+        
+        lacked_cases_dict = dict() # dict of {task_name: set(sample_idx)}
+        if lacked_cases_path:
+            lacked_cases = json.loads(lacked_cases_path.read_text())
+            for task_name, sample_idx in lacked_cases:
+                if task_name not in lacked_cases_dict:
+                    lacked_cases_dict[task_name] = set()
+                lacked_cases_dict[task_name].add(sample_idx)
         
         self.print_configs()
 
@@ -92,6 +102,7 @@ class Experiment(object):
         continue_flag = True if task_continue_from else False
         failed_cases = [] # list of (task_name, sample_idx)
         for task_name in TaskGenerator.task2label_type.keys():
+            # skip tasks before continue_from
             if continue_flag and (task_name != task_continue_from):
                 continue
             continue_flag = False
@@ -103,9 +114,16 @@ class Experiment(object):
                 # make pseudo-demos log dir
                 for subdir in self.self_icl_subdirs:
                     (task_log_path / subdir).mkdir(parents=True, exist_ok=True)
-            # start running task
-            if label_type and (TaskGenerator.task2label_type[task_name] != label_type):
-                print(f"Skipping task {task_name} with label_type {task.label_type}...")
+            
+            # skip tasks with not specified 
+            task_label_type = TaskGenerator.task2label_type[task_name]
+            if label_type and (task_label_type != label_type):
+                print(f"Skipping task {task_name} with label_type {task_label_type}...")
+                continue
+            
+            # if lacked_cases_path is specified, skip tasks with no lacked cases
+            if lacked_cases_path and (task_name not in lacked_cases_dict):
+                print(f"Skipping task {task_name} with no lacked cases...")
                 continue
             
             task = task_generator.get_task(task_name)
@@ -114,14 +132,19 @@ class Experiment(object):
             else:
                 label_set = None
             
-            task.set_counter(sample_start_from)
             num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
             for i in range(num_runs):
+                # skip samples before start_from
                 if i < sample_start_from:
                     print(f"Skipping sample #{i}...")
                     continue
+                # if lacked_cases_path is specified, skip samples with no lacked cases
+                if lacked_cases_path and (i not in lacked_cases_dict[task_name]):
+                    print(f"Skipping sample #{i} with no lacked cases...")
+                    continue
+                
                 print(f"Running sample #{i}:")
-                task_inputs = task.get_new_inputs()
+                task_inputs = task.get_inputs(sample_ids=list(range(i * self._config.batch_size, (i + 1) * self._config.batch_size)))
                 shots = []
                 # TODO: get bbh-hand-made shots standard few-shot setting
                 if (self._config.exemplars_mode == "standard") and (self._config.num_demos > 0):
@@ -225,8 +248,9 @@ class Experiment(object):
         total_predict = 0
         eval_results = dict()
         for task_name in TaskGenerator.task2label_type.keys():
-            if label_type and (TaskGenerator.task2label_type[task_name] != label_type):
-                print(f"Skipping task {task_name} with label_type {task.label_type}...")
+            task_label_type = TaskGenerator.task2label_type[task_name]
+            if label_type and (task_label_type != label_type):
+                print(f"Skipping task {task_name} with label_type {task_label_type}...")
                 continue
             task = task_gen.get_task(task_name)
             task_log_path = self._log_path / task_name
@@ -258,14 +282,17 @@ class Experiment(object):
             total_correct += ncorrect
             total_predict += self._config.test_sample_size
         
-        print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{total_correct / total_predict * 100:.2f}%{Style.RESET_ALL}")
+        acc = total_correct / total_predict
+        print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
         # save evaluation results
+        (self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.txt").write_text(f"Accuracy = {(acc * 100):.2f}%\n")
         df = pd.DataFrame(eval_results)
         df.to_csv(self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.csv", index_label="Item")
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument("--config_path", type=Path, required=True)
+    parser.add_argument("--lacked_cases_path", type=Path, default=None)
     parser.add_argument("--task_continue_from", type=str, default=None)
     parser.add_argument("--sample_start_from", type=int, default=0)
     parser.add_argument("--label_type", type=str, default=None)
@@ -283,5 +310,6 @@ if __name__ == "__main__":
         experiment.run(
             task_continue_from=args.task_continue_from,
             sample_start_from=args.sample_start_from,
-            label_type=args.label_type
+            label_type=args.label_type,
+            lacked_cases_path=args.lacked_cases_path
         )
