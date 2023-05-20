@@ -266,7 +266,7 @@ class Experiment(object):
                     full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
                 # parse inference result
                 label = task.get_new_labels().strip("()").upper()
-                pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).upper()
+                pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
                 print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
                 if label == pred:
                     print(Fore.GREEN + "✔")
