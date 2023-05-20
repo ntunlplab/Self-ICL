@@ -38,6 +38,8 @@ class Config(object):
 
 class Experiment(object):
     self_icl_subdirs = ["demo-inputs", "demo-labels", "full-outputs"]
+    cot_check = Fore.GREEN + "✔" + Style.RESET_ALL
+    cot_cross = Fore.RED + "✘" + Style.RESET_ALL
     
     def __init__(self, config: Config) -> None:
         print(f"Initializing experiment {config.exp_name}...")
@@ -127,7 +129,7 @@ class Experiment(object):
                 continue
             
             task = task_generator.get_task(task_name)
-            if task.label_type == "class":
+            if (task.label_type == "class") and (not self._config.use_cot):
                 label_set = task.label_set
             else:
                 label_set = None
@@ -188,8 +190,8 @@ class Experiment(object):
                                 inputs=sep_demo_input,
                                 num_demos=0, # NOTE
                                 shots=[]
-                            ).gen_prediction()
-                            print(f"Predicting demo #{j} ->", end='')
+                            ).gen_prediction(cot=self._config.use_cot)
+                            print(f"Predicting demo #{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
                             sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
                             if sep_demo_prompt[-1] == '(':
                                 sep_demo_label = '(' + sep_demo_label
@@ -216,8 +218,8 @@ class Experiment(object):
                         # update prompt to augmented prompt
                     
                 # run inference
-                print(f"Predicting sample #{i} ->", end='')
-                pred_prompt = prompt.gen_prediction()
+                print(f"Predicting sample #{i} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
+                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot)
                 pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
                 print(res_text)
                 # save results
@@ -264,7 +266,7 @@ class Experiment(object):
                     full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
                 # parse inference result
                 label = task.get_new_labels().strip("()").upper()
-                pred = self._prompt_parser.extract_pred(full_res).upper()
+                pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).upper()
                 print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
                 if label == pred:
                     print(Fore.GREEN + "✔")
