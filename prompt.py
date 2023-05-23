@@ -21,6 +21,7 @@ class Shot(object):
 
 # Currently only implement "stream" prompts
 class Prompt(metaclass=abc.ABCMeta):
+    cot_prompt = " Let's think step by step."
     
     def __init__(
         self,
@@ -71,13 +72,18 @@ class StreamPrompt(Prompt):
         """
         # task description
         prompt = [f"Task description: {self._task_desc}\n\n"]
+        if cot:
+            prompt.append("Format:\n")
+            prompt.append('Starting with "Therefore, the correct answer is ..." before giving your final answer.\n')
+            prompt.append("If options are availbale, you must pick one as the final answer.\n")
+            prompt.append("It's very important that you stick to the format.\n\n")
         # in-context examples
         for shot in self._shots:
             prompt.append(f"Q: {shot.input}\n")
-            prompt.append(f"A: {shot.label}\n\n")
+            prompt.append(f"A:{self.cot_prompt if cot else ''} {shot.label}\n\n")
         # current input
         prompt.append(f"Q: {self._inputs}\n")
-        prompt.append(f"A:")
+        prompt.append(f"A:{self.cot_prompt if cot else ''}")
         return "".join(prompt)
     
     def gen_demo_inputs(self, diversity: bool = False) -> str:
@@ -89,7 +95,7 @@ class StreamPrompt(Prompt):
 
         New instance 1:
         """
-        diverse_prompt = " , diverse, and creative" if diversity else ""
+        diverse_prompt = ", diverse, and creative" if diversity else ""
         return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
 
 class BatchPrompt(Prompt):

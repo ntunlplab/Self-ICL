@@ -26,6 +26,13 @@
 - Other Baseline
   - Standard ICL: (Real Data, Golden)
 
+* Classification tasks only (test sample size = 100)
+
+|        | No-CoT    | CoT       |
+|--------|-----------|-----------|
+| Zero-shot | 50.39% | 52.48% |
+| Self-ICL | 53.78% | 55.04% |
+
 ### Main Table 2
 Stream vs Batch
 

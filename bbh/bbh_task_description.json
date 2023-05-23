@@ -20,7 +20,7 @@
     "salient_translation_error_detection": "Detect the type of error in an English translation of a German source sentence.",
     "snarks": "Determine which of two sentences is sarcastic.",
     "sports_understanding": "Determine whether an artificially constructed sentence relating to sports is plausible or not.",
-    "temporal_sequences": "Task description: Answer questions about which times certain events could have occurred.",
+    "temporal_sequences": "Answer questions about which times certain events could have occurred.",
     "tracking_shuffled_objects_five_objects": "A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.",
     "tracking_shuffled_objects_seven_objects": "A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.",
     "tracking_shuffled_objects_three_objects": "A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.",
