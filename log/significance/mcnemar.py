@@ -34,8 +34,8 @@ def compare_models(per_instance_A: Dict[str, List[int]], per_instance_B: Dict[st
                 mcnemar_task[1][1] += 1
             else:
                 raise ValueError("Unexpected values in binary results")
-            for i in range(4):
-                mcnemar_all[i // 2][i % 2] += mcnemar_task[i // 2][i % 2]
+        for i in range(4):
+            mcnemar_all[i // 2][i % 2] += mcnemar_task[i // 2][i % 2]
         res[task_name] = mcnemar(mcnemar_task, exact=exact, correction=correction).pvalue
     res["all"] = mcnemar(mcnemar_all, exact=exact, correction=correction).pvalue
     return res
