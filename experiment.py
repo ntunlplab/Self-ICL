@@ -249,6 +249,7 @@ class Experiment(object):
         total_correct = 0
         total_predict = 0
         eval_results = dict()
+        per_instance = dict() # store per-instance results (0: incorrect, 1: correct) -> for calculating significance
         for task_name in TaskGenerator.task2label_type.keys():
             task_label_type = TaskGenerator.task2label_type[task_name]
             if label_type and (task_label_type != label_type):
@@ -258,6 +259,7 @@ class Experiment(object):
             task_log_path = self._log_path / task_name
             
             ncorrect = 0
+            per_instance[task_name] = list()
             for i in range(self._config.test_sample_size):
                 # read inference result
                 if self._config.exemplars_mode == "standard":
@@ -271,8 +273,10 @@ class Experiment(object):
                 if label == pred:
                     print(Fore.GREEN + "✔")
                     ncorrect += 1
+                    per_instance[task_name].append(1)
                 else:
                     print(Fore.RED + "✘")
+                    per_instance[task_name].append(0)
                 print(Style.RESET_ALL, end='')
             
             eval_results[task_name] = {
@@ -288,6 +292,7 @@ class Experiment(object):
         print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
         # save evaluation results
         (self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.txt").write_text(f"Accuracy = {(acc * 100):.2f}%\n")
+        (self._log_path / f"per_instance_{self._config.test_sample_size}-testsize.json").write_text(json.dumps(per_instance, indent=4))
         df = pd.DataFrame(eval_results)
         df.to_csv(self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.csv", index_label="Item")
 
