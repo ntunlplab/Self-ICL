@@ -259,6 +259,7 @@ class Experiment(object):
             task_log_path = self._log_path / task_name
             
             ncorrect = 0
+            npredict = 0
             per_instance[task_name] = list()
             for i in range(self._config.test_sample_size):
                 if i < task.sample_size: # ensure i is within the sample size
@@ -278,16 +279,17 @@ class Experiment(object):
                     else:
                         print(Fore.RED + "✘")
                         per_instance[task_name].append(0)
+                    npredict += 1
                     print(Style.RESET_ALL, end='')
             
             eval_results[task_name] = {
                 "ncorrect": ncorrect,
-                "total": self._config.test_sample_size,
-                "accuracy": ncorrect / self._config.test_sample_size
+                "total": npredict,
+                "accuracy": ncorrect / npredict
             }
-            print(f"Correct count: {Fore.BLUE}{ncorrect}/{self._config.test_sample_size}{Style.RESET_ALL}")
+            print(f"Correct count: {Fore.BLUE}{ncorrect}/{npredict}{Style.RESET_ALL}")
             total_correct += ncorrect
-            total_predict += self._config.test_sample_size
+            total_predict += npredict
         
         acc = total_correct / total_predict
         print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
