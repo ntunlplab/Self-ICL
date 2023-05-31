@@ -137,8 +137,8 @@ class Experiment(object):
             num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
             for i in range(num_runs):
                 # skip samples before start_from
-                if i < sample_start_from:
-                    print(f"Skipping sample #{i}...")
+                if (i < sample_start_from) or (i >= task.sample_size // self._config.batch_size):
+                    print(f"Skipping {'sample' if self._config.inference_mode == 'stream' else 'batch'} #{i}...")
                     continue
                 # if lacked_cases_path is specified, skip samples with no lacked cases
                 if lacked_cases_path and (i not in lacked_cases_dict[task_name]):
@@ -259,34 +259,37 @@ class Experiment(object):
             task_log_path = self._log_path / task_name
             
             ncorrect = 0
+            npredict = 0
             per_instance[task_name] = list()
             for i in range(self._config.test_sample_size):
-                # read inference result
-                if self._config.exemplars_mode == "standard":
-                    full_res = (task_log_path / f"{i}.txt").read_text()
-                else: # self-icl
-                    full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
-                # parse inference result
-                label = task.get_new_labels().strip("()").upper()
-                pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
-                print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
-                if label == pred:
-                    print(Fore.GREEN + "✔")
-                    ncorrect += 1
-                    per_instance[task_name].append(1)
-                else:
-                    print(Fore.RED + "✘")
-                    per_instance[task_name].append(0)
-                print(Style.RESET_ALL, end='')
+                if i < task.sample_size: # ensure i is within the sample size
+                    # read inference result
+                    if self._config.exemplars_mode == "standard":
+                        full_res = (task_log_path / f"{i}.txt").read_text()
+                    else: # self-icl
+                        full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
+                    # parse inference result
+                    label = task.get_new_labels().strip("()").upper()
+                    pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
+                    print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
+                    if label == pred:
+                        print(Fore.GREEN + "✔")
+                        ncorrect += 1
+                        per_instance[task_name].append(1)
+                    else:
+                        print(Fore.RED + "✘")
+                        per_instance[task_name].append(0)
+                    npredict += 1
+                    print(Style.RESET_ALL, end='')
             
             eval_results[task_name] = {
                 "ncorrect": ncorrect,
-                "total": self._config.test_sample_size,
-                "accuracy": ncorrect / self._config.test_sample_size
+                "total": npredict,
+                "accuracy": ncorrect / npredict
             }
-            print(f"Correct count: {Fore.BLUE}{ncorrect}/{self._config.test_sample_size}{Style.RESET_ALL}")
+            print(f"Correct count: {Fore.BLUE}{ncorrect}/{npredict}{Style.RESET_ALL}")
             total_correct += ncorrect
-            total_predict += self._config.test_sample_size
+            total_predict += npredict
         
         acc = total_correct / total_predict
         print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
