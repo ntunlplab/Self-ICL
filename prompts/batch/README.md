@@ -4,6 +4,9 @@
    - Step 2 & 3 - ```0.0```
 - Maxximim length: all Steps - ```1024```
 
+### :exclamation:Note:exclamation:
+- Zero-shot batch prompting (Step 2) and few-shot batch prompting (Step 3) have **different** prompts (instructions).
+
 ### Playground examples for five MMLU tasks
 |task|playground|
 |----|----------|
