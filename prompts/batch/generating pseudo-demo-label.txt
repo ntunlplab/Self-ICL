@@ -4,6 +4,6 @@ Q1: [pseudo-demo-input 1]
 
 ...
 
-Qn: [pseudo-demo-input n]
+Qn: [pseudo-demo-input NUM_SHOT]
 
 A1: (
