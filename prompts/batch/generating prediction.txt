@@ -2,12 +2,12 @@ Task description: [task description].
 
 Q1: [pseudo-demo-input 1]
 ...
-Qn: [pseudo-demo-input n]
+Q[NUM_SHOT]: [pseudo-demo-input NUM_SHOT]
 A1: [pseudo-demo-label 1]
 ...
-An: [pseudo-demo-label n]
+A[NUM_SHOT]: [pseudo-demo-label NUM_SHOT]
 
 Q1: [test input 1]
 ...
-Qn: [test input n]
-A1:
+Q[BATCH_SIZE]: [test input BATCH_SIZE]
+A1: (
