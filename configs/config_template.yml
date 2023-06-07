@@ -1,18 +1,18 @@
-exp_name: "self-icl-no-cot-diverse-class"
+exp_name: "mmlu-standard-zero-shot"
 # data paths
-bbh_input_path: "./bbh/BIG-Bench-Hard/bbh"
-bbh_task_desc_path: "./bbh/bbh_task_description.json"
-log_path: "./log/model_outputs"
+task_input_path: "./mmlu/mmlu_validation-batched_4.json"
+task_desc_path: "./mmlu/mmlu-task_description_formatted.json"
+log_path: "./log/mmlu"
 # experiment settings
 inference_mode: "stream"
-exemplars_mode: "self-icl"
-num_demos: 3
+exemplars_mode: "standard"
+num_demos: 0
 use_cot: False
-diverse_exemplars: True
+diverse_exemplars: False
 label_method: "self"
 # sizes
 batch_size: 1
-test_sample_size: 250
+test_sample_size: "full"
 # model hparams
 model: "text-davinci-003"
 max_tokens: 1024

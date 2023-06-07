@@ -2,7 +2,7 @@ import math
 import json
 import yaml
 import pandas as pd
-from typing import List
+from typing import Union
 from pathlib import Path
 from argparse import ArgumentParser, Namespace
 from colorama import Fore, Style
@@ -16,8 +16,8 @@ from promptparser import PromptParser
 class Config(object):
     exp_name: str
     # paths
-    bbh_input_path: str
-    bbh_task_desc_path: str
+    task_input_path: str
+    task_desc_path: str
     log_path: str
     # experiment settings
     inference_mode: str # "stream" or "batch"
@@ -28,7 +28,7 @@ class Config(object):
     diverse_exemplars: bool # whether to generate diverse exemplars -> only used when exemplars_mode == "self-icl"
     # sizes
     batch_size: int # only used when inference_mode == "batch"
-    test_sample_size: int
+    test_sample_size: Union[int, str] # "full" or int
     # model hparams
     model: str # e.g., text-davinci-003
     max_tokens: int
@@ -96,8 +96,8 @@ class Experiment(object):
         self.print_configs()
 
         task_generator = TaskGenerator(
-            task_input_path=self._config.bbh_input_path,
-            task_desc_path=self._config.bbh_task_desc_path,
+            task_input_path=self._config.task_input_path,
+            task_desc_path=self._config.task_desc_path,
             batch_size=self._config.batch_size,
             verbose=True
         )
@@ -134,7 +134,10 @@ class Experiment(object):
             else:
                 label_set = None
             
-            num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
+            if type(self._config.test_sample_size) == int:
+                num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
+            elif self._config.test_sample_size == "full":
+                num_runs = math.ceil(task.sample_size / self._config.batch_size)
             for i in range(num_runs):
                 # skip samples before start_from
                 if (i < sample_start_from) or (i >= task.sample_size // self._config.batch_size):
@@ -240,8 +243,8 @@ class Experiment(object):
     ) -> None:
         # for generating task labels
         task_gen = TaskGenerator(
-            task_input_path=self._config.bbh_input_path,
-            task_desc_path=self._config.bbh_task_desc_path,
+            task_input_path=self._config.task_input_path,
+            task_desc_path=self._config.task_desc_path,
             batch_size=1, # evaluate one by one during evaluation
             verbose=True
         )
@@ -261,7 +264,11 @@ class Experiment(object):
             ncorrect = 0
             npredict = 0
             per_instance[task_name] = list()
-            for i in range(self._config.test_sample_size):
+            if type(self._config.test_sample_size) == int:
+                num_runs = self._config.test_sample_size
+            elif self._config.test_sample_size == "full":
+                num_runs = task.sample_size
+            for i in range(num_runs):
                 if i < task.sample_size: # ensure i is within the sample size
                     # read inference result
                     if self._config.exemplars_mode == "standard":
