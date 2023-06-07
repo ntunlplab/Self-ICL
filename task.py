@@ -14,7 +14,7 @@ class Task(object):
         self._task_desc = task_desc
         self._samples = samples
         self._label_type = label_type # has to do with label sampling
-        if label_type == "class":
+        if label_type in ["class", "choice"]:
             self._label_set = set([sample["target"] for sample in samples])
         else: # TODO
             raise NotImplementedError
@@ -64,7 +64,7 @@ class Task(object):
     def get_inputs(self, sample_ids: List[int]) -> Union[str, List[str]]:
         inputs = []
         for sample_id in sample_ids:
-            inputs.append(self._samples[sample_id]["input"])
+            inputs.append(self._samples[sample_id]["input"].rstrip())
         return inputs if len(sample_ids) > 1 else inputs[0]
     
     def set_counter(self, counter: int) -> None:
@@ -181,9 +181,12 @@ class TaskGenerator(object):
             raise ValueError(f"Task {task_name} not found")
         if self._verbose:
             print(f"Generating task '{task_name}'...")
+        samples = json.loads((self._task_input_path / f"{task_name}.json").read_text())
+        if (type(samples) == dict) and ("examples" in samples.keys()):
+            samples = samples["examples"]
         return Task(
             task_desc=self._task2desc[task_name],
-            samples=json.loads((self._task_input_path / f"{task_name}.json").read_text())["examples"],
+            samples=samples,
             label_type=self.task2label_type[task_name],
             batch_size=self._batch_size
         )

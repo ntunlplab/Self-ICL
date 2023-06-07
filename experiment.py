@@ -103,7 +103,7 @@ class Experiment(object):
         )
         continue_flag = True if task_continue_from else False
         failed_cases = [] # list of (task_name, sample_idx)
-        for task_name in task_generator.task2desc().keys():
+        for task_name in task_generator.task2desc.keys():
             # skip tasks before continue_from
             if continue_flag and (task_name != task_continue_from):
                 continue
@@ -129,11 +129,11 @@ class Experiment(object):
                 continue
             
             task = task_generator.get_task(task_name)
-            if (task.label_type == "class") and (not self._config.use_cot):
+            if (task.label_type in ["class", "choice"]) and (not self._config.use_cot):
                 label_set = task.label_set
             else:
                 label_set = None
-            
+
             if type(self._config.test_sample_size) == int:
                 num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
             elif self._config.test_sample_size == "full":
@@ -253,7 +253,7 @@ class Experiment(object):
         total_predict = 0
         eval_results = dict()
         per_instance = dict() # store per-instance results (0: incorrect, 1: correct) -> for calculating significance
-        for task_name in task_gen.task2desc().keys():
+        for task_name in task_gen.task2desc.keys():
             task_label_type = TaskGenerator.task2label_type[task_name]
             if label_type and (task_label_type != label_type):
                 print(f"Skipping task {task_name} with label_type {task_label_type}...")
