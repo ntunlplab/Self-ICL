@@ -8,7 +8,7 @@ from colorama import Fore, Style
 from argparse import Namespace
 
 class Model(object):
-    api_interval = 1.0 # seconds
+    api_interval = 0.5 # seconds
     cost_per_1000tokens = 0.02
 
     def __init__(self, config: Namespace):
@@ -20,9 +20,9 @@ class Model(object):
         
     def retry_with_exponential_backoff(
         func,
-        initial_delay: float = 5,
+        initial_delay: float = 0.5,
         exponential_base: float = 2,
-        max_retries: int = 5,
+        max_retries: int = 20,
         errors: tuple = (openai.error.RateLimitError, openai.error.APIError),
     ):
         """Retry a function with exponential backoff."""
