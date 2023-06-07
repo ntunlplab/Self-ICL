@@ -2,4 +2,6 @@ BIG-Bench-Hard
 bbh
 log/model_outputs/batch
 log/model_outputs/stream
-.ipynb
+*.ipynb
+mmlu/mmlu_*
+log/mmlu
