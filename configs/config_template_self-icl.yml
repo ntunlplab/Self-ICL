@@ -1,14 +1,14 @@
-exp_name: "mmlu-standard-zero-shot-no-topic"
+exp_name: "mmlu-self-icl-temp100"
 # data paths
 task_input_path: "./mmlu/mmlu_validation-batched_4"
-task_desc_path: "./mmlu/mmlu-task_description_formatted_no_topic.json"
+task_desc_path: "./mmlu/mmlu-task_description_formatted.json"
 log_path: "./log/mmlu"
 # experiment settings
 inference_mode: "stream"
-exemplars_mode: "standard"
-num_demos: 0
+exemplars_mode: "self-icl"
+num_demos: 3
 use_cot: False
-diverse_exemplars: False
+diverse_exemplars: True
 label_method: "self"
 # sizes
 batch_size: 1
@@ -17,5 +17,5 @@ test_sample_size: "full"
 model: "text-davinci-003"
 max_tokens: 1024
 temperature: 0.0 # temperature when performing inference
-demo_temperature: 0.0 # temperature when generating pseudo-demos (only used when exemplars_mode == "self-icl")
+demo_temperature: 1.0 # temperature when generating pseudo-demos (only used when exemplars_mode == "self-icl")
 top_p: 1.0
