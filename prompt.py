@@ -53,8 +53,7 @@ class StreamPrompt(Prompt):
         shots: List[Shot] = []
     ) -> None:
         super().__init__(task_desc, inputs, num_demos, shots)
-    
-    # TODO: Chain-of-thought (cot)
+
     def gen_prediction(self, cot: bool = False) -> str:
         """
         ### Prompting format:
@@ -108,6 +107,35 @@ class BatchPrompt(Prompt):
         shots: List[Shot] = []
     ) -> None:
         super().__init__(task_desc, inputs, num_demos, shots)
+        
+    def gen_prediction(self, cot: bool = False) -> str:
+        """
+        ### Prompting format:
+        Task description: [task description].
+
+        Q1: [pseudo-demo-input 1]
+        ...
+        Q[NUM_SHOT]: [pseudo-demo-input NUM_SHOT]
+        A1: [pseudo-demo-label 1]
+        ...
+        A[NUM_SHOT]: [pseudo-demo-label NUM_SHOT]
+
+        Q1: [test input 1]
+        ...
+        Q[BATCH_SIZE]: [test input BATCH_SIZE]
+        A1: (
+        """
+        prompt = [f"Task description: {self._task_desc}\n\n"]
+        # TODO: add CoT prompts
+        # TODO: add in-context examples
+        # current input questions
+        for i, input_ in enumerate(self._inputs):
+            prompt.append(f"Q{i+1}: {input_}\n")
+        prompt.append(f"A1: (") # ( for multiple choice tasks (currently MMLU, so just hardcode it)
+        return "".join(prompt)
+    
+    def gen_demo_inputs(self, diversity: bool = False) -> str:
+        raise NotImplementedError
 
 class TestStreamPrompt(unittest.TestCase):
 
