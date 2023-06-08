@@ -29,6 +29,12 @@ class PromptParser(object):
             if len(pred) != 1:
                 raise ValueError(f"Number of predictions in full_res ({len(pred)}) is not 1")
             return pred[0]
+        
+    def extract_pred_batch(self, full_res: str, answer_index: int) -> str:
+        pred = re.findall(pattern=f"A{answer_index}:\\W*(\\(\\w\\)).*(?:\\n|\\Z)", string=full_res)
+        if len(pred) != 1:
+            raise ValueError(f"Number of predictions in full_res ({len(pred)}) is not 1")
+        return pred[0]
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()

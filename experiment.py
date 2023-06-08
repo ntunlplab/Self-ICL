@@ -129,7 +129,7 @@ class Experiment(object):
                 continue
             
             task = task_generator.get_task(task_name)
-            if (task.label_type in ["class", "choice"]) and (not self._config.use_cot):
+            if (task.label_type in ["class", "choice"]) and (not self._config.use_cot) and (self._config.inference_mode == "stream"):
                 label_set = task.label_set
             else:
                 label_set = None
@@ -272,13 +272,17 @@ class Experiment(object):
             for i in range(num_runs):
                 if i < task.sample_size: # ensure i is within the sample size
                     # read inference result
+                    filename = f"{i // self._config.batch_size}.txt"
                     if self._config.exemplars_mode == "standard":
-                        full_res = (task_log_path / f"{i}.txt").read_text()
+                        full_res = (task_log_path / filename).read_text()
                     else: # self-icl
-                        full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
+                        full_res = (task_log_path / "full-outputs" / filename).read_text()
                     # parse inference result
                     label = task.get_new_labels().strip("()").upper()
-                    pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
+                    if self._config.inference_mode == "stream":
+                        pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
+                    else: # batch
+                        pred = self._prompt_parser.extract_pred_batch(full_res, answer_index=(i % self._config.batch_size) + 1).strip("()").upper()
                     print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
                     if label == pred:
                         print(Fore.GREEN + "✔")
