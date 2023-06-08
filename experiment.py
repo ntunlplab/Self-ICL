@@ -239,7 +239,8 @@ class Experiment(object):
                     
     def evaluate(
         self,
-        label_type: str = None
+        label_type: str = None,
+        weighted_acc: bool = False
     ) -> None:
         # for generating task labels
         task_gen = TaskGenerator(
@@ -298,8 +299,15 @@ class Experiment(object):
             total_correct += ncorrect
             total_predict += npredict
         
-        acc = total_correct / total_predict
-        print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
+        if weighted_acc:
+            acc = 0
+            for res in eval_results.values():
+                acc += res["accuracy"]
+            acc = acc / len(eval_results)
+            print(f"{self._config.exp_name} -> #Tasks: {len(eval_results)}; Weighted Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}");
+        else:
+            acc = total_correct / total_predict
+            print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
         # save evaluation results
         (self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.txt").write_text(f"Accuracy = {(acc * 100):.2f}%\n")
         (self._log_path / f"per_instance_{self._config.test_sample_size}-testsize.json").write_text(json.dumps(per_instance, indent=4))
@@ -314,6 +322,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--sample_start_from", type=int, default=0)
     parser.add_argument("--label_type", type=str, default=None)
     parser.add_argument("--eval", action="store_true")
+    parser.add_argument("--weighted_acc", action="store_true")
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -322,7 +331,10 @@ if __name__ == "__main__":
     experiment = Experiment(config)
     
     if args.eval:
-        experiment.evaluate(label_type=args.label_type)
+        experiment.evaluate(
+            label_type=args.label_type,
+            weighted_acc=args.weighted_acc
+        )
     else:
         experiment.run(
             task_continue_from=args.task_continue_from,
