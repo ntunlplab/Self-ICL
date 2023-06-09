@@ -129,6 +129,7 @@ class Experiment(object):
                 continue
             
             task = task_generator.get_task(task_name)
+            add_parenthesis = list(task.label_set)[0][0] == '('
             if (task.label_type in ["class", "choice"]) and (not self._config.use_cot) and (self._config.inference_mode == "stream"):
                 label_set = task.label_set
             else:
@@ -194,7 +195,7 @@ class Experiment(object):
                                 num_demos=0, # NOTE
                                 shots=[]
                             ).gen_prediction(cot=self._config.use_cot)
-                            print(f"Predicting demo #{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
+                            print(f"Predicting demo #{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) -> ", end='')
                             sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
                             if sep_demo_prompt[-1] == '(':
                                 sep_demo_label = '(' + sep_demo_label
@@ -222,7 +223,7 @@ class Experiment(object):
                     
                 # run inference
                 print(f"Predicting sample #{i} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
-                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot)
+                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot, add_parenthesis=add_parenthesis)
                 pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
                 print(res_text)
                 # save results

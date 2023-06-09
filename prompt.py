@@ -108,7 +108,7 @@ class BatchPrompt(Prompt):
     ) -> None:
         super().__init__(task_desc, inputs, num_demos, shots)
         
-    def gen_prediction(self, cot: bool = False) -> str:
+    def gen_prediction(self, cot: bool = False, add_parenthesis: bool = False) -> str:
         """
         ### Prompting format:
         Task description: [task description].
@@ -125,13 +125,13 @@ class BatchPrompt(Prompt):
         Q[BATCH_SIZE]: [test input BATCH_SIZE]
         A1: (
         """
-        prompt = [f"Task description: {self._task_desc}\n\n"]
+        prompt = [f"Task description: {self._task_desc} Please answer the following questions one-by-one.\n\n"]
         # TODO: add CoT prompts
         # TODO: add in-context examples
         # current input questions
         for i, input_ in enumerate(self._inputs):
             prompt.append(f"Q{i+1}: {input_}\n")
-        prompt.append(f"A1: (") # ( for multiple choice tasks (currently MMLU, so just hardcode it)
+        prompt.append(f"\nA1:" + (" (" if add_parenthesis else ""))
         return "".join(prompt)
     
     def gen_demo_inputs(self, diversity: bool = False) -> str:
