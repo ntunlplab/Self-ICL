@@ -82,12 +82,15 @@ class Experiment(object):
         sample_start_from: int = 0,
         label_type: str = None,
         lacked_cases_path: Path = None,
-        existing_demos_path: Path = None
+        existing_demos_path: Path = None,
+        random_pseudo_label: bool = False
     ) -> None:
         # handle passed arguments
         if label_type and (label_type not in set(TaskGenerator.task2label_type.values())):
             raise ValueError(f"Invalid label_type: {label_type}")
-        
+        if random_pseudo_label:
+            assert existing_demos_path is not None
+
         lacked_cases_dict = dict() # dict of {task_name: set(sample_idx)}
         if lacked_cases_path:
             lacked_cases = json.loads(lacked_cases_path.read_text())
@@ -200,7 +203,12 @@ class Experiment(object):
                             q_start = demo_input_label.index("Q:")
                             a_start = demo_input_label.index("A:")
                             demo_input = demo_input_label[q_start+len("Q:"):a_start].strip()
-                            demo_label = demo_input_label[a_start+len("A:"):].strip()
+                            if random_pseudo_label:
+                                demo_label = random.sample(task.label_set, 1)[0]
+                                print("(random) ", end='')
+                            else:
+                                demo_label = demo_input_label[a_start+len("A:"):].strip()
+                                print("(cached) ", end='')
                             print(f"Adding existing demo #{j} -> {demo_label}")
                             shot = Shot(_input=demo_input, _label=demo_label)
                             shots.append(shot)
@@ -360,6 +368,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--eval", action="store_true")
     parser.add_argument("--weighted_acc", action="store_true")
     parser.add_argument("--existing_demos_path", type=Path, default=None)
+    parser.add_argument("--random_pseudo_label", action="store_true")
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -378,5 +387,6 @@ if __name__ == "__main__":
             sample_start_from=args.sample_start_from,
             label_type=args.label_type,
             lacked_cases_path=args.lacked_cases_path,
-            existing_demos_path=args.existing_demos_path
+            existing_demos_path=args.existing_demos_path,
+            random_pseudo_label=args.random_pseudo_label
         )
