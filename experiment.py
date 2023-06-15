@@ -308,7 +308,7 @@ class Experiment(object):
             if type(self._config.test_sample_size) == int:
                 num_runs = self._config.test_sample_size
             elif self._config.test_sample_size == "full":
-                num_runs = task.sample_size
+                num_runs = (task.sample_size // self._config.batch_size) * self._config.batch_size
             for i in range(num_runs):
                 if i < task.sample_size: # ensure i is within the sample size
                     # read inference result
