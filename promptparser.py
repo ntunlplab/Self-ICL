@@ -28,7 +28,7 @@ class PromptParser(object):
                 pred = pred[0].strip()
             return self.parse_pred(pred) if use_parse_pred else pred
         else:
-            pred = re.findall(pattern=r"A:\W*(\w+?)\W*\Z", string=full_res)
+            pred = re.findall(pattern=r"A:\W*(\w+).*?\Z", string=full_res)
             if len(pred) != 1:
                 raise ValueError(f"Number of predictions in full_res ({len(pred)}) is not 1")
             return pred[0]
