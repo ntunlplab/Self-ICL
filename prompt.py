@@ -120,29 +120,32 @@ class BatchPrompt(Prompt):
         Q1: [pseudo-demo-input 1]
         ...
         Q[NUM_SHOT]: [pseudo-demo-input NUM_SHOT]
+        Q[NUM_SHOT + 1]: [test input 1]
+        ...
+        Q[NUM_SHOT + BATCH_SIZE]: [test input BATCH_SIZE]
 
         A1: [pseudo-demo-label 1]
         ...
         A[NUM_SHOT]: [pseudo-demo-label NUM_SHOT]
-
-        Q1: [test input 1]
-        ...
-        Q[BATCH_SIZE]: [test input BATCH_SIZE]
-        
-        A1: (
+        A[NUM_SHOT + 1]:
         """
         prompt = [f"Task description: {self._task_desc} Please answer the following questions one-by-one.\n\n"]
         # TODO: add CoT prompts
         # add in-context examples
         if self._shots:
             if type(self._shots) == str: # batched shots
-                prompt.append(self._shots + '\n\n')
+                answer_start = self._shots.index("\nA1:")
+                Qs = self._shots[:answer_start]
+                As = self._shots[answer_start:]
+                prompt.append(Qs)        
             else:
                 raise NotImplementedError
         # current input questions
-        for i, input_ in enumerate(self._inputs):
-            prompt.append(f"Q{i+1}: {input_}\n")
-        prompt.append(f"\nA1:" + (" (" if add_parenthesis else ""))
+        for i, input_ in enumerate(self._inputs, start=1):
+            prompt.append(f"Q{self._num_demos + i}: {input_}\n")
+        if self._shots:
+            prompt.append(As)
+        prompt.append(f"\nA{self._num_demos + 1}:" + (" (" if add_parenthesis else ""))
         return "".join(prompt)
     
     def gen_demo_inputs(self, diversity: bool = False) -> str:
