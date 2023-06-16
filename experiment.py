@@ -331,7 +331,7 @@ class Experiment(object):
                     if self._config.inference_mode == "stream":
                         pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
                     else: # batch
-                        pred = self._prompt_parser.extract_pred_batch(full_res, answer_index=(i % self._config.batch_size) + 1).strip("()").upper()
+                        pred = self._prompt_parser.extract_pred_batch(full_res, answer_index=(i % self._config.batch_size) + 1 + self._config.num_demos).strip("()").upper()
                     print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
                     if label == pred:
                         print(Fore.GREEN + "✔")
