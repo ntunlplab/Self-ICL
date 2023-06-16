@@ -9,9 +9,9 @@ class PromptParser(object):
         
     def split_demo_inputs(self, full_demo_inputs: str):
         if "New instance" in full_demo_inputs:
-            sep_demo_inputs = re.findall(pattern=r"w instance \d:\s+Q:\s*(.*?)(?:\n*Ne|\Z)", string=full_demo_inputs, flags=re.DOTALL)
+            sep_demo_inputs = re.findall(pattern=r"New instance \d:\s+Q:\s*(.*?)(?:(?=\n*New instance)|\Z)", string=full_demo_inputs, flags=re.DOTALL)
         elif "Instance" in full_demo_inputs:
-            sep_demo_inputs = re.findall(pattern=r"ance \d:\s+Q:\s*(.*?)(?:\n*Inst|\Z)", string=full_demo_inputs, flags=re.DOTALL)
+            sep_demo_inputs = re.findall(pattern=r"Instance \d:\s+Q:\s*(.*?)(?:(?=\n*Instance)|\Z)", string=full_demo_inputs, flags=re.DOTALL)
         if len(sep_demo_inputs) != self._num_demos:
             raise ValueError(f"Number of demos in full_demo_inputs ({len(sep_demo_inputs)}) does not match num_demos ({self._num_demos})")
         return sep_demo_inputs
@@ -34,10 +34,14 @@ class PromptParser(object):
             return pred[0]
         
     def extract_pred_batch(self, full_res: str, answer_index: int) -> str:
-        pred = re.findall(pattern=f"A{answer_index}:\\W*(\\(\\w\\)).*(?:\\n|\\Z)", string=full_res)
-        if len(pred) != 1:
-            raise ValueError(f"Number of predictions in full_res ({len(pred)}) is not 1")
-        return pred[0]
+        pred = re.findall(pattern=f"A{answer_index}:\\W*(\\w+).*?(?:\\n|\\Z)", string=full_res)
+        print(pred)
+        if len(pred) == 1:
+            return pred[0]
+        elif len(pred) == 2:
+            return pred[1]
+        else:
+            raise ValueError(f"(Batch) Number of predictions in full_res ({len(pred)}) is not 1 or 2")
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
