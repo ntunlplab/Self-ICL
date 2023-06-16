@@ -83,7 +83,8 @@ class Experiment(object):
         label_type: str = None,
         lacked_cases_path: Path = None,
         existing_demos_path: Path = None,
-        random_pseudo_label: bool = False
+        random_pseudo_label: bool = False,
+        rerun_pseudo_label: bool = False
     ) -> None:
         # handle passed arguments
         if label_type and (label_type not in set(TaskGenerator.task2label_type.values())):
@@ -178,43 +179,25 @@ class Experiment(object):
                     )
                 # augment prompt with pseudo-demos if "self-icl"
                 if self._config.exemplars_mode == "self-icl":
-                    if existing_demos_path is None:
-                        # generate pseudo-demos
-                        # inputs
+                    # 1. Pseudo-demo inputs
+                    if existing_demos_path is None: # generate pseudo-demo inputs
                         demo_prompt = prompt.gen_demo_inputs(diversity=self._config.diverse_exemplars)
                         demo_prompt, demo_inputs = self._model.complete(demo_prompt, label_set=None, temperature=self._config.demo_temperature)
                         full_demo_inputs = demo_prompt + demo_inputs
                         (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
-                        # parse demo inputs to separate instances
-                        try:
-                            sep_demo_inputs = self._prompt_parser.split_demo_inputs(full_demo_inputs)
-                        except ValueError:
-                            print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to parse demo inputs" + Style.RESET_ALL)
-                            failed_cases.append([task_name, i])
-                            continue
-                    else:
-                        num_existing_demos = len(os.listdir(existing_demos_path / task_name / "demo-labels")) // task.sample_size
-                        if self._config.num_demos == num_existing_demos:
-                            js = list(range(num_existing_demos))
-                        else:
-                            js = random.sample(range(num_existing_demos), self._config.num_demos)
-                        for j in js:
-                            demo_input_label = (existing_demos_path / task_name / "demo-labels" / f"{i}-{j}.txt").read_text()
-                            q_start = demo_input_label.index("Q:")
-                            a_start = demo_input_label.index("A:")
-                            demo_input = demo_input_label[q_start+len("Q:"):a_start].strip()
-                            if random_pseudo_label:
-                                demo_label = random.sample(task.label_set, 1)[0]
-                                print("(random) ", end='')
-                            else:
-                                demo_label = demo_input_label[a_start+len("A:"):].strip()
-                                print("(cached) ", end='')
-                            print(f"Adding existing demo #{j} -> {demo_label}")
-                            shot = Shot(_input=demo_input, _label=demo_label)
-                            shots.append(shot)
-                    # labels
-                    if self._config.inference_mode == "stream":
-                        if existing_demos_path is None:
+                    else: # read pseudo-demo inputs
+                        print(f"Reading demo-inputs in sample #{i}...")
+                        full_demo_inputs = (existing_demos_path / task_name / "demo-inputs" / f"{i}.txt").read_text()
+                    # parse demo inputs to separate instances
+                    try:
+                        sep_demo_inputs = self._prompt_parser.split_demo_inputs(full_demo_inputs)
+                    except ValueError:
+                        print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to parse demo inputs" + Style.RESET_ALL)
+                        failed_cases.append([task_name, i])
+                        continue
+                    # 2. Pseudo-demo labels
+                    if (existing_demos_path is None) or rerun_pseudo_label:
+                        if self._config.inference_mode == "stream":
                             shots = []
                             for j, sep_demo_input in enumerate(sep_demo_inputs):
                                 sep_demo_prompt = StreamPrompt(
@@ -232,6 +215,45 @@ class Experiment(object):
                                 # logging
                                 print(sep_demo_label)
                                 (task_log_path / "demo-labels" / f"{i}-{j}.txt").write_text(str(shot))
+                        else:
+                            print(f"Predicting demo-labels in sample #{i}...")
+                            sep_demo_prompt = BatchPrompt(
+                                task_desc=task.task_desc,
+                                inputs=sep_demo_inputs,
+                                num_demos=0, # NOTE
+                                shots=[]
+                            ).gen_prediction(add_parenthesis=add_parenthesis)
+                            sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
+                            # update prompt to augmented prompt (shots == full_demo)
+                            shots = sep_demo_prompt + sep_demo_label
+                            shots = shots[shots.index("Q1:"):] # remove task description
+                            print(sep_demo_label)
+                            (task_log_path / "demo-labels" / f"{i}.txt").write_text(str(shots))
+                    else: # (existing_demos_path is not None) and (not rerun_pseudo_label)
+                        if self._config.inference_mode == "stream":
+                            num_existing_demos = len(os.listdir(existing_demos_path / task_name / "demo-labels")) // task.sample_size
+                            if self._config.num_demos == num_existing_demos:
+                                js = list(range(num_existing_demos))
+                            else:
+                                js = random.sample(range(num_existing_demos), self._config.num_demos)
+                            for j in js:
+                                demo_input_label = (existing_demos_path / task_name / "demo-labels" / f"{i}-{j}.txt").read_text()
+                                q_start = demo_input_label.index("Q:")
+                                a_start = demo_input_label.index("A:")
+                                demo_input = demo_input_label[q_start+len("Q:"):a_start].strip()
+                                if random_pseudo_label:
+                                    demo_label = random.sample(task.label_set, 1)[0]
+                                    print("(random) ", end='')
+                                else:
+                                    demo_label = demo_input_label[a_start+len("A:"):].strip()
+                                    print("(cached) ", end='')
+                                print(f"Adding existing demo #{j} -> {demo_label}")
+                                shot = Shot(_input=demo_input, _label=demo_label)
+                                shots.append(shot)
+                        else: # batch
+                            raise NotImplementedError
+                    # augment the original prompt with self-icl exemplars
+                    if self._config.inference_mode == "stream":
                         # update prompt to augmented prompt
                         prompt = StreamPrompt(
                             task_desc=task.task_desc,
@@ -240,19 +262,6 @@ class Experiment(object):
                             shots=shots
                         )
                     else: # batch
-                        sep_demo_prompt = BatchPrompt(
-                            task_desc=task.task_desc,
-                            inputs=sep_demo_inputs,
-                            num_demos=0, # NOTE
-                            shots=shots
-                        ).gen_prediction(add_parenthesis=add_parenthesis)
-                        sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
-                        # update prompt to augmented prompt (shots == full_demo)
-                        shots = sep_demo_prompt + sep_demo_label
-                        shots = shots[shots.index("Q1:"):] # remove task description
-                        print(sep_demo_label)
-                        (task_log_path / "demo-labels" / f"{i}.txt").write_text(str(shots))
-
                         prompt = BatchPrompt(
                             task_desc=task.task_desc, # shots already contain task description in current implementation
                             inputs=task_inputs,
@@ -369,6 +378,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--weighted_acc", action="store_true")
     parser.add_argument("--existing_demos_path", type=Path, default=None)
     parser.add_argument("--random_pseudo_label", action="store_true")
+    parser.add_argument("--rerun_pseudo_label", action="store_true")
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -388,5 +398,6 @@ if __name__ == "__main__":
             label_type=args.label_type,
             lacked_cases_path=args.lacked_cases_path,
             existing_demos_path=args.existing_demos_path,
-            random_pseudo_label=args.random_pseudo_label
+            random_pseudo_label=args.random_pseudo_label,
+            rerun_pseudo_label=args.rerun_pseudo_label
         )
