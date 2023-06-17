@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from typing import Dict, List
 from statsmodels.stats.contingency_tables import mcnemar
+from scipy import stats
 
 def compare_models(per_instance_A: Dict[str, List[int]], per_instance_B: Dict[str, List[int]], exact: bool, correction: bool) -> Dict[str, float]:
     """
@@ -38,11 +39,12 @@ def compare_models(per_instance_A: Dict[str, List[int]], per_instance_B: Dict[st
             mcnemar_all[i // 2][i % 2] += mcnemar_task[i // 2][i % 2]
         res[task_name] = mcnemar(mcnemar_task, exact=exact, correction=correction).pvalue
     res["all"] = mcnemar(mcnemar_all, exact=exact, correction=correction).pvalue
-    return res
+    one_sided_p = stats.binom_test(x=mcnemar_all[0][1], n=mcnemar_all[0][1] + mcnemar_all[1][0], p=0.5, alternative="greater")
+    return res, one_sided_p
 
 if __name__ == "__main__":
     prefix_dir = "../model_outputs/stream"
-    suffix_file = "per_instance_100-testsize.json"
+    suffix_file = "per_instance_250-testsize.json"
 
     comps = {
         "zero-shot": {
@@ -56,9 +58,21 @@ if __name__ == "__main__":
         "cot_vs_self_icl": {
             "A": "standard-zero-shot-cot-class",
             "B": "self-icl-no-cot-diverse-class"
+        },
+        "diverse_vs_no_diverse": {
+            "A": "self-icl-no-cot-no-diverse-no-new-class",
+            "B": "self-icl-no-cot-diverse-class"
+        },
+        "1-shot_vs_3-shot": {
+            "A": "self-icl-no-cot-diverse-class-1shot",
+            "B": "self-icl-no-cot-diverse-class"
+        },
+        "self_vs_random": {
+            "A": "self-icl-no-cot-diverse-class-random",
+            "B": "self-icl-no-cot-diverse-class"
         }
     }
-        
+
     for comp_name, d in comps.items():
         print(f"Setting: {comp_name}")
         print(f"Comparing {d['A']} and {d['B']}")
@@ -68,6 +82,6 @@ if __name__ == "__main__":
         per_instance_A = json.loads(A_path.read_text())
         per_instance_B = json.loads(B_path.read_text())
         
-        res = compare_models(per_instance_A, per_instance_B, exact=False, correction=True)
-        print(f"p-value = {res['all']}")
+        res, one_sided_p = compare_models(per_instance_A, per_instance_B, exact=False, correction=True)
+        print(f"p-value = {res['all']} (one-sided p-value = {one_sided_p})")
         print()
