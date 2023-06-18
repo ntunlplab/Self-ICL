@@ -85,6 +85,7 @@ class Experiment(object):
         existing_demos_path: Path = None,
         random_pseudo_label: bool = False,
         rerun_pseudo_label: bool = False,
+        step2_stream: bool = False,
         step3_stream: bool = False
     ) -> None:
         # handle passed arguments
@@ -198,7 +199,7 @@ class Experiment(object):
                         continue
                     # 2. Pseudo-demo labels
                     if (existing_demos_path is None) or rerun_pseudo_label:
-                        if self._config.inference_mode == "stream":
+                        if (self._config.inference_mode == "stream") or step2_stream:
                             shots = []
                             for j, sep_demo_input in enumerate(sep_demo_inputs):
                                 sep_demo_prompt = StreamPrompt(
@@ -230,6 +231,22 @@ class Experiment(object):
                             shots = shots[shots.index("Q1:"):] # remove task description
                             print(sep_demo_label)
                             (task_log_path / "demo-labels" / f"{i}.txt").write_text(str(shots))
+                        if step3_stream:
+                            for j, task_input in enumerate(task_inputs):
+                                print(f"Predicting batch #{i}-{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) -> ", end='')
+                                prompt = StreamPrompt(
+                                    task_desc=task.task_desc,
+                                    inputs=task_input,
+                                    num_demos=self._config.num_demos,
+                                    shots=shots
+                                )
+                                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot, add_parenthesis=add_parenthesis)
+                                pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
+                                print(res_text)
+                                full_text = pred_prompt + res_text
+                                (task_log_path / "full-outputs" / f"{i * self._config.batch_size + j}.txt").write_text(full_text)
+                            # continue to next run (i.e., next batch)
+                            continue    
                     else: # (existing_demos_path is not None) and (not rerun_pseudo_label)
                         if self._config.inference_mode == "stream":
                             num_existing_demos = len(os.listdir(existing_demos_path / task_name / "demo-labels")) // task.sample_size
@@ -350,7 +367,7 @@ class Experiment(object):
             if type(self._config.test_sample_size) == int:
                 num_runs = self._config.test_sample_size
             elif self._config.test_sample_size == "full":
-                num_runs = (task.sample_size // self._config.batch_size) * self._config.batch_size
+                num_runs = task.sample_size # // self._config.batch_size) * self._config.batch_size
             for i in range(num_runs):
                 if i < task.sample_size: # ensure i is within the sample size
                     # read inference result
@@ -412,6 +429,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--existing_demos_path", type=Path, default=None)
     parser.add_argument("--random_pseudo_label", action="store_true")
     parser.add_argument("--rerun_pseudo_label", action="store_true")
+    parser.add_argument("--step2_stream", action="store_true")
     parser.add_argument("--step3_stream", action="store_true")
     return parser.parse_args()
 
@@ -435,5 +453,6 @@ if __name__ == "__main__":
             existing_demos_path=args.existing_demos_path,
             random_pseudo_label=args.random_pseudo_label,
             rerun_pseudo_label=args.rerun_pseudo_label,
+            step2_stream=args.step2_stream,
             step3_stream=args.step3_stream
         )
