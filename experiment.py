@@ -20,6 +20,7 @@ class Config(object):
     # paths
     task_input_path: str
     task_desc_path: str
+    few_shots_path: str
     log_path: str
     # experiment settings
     inference_mode: str # "stream" or "batch"
@@ -161,9 +162,14 @@ class Experiment(object):
                 print(f"Running sample #{i}:")
                 task_inputs = task.get_inputs(sample_ids=list(range(i * self._config.batch_size, (i + 1) * self._config.batch_size)))
                 shots = []
-                # TODO: get bbh-hand-made shots standard few-shot setting
+                # get bbh shots for the standard few-shot setting
                 if (self._config.exemplars_mode == "standard") and (self._config.num_demos > 0):
-                    raise NotImplementedError
+                    parsed_shots = json.loads((Path(self._config.few_shots_path) / f"{task_name}.json").read_text())
+                    if len(parsed_shots) != self._config.num_demos:
+                        raise ValueError(f"Invalid num_shots: {len(parsed_shots)} (expected {self._config.num_demos})")
+                    for d in parsed_shots:
+                        shot = Shot(_input=d['Q'], _label=d['A'])
+                        shots.append(shot)
                 # prepare initial prompt
                 if self._config.inference_mode == "stream":
                     prompt = StreamPrompt(
