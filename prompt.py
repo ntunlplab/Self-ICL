@@ -53,9 +53,8 @@ class StreamPrompt(Prompt):
         shots: List[Shot] = []
     ) -> None:
         super().__init__(task_desc, inputs, num_demos, shots)
-    
-    # TODO: Chain-of-thought (cot)
-    def gen_prediction(self, cot: bool = False) -> str:
+
+    def gen_prediction(self, cot: bool = False, add_parenthesis: bool = False) -> str:
         """
         ### Prompting format:
         Task description: [task description].
@@ -86,7 +85,7 @@ class StreamPrompt(Prompt):
         prompt.append(f"A:{self.cot_prompt if cot else ''}")
         return "".join(prompt)
     
-    def gen_demo_inputs(self, diversity: bool = False) -> str:
+    def gen_demo_inputs(self, diversity: Union[bool, str] = False) -> str:
         """
         ### Prompting format:
         Following is an example instance for the task: [task description]. Please come up with [num_shot] new[diverse_prompt] instances for the task.
@@ -95,8 +94,12 @@ class StreamPrompt(Prompt):
 
         New instance 1:
         """
-        diverse_prompt = ", diverse, and creative" if diversity else ""
-        return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
+        if type(diversity) == bool:
+            diverse_prompt = ", diverse, and creative" if diversity else ""
+            return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
+        elif (type(diversity) == str) and (diversity == "no-new"):
+            return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nInstance 1:\nQ:"
+
 
 class BatchPrompt(Prompt):
     
@@ -105,9 +108,74 @@ class BatchPrompt(Prompt):
         task_desc: str,
         inputs: List[str],
         num_demos: int,
-        shots: List[Shot] = []
+        shots: Union[str, List[Shot]] = None
     ) -> None:
         super().__init__(task_desc, inputs, num_demos, shots)
+        
+    def gen_prediction(self, cot: bool = False, add_parenthesis: bool = False) -> str:
+        """
+        ### Prompting format:
+        Task description: [task description]. Please answer the following questions one-by-one.
+
+        Q1: [pseudo-demo-input 1]
+        ...
+        Q[NUM_SHOT]: [pseudo-demo-input NUM_SHOT]
+        Q[NUM_SHOT + 1]: [test input 1]
+        ...
+        Q[NUM_SHOT + BATCH_SIZE]: [test input BATCH_SIZE]
+
+        A1: [pseudo-demo-label 1]
+        ...
+        A[NUM_SHOT]: [pseudo-demo-label NUM_SHOT]
+        A[NUM_SHOT + 1]:
+        """
+        prompt = [f"Task description: {self._task_desc} Please answer the following questions one-by-one.\n\n"]
+        # TODO: add CoT prompts
+        # add in-context examples
+        if self._shots:
+            if type(self._shots) == str: # batched shots
+                answer_start = self._shots.index("\nA1:")
+                Qs = self._shots[:answer_start]
+                As = self._shots[answer_start:]
+                prompt.append(Qs)        
+            else:
+                raise NotImplementedError
+        # current input questions
+        for i, input_ in enumerate(self._inputs, start=1):
+            prompt.append(f"Q{self._num_demos + i}: {input_}\n")
+        if self._shots:
+            prompt.append(As)
+        prompt.append(f"\nA{self._num_demos + 1}:" + (" (" if add_parenthesis else ""))
+        return "".join(prompt)
+    
+    def gen_demo_inputs(self, diversity: bool = False) -> str:
+        """
+        Following are [BATCH_SIZE] exapmle instances for the task: [TASK_DESCRIPTION]. Please come up with [NUM_SHOT] new, diverse, and creative instances for the task.
+        Example instance 1:
+        Q: [TEST_INPUT_1]
+
+        Example instance 2:
+        Q: [TEST_INPUT_2]
+
+        ...
+
+        Example instance [BATCH_SIZE]:
+        Q: [TEST_INPUT_[BATCH_SIZE]]
+
+        New instance 1:
+        Q:
+        """
+        diverse_prompt = ", diverse, and creative" if diversity else ""
+        prompt = [f"Following are {len(self._inputs)} example instances for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\n"]
+        # example instances
+        for i, input_ in enumerate(self._inputs):
+            prompt.append(f"Example instance {i+1}:\n")
+            prompt.append(f"Q: {input_}\n\n")
+        # new instances
+        prompt.append("New instance 1:\n")
+        prompt.append("Q:")
+        return "".join(prompt)
+
 
 class TestStreamPrompt(unittest.TestCase):
 

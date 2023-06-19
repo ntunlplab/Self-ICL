@@ -1,8 +1,10 @@
+import os
 import math
 import json
 import yaml
 import pandas as pd
-from typing import List
+import random
+from typing import Union
 from pathlib import Path
 from argparse import ArgumentParser, Namespace
 from colorama import Fore, Style
@@ -16,8 +18,9 @@ from promptparser import PromptParser
 class Config(object):
     exp_name: str
     # paths
-    bbh_input_path: str
-    bbh_task_desc_path: str
+    task_input_path: str
+    task_desc_path: str
+    few_shots_path: str
     log_path: str
     # experiment settings
     inference_mode: str # "stream" or "batch"
@@ -28,7 +31,7 @@ class Config(object):
     diverse_exemplars: bool # whether to generate diverse exemplars -> only used when exemplars_mode == "self-icl"
     # sizes
     batch_size: int # only used when inference_mode == "batch"
-    test_sample_size: int
+    test_sample_size: Union[int, str] # "full" or int
     # model hparams
     model: str # e.g., text-davinci-003
     max_tokens: int
@@ -73,18 +76,25 @@ class Experiment(object):
         print("Configs:")
         for k, v in vars(self._config).items():
             print(f"\t{k}: {v}")
-            
+
     def run(
         self,
         task_continue_from: str = None,
         sample_start_from: int = 0,
         label_type: str = None,
-        lacked_cases_path: Path = None
+        lacked_cases_path: Path = None,
+        existing_demos_path: Path = None,
+        random_pseudo_label: bool = False,
+        rerun_pseudo_label: bool = False,
+        step2_stream: bool = False,
+        step3_stream: bool = False
     ) -> None:
         # handle passed arguments
         if label_type and (label_type not in set(TaskGenerator.task2label_type.values())):
             raise ValueError(f"Invalid label_type: {label_type}")
-        
+        if random_pseudo_label:
+            assert existing_demos_path is not None
+
         lacked_cases_dict = dict() # dict of {task_name: set(sample_idx)}
         if lacked_cases_path:
             lacked_cases = json.loads(lacked_cases_path.read_text())
@@ -96,14 +106,14 @@ class Experiment(object):
         self.print_configs()
 
         task_generator = TaskGenerator(
-            task_input_path=self._config.bbh_input_path,
-            task_desc_path=self._config.bbh_task_desc_path,
+            task_input_path=self._config.task_input_path,
+            task_desc_path=self._config.task_desc_path,
             batch_size=self._config.batch_size,
             verbose=True
         )
         continue_flag = True if task_continue_from else False
         failed_cases = [] # list of (task_name, sample_idx)
-        for task_name in TaskGenerator.task2label_type.keys():
+        for task_name in task_generator.task2desc.keys():
             # skip tasks before continue_from
             if continue_flag and (task_name != task_continue_from):
                 continue
@@ -129,12 +139,16 @@ class Experiment(object):
                 continue
             
             task = task_generator.get_task(task_name)
-            if (task.label_type == "class") and (not self._config.use_cot):
+            add_parenthesis = list(task.label_set)[0][0] == '('
+            if (task.label_type in ["class", "choice"]) and (not self._config.use_cot) and ((self._config.inference_mode == "stream") or step3_stream):
                 label_set = task.label_set
             else:
                 label_set = None
-            
-            num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
+
+            if type(self._config.test_sample_size) == int:
+                num_runs = math.ceil(self._config.test_sample_size / self._config.batch_size)
+            elif self._config.test_sample_size == "full":
+                num_runs = math.ceil(task.sample_size / self._config.batch_size)
             for i in range(num_runs):
                 # skip samples before start_from
                 if (i < sample_start_from) or (i >= task.sample_size // self._config.batch_size):
@@ -148,9 +162,14 @@ class Experiment(object):
                 print(f"Running sample #{i}:")
                 task_inputs = task.get_inputs(sample_ids=list(range(i * self._config.batch_size, (i + 1) * self._config.batch_size)))
                 shots = []
-                # TODO: get bbh-hand-made shots standard few-shot setting
+                # get bbh shots for the standard few-shot setting
                 if (self._config.exemplars_mode == "standard") and (self._config.num_demos > 0):
-                    raise NotImplementedError
+                    parsed_shots = json.loads((Path(self._config.few_shots_path) / f"{task_name}.json").read_text())
+                    if len(parsed_shots) != self._config.num_demos:
+                        raise ValueError(f"Invalid num_shots: {len(parsed_shots)} (expected {self._config.num_demos})")
+                    for d in parsed_shots:
+                        shot = Shot(_input=d['Q'], _label=d['A'])
+                        shots.append(shot)
                 # prepare initial prompt
                 if self._config.inference_mode == "stream":
                     prompt = StreamPrompt(
@@ -168,12 +187,15 @@ class Experiment(object):
                     )
                 # augment prompt with pseudo-demos if "self-icl"
                 if self._config.exemplars_mode == "self-icl":
-                    # generate pseudo-demos
-                    # inputs
-                    demo_prompt = prompt.gen_demo_inputs(diversity=self._config.diverse_exemplars)
-                    demo_prompt, demo_inputs = self._model.complete(demo_prompt, label_set=None, temperature=self._config.demo_temperature)
-                    full_demo_inputs = demo_prompt + demo_inputs
-                    (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
+                    # 1. Pseudo-demo inputs
+                    if existing_demos_path is None: # generate pseudo-demo inputs
+                        demo_prompt = prompt.gen_demo_inputs(diversity=self._config.diverse_exemplars)
+                        demo_prompt, demo_inputs = self._model.complete(demo_prompt, label_set=None, temperature=self._config.demo_temperature)
+                        full_demo_inputs = demo_prompt + demo_inputs
+                        (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
+                    else: # read pseudo-demo inputs
+                        print(f"Reading demo-inputs in sample #{i}...")
+                        full_demo_inputs = (existing_demos_path / task_name / "demo-inputs" / f"{i}.txt").read_text()
                     # parse demo inputs to separate instances
                     try:
                         sep_demo_inputs = self._prompt_parser.split_demo_inputs(full_demo_inputs)
@@ -181,25 +203,112 @@ class Experiment(object):
                         print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to parse demo inputs" + Style.RESET_ALL)
                         failed_cases.append([task_name, i])
                         continue
-                    # labels
-                    shots = []
-                    if self._config.inference_mode == "stream":
-                        for j, sep_demo_input in enumerate(sep_demo_inputs):
-                            sep_demo_prompt = StreamPrompt(
+                    # 2. Pseudo-demo labels
+                    if (existing_demos_path is None) or rerun_pseudo_label:
+                        if (self._config.inference_mode == "stream") or step2_stream:
+                            shots = []
+                            for j, sep_demo_input in enumerate(sep_demo_inputs):
+                                sep_demo_prompt = StreamPrompt(
+                                    task_desc=task.task_desc,
+                                    inputs=sep_demo_input,
+                                    num_demos=0, # NOTE
+                                    shots=[]
+                                ).gen_prediction(cot=self._config.use_cot)
+                                print(f"Predicting demo #{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) -> ", end='')
+                                sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
+                                if sep_demo_prompt[-1] == '(':
+                                    sep_demo_label = '(' + sep_demo_label
+                                shot = Shot(_input=sep_demo_input, _label=sep_demo_label.strip())
+                                shots.append(shot)
+                                # logging
+                                print(sep_demo_label)
+                                (task_log_path / "demo-labels" / f"{i}-{j}.txt").write_text(str(shot))
+                        else:
+                            print(f"Predicting demo-labels in sample #{i}...")
+                            sep_demo_prompt = BatchPrompt(
                                 task_desc=task.task_desc,
-                                inputs=sep_demo_input,
+                                inputs=sep_demo_inputs,
                                 num_demos=0, # NOTE
                                 shots=[]
-                            ).gen_prediction(cot=self._config.use_cot)
-                            print(f"Predicting demo #{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
+                            ).gen_prediction(add_parenthesis=add_parenthesis)
                             sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
-                            if sep_demo_prompt[-1] == '(':
-                                sep_demo_label = '(' + sep_demo_label
-                            shot = Shot(_input=sep_demo_input, _label=sep_demo_label.strip())
-                            shots.append(shot)
-                            # logging
+                            # update prompt to augmented prompt (shots == full_demo)
+                            shots = sep_demo_prompt + sep_demo_label
+                            shots = shots[shots.index("Q1:"):] # remove task description
                             print(sep_demo_label)
-                            (task_log_path / "demo-labels" / f"{i}-{j}.txt").write_text(str(shot))
+                            (task_log_path / "demo-labels" / f"{i}.txt").write_text(str(shots))
+                        if step3_stream:
+                            for j, task_input in enumerate(task_inputs):
+                                print(f"Predicting batch #{i}-{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) -> ", end='')
+                                prompt = StreamPrompt(
+                                    task_desc=task.task_desc,
+                                    inputs=task_input,
+                                    num_demos=self._config.num_demos,
+                                    shots=shots
+                                )
+                                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot, add_parenthesis=add_parenthesis)
+                                pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
+                                print(res_text)
+                                full_text = pred_prompt + res_text
+                                (task_log_path / "full-outputs" / f"{i * self._config.batch_size + j}.txt").write_text(full_text)
+                            # continue to next run (i.e., next batch)
+                            continue    
+                    else: # (existing_demos_path is not None) and (not rerun_pseudo_label)
+                        if self._config.inference_mode == "stream":
+                            num_existing_demos = len(os.listdir(existing_demos_path / task_name / "demo-labels")) // task.sample_size
+                            if self._config.num_demos == num_existing_demos:
+                                js = list(range(num_existing_demos))
+                            else:
+                                js = random.sample(range(num_existing_demos), self._config.num_demos)
+                            for j in js:
+                                demo_input_label = (existing_demos_path / task_name / "demo-labels" / f"{i}-{j}.txt").read_text()
+                                q_start = demo_input_label.index("Q:")
+                                a_start = demo_input_label.index("A:")
+                                demo_input = demo_input_label[q_start+len("Q:"):a_start].strip()
+                                if random_pseudo_label:
+                                    demo_label = random.sample(task.label_set, 1)[0]
+                                    print("(random) ", end='')
+                                else:
+                                    demo_label = demo_input_label[a_start+len("A:"):].strip()
+                                    print("(cached) ", end='')
+                                print(f"Adding existing demo #{j} -> {demo_label}")
+                                shot = Shot(_input=demo_input, _label=demo_label)
+                                shots.append(shot)
+                        else: # batch
+                            raw_shots = (existing_demos_path / task_name / "demo-labels" / f"{i}.txt").read_text()
+                            if step3_stream:
+                                # parse shots to separate shots
+                                shots = []
+                                for k in range(1, self._config.num_demos + 1):
+                                    q_start = raw_shots.index(f"Q{k}:") + len(f"Q{k}:")
+                                    a_start = raw_shots.index(f"A{k}:") + len(f"A{k}:")
+                                    q_end = raw_shots.index(f"Q{k + 1}:") if k < self._config.num_demos else raw_shots.index("A1")
+                                    a_end = raw_shots.index(f"A{k + 1}:") if k < self._config.num_demos else len(raw_shots)
+                                    q = raw_shots[q_start:q_end].strip()
+                                    a = raw_shots[a_start:a_end].strip()
+                                    shot = Shot(_input=q, _label=a)
+                                    shots.append(shot)
+                                # inference each task input
+                                for j, task_input in enumerate(task_inputs):
+                                    print(f"Predicting batch #{i}-{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) -> ", end='')
+                                    prompt = StreamPrompt(
+                                        task_desc=task.task_desc,
+                                        inputs=task_input,
+                                        num_demos=self._config.num_demos,
+                                        shots=shots
+                                    )
+                                    pred_prompt = prompt.gen_prediction(cot=self._config.use_cot, add_parenthesis=add_parenthesis)
+                                    pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
+                                    print(res_text)
+                                    full_text = pred_prompt + res_text
+                                    (task_log_path / "full-outputs" / f"{i * self._config.batch_size + j}.txt").write_text(full_text)
+                                # continue to next run (i.e., next batch)
+                                continue
+                            else:
+                                shots = raw_shots
+                                
+                    # augment the original prompt with self-icl exemplars
+                    if self._config.inference_mode == "stream":
                         # update prompt to augmented prompt
                         prompt = StreamPrompt(
                             task_desc=task.task_desc,
@@ -208,18 +317,16 @@ class Experiment(object):
                             shots=shots
                         )
                     else: # batch
-                        sep_demo_prompt = BatchPrompt(
-                            task_desc=task.task_desc,
-                            inputs=sep_demo_inputs,
-                            num_demos=0, # NOTE
+                        prompt = BatchPrompt(
+                            task_desc=task.task_desc, # shots already contain task description in current implementation
+                            inputs=task_inputs,
+                            num_demos=self._config.num_demos,
                             shots=shots
-                        )        
-                        raise NotImplementedError
-                        # update prompt to augmented prompt
+                        )
                     
                 # run inference
                 print(f"Predicting sample #{i} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
-                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot)
+                pred_prompt = prompt.gen_prediction(cot=self._config.use_cot, add_parenthesis=add_parenthesis)
                 pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
                 print(res_text)
                 # save results
@@ -236,12 +343,14 @@ class Experiment(object):
                     
     def evaluate(
         self,
-        label_type: str = None
+        label_type: str = None,
+        weighted_acc: bool = False,
+        step3_stream: bool = False
     ) -> None:
         # for generating task labels
         task_gen = TaskGenerator(
-            task_input_path=self._config.bbh_input_path,
-            task_desc_path=self._config.bbh_task_desc_path,
+            task_input_path=self._config.task_input_path,
+            task_desc_path=self._config.task_desc_path,
             batch_size=1, # evaluate one by one during evaluation
             verbose=True
         )
@@ -250,7 +359,7 @@ class Experiment(object):
         total_predict = 0
         eval_results = dict()
         per_instance = dict() # store per-instance results (0: incorrect, 1: correct) -> for calculating significance
-        for task_name in TaskGenerator.task2label_type.keys():
+        for task_name in task_gen.task2desc.keys():
             task_label_type = TaskGenerator.task2label_type[task_name]
             if label_type and (task_label_type != label_type):
                 print(f"Skipping task {task_name} with label_type {task_label_type}...")
@@ -261,16 +370,24 @@ class Experiment(object):
             ncorrect = 0
             npredict = 0
             per_instance[task_name] = list()
-            for i in range(self._config.test_sample_size):
+            if type(self._config.test_sample_size) == int:
+                num_runs = self._config.test_sample_size
+            elif self._config.test_sample_size == "full":
+                num_runs = task.sample_size # // self._config.batch_size) * self._config.batch_size
+            for i in range(num_runs):
                 if i < task.sample_size: # ensure i is within the sample size
                     # read inference result
+                    filename = f"{i // (1 if step3_stream else self._config.batch_size)}.txt"
                     if self._config.exemplars_mode == "standard":
-                        full_res = (task_log_path / f"{i}.txt").read_text()
+                        full_res = (task_log_path / filename).read_text()
                     else: # self-icl
-                        full_res = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
+                        full_res = (task_log_path / "full-outputs" / filename).read_text()
                     # parse inference result
                     label = task.get_new_labels().strip("()").upper()
-                    pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
+                    if (self._config.inference_mode == "stream") or step3_stream:
+                        pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
+                    else: # batch
+                        pred = self._prompt_parser.extract_pred_batch(full_res, answer_index=(i % self._config.batch_size) + 1 + self._config.num_demos).strip("()").upper()
                     print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
                     if label == pred:
                         print(Fore.GREEN + "✔")
@@ -291,8 +408,15 @@ class Experiment(object):
             total_correct += ncorrect
             total_predict += npredict
         
-        acc = total_correct / total_predict
-        print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
+        if weighted_acc:
+            acc = 0
+            for res in eval_results.values():
+                acc += res["accuracy"]
+            acc = acc / len(eval_results)
+            print(f"{self._config.exp_name} -> #Tasks: {len(eval_results)}; Weighted Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}");
+        else:
+            acc = total_correct / total_predict
+            print(f"{self._config.exp_name} -> Total correct count: {Fore.BLUE}{total_correct}/{total_predict}{Style.RESET_ALL}; Accuracy: {Fore.BLUE}{acc * 100:.2f}%{Style.RESET_ALL}")
         # save evaluation results
         (self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.txt").write_text(f"Accuracy = {(acc * 100):.2f}%\n")
         (self._log_path / f"per_instance_{self._config.test_sample_size}-testsize.json").write_text(json.dumps(per_instance, indent=4))
@@ -307,6 +431,12 @@ def parse_args() -> Namespace:
     parser.add_argument("--sample_start_from", type=int, default=0)
     parser.add_argument("--label_type", type=str, default=None)
     parser.add_argument("--eval", action="store_true")
+    parser.add_argument("--weighted_acc", action="store_true")
+    parser.add_argument("--existing_demos_path", type=Path, default=None)
+    parser.add_argument("--random_pseudo_label", action="store_true")
+    parser.add_argument("--rerun_pseudo_label", action="store_true")
+    parser.add_argument("--step2_stream", action="store_true")
+    parser.add_argument("--step3_stream", action="store_true")
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -315,11 +445,20 @@ if __name__ == "__main__":
     experiment = Experiment(config)
     
     if args.eval:
-        experiment.evaluate(label_type=args.label_type)
+        experiment.evaluate(
+            label_type=args.label_type,
+            weighted_acc=args.weighted_acc,
+            step3_stream=args.step3_stream
+        )
     else:
         experiment.run(
             task_continue_from=args.task_continue_from,
             sample_start_from=args.sample_start_from,
             label_type=args.label_type,
-            lacked_cases_path=args.lacked_cases_path
+            lacked_cases_path=args.lacked_cases_path,
+            existing_demos_path=args.existing_demos_path,
+            random_pseudo_label=args.random_pseudo_label,
+            rerun_pseudo_label=args.rerun_pseudo_label,
+            step2_stream=args.step2_stream,
+            step3_stream=args.step3_stream
         )

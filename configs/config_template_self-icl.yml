@@ -1,19 +1,19 @@
-exp_name: "standard-few-shot-class"
+exp_name: "self-icl-no-cot-diverse-class-step2-step3-stream"
 # data paths
 task_input_path: "./bbh/BIG-Bench-Hard/bbh"
 task_desc_path: "./bbh/bbh_task_description.json"
-few_shots_path: "./bbh/BIG-Bench-Hard/cot-prompts-parsed"
+few_shots_path: ""
 log_path: "./log/model_outputs"
 # experiment settings
-inference_mode: "stream"
-exemplars_mode: "standard"
+inference_mode: "batch"
+exemplars_mode: "self-icl"
 num_demos: 3
 use_cot: False
-diverse_exemplars: False
+diverse_exemplars: True
 label_method: "self"
 # sizes
-batch_size: 1
-test_sample_size: 250
+batch_size: 4
+test_sample_size: "full"
 # model hparams
 model: "text-davinci-003"
 max_tokens: 1024

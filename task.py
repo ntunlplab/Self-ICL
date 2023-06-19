@@ -14,7 +14,7 @@ class Task(object):
         self._task_desc = task_desc
         self._samples = samples
         self._label_type = label_type # has to do with label sampling
-        if label_type == "class":
+        if label_type in ["class", "choice"]:
             self._label_set = set([sample["target"] for sample in samples])
         else: # TODO
             raise NotImplementedError
@@ -64,7 +64,7 @@ class Task(object):
     def get_inputs(self, sample_ids: List[int]) -> Union[str, List[str]]:
         inputs = []
         for sample_id in sample_ids:
-            inputs.append(self._samples[sample_id]["input"])
+            inputs.append(self._samples[sample_id]["input"].rstrip())
         return inputs if len(sample_ids) > 1 else inputs[0]
     
     def set_counter(self, counter: int) -> None:
@@ -72,6 +72,7 @@ class Task(object):
 
 class TaskGenerator(object):
     task2label_type = {
+        # BBH
         "boolean_expressions": "class",
         "causal_judgement": "class",
         "date_understanding": "class",
@@ -98,7 +99,65 @@ class TaskGenerator(object):
         "tracking_shuffled_objects_seven_objects": "class",
         "tracking_shuffled_objects_three_objects": "class",
         "web_of_lies": "class",
-        "word_sorting": "permutation"
+        "word_sorting": "permutation",
+        # MMLU
+        "abstract_algebra": "choice",
+        "anatomy": "choice",
+        "astronomy": "choice",
+        "business_ethics": "choice",
+        "clinical_knowledge": "choice",
+        "college_biology": "choice",
+        "college_chemistry": "choice",
+        "college_computer_science": "choice",
+        "college_mathematics": "choice",
+        "college_medicine": "choice",
+        "college_physics": "choice",
+        "computer_security": "choice",
+        "conceptual_physics": "choice",
+        "econometrics": "choice",
+        "electrical_engineering": "choice",
+        "elementary_mathematics": "choice",
+        "formal_logic": "choice",
+        "global_facts": "choice",
+        "high_school_biology": "choice",
+        "high_school_chemistry": "choice",
+        "high_school_computer_science": "choice",
+        "high_school_european_history": "choice",
+        "high_school_geography": "choice",
+        "high_school_government_and_politics": "choice",
+        "high_school_macroeconomics": "choice",
+        "high_school_mathematics": "choice",
+        "high_school_microeconomics": "choice",
+        "high_school_physics": "choice",
+        "high_school_psychology": "choice",
+        "high_school_statistics": "choice",
+        "high_school_us_history": "choice",
+        "high_school_world_history": "choice",
+        "human_aging": "choice",
+        "human_sexuality": "choice",
+        "international_law": "choice",
+        "jurisprudence": "choice",
+        "logical_fallacies": "choice",
+        "machine_learning": "choice",
+        "management": "choice",
+        "marketing": "choice",
+        "medical_genetics": "choice",
+        "miscellaneous": "choice",
+        "moral_disputes": "choice",
+        "moral_scenarios": "choice",
+        "nutrition": "choice",
+        "philosophy": "choice",
+        "prehistory": "choice",
+        "professional_accounting": "choice",
+        "professional_law": "choice",
+        "professional_medicine": "choice",
+        "professional_psychology": "choice",
+        "public_relations": "choice",
+        "security_studies": "choice",
+        "sociology": "choice",
+        "us_foreign_policy": "choice",
+        "virology": "choice",
+        "world_religions": "choice"
     }
     
     def __init__(
@@ -112,15 +171,22 @@ class TaskGenerator(object):
         self._batch_size = batch_size
         self._task2desc = json.loads(Path(task_desc_path).read_text())
         self._verbose = verbose
+    
+    @property
+    def task2desc(self) -> Dict[str, str]:
+        return self._task2desc
 
     def get_task(self, task_name: str) -> Task:
         if task_name not in self._task2desc:
             raise ValueError(f"Task {task_name} not found")
         if self._verbose:
             print(f"Generating task '{task_name}'...")
+        samples = json.loads((self._task_input_path / f"{task_name}.json").read_text())
+        if (type(samples) == dict) and ("examples" in samples.keys()):
+            samples = samples["examples"]
         return Task(
             task_desc=self._task2desc[task_name],
-            samples=json.loads((self._task_input_path / f"{task_name}.json").read_text())["examples"],
+            samples=samples,
             label_type=self.task2label_type[task_name],
             batch_size=self._batch_size
         )
