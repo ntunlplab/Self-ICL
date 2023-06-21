@@ -50,6 +50,7 @@ Stream vs Batch
   - Self-ICL (no-diverse): $135.58
   - Self-ICL (random): $51.27
   - Self-ICL (batch): $63.15
+  - Real-ICL (3-shot): $49.98
 - CoT prompting:
   - ZS-CoT: $28.71
   - Self-ICL (3-shot): $203.10
