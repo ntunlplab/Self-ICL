@@ -41,3 +41,15 @@ Stream vs Batch
 ### Ablation
 - Number of demos: 0, 1, 2, 3
 - Number of test input, i.e., batch size: 1, 2, 3
+
+### Cost (in USD)
+- Direct prompting
+  - ZS-Direct: $15.27
+  - Self-ICL (1-shot): $27.29
+  - Self-ICL (3-shot): $118.35
+  - Self-ICL (no-diverse): $135.58
+  - Self-ICL (random): $51.27
+  - Self-ICL (batch): $63.15
+- CoT prompting:
+  - ZS-CoT: $28.71
+  - Self-ICL (3-shot): $203.10
