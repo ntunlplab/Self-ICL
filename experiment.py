@@ -423,6 +423,106 @@ class Experiment(object):
         df = pd.DataFrame(eval_results)
         df.to_csv(self._log_path / f"eval_results_{self._config.test_sample_size}-testsize.csv", index_label="Item")
 
+    def estimate_cost(
+        self,
+        label_type: str = None,
+        existing_demos_path: Path = None,
+        step2_stream: bool = False
+    ) -> None:
+        """
+        Format of num_tokens:
+        {
+            [task_name]: {
+                "step1": [num_tokens_1, num_tokens_2, ...], # num tokens for each sample
+                "step2": [num_tokens_1, num_tokens_2, ...],
+                "step3": [num_tokens_1, num_tokens_2, ...],
+                "total": [num_tokens_1, num_tokens_2, ...],
+                "cost": [cost_1, cost_2, ...] # cost for each samples
+                "total_cost": sum(cost)
+            },
+            [task_name]: ...
+        }
+        """
+        task_gen = TaskGenerator(
+            task_input_path=self._config.task_input_path,
+            task_desc_path=self._config.task_desc_path,
+            batch_size=1,
+            verbose=False
+        )
+        num_tokens = dict()
+        all_task_total_cost = 0
+        for task_name in task_gen.task2desc.keys():
+            task_label_type = TaskGenerator.task2label_type[task_name]
+            if label_type and (task_label_type != label_type):
+                print(f"Skipping task {task_name} with label_type {task_label_type}...")
+                continue
+            num_tokens[task_name] = {
+                "step1": list(),
+                "step2": list(),
+                "step3": list(),
+                "total": list(),
+                "cost": list(),
+                "total_cost": 0
+            }
+            task = task_gen.get_task(task_name)
+            task_log_path = self._log_path / task_name
+            # variables used later
+            task_instruction = f"Task description: {task.task_desc}\n\n"
+            test_sample_size = (task.sample_size // self._config.batch_size) * self._config.batch_size
+            for i in range(test_sample_size):
+                # step 1 & 2
+                step1_tokens, step2_tokens = 0, 0
+                if self._config.exemplars_mode == "self-icl":
+                    # step 1
+                    demo_inputs_path = task_log_path / "demo-inputs"
+                    if os.listdir(demo_inputs_path):
+                        if (self._config.inference_mode == "stream"):
+                            text = (demo_inputs_path / f"{i}.txt").read_text()
+                            step1_tokens = self._model.count_tokens(text)
+                        else:
+                            if existing_demos_path:
+                                text = (existing_demos_path / task_name / "demo-inputs" / f"{i // self._config.batch_size}.txt").read_text()
+                                step1_tokens = self._model.count_tokens(text) / self._config.batch_size # 1/[batch_size] of the cost
+                            else:
+                                raise NotImplementedError
+                    # step 2
+                    demo_labels_path = task_log_path / "demo-labels"
+                    if os.listdir(demo_labels_path):
+                        if (self._config.inference_mode == "stream"):
+                            step2_tokens += self._model.count_tokens(task_instruction) * self._config.num_demos
+                            for j in range(self._config.num_demos):
+                                text = (demo_labels_path / f"{i}-{j}.txt").read_text()
+                                step2_tokens += self._model.count_tokens(text)
+                        elif step2_stream:
+                            step2_tokens += self._model.count_tokens(task_instruction) * self._config.num_demos / self._config.batch_size # 1/[batch_size] of the cost
+                            for j in range(self._config.num_demos):
+                                text = (demo_labels_path / f"{i // self._config.batch_size}-{j}.txt").read_text()
+                                step2_tokens += self._model.count_tokens(text) / self._config.batch_size
+                        else: # batch
+                            raise NotImplementedError
+                num_tokens[task_name]["step1"].append(step1_tokens)
+                num_tokens[task_name]["step2"].append(step2_tokens)
+                # step 3
+                if self._config.exemplars_mode == "self-icl":
+                    text = (task_log_path / "full-outputs" / f"{i}.txt").read_text()
+                else:
+                    text = (task_log_path / f"{i}.txt").read_text()
+                step3_tokens = self._model.count_tokens(text)
+                num_tokens[task_name]["step3"].append(step3_tokens)
+                # summary
+                total_tokens = step1_tokens + step2_tokens + step3_tokens
+                num_tokens[task_name]["total"].append(total_tokens)
+                cost = total_tokens / 1000 * self._model.cost_per_1000tokens
+                num_tokens[task_name]["cost"].append(cost)
+                num_tokens[task_name]["total_cost"] += cost
+            task_total_cost = num_tokens[task_name]['total_cost']
+            all_task_total_cost += task_total_cost
+            print(f"Task {task_name} -> Total cost: {Fore.GREEN}{task_total_cost:.2f} USD {Fore.RED}(~{task_total_cost * 30:.2f} TWD){Style.RESET_ALL}")
+        print(f"\n ===== Total cost: {Fore.GREEN}{all_task_total_cost:.2f} USD {Fore.RED}(~{all_task_total_cost * 30:.2f} TWD){Style.RESET_ALL} =====")
+        # save results
+        (self._log_path / "num_tokens.json").write_text(json.dumps(num_tokens, indent=4))
+        (self._log_path / "total_cost.txt").write_text(f"{all_task_total_cost:.2f} USD (~{all_task_total_cost * 30:.2f} TWD)")
+
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument("--config_path", type=Path, required=True)
@@ -431,6 +531,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--sample_start_from", type=int, default=0)
     parser.add_argument("--label_type", type=str, default=None)
     parser.add_argument("--eval", action="store_true")
+    parser.add_argument("--estimate_cost", action="store_true")
     parser.add_argument("--weighted_acc", action="store_true")
     parser.add_argument("--existing_demos_path", type=Path, default=None)
     parser.add_argument("--random_pseudo_label", action="store_true")
@@ -449,6 +550,12 @@ if __name__ == "__main__":
             label_type=args.label_type,
             weighted_acc=args.weighted_acc,
             step3_stream=args.step3_stream
+        )
+    elif args.estimate_cost:
+        experiment.estimate_cost(
+            label_type=args.label_type,
+            existing_demos_path=args.existing_demos_path,
+            step2_stream=args.step2_stream
         )
     else:
         experiment.run(

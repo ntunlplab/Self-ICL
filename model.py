@@ -87,6 +87,9 @@ class Model(object):
     def set_api_key(self, key: str) -> None:
         openai.api_key = key
 
+    def count_tokens(self, text: str) -> int:
+        return len(self._tokenizer.encode(text))
+
 # for unit testing
 if __name__ == "__main__":
     # model
