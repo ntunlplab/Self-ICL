@@ -426,7 +426,8 @@ class Experiment(object):
     def estimate_cost(
         self,
         label_type: str = None,
-        step2_stream: bool = False,
+        existing_demos_path: Path = None,
+        step2_stream: bool = False
     ) -> None:
         """
         Format of num_tokens:
@@ -467,7 +468,8 @@ class Experiment(object):
             task_log_path = self._log_path / task_name
             # variables used later
             task_instruction = f"Task description: {task.task_desc}\n\n"
-            for i in range(task.sample_size):
+            test_sample_size = (task.sample_size // self._config.batch_size) * self._config.batch_size
+            for i in range(test_sample_size):
                 # step 1 & 2
                 step1_tokens, step2_tokens = 0, 0
                 if self._config.exemplars_mode == "self-icl":
@@ -478,7 +480,11 @@ class Experiment(object):
                             text = (demo_inputs_path / f"{i}.txt").read_text()
                             step1_tokens = self._model.count_tokens(text)
                         else:
-                            raise NotImplementedError
+                            if existing_demos_path:
+                                text = (existing_demos_path / task_name / "demo-inputs" / f"{i // self._config.batch_size}.txt").read_text()
+                                step1_tokens = self._model.count_tokens(text) / self._config.batch_size # 1/[batch_size] of the cost
+                            else:
+                                raise NotImplementedError
                     # step 2
                     demo_labels_path = task_log_path / "demo-labels"
                     if os.listdir(demo_labels_path):
@@ -488,7 +494,10 @@ class Experiment(object):
                                 text = (demo_labels_path / f"{i}-{j}.txt").read_text()
                                 step2_tokens += self._model.count_tokens(text)
                         elif step2_stream:
-                            raise NotImplementedError
+                            step2_tokens += self._model.count_tokens(task_instruction) * self._config.num_demos / self._config.batch_size # 1/[batch_size] of the cost
+                            for j in range(self._config.num_demos):
+                                text = (demo_labels_path / f"{i // self._config.batch_size}-{j}.txt").read_text()
+                                step2_tokens += self._model.count_tokens(text) / self._config.batch_size
                         else: # batch
                             raise NotImplementedError
                 num_tokens[task_name]["step1"].append(step1_tokens)
@@ -545,6 +554,7 @@ if __name__ == "__main__":
     elif args.estimate_cost:
         experiment.estimate_cost(
             label_type=args.label_type,
+            existing_demos_path=args.existing_demos_path,
             step2_stream=args.step2_stream
         )
     else:
