@@ -126,11 +126,8 @@ class Model(object):
         print(Fore.GREEN + f" (Predicting with temperature: {params['temperature']}, max_tokens: {params['max_output_tokens']}) " + Style.RESET_ALL)
         if response.result is None:
             print(Fore.RED + f"Failed to generated new instance." + Style.RESET_ALL)
-            example_instance = re.findall(pattern=r"Example instance:\nQ:(.*?)\nNew instance 1:", string=prompt, flags=re.DOTALL)[0].strip()
-            result = f" {example_instance}\n\nNew instance 2:\nQ: {example_instance}\n\nNew instance 3:\nQ: {example_instance}"
-        else:
-            result = response.result
-        return prompt, result
+            raise ValueError("Failed to generated new instance.")
+        return prompt, response.result
 
     def set_api_key(self, key: str) -> None:
         openai.api_key = key
