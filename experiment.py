@@ -364,7 +364,8 @@ class Experiment(object):
         self,
         label_type: str = None,
         weighted_acc: bool = False,
-        step3_stream: bool = False
+        step3_stream: bool = False,
+        lacked_cases_path: str = None
     ) -> None:
         # for generating task labels
         task_gen = TaskGenerator(
@@ -378,6 +379,13 @@ class Experiment(object):
         total_predict = 0
         eval_results = dict()
         per_instance = dict() # store per-instance results (0: incorrect, 1: correct) -> for calculating significance
+        task2lacked_index = dict()
+        if lacked_cases_path:
+            lacked_cases = json.loads(Path(lacked_cases_path).read_text())
+            for task_name, sample_idx in lacked_cases:
+                if task_name not in task2lacked_index:
+                    task2lacked_index[task_name] = set()
+                task2lacked_index[task_name].add(sample_idx)
         for task_name in task_gen.task2desc.keys():
             task_label_type = TaskGenerator.task2label_type[task_name]
             if label_type and (task_label_type != label_type):
@@ -396,6 +404,9 @@ class Experiment(object):
             for i in range(num_runs):
                 if i < task.sample_size: # ensure i is within the sample size
                     # read inference result
+                    if (task_name in task2lacked_index) and (i in task2lacked_index[task_name]):
+                        # print(f"Skipping sample #{i}...")
+                        continue
                     filename = f"{i // (1 if step3_stream else self._config.batch_size)}.txt"
                     if self._config.exemplars_mode == "standard":
                         full_res = (task_log_path / filename).read_text()
@@ -407,13 +418,13 @@ class Experiment(object):
                         pred = self._prompt_parser.extract_pred(full_res, use_cot=self._config.use_cot).strip("()").upper()
                     else: # batch
                         pred = self._prompt_parser.extract_pred_batch(full_res, answer_index=(i % self._config.batch_size) + 1 + self._config.num_demos).strip("()").upper()
-                    print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
+                    # print(f"Sample #{i}: label = {label}, pred = {pred} -> ", end='')
                     if label == pred:
-                        print(Fore.GREEN + "✔")
+                        # print(Fore.GREEN + "✔")
                         ncorrect += 1
                         per_instance[task_name].append(1)
                     else:
-                        print(Fore.RED + "✘")
+                        # print(Fore.RED + "✘")
                         per_instance[task_name].append(0)
                     npredict += 1
                     print(Style.RESET_ALL, end='')
@@ -568,7 +579,8 @@ if __name__ == "__main__":
         experiment.evaluate(
             label_type=args.label_type,
             weighted_acc=args.weighted_acc,
-            step3_stream=args.step3_stream
+            step3_stream=args.step3_stream,
+            lacked_cases_path=args.lacked_cases_path
         )
     elif args.estimate_cost:
         experiment.estimate_cost(
