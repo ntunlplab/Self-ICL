@@ -43,33 +43,37 @@ def compare_models(per_instance_A: Dict[str, List[int]], per_instance_B: Dict[st
     return res, one_sided_p
 
 if __name__ == "__main__":
-    prefix_dir = "../model_outputs/stream"
-    suffix_file = "per_instance_250-testsize.json"
+    prefix_dir = "../palm2/stream"
+    suffix_file = "per_instance_full-testsize.json"
 
     comps = {
-        "zero-shot": {
+        # "zero-shot": {
+        #     "A": "standard-zero-shot-class",
+        #     "B": "self-icl-no-cot-diverse-class"
+        # },
+        # "cot": {
+        #     "A": "standard-zero-shot-cot-class",
+        #     "B": "self-icl-cot-diverse-class"
+        # },
+        # "cot_vs_self_icl": {
+        #     "A": "standard-zero-shot-cot-class",
+        #     "B": "self-icl-no-cot-diverse-class"
+        # },
+        # "diverse_vs_no_diverse": {
+        #     "A": "self-icl-no-cot-no-diverse-no-new-class",
+        #     "B": "self-icl-no-cot-diverse-class"
+        # },
+        # "1-shot_vs_3-shot": {
+        #     "A": "self-icl-no-cot-diverse-class-1shot",
+        #     "B": "self-icl-no-cot-diverse-class"
+        # },
+        # "self_vs_random": {
+        #     "A": "self-icl-no-cot-diverse-class-random",
+        #     "B": "self-icl-no-cot-diverse-class"
+        # },
+        "palm_zero-shot": {
             "A": "standard-zero-shot-class",
-            "B": "self-icl-no-cot-diverse-class"
-        },
-        "cot": {
-            "A": "standard-zero-shot-cot-class",
-            "B": "self-icl-cot-diverse-class"
-        },
-        "cot_vs_self_icl": {
-            "A": "standard-zero-shot-cot-class",
-            "B": "self-icl-no-cot-diverse-class"
-        },
-        "diverse_vs_no_diverse": {
-            "A": "self-icl-no-cot-no-diverse-no-new-class",
-            "B": "self-icl-no-cot-diverse-class"
-        },
-        "1-shot_vs_3-shot": {
-            "A": "self-icl-no-cot-diverse-class-1shot",
-            "B": "self-icl-no-cot-diverse-class"
-        },
-        "self_vs_random": {
-            "A": "self-icl-no-cot-diverse-class-random",
-            "B": "self-icl-no-cot-diverse-class"
+            "B": "self-icl-no-cot-diverse-class-option"
         }
     }
 
