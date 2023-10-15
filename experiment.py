@@ -190,7 +190,12 @@ class Experiment(object):
                     # 1. Pseudo-demo inputs
                     if existing_demos_path is None: # generate pseudo-demo inputs
                         demo_prompt = prompt.gen_demo_inputs(diversity=self._config.diverse_exemplars)
-                        demo_prompt, demo_inputs = self._model.complete(demo_prompt, label_set=None, temperature=self._config.demo_temperature)
+                        try:
+                            demo_prompt, demo_inputs = self._model.complete(demo_prompt, label_set=None, temperature=self._config.demo_temperature)
+                        except ValueError:
+                            print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to generate pseudo-demo inputs" + Style.RESET_ALL)
+                            failed_cases.append([task_name, i])
+                            continue
                         full_demo_inputs = demo_prompt + demo_inputs
                         (task_log_path / "demo-inputs" / f"{i}.txt").write_text(full_demo_inputs)
                     else: # read pseudo-demo inputs
@@ -207,6 +212,7 @@ class Experiment(object):
                     if (existing_demos_path is None) or rerun_pseudo_label:
                         if (self._config.inference_mode == "stream") or step2_stream:
                             shots = []
+                            failed_flag = False
                             for j, sep_demo_input in enumerate(sep_demo_inputs):
                                 sep_demo_prompt = StreamPrompt(
                                     task_desc=task.task_desc,
@@ -215,7 +221,12 @@ class Experiment(object):
                                     shots=[]
                                 ).gen_prediction(cot=self._config.use_cot)
                                 print(f"Predicting demo #{j} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) -> ", end='')
-                                sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
+                                try:
+                                    sep_demo_prompt, sep_demo_label = self._model.complete(sep_demo_prompt, label_set, temperature=self._config.temperature)
+                                except ValueError:
+                                    print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to generate pseudo-demo labels" + Style.RESET_ALL)
+                                    failed_flag = True
+                                    break
                                 if sep_demo_prompt[-1] == '(':
                                     sep_demo_label = '(' + sep_demo_label
                                 shot = Shot(_input=sep_demo_input, _label=sep_demo_label.strip())
@@ -223,6 +234,9 @@ class Experiment(object):
                                 # logging
                                 print(sep_demo_label)
                                 (task_log_path / "demo-labels" / f"{i}-{j}.txt").write_text(str(shot))
+                            if failed_flag:
+                                failed_cases.append([task_name, i])
+                                continue
                         else:
                             print(f"Predicting demo-labels in sample #{i}...")
                             sep_demo_prompt = BatchPrompt(
@@ -327,7 +341,12 @@ class Experiment(object):
                 # run inference
                 print(f"Predicting sample #{i} (cot: {self.cot_check if self._config.use_cot else self.cot_cross}) ->", end='')
                 pred_prompt = prompt.gen_prediction(cot=self._config.use_cot, add_parenthesis=add_parenthesis)
-                pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
+                try:
+                    pred_prompt, res_text = self._model.complete(pred_prompt, label_set, temperature=self._config.temperature)
+                except ValueError:
+                    print(Fore.RED + f"Task {task_name} sample #{i} failed: failed to generate prediction" + Style.RESET_ALL)
+                    failed_cases.append([task_name, i])
+                    continue
                 print(res_text)
                 # save results
                 full_text = pred_prompt + res_text
