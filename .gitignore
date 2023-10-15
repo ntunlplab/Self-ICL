@@ -5,3 +5,6 @@ log/model_outputs/stream
 *.ipynb
 mmlu/mmlu_*
 log/mmlu
+src
+submission.zip
+log/palm2
