@@ -1,0 +1,18 @@
+Task description: [task description].
+
+Format:
+Starting with "Therefore, the correct answer is ..." before giving your final answer.
+If options are available, you must pick one as the final answer.
+It's very important that you stick to the format.
+
+Q: [pseudo-input_1]
+A: Let's think step-by-step. [pseudo-label_1]
+
+...
+
+Q: [pseudo-input_n]
+A: Let's think step-by-step. [pseudo-label_n]
+
+Q: [test_input]
+A: Let's think step-by-step.
+
