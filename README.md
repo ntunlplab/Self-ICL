@@ -8,6 +8,12 @@ This is the official repository of our paper [Self-ICL: Zero-Shot In-Context Lea
 
 ## The Self-ICL prompting framework
 
+<br>
+<p align="center">
+   <img src="https://github.com/ntunlplab/Self-ICL/assets/106149032/a0fbf92e-63ca-4d3d-a7eb-83400221feab" width=75% height=75%>
+</p>
+<br>
+
 Given the ```[task_description]``` and a corresponding ```[test_input]```, Self-ICL consists of three steps:
 
 1. Construction of pseudo-inputs.
