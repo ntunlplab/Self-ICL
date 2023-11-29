@@ -43,7 +43,7 @@ def compare_models(per_instance_A: Dict[str, List[int]], per_instance_B: Dict[st
     return res, one_sided_p
 
 if __name__ == "__main__":
-    prefix_dir = "../palm2/stream"
+    prefix_dir = "../turbo/stream"
     suffix_file = "per_instance_full-testsize.json"
 
     comps = {
@@ -72,6 +72,10 @@ if __name__ == "__main__":
         #     "B": "self-icl-no-cot-diverse-class"
         # },
         "palm_zero-shot": {
+            "A": "standard-zero-shot-class",
+            "B": "self-icl-no-cot-diverse-class-option"
+        },
+        "turbo_zero-shot": {
             "A": "standard-zero-shot-class",
             "B": "self-icl-no-cot-diverse-class-option"
         }

@@ -96,7 +96,7 @@ class StreamPrompt(Prompt):
         """
         if type(diversity) == bool:
             diverse_prompt = ", diverse, and creative" if diversity else ""
-            return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances (along with new context and possible options if necessary) for the task.\n\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
+            return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} new{diverse_prompt} instances for the task.\n\nExample instance:\nQ: {self._inputs}\n\nNew instance 1:\nQ:"
         elif (type(diversity) == str) and (diversity == "no-new"):
             return f"Following is an example instance for the task: {self._task_desc} Please come up with {self._num_demos} instances for the task.\nExample instance:\nQ: {self._inputs}\n\nInstance 1:\nQ:"
 

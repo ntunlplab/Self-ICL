@@ -1,4 +1,4 @@
-exp_name: "self-icl-no-cot-diverse-class-option"
+exp_name: "standard-zero-shot-class"
 # data paths
 task_input_path: "./bbh/BIG-Bench-Hard/bbh"
 task_desc_path: "./bbh/bbh_task_description.json"
@@ -6,10 +6,10 @@ few_shots_path: ""
 log_path: "./log/turbo"
 # experiment settings
 inference_mode: "stream"
-exemplars_mode: "self-icl"
-num_demos: 3
+exemplars_mode: "standard"
+num_demos: 0
 use_cot: False
-diverse_exemplars: True
+diverse_exemplars: False
 label_method: "self"
 # sizes
 batch_size: 1

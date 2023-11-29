@@ -11,9 +11,9 @@ from colorama import Fore, Style
 from argparse import Namespace
 
 class Model(object):
-    api_interval = 0.05 # seconds
+    api_interval = 0.00 # seconds
     cost_per_1000tokens = 0.02
-    gpt_models = {"text-davinci-003"}
+    gpt_models = {"text-davinci-003", "gpt-3.5-turbo-instruct"}
     palm_models = {"models/text-bison-001"}
 
     def __init__(self, config: Namespace):
