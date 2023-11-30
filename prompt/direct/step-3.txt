@@ -1,0 +1,12 @@
+Task description: [task description].
+
+Q: [pseudo-input_1]
+A: [pseudo-label_1]
+
+...
+
+Q: [pseudo-input_n]
+A: [pseudo-label_n]
+
+Q: [test_input]
+A:
