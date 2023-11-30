@@ -29,9 +29,33 @@ Given the ```[task_description]``` and a corresponding ```[test_input]```, Self-
    - Collect the pseudo-labels generated in step 2, and construct ```[num_shot]``` pseudo-demonstrations (*i.e.*, pseudo-input-label pairs).
    - Concatenate ```[task_description]```, pseudo-demonstrations, and ```[test_input]``` and prompt the LLM to perform ICL.
   
-<details>
-<summary>Reproduce paper experiments</summary>
-  
-*WIP, refactoring code...*
+## Steps to Reproduce Paper Experiments
+One may follow the steps below to reproduce the experiments, using the `text-bison-001` column in Table 3 as an example.
 
-</details>
+### Setup API Keys
+Set the corresponding environment variables to your API keys. For example, `GOOGLE_API_KEY` for PaLM-2, and `OPENAI_API_KEY` for GPT models.
+```
+export GOOGLE_API_KEY=<your_api_key>
+```
+
+### Configure the Experiment Settings
+Set the configuration file in `./configs` to your experiment settings. For example, the `./configs/config_template_standard.yml` file records the settings for running the **ZS-Direct** prompting method using the `text-bison-001` API endpoint.
+
+### Run the Prompting Script
+Run the following script to run different prompting methods and log output to `log_path` in the YAML file:
+```
+python experiment.py \
+  --config_path ./configs/config_template_standard.yml \
+  --label_type "class"
+```
+Note that one may need to configure other command line arguments in other experiments (please refer to experiment.py for more details).
+
+### Run the Evaluation Script
+After finishing the previous step, you may evaluate the performance by running:
+```
+python experiment.py \
+  --config_path ./configs/config_template_standard.yml \
+  --label_type "class" \
+  --eval
+```
+The evaluation results would be stored in the `log_path` along with model outputs from the previous step.
