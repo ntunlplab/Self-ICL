@@ -30,7 +30,7 @@ Given the ```[task_description]``` and a corresponding ```[test_input]```, Self-
    - Concatenate ```[task_description]```, pseudo-demonstrations, and ```[test_input]``` and prompt the LLM to perform ICL.
   
 ## Steps to Reproduce Paper Experiments
-One may follow the steps below to reproduce the experiments, using the `text-bison-001` column in Table 3 as an example.
+One may follow the steps below to reproduce the experiments. As an example, the following steps reproduce the `text-bison-001` column in Table 3.
 
 ### Setup API Keys
 Set the corresponding environment variables to your API keys. For example, `GOOGLE_API_KEY` for PaLM-2, and `OPENAI_API_KEY` for GPT models.
