@@ -1,56 +1,37 @@
 # Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations
 
-## Data
-### BIG-Bench Hard 
-- [BBH data](https://github.com/suzgunmirac/BIG-Bench-Hard/tree/main/bbh)
-- [BBH task description](https://github.com/nlplab-best-team/Self-ICL/tree/main/bbh)
+This is the official repository of our paper [Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations](https://arxiv.org/pdf/2305.15035.pdf), *EMNLP* 2023.
 
-## Experiment
+*TL;DR*: This work presents Self-ICL, a prompting framework bootstrapping LLMsʼ intrinsic task understanding ability to perform in-context learning via self-generated pseudo-demonstrations.
 
-### Model
-- text-davinci-003
+<p align="center">
+   <img src="https://github.com/ntunlplab/Self-ICL/assets/106149032/a0fbf92e-63ca-4d3d-a7eb-83400221feab" width=75% height=75%>
+</p>
 
-### Hyper-parameter
-- ```max_tokens``` = 1024
-- ```temperature``` = 0.0
-- ```top_p``` = 1.0 or 0.0(?)
+---
 
-### Main Table 1
-- Self-ICL w/ different demos (input, label)
-  - (Self-ICL, Standard Zero-Shot)
-  - (Self-ICL, Zero-Shot CoT)
-  - (Self-ICL, Random)
-- Zero-Shot Baseline
-  - Zero-Shot
-  - Zero-Shot CoT
-- Other Baseline
-  - Standard ICL: (Real Data, Golden)
+## The Self-ICL prompting framework
 
-* Classification tasks only (test sample size = 250)
+Given the ```[task_description]``` and a corresponding ```[test_input]```, Self-ICL consists of three steps:
 
-|        | No-CoT    | CoT       |
-|--------|-----------|-----------|
-| Zero-Shot | 50.81% | 53.22% |
-| Self-ICL | 53.93%\*\*| 55.54%\*|
+1. Construction of pseudo-inputs.
+   - [Prompt template](prompt/step-1.txt) (the same prompt is use in both direct prompting and chain-of-thought prompting).
+   - Prompt the LLM to generate ```[num_shot]``` pseudo-inputs, conditioned on the ```[task_description]``` and ```[test_input]```.
 
-\* p < 0.01; \*\* p < 0.001 (Self-ICL vs. Zero-Shot)
+3. Construction of pseudo-labels.
+   - [Prompt template for direct prompting](prompt/direct/step-2.txt).
+   - [Prompt template for chain-of-thought prompting](prompt/cot/step-2.txt).
+   - Collect the ```[num_shot]``` pseudo-inputs generated in step 1 and predict their pseudo-labels by zero-shot prompting the LLM.
 
-### Main Table 2
-Stream vs Batch
+5. In-context learning with pseudo-demonstrations.
+   - [Prompt template for direct prompting](prompt/direct/step-3.txt).
+   - [Prompt template for chain-of-thought prompting](prompt/cot/step-3.txt).
+   - Collect the pseudo-labels generated in step 2, and construct ```[num_shot]``` pseudo-demonstrations (*i.e.*, pseudo-input-label pairs).
+   - Concatenate ```[task_description]```, pseudo-demonstrations, and ```[test_input]``` and prompt the LLM to perform ICL.
+  
+<details>
+<summary>Reproduce paper experiments</summary>
+  
+*WIP, refactoring code...*
 
-### Ablation
-- Number of demos: 0, 1, 2, 3
-- Number of test input, i.e., batch size: 1, 2, 3
-
-### Cost (in USD)
-- Direct prompting
-  - ZS-Direct: $15.27
-  - Self-ICL (1-shot): $27.29
-  - Self-ICL (3-shot): $118.35
-  - Self-ICL (no-diverse): $135.58
-  - Self-ICL (random): $51.27
-  - Self-ICL (batch): $63.15
-  - Real-ICL (3-shot): $49.98
-- CoT prompting:
-  - ZS-CoT: $28.71
-  - Self-ICL (3-shot): $203.10
+</details>
