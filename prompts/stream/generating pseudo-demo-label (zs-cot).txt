@@ -1,8 +1,0 @@
-Task description: [task description]
-Format:
-Starting with "Therefore, the correct answer is ..." before giving your final answer.
-If options are availbale, you must pick one as the final answer.
-It's very important that you stick to the format.
-
-Q: [input]
-A: Let's think step by step.
