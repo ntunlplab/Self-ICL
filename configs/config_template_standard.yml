@@ -1,0 +1,22 @@
+exp_name: "camera-ready-demo"
+# data paths
+task_input_path: "./bbh/BIG-Bench-Hard/bbh"
+task_desc_path: "./bbh/bbh_task_description.json"
+few_shots_path: ""
+log_path: "./log/palm2"
+# experiment settings
+inference_mode: "stream"
+exemplars_mode: "standard"
+num_demos: 0
+use_cot: False
+diverse_exemplars: False
+label_method: "self"
+# sizes
+batch_size: 1
+test_sample_size: 10 # Run 10 samples as a demonstration
+# model hparams
+model: "models/text-bison-001"
+max_tokens: 1024
+temperature: 0.0 # temperature when performing inference
+demo_temperature: 0.0 # temperature when generating pseudo-demos (only used when exemplars_mode == "self-icl")
+top_p: 1.0

@@ -1,0 +1,17 @@
+[
+    {
+        "Q": "Is the following sentence plausible? \"Bam Adebayo scored a reverse layup in the Western Conference Finals.\"",
+        "A": "yes",
+        "cot": "Bam Adebayo is an American basketball player. Scoring a reverse layup in the Western Conference Finals is part of the NBA Finals."
+    },
+    {
+        "Q": "Is the following sentence plausible? \"Santi Cazorla scored a touchdown.\"",
+        "A": "no",
+        "cot": "Santi Cazorla is a soccer player. Touchdown is part of American football and rugby."
+    },
+    {
+        "Q": "Is the following sentence plausible? \"DeMar DeRozan was called for the goal tend.\"",
+        "A": "yes",
+        "cot": "DeMar DeRozan is an American basketball player. Goal tending is part of basketball."
+    }
+]

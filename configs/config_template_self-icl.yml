@@ -1,0 +1,22 @@
+exp_name: "self-icl-no-cot-diverse-class-option"
+# data paths
+task_input_path: "./bbh/BIG-Bench-Hard/bbh"
+task_desc_path: "./bbh/bbh_task_description.json"
+few_shots_path: ""
+log_path: "./log/turbo"
+# experiment settings
+inference_mode: "stream"
+exemplars_mode: "self-icl"
+num_demos: 3
+use_cot: False
+diverse_exemplars: True
+label_method: "self"
+# sizes
+batch_size: 1
+test_sample_size: "full"
+# model hparams
+model: "gpt-3.5-turbo-instruct"
+max_tokens: 1024
+temperature: 0.0 # temperature when performing inference
+demo_temperature: 0.0 # temperature when generating pseudo-demos (only used when exemplars_mode == "self-icl")
+top_p: 1.0

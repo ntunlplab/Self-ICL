@@ -1,0 +1,11 @@
+BIG-Bench-Hard
+bbh
+log/model_outputs/batch
+log/model_outputs/stream
+*.ipynb
+mmlu/mmlu_*
+log/mmlu
+src
+submission.zip
+log/palm2
+log/turbo
